@@ -6,7 +6,7 @@
   <title>MotorsportHub | Calendar</title>
   <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body>
+<body class="agenda-page">
   <header class="site-header">
     <nav class="top-nav" aria-label="Main navigation">
       <a class="logo" href="index.html" aria-label="MotorsportHub home">
@@ -31,23 +31,55 @@
 
   <main class="page-shell">
     <section class="hero">
-      <p class="eyebrow">Calendar</p>
-      <h1>Map the season with a clean and consistent schedule view.</h1>
+      <p class="eyebrow">Agenda</p>
+      <h1>Plan the next race weekends in one scheduling overview.</h1>
       <p class="intro">
-        Ideal for upcoming race weekends, test sessions, release dates, or a compact month-by-month overview.
+        A Shiftbase-inspired motorsport planner with dates across the top, series down the side, and grouped event nodes that show sessions for shared race weekends.
       </p>
     </section>
 
-    <section class="content-grid">
-      <article class="content-card">
-        <h2>Next Event</h2>
-        <p>Feature the nearest session or race here so visitors can orient themselves quickly.</p>
-      </article>
-      <article class="content-card">
-        <h2>Season Overview</h2>
-        <p>Use this panel for broader schedule context, including venue notes or key championship dates.</p>
-      </article>
+    <section class="agenda-panel" aria-labelledby="agenda-title">
+      <div class="agenda-toolbar">
+        <div>
+          <p class="section-kicker">Planning Overview</p>
+          <h2 id="agenda-title">Upcoming motorsport agenda</h2>
+        </div>
+
+        <div class="agenda-controls">
+          <div class="view-toggle" role="group" aria-label="Agenda view">
+            <button class="view-button active" type="button" data-view="week">2 Weeks</button>
+            <button class="view-button" type="button" data-view="month">4 Weeks</button>
+          </div>
+          <label class="series-filter-label" for="series-filter">Series</label>
+          <select id="series-filter" class="series-filter">
+            <option value="all">All series</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="agenda-meta">
+        <p id="agenda-status" class="agenda-status">Loading calendar data...</p>
+        <p id="agenda-source" class="agenda-source"></p>
+      </div>
+
+      <div class="agenda-shell">
+        <div id="agenda-grid" class="agenda-grid" aria-live="polite"></div>
+      </div>
+
+      <div id="agenda-empty" class="agenda-empty" hidden>
+        <h3>No events in this view</h3>
+        <p>Try another series filter or switch to the wider four-week planner view.</p>
+      </div>
+
+      <div class="agenda-notes">
+        <h3>How the data works</h3>
+        <p>
+          This page reads a static JSON schedule so it stays compatible with GitHub Pages. The JSON is designed to be refreshed automatically from external motorsport schedule sources with a script or GitHub Action, instead of manual hand entry.
+        </p>
+      </div>
     </section>
   </main>
+
+  <script type="module" src="assets/js/calendar-agenda.js"></script>
 </body>
 </html>
