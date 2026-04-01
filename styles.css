@@ -6,7 +6,10 @@
   --panel-border: #3a3a3a;
   --text: #f4f4f4;
   --text-muted: #bfbfbf;
-  --link-hover: #ffffff;
+  --brand-red: #d64040;
+  --link-hover: #f8f8f8;
+  --profile-bg: #343434;
+  --profile-border: rgba(255, 255, 255, 0.08);
 }
 
 * {
@@ -43,12 +46,18 @@ body {
 .logo {
   justify-self: start;
   color: var(--text);
-  font-size: 1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0;
+  font-size: 1.2rem;
   font-weight: 700;
   letter-spacing: 0.04em;
-  text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
+}
+
+.logo-accent {
+  color: var(--brand-red);
 }
 
 .nav-links {
@@ -69,14 +78,40 @@ body {
 }
 
 .nav-links a:hover,
-.nav-links a:focus-visible,
-.nav-links a.active {
+.nav-links a:focus-visible {
   color: var(--link-hover);
 }
 
+.nav-links a.active {
+  color: var(--brand-red);
+}
+
 .nav-spacer {
+  display: flex;
   justify-self: end;
   width: 160px;
+  justify-content: flex-end;
+}
+
+.profile-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--profile-border);
+  background: var(--profile-bg);
+  color: var(--text);
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.profile-button:hover,
+.profile-button:focus-visible {
+  background: #3a3a3a;
+  color: var(--link-hover);
 }
 
 .page-shell {
@@ -156,7 +191,7 @@ body {
   }
 
   .nav-spacer {
-    display: none;
+    width: auto;
   }
 }
 
