@@ -52,8 +52,8 @@ function render() {
     return;
   }
 
-  gridEl.style.gridTemplateColumns = `220px repeat(${visibleDates.length}, minmax(94px, 1fr))`;
-  gridEl.style.gridTemplateRows = `92px repeat(${visibleSeries.length}, minmax(132px, auto))`;
+  gridEl.style.gridTemplateColumns = `220px repeat(${visibleDates.length}, minmax(116px, 1fr))`;
+  gridEl.style.gridTemplateRows = `92px repeat(${visibleSeries.length}, minmax(112px, auto))`;
 
   renderHeaders(visibleDates, visibleSeries, eventCountBySeries);
   renderBackgroundCells(visibleDates, visibleSeries);

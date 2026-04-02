@@ -202,7 +202,6 @@ a {
 }
 
 .agenda-panel {
-  margin-top: 24px;
   padding: 28px;
   background: var(--panel-bg);
   border: 1px solid var(--panel-border);
@@ -265,7 +264,7 @@ a {
 .agenda-date,
 .agenda-series,
 .agenda-cell {
-  min-height: 108px;
+  min-height: 92px;
   padding: 16px;
   border-right: 1px solid rgba(255, 255, 255, 0.04);
   border-bottom: 1px solid rgba(255, 255, 255, 0.04);
@@ -331,7 +330,7 @@ a {
   position: sticky;
   left: 0;
   z-index: 3;
-  min-height: 132px;
+  min-height: 112px;
   box-shadow: 1px 0 0 rgba(255, 255, 255, 0.04);
 }
 
@@ -355,7 +354,7 @@ a {
 
 .agenda-cell {
   position: relative;
-  min-height: 132px;
+  min-height: 112px;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.008));
 }
