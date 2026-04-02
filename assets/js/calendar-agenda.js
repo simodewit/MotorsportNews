@@ -1,6 +1,10 @@
 const DATA_URL = "assets/data/calendar.json";
 const DAY_MS = 24 * 60 * 60 * 1000;
 const VISIBLE_DAY_SPAN = 28;
+const SERIES_COLUMN_WIDTH = 220;
+const DATE_COLUMN_MIN_WIDTH = 132;
+const HEADER_ROW_HEIGHT = 92;
+const SERIES_ROW_HEIGHT = 104;
 
 const state = {
   data: null,
@@ -41,7 +45,7 @@ function render() {
   const visibleEvents = getVisibleEvents(visibleSeries, visibleDates);
   const eventCountBySeries = buildSeriesCounts(visibleSeries, visibleEvents);
 
-  statusEl.textContent = `${visibleEvents.length} grouped event ${visibleEvents.length === 1 ? "weekend" : "weekends"} scheduled across the next ${visibleDates.length} days.`;
+  statusEl.textContent = `${visibleEvents.length} scheduled event ${visibleEvents.length === 1 ? "entry" : "entries"} across the next ${visibleDates.length} days.`;
   sourceEl.textContent = buildSourceLabel(state.data.sources || []);
 
   gridEl.innerHTML = "";
@@ -52,12 +56,12 @@ function render() {
     return;
   }
 
-  gridEl.style.gridTemplateColumns = `220px repeat(${visibleDates.length}, minmax(116px, 1fr))`;
-  gridEl.style.gridTemplateRows = `92px repeat(${visibleSeries.length}, minmax(112px, auto))`;
+  gridEl.style.gridTemplateColumns = `${SERIES_COLUMN_WIDTH}px repeat(${visibleDates.length}, minmax(${DATE_COLUMN_MIN_WIDTH}px, 1fr))`;
+  gridEl.style.gridTemplateRows = `${HEADER_ROW_HEIGHT}px repeat(${visibleSeries.length}, minmax(${SERIES_ROW_HEIGHT}px, auto))`;
 
   renderHeaders(visibleDates, visibleSeries, eventCountBySeries);
   renderBackgroundCells(visibleDates, visibleSeries);
-  renderGroupedEvents(visibleEvents, visibleDates, visibleSeries);
+  renderSeriesEvents(visibleEvents, visibleDates, visibleSeries);
 }
 
 function renderHeaders(visibleDates, visibleSeries, eventCountBySeries) {
@@ -103,66 +107,39 @@ function renderBackgroundCells(visibleDates, visibleSeries) {
   });
 }
 
-function renderGroupedEvents(visibleEvents, visibleDates, visibleSeries) {
+function renderSeriesEvents(visibleEvents, visibleDates, visibleSeries) {
   const seriesIndexById = new Map(visibleSeries.map((series, index) => [series.id, index]));
   const startBoundary = visibleDates[0];
 
   visibleEvents.forEach((event) => {
-    const orderedSeries = [...event.series]
-      .map((series) => ({ ...series, shortName: findShortName(visibleSeries, series.id) }))
-      .sort((left, right) => seriesIndexById.get(left.id) - seriesIndexById.get(right.id));
-
-    const participatingRows = orderedSeries
-      .map((series) => seriesIndexById.get(series.id))
-      .filter((value) => Number.isInteger(value))
-      .sort((a, b) => a - b);
-
-    if (!participatingRows.length) {
-      return;
-    }
-
     const startIndex = clamp(differenceInDays(startBoundary, event.startDate), 0, visibleDates.length - 1);
     const endIndex = clamp(differenceInDays(startBoundary, event.endDate), 0, visibleDates.length - 1);
-    const rowStart = participatingRows[0] + 2;
-    const rowSpan = participatingRows[participatingRows.length - 1] - participatingRows[0] + 1;
     const columnStart = startIndex + 2;
     const columnSpan = Math.max(1, endIndex - startIndex + 1);
 
-    gridEl.insertAdjacentHTML(
-      "beforeend",
-      `<section class="agenda-group" style="grid-column:${columnStart} / span ${columnSpan};grid-row:${rowStart} / span ${rowSpan};">
-        <div class="agenda-group-head">
-          <div>
-            <h3>${escapeHtml(event.name)}</h3>
-            <p>${escapeHtml(event.venue)} | ${orderedSeries.map((series) => escapeHtml(series.shortName || series.name)).join(", ")}</p>
-          </div>
-          <span class="agenda-group-range">${formatRange(event.startDate, event.endDate)}</span>
-        </div>
-        <div class="agenda-group-body">
-          ${orderedSeries.map((series) => renderSeriesCard(series, event, orderedSeries)).join("")}
-        </div>
-      </section>`
-    );
+    event.series
+      .map((series) => ({ ...series, shortName: findShortName(visibleSeries, series.id) }))
+      .sort((left, right) => seriesIndexById.get(left.id) - seriesIndexById.get(right.id))
+      .forEach((series) => {
+        const rowIndex = seriesIndexById.get(series.id);
+        if (!Number.isInteger(rowIndex)) {
+          return;
+        }
+
+        gridEl.insertAdjacentHTML(
+          "beforeend",
+          `<article class="agenda-event" style="grid-column:${columnStart} / span ${columnSpan};grid-row:${rowIndex + 2};">
+            <h4>${escapeHtml(event.name)}</h4>
+            <div class="session-pills">${series.sessions
+              .map((session) => {
+                const details = formatSession(session);
+                return `<span class="session-pill"><strong>${escapeHtml(details.name)}</strong><em>${escapeHtml(details.time)}</em></span>`;
+              })
+              .join("")}</div>
+          </article>`
+        );
+      });
   });
-}
-
-function renderSeriesCard(series, event, orderedSeries) {
-  const linkedSeries = orderedSeries
-    .filter((candidate) => candidate.id !== series.id)
-    .map((candidate) => `<span class="linked-pill">${escapeHtml(candidate.shortName || candidate.name)}</span>`)
-    .join("");
-
-  return `<article class="agenda-event ${linkedSeries ? "is-linked" : ""}">
-    <div class="agenda-event-label">
-      <h4>${escapeHtml(series.name)}</h4>
-      <span class="agenda-event-day-range">${formatCompactRange(event.startDate, event.endDate)}</span>
-    </div>
-    <p class="agenda-event-meta">${escapeHtml(event.venue)}</p>
-    <div class="session-pills">${series.sessions
-      .map((session) => `<span class="session-pill">${escapeHtml(session)}</span>`)
-      .join("")}</div>
-    ${linkedSeries ? `<div class="agenda-event-links">${linkedSeries}</div>` : ""}
-  </article>`;
 }
 
 function getVisibleDates() {
@@ -228,6 +205,20 @@ function findShortName(seriesList, seriesId) {
   return seriesList.find((series) => series.id === seriesId)?.shortName || "";
 }
 
+function formatSession(session) {
+  if (typeof session === "object" && session !== null) {
+    const name = session.name || session.label || "Session";
+    const start = session.startTime || session.start || "TBC";
+    const end = session.endTime || session.end || "TBC";
+    return { name, time: `${start} - ${end}` };
+  }
+
+  return {
+    name: String(session),
+    time: "TBC - TBC",
+  };
+}
+
 function buildSourceLabel(sources) {
   if (!sources.length) {
     return "Source metadata unavailable.";
@@ -247,22 +238,6 @@ function formatShortDate(date) {
 
 function formatMonthLabel(date) {
   return date.toLocaleDateString("en-US", { month: "long" });
-}
-
-function formatRange(start, end) {
-  if (start.toDateString() === end.toDateString()) {
-    return formatShortDate(start);
-  }
-
-  return `${formatShortDate(start)} - ${formatShortDate(end)}`;
-}
-
-function formatCompactRange(start, end) {
-  if (start.toDateString() === end.toDateString()) {
-    return formatDayLabel(start);
-  }
-
-  return `${formatDayLabel(start)} - ${formatDayLabel(end)}`;
 }
 
 function differenceInDays(start, end) {

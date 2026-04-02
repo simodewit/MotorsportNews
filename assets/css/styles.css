@@ -258,6 +258,7 @@ a {
   min-width: 1500px;
   display: grid;
   position: relative;
+  align-items: start;
 }
 
 .agenda-corner,
@@ -285,6 +286,8 @@ a {
   left: 0;
   z-index: 5;
   box-shadow: 1px 0 0 rgba(255, 255, 255, 0.04);
+  width: 100%;
+  height: 100%;
 }
 
 .agenda-corner strong {
@@ -305,6 +308,7 @@ a {
   justify-content: center;
   gap: 8px;
   min-height: 92px;
+  height: 100%;
 }
 
 .agenda-date strong {
@@ -332,6 +336,8 @@ a {
   z-index: 3;
   min-height: 112px;
   box-shadow: 1px 0 0 rgba(255, 255, 255, 0.04);
+  width: 100%;
+  height: 100%;
 }
 
 .agenda-series strong {
@@ -372,71 +378,15 @@ a {
   background: rgba(255, 77, 79, 0.55);
 }
 
-.agenda-group {
-  position: relative;
-  margin: 10px 8px;
-  border: 1px solid rgba(255, 77, 79, 0.22);
-  background: linear-gradient(180deg, rgba(255, 77, 79, 0.08), rgba(255, 77, 79, 0.03));
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.02);
-  overflow: hidden;
-  z-index: 2;
-}
-
-.agenda-group::before {
-  content: "";
-  position: absolute;
-  inset: 0 auto 0 0;
-  width: 4px;
-  background: linear-gradient(180deg, var(--accent-red), rgba(255, 77, 79, 0.35));
-}
-
-.agenda-group-head {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 12px;
-  padding: 14px 16px 10px 18px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-  background: rgba(12, 12, 12, 0.18);
-}
-
-.agenda-group-head h3,
-.agenda-group-head p {
-  margin: 0;
-}
-
-.agenda-group-head h3 {
-  font-size: 0.98rem;
-}
-
-.agenda-group-head p {
-  margin-top: 6px;
-  color: var(--text-muted);
-  font-size: 0.82rem;
-}
-
-.agenda-group-range {
-  display: inline-flex;
-  padding: 6px 10px;
-  background: rgba(255, 255, 255, 0.06);
-  color: var(--text);
-  font-size: 0.76rem;
-  white-space: nowrap;
-}
-
-.agenda-group-body {
-  display: grid;
-  gap: 10px;
-  padding: 14px;
-}
-
 .agenda-event {
   position: relative;
-  margin: 0;
-  padding: 12px 14px;
-  background: rgba(17, 17, 17, 0.36);
-  border: 1px solid rgba(255, 255, 255, 0.07);
+  margin: 8px 6px;
+  padding: 10px 12px;
+  background: linear-gradient(180deg, rgba(255, 77, 79, 0.09), rgba(255, 77, 79, 0.04));
+  border: 1px solid rgba(255, 77, 79, 0.18);
   overflow: hidden;
+  align-self: start;
+  min-height: 0;
 }
 
 .agenda-event::before {
@@ -447,18 +397,6 @@ a {
   background: rgba(255, 77, 79, 0.85);
 }
 
-.agenda-event.is-linked {
-  background: rgba(255, 255, 255, 0.04);
-}
-
-.agenda-event-label {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 10px;
-}
-
 .agenda-event h4,
 .agenda-event p,
 .agenda-event ul {
@@ -467,49 +405,38 @@ a {
 
 .agenda-event h4 {
   font-size: 0.9rem;
-}
-
-.agenda-event-day-range {
-  color: var(--text-muted);
-  font-size: 0.74rem;
-  white-space: nowrap;
-}
-
-.agenda-event-meta {
-  color: var(--text-muted);
-  font-size: 0.8rem;
-  line-height: 1.5;
   margin-bottom: 10px;
 }
 
-.agenda-event-links,
 .session-pills {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-}
-
-.agenda-event-links {
-  margin-top: 10px;
-}
-
-.linked-pill,
-.session-pill {
-  display: inline-flex;
-  align-items: center;
   gap: 6px;
-  padding: 5px 8px;
-  font-size: 0.78rem;
+}
+
+.session-pill {
+  display: grid;
+  gap: 2px;
+  min-width: 120px;
+  padding: 6px 8px;
+  font-size: 0.75rem;
 }
 
 .session-pill {
   background: rgba(255, 255, 255, 0.07);
   color: var(--text);
+  border: 1px solid rgba(255, 255, 255, 0.06);
 }
 
-.linked-pill {
-  background: rgba(255, 77, 79, 0.12);
-  color: #ffd9da;
+.session-pill strong,
+.session-pill em {
+  font-style: normal;
+  line-height: 1.2;
+}
+
+.session-pill em {
+  color: var(--text-muted);
+  font-size: 0.72rem;
 }
 
 .agenda-empty {
@@ -587,11 +514,5 @@ a {
   .agenda-cell {
     min-height: 72px;
     padding: 12px;
-  }
-
-  .agenda-group-head,
-  .agenda-group-body {
-    padding-left: 14px;
-    padding-right: 14px;
   }
 }
