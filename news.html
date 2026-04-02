@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MotorsportHub | News</title>
   <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/news.css">
 </head>
-<body>
+<body class="news-page">
   <header class="site-header">
     <nav class="top-nav" aria-label="Main navigation">
       <a class="logo" href="index.html" aria-label="MotorsportHub home">
@@ -29,25 +30,51 @@
     </nav>
   </header>
 
-  <main class="page-shell">
-    <section class="hero">
-      <p class="eyebrow">News</p>
-      <h1>Keep race headlines and updates clear and easy to scan.</h1>
-      <p class="intro">
-        Use this section for top stories, transfer rumors, paddock developments, and concise editorial summaries.
-      </p>
+  <main class="page-shell news-shell">
+    <section class="news-featured" aria-labelledby="featured-news-title">
+      <div class="news-featured-copy">
+        <p class="section-kicker">Featured Story</p>
+        <h1 id="featured-news-title">Motorsport headlines curated from established news feeds.</h1>
+        <p class="news-featured-intro">
+          Browse the biggest current stories first, then filter the wider feed by racing series without leaving the static GitHub Pages setup.
+        </p>
+      </div>
+
+      <div class="news-featured-stage">
+        <article id="featured-card" class="featured-card" aria-live="polite"></article>
+
+        <div class="featured-controls">
+          <button id="featured-prev" class="featured-control" type="button" aria-label="Previous featured story">Prev</button>
+          <div id="featured-dots" class="featured-dots" aria-label="Featured story navigation"></div>
+          <button id="featured-next" class="featured-control" type="button" aria-label="Next featured story">Next</button>
+        </div>
+      </div>
     </section>
 
-    <section class="content-grid">
-      <article class="content-card">
-        <h2>Top Story</h2>
-        <p>Feature the most important article of the day with enough space for a short, high-impact summary.</p>
-      </article>
-      <article class="content-card">
-        <h2>More Headlines</h2>
-        <p>List supporting stories here while keeping the overall experience minimal and visually consistent.</p>
-      </article>
+    <section class="news-stream" aria-labelledby="news-stream-title">
+      <div class="news-stream-header">
+        <div>
+          <p class="section-kicker">News Feed</p>
+          <h2 id="news-stream-title">Latest motorsport articles</h2>
+        </div>
+
+        <div id="news-filters" class="news-filters" role="toolbar" aria-label="Filter news by series"></div>
+      </div>
+
+      <div class="news-meta">
+        <p id="news-status" class="news-status">Loading motorsport news...</p>
+        <p id="news-source" class="news-source"></p>
+      </div>
+
+      <div id="news-list" class="news-list" aria-live="polite"></div>
+
+      <div id="news-empty" class="news-empty" hidden>
+        <h3>No articles for this filter</h3>
+        <p>Try another racing series to load a wider selection of motorsport coverage.</p>
+      </div>
     </section>
   </main>
+
+  <script type="module" src="assets/js/news-page.js"></script>
 </body>
 </html>

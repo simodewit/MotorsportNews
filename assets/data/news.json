@@ -1,0 +1,355 @@
+{
+  "generatedAt": "2026-04-02T02:28:16.945Z",
+  "sources": [
+    {
+      "name": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/rss/"
+    },
+    {
+      "name": "Autosport RSS",
+      "url": "https://www.autosport.com/rss/"
+    }
+  ],
+  "series": [
+    {
+      "id": "f1",
+      "name": "Formula 1"
+    },
+    {
+      "id": "f2",
+      "name": "Formula 2"
+    },
+    {
+      "id": "f3",
+      "name": "Formula 3"
+    },
+    {
+      "id": "motogp",
+      "name": "MotoGP"
+    },
+    {
+      "id": "wec",
+      "name": "WEC"
+    },
+    {
+      "id": "indycar",
+      "name": "IndyCar"
+    },
+    {
+      "id": "other",
+      "name": "Other"
+    }
+  ],
+  "featured": [
+    {
+      "id": "miami-will-be-the-start-of-a-new-f1-championship-heres-why-0",
+      "title": "Miami will be the start of a \"new F1 championship\", here's why",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/why-miami-will-be-the-start-of-a-new-f1-championship-as-teams-push-like-crazy/10810302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "colton-herta-crashes-causes-red-flag-in-melbourne-f2-practice-debut-0",
+      "title": "Colton Herta crashes, causes red flag in Melbourne F2 practice debut",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-crashes-causes-red-flag-in-f2-practice-debut-in-melbourne/10802363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
+      "series": [
+        "f2"
+      ],
+      "seriesLabel": "Formula 2",
+      "publishedLabel": "Mar 6, 2026"
+    },
+    {
+      "id": "formula-3-announces-1-million-prize-fund-with-immediate-effect-0",
+      "title": "Formula 3 announces €1 million prize fund with immediate effect",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f3/news/formula-3-announces-1-million-prize-fund-with-immediate-effect/10762118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F3&utm_term=News&utm_content=www",
+      "series": [
+        "f3"
+      ],
+      "seriesLabel": "Formula 3",
+      "publishedLabel": "Sep 24, 2025"
+    },
+    {
+      "id": "maverick-vinales-undergoes-shoulder-surgery-to-remove-loose-screw-0",
+      "title": "Maverick Vinales undergoes shoulder surgery to remove loose screw",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/maverick-vinales-undergoes-shoulder-surgery-to-remove-loose-screw/10810319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 1, 2026"
+    }
+  ],
+  "articles": [
+    {
+      "id": "miami-will-be-the-start-of-a-new-f1-championship-heres-why-0",
+      "title": "Miami will be the start of a \"new F1 championship\", here's why",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/why-miami-will-be-the-start-of-a-new-f1-championship-as-teams-push-like-crazy/10810302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "question-of-the-week-is-george-russell-still-a-title-favourite-1",
+      "title": "Question of the week: Is George Russell still a title favourite?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-is-george-russell-still-a-title-favourite/10810248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "why-miracles-are-not-possible-to-quickly-fix-audis-f1-engine-problems-2",
+      "title": "Why \"miracles are not possible\" to quickly fix Audi's F1 engine problems",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/much-aduo-about-nothing-why-miracles-are-not-possible-to-fix-audis-f1-problems-quickly/10810245/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "lewis-hamilton-says-he-had-to-break-the-rules-to-change-f1-fashion-3",
+      "title": "Lewis Hamilton says he had to \"break the rules\" to change F1 fashion",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-says-he-had-to-break-the-rules-to-change-f1-fashion/10810156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "colton-herta-crashes-causes-red-flag-in-melbourne-f2-practice-debut-0",
+      "title": "Colton Herta crashes, causes red flag in Melbourne F2 practice debut",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-crashes-causes-red-flag-in-f2-practice-debut-in-melbourne/10802363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
+      "series": [
+        "f2"
+      ],
+      "seriesLabel": "Formula 2",
+      "publishedLabel": "Mar 6, 2026"
+    },
+    {
+      "id": "what-cadillac-expects-from-colton-herta-in-f2-1",
+      "title": "What Cadillac expects from Colton Herta in F2",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f2/news/what-cadillac-expects-from-colton-herta-in-formula-2/10799223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
+      "series": [
+        "f2"
+      ],
+      "seriesLabel": "Formula 2",
+      "publishedLabel": "Feb 21, 2026"
+    },
+    {
+      "id": "the-rosin-family-leaves-prema-after-more-than-40-years-2",
+      "title": "The Rosin family leaves Prema after more than 40 years",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f2/news/prema-the-end-of-an-era-the-rosin-family-leaves-the-team-after-more-than-40-years/10789837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
+      "series": [
+        "f2"
+      ],
+      "seriesLabel": "Formula 2",
+      "publishedLabel": "Jan 14, 2026"
+    },
+    {
+      "id": "luke-browning-rules-out-f2-as-possible-super-formula-switch-looms-for-2026-3",
+      "title": "Luke Browning rules out F2 as possible Super Formula switch looms for 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f2/news/browning-rules-out-f2-ahead-of-likely-super-formula-move-for-2026/10784808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
+      "series": [
+        "f2"
+      ],
+      "seriesLabel": "Formula 2",
+      "publishedLabel": "Dec 15, 2025"
+    },
+    {
+      "id": "formula-3-announces-1-million-prize-fund-with-immediate-effect-0",
+      "title": "Formula 3 announces €1 million prize fund with immediate effect",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f3/news/formula-3-announces-1-million-prize-fund-with-immediate-effect/10762118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F3&utm_term=News&utm_content=www",
+      "series": [
+        "f3"
+      ],
+      "seriesLabel": "Formula 3",
+      "publishedLabel": "Sep 24, 2025"
+    },
+    {
+      "id": "new-f3-champion-rafael-camara-on-path-to-emulate-charles-leclerc-at-ferrari-1",
+      "title": "New F3 champion Rafael Camara on path to emulate Charles Leclerc at Ferrari",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f3/news/new-f3-champion-rafael-camara-on-path-to-emulate-charles-leclerc-at-ferrari/10748449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F3&utm_term=News&utm_content=www",
+      "series": [
+        "f3"
+      ],
+      "seriesLabel": "Formula 3",
+      "publishedLabel": "Aug 4, 2025"
+    },
+    {
+      "id": "inside-a-british-f1-hopefuls-record-breaking-journey-to-f2-2",
+      "title": "Inside a British F1 hopeful's record-breaking journey to F2",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f3/news/inside-a-british-f1-hopefuls-record-breaking-journey-to-f2/10682645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F3&utm_term=News&utm_content=www",
+      "series": [
+        "f3"
+      ],
+      "seriesLabel": "Formula 3",
+      "publishedLabel": "Dec 15, 2024"
+    },
+    {
+      "id": "how-a-winless-f3-racer-produced-a-moment-of-championship-winning-quality-3",
+      "title": "How a winless F3 racer produced a moment of championship-winning quality",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/fia-f3/news/how-a-winless-f3-racer-produced-a-moment-of-championship-winning-quality/10672627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F3&utm_term=News&utm_content=www",
+      "series": [
+        "f3"
+      ],
+      "seriesLabel": "Formula 3",
+      "publishedLabel": "Nov 13, 2024"
+    },
+    {
+      "id": "maverick-vinales-undergoes-shoulder-surgery-to-remove-loose-screw-0",
+      "title": "Maverick Vinales undergoes shoulder surgery to remove loose screw",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/maverick-vinales-undergoes-shoulder-surgery-to-remove-loose-screw/10810319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "which-motogp-riders-will-be-allowed-to-test-the-2027-bikes-before-end-of-the-season-1",
+      "title": "Which MotoGP riders will be allowed to test the 2027 bikes before end of the season",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/which-motogp-riders-will-be-allowed-to-test-the-2027-bikes-before-end-of-the-season/10810198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "why-toprak-razgatlioglu-isnt-satisfied-with-his-motogp-breakthrough-2",
+      "title": "Why Toprak Razgatlioglu isn’t satisfied with his MotoGP breakthrough",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/why-toprak-razgatlioglu-isnt-satisfied-with-his-motogp-breakthrough/10810196/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "francesco-bagnaia-just-trying-to-survive-on-sundays-as-tyre-troubles-continue-3",
+      "title": "Francesco Bagnaia just trying to \"survive\" on Sundays as tyre troubles continue",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-completely-out-of-tyre-in-austin-as-sunday-troubles-continue/10809875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Mar 31, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-indycar-at-barber-motorsports-park-0",
+      "title": "Winners and losers from IndyCar at Barber Motorsports Park",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-indycar-at-barber-motorsports-park/10810118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Mar 31, 2026"
+    },
+    {
+      "id": "pato-oward-left-searching-for-answers-after-confusing-day-at-barber-1",
+      "title": "Pato O’Ward left searching for answers after “confusing day” at Barber",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/pato-oward-left-searching-for-answers-after-confusing-day-at-barber/10809905/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Mar 30, 2026"
+    },
+    {
+      "id": "david-malukas-learned-a-lot-with-tire-strategy-to-take-fourth-at-barber-2",
+      "title": "David Malukas “learned a lot” with tire strategy to take fourth at Barber",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/david-malukas-learned-a-lot-with-tire-strategy-to-take-fourth-at-barber/10809888/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Mar 30, 2026"
+    },
+    {
+      "id": "graham-rahal-ends-41-race-podium-drought-with-third-place-barber-finish-3",
+      "title": "Graham Rahal ends 41-race podium drought with third-place Barber finish",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/graham-rahal-ends-41-race-podium-drought-with-third-place-indycar-finish/10809659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Mar 30, 2026"
+    },
+    {
+      "id": "genesis-gmr-001-how-hyundais-new-lmdh-challenger-was-developed-0",
+      "title": "Genesis GMR-001: How Hyundai's new LMDh challenger was developed",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/genesis-gmr-001-so-geht-der-neue-lmdh-ins-rennen/10810216/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Apr 1, 2026"
+    },
+    {
+      "id": "ford-reveals-plans-for-first-test-for-its-new-wec-lmdh-prototype-1",
+      "title": "Ford reveals plans for first test for its new WEC LMDh prototype",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/ford-reveals-plans-for-first-test-for-its-new-wec-lmdh-prototype/10809924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Mar 31, 2026"
+    },
+    {
+      "id": "wec-reschedules-qatar-round-following-middle-east-conflict-postponement-2",
+      "title": "WEC reschedules Qatar round following Middle East conflict postponement",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/wec-reschedules-qatar-round-following-middle-east-conflict-postponement/10804824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Mar 13, 2026"
+    },
+    {
+      "id": "andre-lotterer-and-the-genesis-lmdh-project-forging-a-new-era-in-wec-from-scratch-3",
+      "title": "Andre Lotterer and the Genesis LMDh project: Forging a new era in WEC from scratch",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/andre-lotterer-and-the-genesis-lmdh-project-forging-a-new-era-in-wec-from-scratch/10804136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Mar 12, 2026"
+    }
+  ]
+}
