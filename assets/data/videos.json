@@ -1,0 +1,331 @@
+{
+  "generatedAt": "2026-04-02T19:04:13.561Z",
+  "sources": [
+    {
+      "name": "YouTube channel feeds",
+      "url": "https://www.youtube.com/feeds/videos.xml"
+    }
+  ],
+  "series": [
+    {
+      "id": "f1",
+      "name": "Formula 1"
+    },
+    {
+      "id": "f2",
+      "name": "Formula 2"
+    },
+    {
+      "id": "f3",
+      "name": "Formula 3"
+    },
+    {
+      "id": "motogp",
+      "name": "MotoGP"
+    },
+    {
+      "id": "wec",
+      "name": "WEC"
+    },
+    {
+      "id": "indycar",
+      "name": "IndyCar"
+    },
+    {
+      "id": "rally",
+      "name": "Rally"
+    },
+    {
+      "id": "other",
+      "name": "Other"
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "mAe5mMx0LRc",
+      "title": "F2 Sprint Race Highlights | 2026 Australian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f2"
+      ],
+      "seriesLabels": [
+        "Formula 2"
+      ]
+    },
+    {
+      "videoId": "c1165UCrQ_E",
+      "title": "F3 Feature Race Highlights | 2025 Austrian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f3"
+      ],
+      "seriesLabels": [
+        "Formula 3"
+      ]
+    },
+    {
+      "videoId": "xgE-bMzZbjc",
+      "title": "The Best Of Fan Hats In Japan! | KitKat F1 Break Time",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "ADjpL-YeW-k",
+      "title": "Laurent Mekies: Relishing Red Bull Challenge | F1 Beyond The Grid Podcast",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "MhWkelz3-sw",
+      "title": "Top 10 Onboards | 2026 Japanese Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "hHMmvHq4HG4",
+      "title": "A Closer Look At The Japanese Grand Prix Race Start | Jolyon Palmer’s F1 TV Analysis",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "oYqccdOpvHo",
+      "title": "COMPARISON: Jorge Martin's first Sprint win in 511 days 🥇🦾",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "EiVjPSgvlXo",
+      "title": "From churrasco to a plane: Aprilia's UNSEEN party in the USA! 🎉🇺🇸",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "ePGGQD6yNQw",
+      "title": "Pulling an April Fools’ Prank on MotoGP Riders 😂",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "kmieeLp8KmU",
+      "title": "Marco Bezzecchi makes it FIVE wins in a row! 🖐️ | 2026 US GP",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "djnX_QAML7c",
+      "title": "SEND! Toyota takes the lead 💨",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "videoId": "ZmbL1U8ZxVQ",
+      "title": "AIRBORNE! Ferrari rides over rival 🤯",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "videoId": "gXyL_M-d_2E",
+      "title": "Buemi’s Impossible Comeback | 8 Hours of Bahrain 2024 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "videoId": "5THPvN-dNFg",
+      "title": "CHAOS! #29 avoids disaster 😱",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "videoId": "yT-4tt2HaR4",
+      "title": "Weekend view from ‘Bama 😎 #indycar #motorsport #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "j5arDbOfm0Q",
+      "title": "The David Malukas lore is next level 🤯 #indycar #racing #davidmalukas",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "el8OPztf6r8",
+      "title": "The BEST Barber Onboards | 2026 INDYCAR at Alabama",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "ulLOoS7c8UA",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Children's of Alabama Indy Grand Prix from Barber",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "bYVg6jmYplc",
+      "title": "🔴 シェイクダウン ライブ！WRC Croatia Rally 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "p-1U6h8Otew",
+      "title": "WRC Croatia Rally 9 - 12 April 2026 🇭🇷",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "byccN9eFd6g",
+      "title": "Sloooowww 🫣",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "yjLFr3JxrE4",
+      "title": "Top 10 Rally Fan Saves",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "Y4TS_pq_jgw",
+      "title": "Stoppie level: upgrading 🔓",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "videoId": "wnsZROy2-2k",
+      "title": "If close had a name it would be Kuba Przygonski 😅",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "videoId": "S6XJi2mWL_4",
+      "title": "Crashed the after party 😅",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "videoId": "DVkuEpmn-U0",
+      "title": "Who ordered the MotoGP taxi? 😎",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    }
+  ]
+}

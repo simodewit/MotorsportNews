@@ -1,0 +1,31 @@
+name: Update Videos Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-videos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate videos data
+        run: node scripts/update-videos-data.mjs
+
+      - name: Commit refreshed videos data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh motorsport videos feed"
+          file_pattern: assets/data/videos.json
