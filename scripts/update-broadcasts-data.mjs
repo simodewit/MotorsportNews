@@ -62,31 +62,6 @@ const YOUTUBE_FEEDS = [
   }
 ];
 
-const STATIC_FALLBACK_BROADCASTS = [
-  {
-    platform: "youtube",
-    platformLabel: "YouTube",
-    statusLabel: "Broadcast",
-    title: "F2 Sprint Race Highlights | 2026 Australian Grand Prix",
-    channel: "FORMULA 1",
-    videoId: "mAe5mMx0LRc",
-    url: "https://www.youtube.com/watch?v=mAe5mMx0LRc",
-    series: ["f2"],
-    seriesLabels: ["Formula 2"]
-  },
-  {
-    platform: "youtube",
-    platformLabel: "YouTube",
-    statusLabel: "Broadcast",
-    title: "F3 Feature Race Highlights | 2025 Austrian Grand Prix",
-    channel: "FORMULA 1",
-    videoId: "c1165UCrQ_E",
-    url: "https://www.youtube.com/watch?v=c1165UCrQ_E",
-    series: ["f3"],
-    seriesLabels: ["Formula 3"]
-  }
-];
-
 const TWITCH_CHANNELS = [
   {
     platform: "twitch",
@@ -112,12 +87,11 @@ const TWITCH_CHANNELS = [
   }
 ];
 
-const ITEMS_PER_FEED = 3;
+const ITEMS_PER_FEED = 8;
 
 async function main() {
   const youtubeBroadcasts = await Promise.all(YOUTUBE_FEEDS.map(fetchChannelFeed));
   const broadcasts = dedupeBroadcasts([
-    ...STATIC_FALLBACK_BROADCASTS,
     ...youtubeBroadcasts.flat(),
     ...TWITCH_CHANNELS
   ]);
@@ -148,17 +122,22 @@ async function fetchChannelFeed(feed) {
   }
 
   const xml = await response.text();
-  return extractEntries(xml).slice(0, ITEMS_PER_FEED).map((entry) => ({
-    platform: "youtube",
-    platformLabel: "YouTube",
-    statusLabel: feed.statusLabel,
-    title: entry.title || "Untitled broadcast",
-    channel: feed.name,
-    videoId: entry.videoId,
-    url: `https://www.youtube.com/watch?v=${entry.videoId}`,
-    series: feed.series,
-    seriesLabels: feed.seriesLabels
-  }));
+  const entries = extractEntries(xml).slice(0, ITEMS_PER_FEED);
+  const verifiedEntries = await Promise.all(entries.map((entry) => verifyYouTubeBroadcast(entry)));
+
+  return verifiedEntries
+    .filter((entry) => entry?.statusLabel)
+    .map((entry) => ({
+      platform: "youtube",
+      platformLabel: "YouTube",
+      statusLabel: entry.statusLabel,
+      title: entry.title || "Untitled broadcast",
+      channel: feed.name,
+      videoId: entry.videoId,
+      url: `https://www.youtube.com/watch?v=${entry.videoId}`,
+      series: feed.series,
+      seriesLabels: feed.seriesLabels
+    }));
 }
 
 function extractEntries(xml) {
@@ -200,6 +179,27 @@ function dedupeBroadcasts(broadcasts) {
     seen.add(key);
     return true;
   });
+}
+
+async function verifyYouTubeBroadcast(entry) {
+  const response = await fetch(`https://www.youtube.com/watch?v=${entry.videoId}`, {
+    headers: { "user-agent": "Mozilla/5.0" }
+  });
+
+  if (!response.ok) {
+    return null;
+  }
+
+  const html = await response.text();
+  if (/"isLiveContent":true/.test(html)) {
+    return { ...entry, statusLabel: "Live now" };
+  }
+
+  if (/"isUpcoming":true/.test(html) || /"upcomingEventData":\{/.test(html)) {
+    return { ...entry, statusLabel: "Upcoming" };
+  }
+
+  return null;
 }
 
 main().catch((error) => {
