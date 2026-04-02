@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MotorsportHub | Home</title>
   <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/home.css">
 </head>
-<body>
+<body class="home-page">
   <header class="site-header">
     <nav class="top-nav" aria-label="Main navigation">
       <a class="logo" href="index.html" aria-label="MotorsportHub home">
@@ -29,25 +30,79 @@
     </nav>
   </header>
 
-  <main class="page-shell">
-    <section class="hero">
-      <p class="eyebrow">Home</p>
-      <h1>Welcome to a calmer motorsport news experience.</h1>
-      <p class="intro">
-        A focused front page for following headlines, schedules, and video coverage without unnecessary clutter.
-      </p>
+  <main class="page-shell home-shell">
+    <section class="home-hero" aria-labelledby="home-hero-title">
+      <div class="home-hero-copy">
+        <p class="section-kicker">Main Hub</p>
+        <h1 id="home-hero-title">Everything happening across MotorsportHub, in one quick overview.</h1>
+        <p class="home-hero-intro">
+          Follow upcoming race weekends, fresh headlines, new video releases, and live broadcast activity from one polished dashboard before diving into the full pages.
+        </p>
+        <div class="home-hero-links">
+          <a class="home-hero-link" href="calendar.html">Open Agenda</a>
+          <a class="home-hero-link subtle" href="news.html">Browse News</a>
+        </div>
+      </div>
+
+      <div class="home-hero-aside">
+        <div class="hero-stat-card">
+          <span class="hero-stat-label">Agenda</span>
+          <strong id="hero-next-event">Loading...</strong>
+          <p id="hero-next-event-meta">Upcoming weekend snapshot</p>
+        </div>
+        <div class="hero-stat-card">
+          <span class="hero-stat-label">Broadcasts</span>
+          <strong id="hero-live-count">Loading...</strong>
+          <p id="hero-live-count-meta">Current live and channel activity</p>
+        </div>
+      </div>
     </section>
 
-    <section class="content-grid">
-      <article class="content-card">
-        <h2>Latest Focus</h2>
-        <p>Use this area for the biggest story, featured race weekend, or a key editorial highlight.</p>
-      </article>
-      <article class="content-card">
-        <h2>What to Watch</h2>
-        <p>Surface upcoming broadcasts, recap clips, or fast links to the most useful content sections.</p>
-      </article>
+    <section class="home-section" aria-labelledby="home-calendar-title">
+      <div class="home-section-head">
+        <div>
+          <p class="section-kicker">Agenda Preview</p>
+          <h2 id="home-calendar-title">Upcoming motorsport schedule</h2>
+        </div>
+        <a class="section-link" href="calendar.html">Open full Calendar</a>
+      </div>
+      <div id="home-calendar-preview" class="home-calendar-preview"></div>
+    </section>
+
+    <section class="home-section" aria-labelledby="home-news-title">
+      <div class="home-section-head">
+        <div>
+          <p class="section-kicker">News Preview</p>
+          <h2 id="home-news-title">Latest stories worth opening</h2>
+        </div>
+        <a class="section-link" href="news.html">Open full News page</a>
+      </div>
+      <div id="home-news-preview" class="home-card-grid home-news-grid"></div>
+    </section>
+
+    <section class="home-section" aria-labelledby="home-videos-title">
+      <div class="home-section-head">
+        <div>
+          <p class="section-kicker">Videos Preview</p>
+          <h2 id="home-videos-title">Recent motorsport video picks</h2>
+        </div>
+        <a class="section-link" href="videos.html">Open full Videos page</a>
+      </div>
+      <div id="home-videos-preview" class="home-card-grid home-videos-grid"></div>
+    </section>
+
+    <section class="home-section" aria-labelledby="home-broadcasts-title">
+      <div class="home-section-head">
+        <div>
+          <p class="section-kicker">Broadcasts Preview</p>
+          <h2 id="home-broadcasts-title">Live and broadcast-style coverage</h2>
+        </div>
+        <a class="section-link" href="broadcasts.html">Open full Broadcasts page</a>
+      </div>
+      <div id="home-broadcasts-preview" class="home-card-grid home-broadcasts-grid"></div>
     </section>
   </main>
+
+  <script type="module" src="assets/js/home-page.js"></script>
 </body>
 </html>
