@@ -1,0 +1,31 @@
+name: Update Broadcasts Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-broadcasts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate broadcasts data
+        run: node scripts/update-broadcasts-data.mjs
+
+      - name: Commit refreshed broadcasts data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh motorsport broadcasts feed"
+          file_pattern: assets/data/broadcasts.json

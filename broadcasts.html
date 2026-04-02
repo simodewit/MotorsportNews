@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MotorsportHub | Broadcasts</title>
   <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/broadcasts.css">
 </head>
-<body>
+<body class="broadcasts-page">
   <header class="site-header">
     <nav class="top-nav" aria-label="Main navigation">
       <a class="logo" href="index.html" aria-label="MotorsportHub home">
@@ -29,25 +30,34 @@
     </nav>
   </header>
 
-  <main class="page-shell">
-    <section class="hero">
-      <p class="eyebrow">Broadcasts</p>
-      <h1>Track live coverage and replay windows in one place.</h1>
-      <p class="intro">
-        Highlight channels, race weekend start times, and where visitors can follow the next session.
-      </p>
-    </section>
+  <main class="page-shell broadcasts-shell">
+    <section class="broadcasts-panel" aria-labelledby="broadcasts-title">
+      <div class="broadcasts-header">
+        <div>
+          <p class="section-kicker">Broadcast Hub</p>
+          <h1 id="broadcasts-title">Browse motorsport livestreams, premieres, and broadcast-style coverage.</h1>
+          <p class="broadcasts-intro">
+            A live-oriented motorsport media page with YouTube and Twitch support, focused on race-weekend coverage, channel streams, and broadcast-style programming.
+          </p>
+        </div>
 
-    <section class="content-grid">
-      <article class="content-card">
-        <h2>Live Coverage</h2>
-        <p>Reserve this area for the next live broadcast, including platform details and regional notes.</p>
-      </article>
-      <article class="content-card">
-        <h2>Replays</h2>
-        <p>Keep recent full-session replays or highlights easy to find with a compact and readable layout.</p>
-      </article>
+        <div id="broadcasts-filters" class="broadcasts-filters" role="toolbar" aria-label="Filter broadcasts by racing series"></div>
+      </div>
+
+      <div class="broadcasts-meta">
+        <p id="broadcasts-status" class="broadcasts-status">Loading broadcasts...</p>
+        <p id="broadcasts-source" class="broadcasts-source"></p>
+      </div>
+
+      <div id="broadcasts-grid" class="broadcasts-grid" aria-live="polite"></div>
+
+      <div id="broadcasts-empty" class="broadcasts-empty" hidden>
+        <h2>No broadcasts for this series yet</h2>
+        <p>Choose another racing series or switch back to All to browse the wider motorsport broadcast feed.</p>
+      </div>
     </section>
   </main>
+
+  <script type="module" src="assets/js/broadcasts-page.js"></script>
 </body>
 </html>

@@ -1,0 +1,379 @@
+{
+  "generatedAt": "2026-04-02T19:56:48.255Z",
+  "sources": [
+    {
+      "name": "YouTube channel feeds",
+      "url": "https://www.youtube.com/feeds/videos.xml"
+    },
+    {
+      "name": "Curated Twitch channels",
+      "url": "https://www.twitch.tv/directory"
+    }
+  ],
+  "series": [
+    {
+      "id": "f1",
+      "name": "Formula 1"
+    },
+    {
+      "id": "f2",
+      "name": "Formula 2"
+    },
+    {
+      "id": "f3",
+      "name": "Formula 3"
+    },
+    {
+      "id": "motogp",
+      "name": "MotoGP"
+    },
+    {
+      "id": "wec",
+      "name": "WEC"
+    },
+    {
+      "id": "indycar",
+      "name": "IndyCar"
+    },
+    {
+      "id": "rally",
+      "name": "Rally"
+    },
+    {
+      "id": "other",
+      "name": "Other"
+    }
+  ],
+  "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "F2 Sprint Race Highlights | 2026 Australian Grand Prix",
+      "channel": "FORMULA 1",
+      "videoId": "mAe5mMx0LRc",
+      "url": "https://www.youtube.com/watch?v=mAe5mMx0LRc",
+      "series": [
+        "f2"
+      ],
+      "seriesLabels": [
+        "Formula 2"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "F3 Feature Race Highlights | 2025 Austrian Grand Prix",
+      "channel": "FORMULA 1",
+      "videoId": "c1165UCrQ_E",
+      "url": "https://www.youtube.com/watch?v=c1165UCrQ_E",
+      "series": [
+        "f3"
+      ],
+      "seriesLabels": [
+        "Formula 3"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "The Best Of Fan Hats In Japan! | KitKat F1 Break Time",
+      "channel": "FORMULA 1",
+      "videoId": "xgE-bMzZbjc",
+      "url": "https://www.youtube.com/watch?v=xgE-bMzZbjc",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Laurent Mekies: Relishing Red Bull Challenge | F1 Beyond The Grid Podcast",
+      "channel": "FORMULA 1",
+      "videoId": "ADjpL-YeW-k",
+      "url": "https://www.youtube.com/watch?v=ADjpL-YeW-k",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Top 10 Onboards | 2026 Japanese Grand Prix",
+      "channel": "FORMULA 1",
+      "videoId": "MhWkelz3-sw",
+      "url": "https://www.youtube.com/watch?v=MhWkelz3-sw",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "COMPARISON: Jorge Martin's first Sprint win in 511 days 🥇🦾",
+      "channel": "MotoGP",
+      "videoId": "oYqccdOpvHo",
+      "url": "https://www.youtube.com/watch?v=oYqccdOpvHo",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "From churrasco to a plane: Aprilia's UNSEEN party in the USA! 🎉🇺🇸",
+      "channel": "MotoGP",
+      "videoId": "EiVjPSgvlXo",
+      "url": "https://www.youtube.com/watch?v=EiVjPSgvlXo",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Pulling an April Fools’ Prank on MotoGP Riders 😂",
+      "channel": "MotoGP",
+      "videoId": "ePGGQD6yNQw",
+      "url": "https://www.youtube.com/watch?v=ePGGQD6yNQw",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "SEND! Toyota takes the lead 💨",
+      "channel": "FIA World Endurance Championship",
+      "videoId": "djnX_QAML7c",
+      "url": "https://www.youtube.com/watch?v=djnX_QAML7c",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "AIRBORNE! Ferrari rides over rival 🤯",
+      "channel": "FIA World Endurance Championship",
+      "videoId": "ZmbL1U8ZxVQ",
+      "url": "https://www.youtube.com/watch?v=ZmbL1U8ZxVQ",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Buemi’s Impossible Comeback | 8 Hours of Bahrain 2024 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "videoId": "gXyL_M-d_2E",
+      "url": "https://www.youtube.com/watch?v=gXyL_M-d_2E",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Weekend view from ‘Bama 😎 #indycar #motorsport #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "yT-4tt2HaR4",
+      "url": "https://www.youtube.com/watch?v=yT-4tt2HaR4",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "The David Malukas lore is next level 🤯 #indycar #racing #davidmalukas",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "j5arDbOfm0Q",
+      "url": "https://www.youtube.com/watch?v=j5arDbOfm0Q",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "The BEST Barber Onboards | 2026 INDYCAR at Alabama",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "el8OPztf6r8",
+      "url": "https://www.youtube.com/watch?v=el8OPztf6r8",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "🔴 シェイクダウン ライブ！WRC Croatia Rally 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "bYVg6jmYplc",
+      "url": "https://www.youtube.com/watch?v=bYVg6jmYplc",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "WRC Croatia Rally 9 - 12 April 2026 🇭🇷",
+      "channel": "FIA World Rally Championship",
+      "videoId": "p-1U6h8Otew",
+      "url": "https://www.youtube.com/watch?v=p-1U6h8Otew",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Sloooowww 🫣",
+      "channel": "FIA World Rally Championship",
+      "videoId": "byccN9eFd6g",
+      "url": "https://www.youtube.com/watch?v=byccN9eFd6g",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Stoppie level: upgrading 🔓",
+      "channel": "Red Bull Motorsports",
+      "videoId": "Y4TS_pq_jgw",
+      "url": "https://www.youtube.com/watch?v=Y4TS_pq_jgw",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "If close had a name it would be Kuba Przygonski 😅",
+      "channel": "Red Bull Motorsports",
+      "videoId": "wnsZROy2-2k",
+      "url": "https://www.youtube.com/watch?v=wnsZROy2-2k",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Broadcast",
+      "title": "Crashed the after party 😅",
+      "channel": "Red Bull Motorsports",
+      "videoId": "S6XJi2mWL_4",
+      "url": "https://www.youtube.com/watch?v=S6XJi2mWL_4",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "twitch",
+      "platformLabel": "Twitch",
+      "statusLabel": "Live channel",
+      "title": "iRacing official live hub",
+      "channel": "iracing",
+      "url": "https://www.twitch.tv/iracing",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ],
+      "embedNote": "Twitch embeds depend on the current site hostname. If embedding is unavailable, open the channel directly."
+    },
+    {
+      "platform": "twitch",
+      "platformLabel": "Twitch",
+      "statusLabel": "Live channel",
+      "title": "RaceSpot broadcast channel",
+      "channel": "racespot",
+      "url": "https://www.twitch.tv/racespot",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ],
+      "embedNote": "Twitch embeds depend on the current site hostname. If embedding is unavailable, open the channel directly."
+    }
+  ]
+}
