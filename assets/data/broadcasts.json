@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T20:11:06.902Z",
+  "generatedAt": "2026-04-03T01:46:03.520Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,36 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "LIVE Race | 2026 F1 Sim Racing World Championship | Round 3: Bahrain",
-      "channel": "FORMULA 1",
-      "videoId": "DLgHzonrho4",
-      "url": "https://www.youtube.com/watch?v=DLgHzonrho4",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Children's of Alabama Indy Grand Prix from Barber",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "ulLOoS7c8UA",
-      "url": "https://www.youtube.com/watch?v=ulLOoS7c8UA",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
