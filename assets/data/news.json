@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T18:48:06.177Z",
+  "generatedAt": "2026-04-03T01:49:53.370Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "f1-should-aim-at-return-to-flat-out-qualifying-for-2027-laurent-mekies-0",
-      "title": "F1 should aim at return to “flat-out qualifying” for 2027 – Laurent Mekies",
+      "id": "daniel-ricciardo-explains-how-his-iconic-f1-shoey-celebration-first-began-0",
+      "title": "Daniel Ricciardo explains how his iconic F1 shoey celebration first began",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-should-aim-at-return-to-flat-out-qualifying-for-2027-laurent-mekies/10810494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-explains-how-his-iconic-f1-shoey-celebration-first-began/10810588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "f1-should-aim-at-return-to-flat-out-qualifying-for-2027-laurent-mekies-0",
+      "id": "daniel-ricciardo-explains-how-his-iconic-f1-shoey-celebration-first-began-0",
+      "title": "Daniel Ricciardo explains how his iconic F1 shoey celebration first began",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-explains-how-his-iconic-f1-shoey-celebration-first-began/10810588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 2, 2026"
+    },
+    {
+      "id": "james-vowles-explains-why-williams-turned-alex-albons-japanese-gp-into-a-live-test-session-1",
+      "title": "James Vowles explains why Williams turned Alex Albon's Japanese GP into a live test session",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/james-vowles-explains-why-williams-turned-alex-albons-japanese-gp-into-a-live-test-session/10810511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 2, 2026"
+    },
+    {
+      "id": "f1-should-aim-at-return-to-flat-out-qualifying-for-2027-laurent-mekies-2",
       "title": "F1 should aim at return to “flat-out qualifying” for 2027 – Laurent Mekies",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-should-aim-at-return-to-flat-out-qualifying-for-2027-laurent-mekies/10810494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Apr 2, 2026"
     },
     {
-      "id": "daniel-ricciardo-on-how-he-knew-time-was-right-for-f1-exit-grateful-racing-bulls-made-the-call-1",
+      "id": "daniel-ricciardo-on-how-he-knew-time-was-right-for-f1-exit-grateful-racing-bulls-made-the-call-3",
       "title": "Daniel Ricciardo on how he knew time was right for F1 exit: \"Grateful\" Racing Bulls made the call",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-on-how-he-knew-time-was-right-for-f1-exit-grateful-racing-bulls-made-the-call/10810499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 2, 2026"
-    },
-    {
-      "id": "audi-f1-boss-may-have-unwittingly-revealed-why-jonathan-wheatley-quit-2",
-      "title": "Audi F1 boss may have unwittingly revealed why Jonathan Wheatley quit",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/audi-f1-boss-may-have-unwittingly-revealed-why-jonathan-wheatley-quit/10810288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 2, 2026"
-    },
-    {
-      "id": "williams-experiments-why-alex-albon-stopped-five-times-in-f1-japanese-gp-3",
-      "title": "Williams experiments: Why Alex Albon stopped five times in F1 Japanese GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-williams-experiments-they-turned-the-race-at-suzuka-into-a-test-by-making-five-pit-stops/10810445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
