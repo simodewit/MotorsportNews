@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T12:40:24.114Z",
+  "generatedAt": "2026-04-04T18:32:47.387Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "f1-fans-lose-it-as-esteban-ocons-cheeky-lewis-hamilton-reality-tv-joke-goes-viral-0",
-      "title": "F1 fans lose it as Esteban Ocon's \"cheeky\" Lewis Hamilton reality TV joke goes viral",
+      "id": "sergio-perez-disagrees-with-mario-andrettis-rusty-claim-upon-f1-return-0",
+      "title": "Sergio Perez disagrees with Mario Andretti's \"rusty\" claim upon F1 return",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-fans-lose-it-as-esteban-ocons-cheeky-lewis-hamilton-reality-tv-joke-goes-viral/10810839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-disagrees-with-mario-andrettis-rusty-claim-upon-f1-return/10810722/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "f1-fans-lose-it-as-esteban-ocons-cheeky-lewis-hamilton-reality-tv-joke-goes-viral-0",
+      "id": "sergio-perez-disagrees-with-mario-andrettis-rusty-claim-upon-f1-return-0",
+      "title": "Sergio Perez disagrees with Mario Andretti's \"rusty\" claim upon F1 return",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-disagrees-with-mario-andrettis-rusty-claim-upon-f1-return/10810722/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 4, 2026"
+    },
+    {
+      "id": "f1-fans-lose-it-as-esteban-ocons-cheeky-lewis-hamilton-reality-tv-joke-goes-viral-1",
       "title": "F1 fans lose it as Esteban Ocon's \"cheeky\" Lewis Hamilton reality TV joke goes viral",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-fans-lose-it-as-esteban-ocons-cheeky-lewis-hamilton-reality-tv-joke-goes-viral/10810839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 4, 2026"
     },
     {
-      "id": "pierre-gasly-lands-new-lacoste-ambassador-role-in-major-fashion-move-away-from-f1-1",
+      "id": "pierre-gasly-lands-new-lacoste-ambassador-role-in-major-fashion-move-away-from-f1-2",
       "title": "Pierre Gasly lands new Lacoste ambassador role in major fashion move away from F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/pierre-gasly-lands-new-lacoste-ambassador-role-in-major-fashion-move-away-from-f1/10810822/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,7 +121,7 @@
       "publishedLabel": "Apr 4, 2026"
     },
     {
-      "id": "ayao-komatsu-warns-against-knee-jerk-reactions-to-oliver-bearman-franco-colapinto-incident-2",
+      "id": "ayao-komatsu-warns-against-knee-jerk-reactions-to-oliver-bearman-franco-colapinto-incident-3",
       "title": "Ayao Komatsu warns against \"knee-jerk\" reactions to Oliver Bearman-Franco Colapinto incident",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ayao-komatsu-warns-against-knee-jerk-reactions-to-oliver-bearman-franco-colapinto-collision/10810761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -119,17 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Apr 4, 2026"
-    },
-    {
-      "id": "ayao-komatsu-admits-he-would-have-laughed-at-haas-being-p4-after-three-races-3",
-      "title": "Ayao Komatsu admits he would have “laughed” at Haas being P4 after three races",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ayao-komatsu-admits-he-would-have-laughed-at-haas-being-p4-after-three-races/10810758/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 3, 2026"
     },
     {
       "id": "colton-herta-crashes-causes-red-flag-in-melbourne-f2-practice-debut-0",
