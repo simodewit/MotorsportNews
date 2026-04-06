@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T07:21:48.634Z",
+  "generatedAt": "2026-04-06T12:56:30.809Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "kimi-antonelli-enjoys-easter-break-at-valentino-rossis-vr46-ranch-0",
-      "title": "Kimi Antonelli enjoys Easter break at Valentino Rossi’s VR46 ranch",
+      "id": "fred-vasseur-pinpoints-what-boosted-ferraris-morale-in-japan-0",
+      "title": "Fred Vasseur pinpoints what boosted Ferrari's morale in Japan",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-enjoys-easter-break-at-valentino-rossis-vr46-ranch/10811020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-pinpoints-what-boosted-ferrari-morale-in-japan/10811062/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 5, 2026"
+      "publishedLabel": "Apr 6, 2026"
     },
     {
       "id": "colton-herta-crashes-causes-red-flag-in-melbourne-f2-practice-debut-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "construction-moving-forward-at-buenos-aires-for-motogp-with-an-eye-on-f1-0",
-      "title": "Construction moving forward at Buenos Aires for MotoGP, with an eye on F1",
+      "id": "why-alex-marquez-has-been-struggling-in-motogp-this-year-0",
+      "title": "Why Alex Marquez has been struggling in MotoGP this year",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/construction-is-moving-forward-at-the-buenos-aires-racetrack-for-motogp-with-an-eye-on-f1/10810442/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/why-alex-marquez-has-been-struggling-in-motogp-this-year/10811054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 5, 2026"
+      "publishedLabel": "Apr 6, 2026"
     }
   ],
   "articles": [
     {
-      "id": "kimi-antonelli-enjoys-easter-break-at-valentino-rossis-vr46-ranch-0",
+      "id": "fred-vasseur-pinpoints-what-boosted-ferraris-morale-in-japan-0",
+      "title": "Fred Vasseur pinpoints what boosted Ferrari's morale in Japan",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-pinpoints-what-boosted-ferrari-morale-in-japan/10811062/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 6, 2026"
+    },
+    {
+      "id": "max-verstappens-f1-retirement-threat-is-not-empty-warns-david-croft-1",
+      "title": "Max Verstappen's F1 retirement threat is 'not empty', warns David Croft",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-f1-retirement-threat-is-not-empty-warns-david-croft/10811059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 6, 2026"
+    },
+    {
+      "id": "lando-norris-names-his-four-favourite-f1-drivers-of-all-time-2",
+      "title": "Lando Norris names his four favourite F1 drivers of all time",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-names-his-four-favourite-f1-drivers-of-all-time/10811022/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 6, 2026"
+    },
+    {
+      "id": "kimi-antonelli-enjoys-easter-break-at-valentino-rossis-vr46-ranch-3",
       "title": "Kimi Antonelli enjoys Easter break at Valentino Rossi’s VR46 ranch",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-enjoys-easter-break-at-valentino-rossis-vr46-ranch/10811020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 5, 2026"
-    },
-    {
-      "id": "haas-doesnt-see-the-ceiling-with-impressive-oliver-bearman-1",
-      "title": "Haas \"doesn't see the ceiling\" with impressive Oliver Bearman",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/haas-doesnt-see-the-ceiling-with-impressive-oliver-bearman/10810948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 5, 2026"
-    },
-    {
-      "id": "fernando-alonso-shares-touching-gift-from-f1-after-birth-of-son-2",
-      "title": "Fernando Alonso shares touching gift from F1 after birth of son",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-shares-touching-gift-from-f1-after-birth-of-son/10810907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 5, 2026"
-    },
-    {
-      "id": "the-youngest-ever-f1-records-kimi-antonelli-can-still-beat-3",
-      "title": "The ‘youngest ever’ F1 records Kimi Antonelli can still beat",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-youngest-ever-f1-records-kimi-antonelli-can-still-beat/10810876/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "construction-moving-forward-at-buenos-aires-for-motogp-with-an-eye-on-f1-0",
+      "id": "why-alex-marquez-has-been-struggling-in-motogp-this-year-0",
+      "title": "Why Alex Marquez has been struggling in MotoGP this year",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/why-alex-marquez-has-been-struggling-in-motogp-this-year/10811054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 6, 2026"
+    },
+    {
+      "id": "construction-moving-forward-at-buenos-aires-for-motogp-with-an-eye-on-f1-1",
       "title": "Construction moving forward at Buenos Aires for MotoGP, with an eye on F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/construction-is-moving-forward-at-the-buenos-aires-racetrack-for-motogp-with-an-eye-on-f1/10810442/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Apr 5, 2026"
     },
     {
-      "id": "ducati-playing-catch-up-to-aprilia-but-insists-nothing-is-lost-in-motogp-title-fight-1",
+      "id": "ducati-playing-catch-up-to-aprilia-but-insists-nothing-is-lost-in-motogp-title-fight-2",
       "title": "Ducati playing “catch-up” to Aprilia but insists “nothing is lost” in MotoGP title fight",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ducati-playing-catch-up-to-aprilia-but-insists-nothing-is-lost-in-title-fight/10810514/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Apr 5, 2026"
     },
     {
-      "id": "why-gresini-has-flirted-with-leaving-ducati-in-motogp-2",
+      "id": "why-gresini-has-flirted-with-leaving-ducati-in-motogp-3",
       "title": "Why Gresini has flirted with leaving Ducati in MotoGP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/why-gresini-has-flirted-with-leaving-ducati/10810834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Apr 4, 2026"
-    },
-    {
-      "id": "joan-mir-explains-why-he-crashes-so-often-in-motogp-3",
-      "title": "Joan Mir explains why he crashes so often in MotoGP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/fri-joan-mir-explains-why-he-has-been-crashing-so-often-in-motogp/10810439/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 3, 2026"
     },
     {
       "id": "winners-and-losers-from-indycar-at-barber-motorsports-park-0",
