@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T13:06:42.663Z",
+  "generatedAt": "2026-04-07T18:55:17.283Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash-0",
-      "title": "David Coulthard lifts lid on reality of F1 closing speeds after Ollie Bearman's 50G crash",
+      "id": "kimi-antonelli-reveals-target-for-f1-spring-break-0",
+      "title": "Kimi Antonelli reveals target for F1 spring break",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash/10811214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-target-for-f1-spring-break/10811134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,8 +75,8 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "aprilias-motogp-advantage-not-due-to-special-rear-tyres-they-have-something-extra-michelin-0",
-      "title": "Aprilia’s MotoGP advantage not due to special rear tyres: ‘They have something extra’ - Michelin",
+      "id": "michelin-gives-verdict-on-aprilias-motogp-advantage-0",
+      "title": "Michelin gives verdict on Aprilia’s MotoGP advantage",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/michelin-aprilias-motogp-advantage-not-due-to-special-rear-tyres-they-have-something-extra/10811212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash-0",
+      "id": "kimi-antonelli-reveals-target-for-f1-spring-break-0",
+      "title": "Kimi Antonelli reveals target for F1 spring break",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-target-for-f1-spring-break/10811134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 7, 2026"
+    },
+    {
+      "id": "david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash-1",
       "title": "David Coulthard lifts lid on reality of F1 closing speeds after Ollie Bearman's 50G crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash/10811214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 7, 2026"
     },
     {
-      "id": "ranked-the-legendary-jim-clarks-top-10-drives-1",
+      "id": "ranked-the-legendary-jim-clarks-top-10-drives-2",
       "title": "Ranked! The legendary Jim Clark’s top 10 drives",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jim-clark-top-10-races-lotus-ranked/4776323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 7, 2026"
     },
     {
-      "id": "lewis-hamiltons-new-tokyo-drift-video-goes-viral-as-fans-brand-it-a-hard-launch-2",
+      "id": "lewis-hamiltons-new-tokyo-drift-video-goes-viral-as-fans-brand-it-a-hard-launch-3",
       "title": "Lewis Hamilton’s new \"Tokyo Drift\" video goes viral as fans brand it a hard launch",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-new-tokyo-drift-video-goes-viral-as-fans-brand-it-a-hard-launch/10811238/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 7, 2026"
-    },
-    {
-      "id": "yuki-tsunoda-deserves-a-return-to-full-time-racing-says-laurent-mekies-3",
-      "title": "Yuki Tsunoda deserves a return to full-time racing, says Laurent Mekies",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-deserves-a-return-to-full-time-racing-says-laurent-mekies/10811077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,8 +220,8 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "aprilias-motogp-advantage-not-due-to-special-rear-tyres-they-have-something-extra-michelin-0",
-      "title": "Aprilia’s MotoGP advantage not due to special rear tyres: ‘They have something extra’ - Michelin",
+      "id": "michelin-gives-verdict-on-aprilias-motogp-advantage-0",
+      "title": "Michelin gives verdict on Aprilia’s MotoGP advantage",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/michelin-aprilias-motogp-advantage-not-due-to-special-rear-tyres-they-have-something-extra/10811212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
@@ -264,7 +264,18 @@
       "publishedLabel": "Apr 5, 2026"
     },
     {
-      "id": "winners-and-losers-from-indycar-at-barber-motorsports-park-0",
+      "id": "will-powers-father-okay-after-wrestling-with-armed-gunman-0",
+      "title": "Will Power's father okay after wrestling with armed gunman ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/will-powers-father-okay-after-wrestling-with-armed-gunman-/10811340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 7, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-indycar-at-barber-motorsports-park-1",
       "title": "Winners and losers from IndyCar at Barber Motorsports Park",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-indycar-at-barber-motorsports-park/10810118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Mar 31, 2026"
     },
     {
-      "id": "pato-oward-left-searching-for-answers-after-confusing-day-at-barber-1",
+      "id": "pato-oward-left-searching-for-answers-after-confusing-day-at-barber-2",
       "title": "Pato O’Ward left searching for answers after “confusing day” at Barber",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/pato-oward-left-searching-for-answers-after-confusing-day-at-barber/10809905/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Mar 30, 2026"
     },
     {
-      "id": "david-malukas-learned-a-lot-with-tire-strategy-to-take-fourth-at-barber-2",
+      "id": "david-malukas-learned-a-lot-with-tire-strategy-to-take-fourth-at-barber-3",
       "title": "David Malukas “learned a lot” with tire strategy to take fourth at Barber",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-learned-a-lot-with-tire-strategy-to-take-fourth-at-barber/10809888/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Mar 30, 2026"
-    },
-    {
-      "id": "graham-rahal-ends-41-race-podium-drought-with-third-place-barber-finish-3",
-      "title": "Graham Rahal ends 41-race podium drought with third-place Barber finish",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/graham-rahal-ends-41-race-podium-drought-with-third-place-indycar-finish/10809659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Mar 29, 2026"
     },
     {
       "id": "genesis-gmr-001-how-hyundais-new-lmdh-challenger-was-developed-0",
