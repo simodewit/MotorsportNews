@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T18:55:17.283Z",
+  "generatedAt": "2026-04-08T01:53:17.520Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "kimi-antonelli-reveals-target-for-f1-spring-break-0",
-      "title": "Kimi Antonelli reveals target for F1 spring break",
+      "id": "david-coulthard-questions-fia-silence-after-max-verstappen-journalist-incident-in-japan-0",
+      "title": "David Coulthard questions FIA silence after Max Verstappen journalist incident in Japan",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-target-for-f1-spring-break/10811134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-questions-fia-silence-after-max-verstappen-journalist-incident-in-japan/10811384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "kimi-antonelli-reveals-target-for-f1-spring-break-0",
+      "id": "david-coulthard-questions-fia-silence-after-max-verstappen-journalist-incident-in-japan-0",
+      "title": "David Coulthard questions FIA silence after Max Verstappen journalist incident in Japan",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-questions-fia-silence-after-max-verstappen-journalist-incident-in-japan/10811384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 7, 2026"
+    },
+    {
+      "id": "kimi-antonelli-reveals-target-for-f1-spring-break-1",
       "title": "Kimi Antonelli reveals target for F1 spring break",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-target-for-f1-spring-break/10811134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 7, 2026"
     },
     {
-      "id": "david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash-1",
+      "id": "david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash-2",
       "title": "David Coulthard lifts lid on reality of F1 closing speeds after Ollie Bearman's 50G crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/david-coulthard-lifts-lid-on-reality-of-f1-closing-speeds-after-ollie-bearmans-50g-crash/10811214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 7, 2026"
     },
     {
-      "id": "ranked-the-legendary-jim-clarks-top-10-drives-2",
+      "id": "ranked-the-legendary-jim-clarks-top-10-drives-3",
       "title": "Ranked! The legendary Jim Clark’s top 10 drives",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jim-clark-top-10-races-lotus-ranked/4776323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 7, 2026"
-    },
-    {
-      "id": "lewis-hamiltons-new-tokyo-drift-video-goes-viral-as-fans-brand-it-a-hard-launch-3",
-      "title": "Lewis Hamilton’s new \"Tokyo Drift\" video goes viral as fans brand it a hard launch",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-new-tokyo-drift-video-goes-viral-as-fans-brand-it-a-hard-launch/10811238/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Apr 5, 2026"
     },
     {
-      "id": "will-powers-father-okay-after-wrestling-with-armed-gunman-0",
+      "id": "indycar-a-closer-look-at-mick-schumachers-true-pace-0",
+      "title": "IndyCar: A closer look at Mick Schumacher's true pace",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-a-closer-look-at-mick-schumachers-true-pace/10811376/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 7, 2026"
+    },
+    {
+      "id": "will-powers-father-okay-after-wrestling-with-armed-gunman-1",
       "title": "Will Power's father okay after wrestling with armed gunman ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/will-powers-father-okay-after-wrestling-with-armed-gunman-/10811340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Apr 7, 2026"
     },
     {
-      "id": "winners-and-losers-from-indycar-at-barber-motorsports-park-1",
+      "id": "winners-and-losers-from-indycar-at-barber-motorsports-park-2",
       "title": "Winners and losers from IndyCar at Barber Motorsports Park",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-indycar-at-barber-motorsports-park/10810118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Mar 31, 2026"
     },
     {
-      "id": "pato-oward-left-searching-for-answers-after-confusing-day-at-barber-2",
+      "id": "pato-oward-left-searching-for-answers-after-confusing-day-at-barber-3",
       "title": "Pato O’Ward left searching for answers after “confusing day” at Barber",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/pato-oward-left-searching-for-answers-after-confusing-day-at-barber/10809905/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Mar 30, 2026"
-    },
-    {
-      "id": "david-malukas-learned-a-lot-with-tire-strategy-to-take-fourth-at-barber-3",
-      "title": "David Malukas “learned a lot” with tire strategy to take fourth at Barber",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/david-malukas-learned-a-lot-with-tire-strategy-to-take-fourth-at-barber/10809888/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
