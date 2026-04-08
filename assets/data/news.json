@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T13:08:26.300Z",
+  "generatedAt": "2026-04-08T19:07:16.920Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role-0",
-      "title": "When Mark Blundell gave up on a career-defining Williams F1 role",
+      "id": "question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules-0",
+      "title": "Question of the week: What, if anything, does F1 need to change in the current rules?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role/10811414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules/10811475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "pedro-acosta-says-teaming-up-with-marc-marquez-would-be-a-dream-come-true-0",
-      "title": "Pedro Acosta says teaming up with Marc Marquez would be a “dream come true”",
+      "id": "why-motogps-concorde-agreement-remains-unsigned-0",
+      "title": "Why MotoGP’s ‘Concorde Agreement’ remains unsigned",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-says-teaming-up-with-marc-marquez-would-be-a-dream-come-true/10811410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/why-motogp-concorde-agreement-remains-unsigned/10811449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role-0",
+      "id": "question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules-0",
+      "title": "Question of the week: What, if anything, does F1 need to change in the current rules?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules/10811475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 8, 2026"
+    },
+    {
+      "id": "what-to-expect-from-f1-power-unit-rules-talks-on-thursday-1",
+      "title": "What to expect from F1 power unit rules talks on Thursday",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/power-unit-talks-april-2026/10811497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 8, 2026"
+    },
+    {
+      "id": "when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role-2",
       "title": "When Mark Blundell gave up on a career-defining Williams F1 role",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role/10811414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +121,7 @@
       "publishedLabel": "Apr 8, 2026"
     },
     {
-      "id": "mclaren-gives-f2-champion-leo-fornaroli-several-f1-tests-1",
+      "id": "mclaren-gives-f2-champion-leo-fornaroli-several-f1-tests-3",
       "title": "McLaren gives F2 champion Leo Fornaroli several F1 tests",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mclaren-gives-f2-champion-leo-fornaroli-several-f1-tests/10811407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -108,28 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Apr 8, 2026"
-    },
-    {
-      "id": "david-coulthard-questions-fia-silence-after-max-verstappen-journalist-incident-in-japan-2",
-      "title": "David Coulthard questions FIA silence after Max Verstappen journalist incident in Japan",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-questions-fia-silence-after-max-verstappen-journalist-incident-in-japan/10811384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 7, 2026"
-    },
-    {
-      "id": "kimi-antonelli-reveals-target-for-f1-spring-break-3",
-      "title": "Kimi Antonelli reveals target for F1 spring break",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-target-for-f1-spring-break/10811134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 7, 2026"
     },
     {
       "id": "colton-herta-crashes-causes-red-flag-in-melbourne-f2-practice-debut-0",
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "pedro-acosta-says-teaming-up-with-marc-marquez-would-be-a-dream-come-true-0",
+      "id": "why-motogps-concorde-agreement-remains-unsigned-0",
+      "title": "Why MotoGP’s ‘Concorde Agreement’ remains unsigned",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/why-motogp-concorde-agreement-remains-unsigned/10811449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 8, 2026"
+    },
+    {
+      "id": "pedro-acosta-says-teaming-up-with-marc-marquez-would-be-a-dream-come-true-1",
       "title": "Pedro Acosta says teaming up with Marc Marquez would be a “dream come true”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/pedro-acosta-says-teaming-up-with-marc-marquez-would-be-a-dream-come-true/10811410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Apr 8, 2026"
     },
     {
-      "id": "michelin-gives-verdict-on-aprilias-motogp-advantage-1",
+      "id": "michelin-gives-verdict-on-aprilias-motogp-advantage-2",
       "title": "Michelin gives verdict on Aprilia’s MotoGP advantage",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/michelin-aprilias-motogp-advantage-not-due-to-special-rear-tyres-they-have-something-extra/10811212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Apr 7, 2026"
     },
     {
-      "id": "renovations-begin-at-goiania-after-motogps-troublesome-brazilian-gp-2",
+      "id": "renovations-begin-at-goiania-after-motogps-troublesome-brazilian-gp-3",
       "title": "Renovations begin at Goiania after MotoGP's troublesome Brazilian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/asphalt-work-goiania-track-brazilian-gp/10811209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Apr 7, 2026"
-    },
-    {
-      "id": "why-alex-marquez-has-been-struggling-in-motogp-this-year-3",
-      "title": "Why Alex Marquez has been struggling in MotoGP this year",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-alex-marquez-has-been-struggling-in-motogp-this-year/10811054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 6, 2026"
     },
     {
       "id": "a-closer-look-at-mick-schumachers-true-pace-in-indycar-0",
@@ -308,7 +308,18 @@
       "publishedLabel": "Mar 30, 2026"
     },
     {
-      "id": "genesis-gmr-001-how-hyundais-new-lmdh-challenger-was-developed-0",
+      "id": "tech-analysis-ferraris-full-hypercar-aero-package-for-wec-2026-0",
+      "title": "Tech analysis: Ferrari's full hypercar aero package for WEC 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/ferrari-showcases-full-2026-aero-package-for-the-first-time-ahead-of-imola-wec/10811464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Apr 8, 2026"
+    },
+    {
+      "id": "genesis-gmr-001-how-hyundais-new-lmdh-challenger-was-developed-1",
       "title": "Genesis GMR-001: How Hyundai's new LMDh challenger was developed",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/genesis-gmr-001-so-geht-der-neue-lmdh-ins-rennen/10810216/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Apr 1, 2026"
     },
     {
-      "id": "ford-reveals-plans-for-first-test-for-its-new-wec-lmdh-prototype-1",
+      "id": "ford-reveals-plans-for-first-test-for-its-new-wec-lmdh-prototype-2",
       "title": "Ford reveals plans for first test for its new WEC LMDh prototype",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ford-reveals-plans-for-first-test-for-its-new-wec-lmdh-prototype/10809924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Mar 31, 2026"
     },
     {
-      "id": "wec-reschedules-qatar-round-following-middle-east-conflict-postponement-2",
+      "id": "wec-reschedules-qatar-round-following-middle-east-conflict-postponement-3",
       "title": "WEC reschedules Qatar round following Middle East conflict postponement",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-reschedules-qatar-round-following-middle-east-conflict-postponement/10804824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Mar 13, 2026"
-    },
-    {
-      "id": "andre-lotterer-and-the-genesis-lmdh-project-forging-a-new-era-in-wec-from-scratch-3",
-      "title": "Andre Lotterer and the Genesis LMDh project: Forging a new era in WEC from scratch",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/andre-lotterer-and-the-genesis-lmdh-project-forging-a-new-era-in-wec-from-scratch/10804136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Mar 12, 2026"
     }
   ]
 }
