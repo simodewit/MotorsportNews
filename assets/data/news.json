@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T01:45:27.797Z",
+  "generatedAt": "2026-04-09T07:14:39.824Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules-0",
-      "title": "Question of the week: What, if anything, does F1 need to change in the current rules?",
+      "id": "finally-f1-cars-dont-need-to-be-faster-to-overtake-isack-hadjar-0",
+      "title": "Finally F1 cars don’t need to be faster to overtake – Isack Hadjar",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules/10811475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/finally-f1-cars-dont-need-to-be-faster-to-overtake-isack-hadjar/10811528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 8, 2026"
+      "publishedLabel": "Apr 9, 2026"
     },
     {
       "id": "colton-herta-crashes-causes-red-flag-in-melbourne-f2-practice-debut-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules-0",
+      "id": "finally-f1-cars-dont-need-to-be-faster-to-overtake-isack-hadjar-0",
+      "title": "Finally F1 cars don’t need to be faster to overtake – Isack Hadjar",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/finally-f1-cars-dont-need-to-be-faster-to-overtake-isack-hadjar/10811528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 9, 2026"
+    },
+    {
+      "id": "question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules-1",
       "title": "Question of the week: What, if anything, does F1 need to change in the current rules?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/question-of-the-week-what-if-anything-does-f1-need-to-change-in-the-current-rules/10811475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 8, 2026"
     },
     {
-      "id": "what-to-expect-from-f1-power-unit-rules-talks-on-thursday-1",
+      "id": "what-to-expect-from-f1-power-unit-rules-talks-on-thursday-2",
       "title": "What to expect from F1 power unit rules talks on Thursday",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/power-unit-talks-april-2026/10811497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 8, 2026"
     },
     {
-      "id": "when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role-2",
+      "id": "when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role-3",
       "title": "When Mark Blundell gave up on a career-defining Williams F1 role",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/when-mark-blundell-gave-up-on-a-career-defining-williams-f1-role/10811414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 8, 2026"
-    },
-    {
-      "id": "mclaren-gives-f2-champion-leo-fornaroli-several-f1-tests-3",
-      "title": "McLaren gives F2 champion Leo Fornaroli several F1 tests",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mclaren-gives-f2-champion-leo-fornaroli-several-f1-tests/10811407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
