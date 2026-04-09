@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T09:03:35.313Z",
+  "generatedAt": "2026-04-09T17:03:13.217Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "CdDLnzE1Mpc",
+      "title": "Max And GP's Best Radio Moments! 🗣️",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "6kuwmcd7Q54",
+      "title": "The Funniest F1 Press Conference Moments Of All Time",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "w4-fO21MSR0",
       "title": "Doriane Pin: F1 Academy Champion, Still Pushing | F1 Beyond The Grid Podcast",
       "channel": "FORMULA 1",
@@ -77,28 +99,6 @@
     {
       "videoId": "DXpJ93iJZ0M",
       "title": "Race Winning Overtakes But They Happen Progressively Later",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "ylYWdzF2iXs",
-      "title": "Rivals & Stars Of The F1 Season So Far | F1 Nation Podcast",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "sOtcEWRdvGA",
-      "title": "F2 Drivers Play Who's That Baby!",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "Jan9TzLH1FM",
+      "title": "Van der Linde and Hasse Clot go WHEEL TO WHEEL at Imola 🔥",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "y6hQelfeSM0",
       "title": "Nielsen pulls BOLD move at Imola 💨",
       "channel": "FIA World Endurance Championship",
@@ -176,17 +187,6 @@
     {
       "videoId": "TZY9hMdJOkA",
       "title": "Iron Dames spark CHAOS with Corvette at Imola 😱",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "Zl_2vFX_i34",
-      "title": "The Wildest Race Starts of the Decade 🤯 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "vKUhsaYod4g",
+      "title": "🔴 Opening Ceremony LIVE | WRC Croatia Rally 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "bYVg6jmYplc",
       "title": "🔴 シェイクダウン ライブ！WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
@@ -273,14 +284,14 @@
       ]
     },
     {
-      "videoId": "KCTUV58Z86s",
-      "title": "FULL ONBOARD - SS10 Tänak/Järveoja | WRC Croatia Rally 2023",
-      "channel": "FIA World Rally Championship",
+      "videoId": "YAntbPEArSk",
+      "title": "Front loaded to the finish 🏁",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "e-6ObcRLJBQ",
       "title": "Airtime higher than your screen time 💨",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "qnaYkhYtoWo",
-      "title": "Maximum cone-trol 🤘 #drifting #F1 #fisher",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
