@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T01:55:20.363Z",
+  "generatedAt": "2026-04-09T09:03:35.313Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "RRFq0kmd4oY",
+      "title": "Quartararo on Rins' best attribute 😜",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "IX1zesE3mno",
       "title": "Guenther Steiner on living MotoGP as Tech3 boss 🗣️",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "vFHrZMjozaM",
       "title": "UNSEEN: VR46 take over New York City! 🏙️",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "V7e9egFmsgY",
-      "title": "Maverick Viñales faces the LIE DETECTOR! 🟢🔴",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -240,6 +240,28 @@
       ]
     },
     {
+      "videoId": "bYVg6jmYplc",
+      "title": "🔴 シェイクダウン ライブ！WRC Croatia Rally 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "5dusIv_6mHI",
+      "title": "🔴 Shakedown LIVE | WRC Croatia Rally 2026 🇭🇷",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "H9qwE_2Czbg",
       "title": "Drivers' Preview | WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
@@ -253,28 +275,6 @@
     {
       "videoId": "KCTUV58Z86s",
       "title": "FULL ONBOARD - SS10 Tänak/Järveoja | WRC Croatia Rally 2023",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "ZnKNNdeaQCU",
-      "title": "SS16 Stage Highlights | WRC Croatia Rally 2021",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "pMr-MtDhvTI",
-      "title": "Everything You Need To Know for WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
