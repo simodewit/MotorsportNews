@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T16:59:39.183Z",
+  "generatedAt": "2026-04-10T01:52:03.487Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 LIVE: INDYCAR Long Beach Marathon | Classic Full Races",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "gHpjRloLqHU",
+      "url": "https://www.youtube.com/watch?v=gHpjRloLqHU",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
