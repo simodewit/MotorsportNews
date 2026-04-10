@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T02:08:13.254Z",
+  "generatedAt": "2026-04-10T09:04:43.257Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "K-o0O7yNBg8",
+      "title": "Croatia strikes early 😬",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "vKUhsaYod4g",
       "title": "🔴 Opening Ceremony LIVE | WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
@@ -273,14 +284,14 @@
       ]
     },
     {
-      "videoId": "H9qwE_2Czbg",
-      "title": "Drivers' Preview | WRC Croatia Rally 2026",
-      "channel": "FIA World Rally Championship",
+      "videoId": "m9M455m4Mwo",
+      "title": "Are you ready to push? 🏍💨 Sign up via the link in bio🏁",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "Yfvjj6guSck",
       "title": "Speed check 💥 #Sethquintero #Erzberg #HardEnduro",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "e-6ObcRLJBQ",
-      "title": "Airtime higher than your screen time 💨",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
