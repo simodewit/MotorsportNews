@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T18:55:32.209Z",
+  "generatedAt": "2026-04-10T01:57:10.748Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "fia-reports-constructive-dialogue-on-f1-2026-tweaks-outlines-decision-timeline-0",
-      "title": "FIA reports \"constructive dialogue\" on F1 2026 tweaks, outlines decision timeline",
+      "id": "monaco-auction-to-feature-four-iconic-f1-cars-worth-more-than-10million-0",
+      "title": "Monaco auction to feature four iconic F1 cars worth more than €10million",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fia-reports-constructive-dialogue-on-f1-2026-tweaks-outlines-decision-timeline/10811803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/monaco-auction-to-feature-four-iconic-f1-cars-worth-more-than-10million/10811813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "fia-reports-constructive-dialogue-on-f1-2026-tweaks-outlines-decision-timeline-0",
+      "id": "monaco-auction-to-feature-four-iconic-f1-cars-worth-more-than-10million-0",
+      "title": "Monaco auction to feature four iconic F1 cars worth more than €10million",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/monaco-auction-to-feature-four-iconic-f1-cars-worth-more-than-10million/10811813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 9, 2026"
+    },
+    {
+      "id": "fia-reports-constructive-dialogue-on-f1-2026-tweaks-outlines-decision-timeline-1",
       "title": "FIA reports \"constructive dialogue\" on F1 2026 tweaks, outlines decision timeline",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fia-reports-constructive-dialogue-on-f1-2026-tweaks-outlines-decision-timeline/10811803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 9, 2026"
     },
     {
-      "id": "kimi-antonellis-honesty-with-media-will-inevitably-change-says-david-coulthard-1",
+      "id": "kimi-antonellis-honesty-with-media-will-inevitably-change-says-david-coulthard-2",
       "title": "Kimi Antonelli’s honesty with media will inevitably change, says David Coulthard",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonellis-honesty-with-media-will-inevitably-change-says-david-coulthard/10811657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 9, 2026"
     },
     {
-      "id": "key-takeaways-from-mclarens-move-for-verstappens-red-bull-race-engineer-2",
+      "id": "key-takeaways-from-mclarens-move-for-verstappens-red-bull-race-engineer-3",
       "title": "Key takeaways from McLaren's move for Verstappen's Red Bull race engineer ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/key-takeaways-mclaren-signing-max-verstappen-engineer-lambiase/10811681/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 9, 2026"
-    },
-    {
-      "id": "mclaren-officially-hires-red-bulls-gianpiero-lambiase-reveals-time-frame-for-arrival-3",
-      "title": "McLaren officially hires Red Bull’s Gianpiero Lambiase, reveals time frame for arrival",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/McLaren-hires-Red-Bulls-Gianpiero-Lambiase/10811737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
