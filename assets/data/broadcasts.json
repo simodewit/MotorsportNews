@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T08:35:02.495Z",
+  "generatedAt": "2026-04-11T16:29:01.586Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -48,16 +48,16 @@
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 LIVE: INDYCAR Long Beach Marathon | Classic Full Races",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "gHpjRloLqHU",
-      "url": "https://www.youtube.com/watch?v=gHpjRloLqHU",
+      "statusLabel": "Upcoming",
+      "title": "2021 Bahrain Grand Prix | Full Race",
+      "channel": "FORMULA 1",
+      "videoId": "_Za71YHT2PU",
+      "url": "https://www.youtube.com/watch?v=_Za71YHT2PU",
       "series": [
-        "indycar"
+        "f1"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Formula 1"
       ]
     },
     {
