@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T01:56:39.676Z",
+  "generatedAt": "2026-04-11T08:37:53.061Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "25oY72r9CcM",
+      "title": "Trip down memory lane with Viñales' firsts 🔙",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "ZbKiZ_pJ860",
       "title": "POV: you're having the time of your life at the Brazilian GP 🇧🇷👌",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "IX1zesE3mno",
       "title": "Guenther Steiner on living MotoGP as Tech3 boss 🗣️",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "tOA7OjI7gwo",
-      "title": "Get to know Guido Pini, the new Moto3 race winner! 🔎",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "zGCmjm3UaiY",
+      "title": "WRC2 Day 1 Highlights | WRC Croatia Rally 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "X_J-akHRKEM",
       "title": "Day 1 Highlights | WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "K-o0O7yNBg8",
       "title": "Croatia strikes early 😬",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "vKUhsaYod4g",
-      "title": "🔴 Opening Ceremony LIVE | WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
