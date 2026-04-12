@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T08:42:30.617Z",
+  "generatedAt": "2026-04-12T16:33:56.068Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "_Za71YHT2PU",
+      "title": "2021 Bahrain Grand Prix | Full Race",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "ERIjcNtISH0",
       "title": "So You Think You Know F1 Drivers?",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "vUvGUVwUI8w",
       "title": "Lando Teaches MAGIC 🧙‍♂️",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "lLCSoZHASAU",
-      "title": "A Stunning Danny Ric Moment 🤣🏴󠁧󠁢󠁳󠁣󠁴󠁿",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -240,8 +240,8 @@
       ]
     },
     {
-      "videoId": "N_ZTtWkaT2E",
-      "title": "Day 2 Highlights & Reaction | WRC Croatia Rally 2026",
+      "videoId": "SA_odqlY1XE",
+      "title": "Final Day Highlights & Reaction | WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -251,8 +251,8 @@
       ]
     },
     {
-      "videoId": "w0-Z5aK-Y3M",
-      "title": "Junior WRC Day 1 Highlights | WRC Croatia Rally 2026",
+      "videoId": "z74aq7yZxRA",
+      "title": "No one saw this coming 🤯",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -262,8 +262,8 @@
       ]
     },
     {
-      "videoId": "zGCmjm3UaiY",
-      "title": "WRC2 Day 1 Highlights | WRC Croatia Rally 2026",
+      "videoId": "3PbRpiYmSOw",
+      "title": "🔴 Post-Event Show LIVE | WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -273,14 +273,25 @@
       ]
     },
     {
-      "videoId": "X_J-akHRKEM",
-      "title": "Day 1 Highlights & Reaction | WRC Croatia Rally 2026",
+      "videoId": "8TppGnQpBVM",
+      "title": "Junior WRC Day 2 Highlights | WRC Croatia Rally 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
       ],
       "seriesLabels": [
         "Rally"
+      ]
+    },
+    {
+      "videoId": "S7bcS-k9_v4",
+      "title": "Taka-n on Safari Rally Kenya 🐘🌿💨 #Takakomokatsuta",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "YAntbPEArSk",
       "title": "Front loaded to the finish 🏁",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "9NGKno1FLaA",
-      "title": "Kenya raising the bar and the heli 🔥",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
