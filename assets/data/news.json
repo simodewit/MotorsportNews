@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T12:47:35.350Z",
+  "generatedAt": "2026-04-12T18:38:26.301Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss-0",
-      "title": "Lewis Hamilton hailed by James Vowles over handling of 2021 championship loss",
+      "id": "who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind-0",
+      "title": "Who benefits from the new F1 start regulations – and who is falling behind?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss/10812205/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind/10812263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss-0",
+      "id": "who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind-0",
+      "title": "Who benefits from the new F1 start regulations – and who is falling behind?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind/10812263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 12, 2026"
+    },
+    {
+      "id": "lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss-1",
       "title": "Lewis Hamilton hailed by James Vowles over handling of 2021 championship loss",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss/10812205/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 12, 2026"
     },
     {
-      "id": "jacques-villeneuve-explains-why-battling-damon-hill-was-harder-than-fighting-michael-schumacher-1",
+      "id": "jacques-villeneuve-explains-why-battling-damon-hill-was-harder-than-fighting-michael-schumacher-2",
       "title": "Jacques Villeneuve explains why battling Damon Hill was harder than fighting Michael Schumacher",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-explains-why-battling-damon-hill-was-harder-than-fighting-michael-schumacher/10812181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,7 +121,7 @@
       "publishedLabel": "Apr 12, 2026"
     },
     {
-      "id": "f1-2026-driver-numbers-who-runs-which-number-and-why-2",
+      "id": "f1-2026-driver-numbers-who-runs-which-number-and-why-3",
       "title": "F1 2026 driver numbers: Who runs which number and why?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-driver-numbers-who-runs-which-number-and-why/10811855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -119,17 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Apr 12, 2026"
-    },
-    {
-      "id": "lando-norris-names-four-most-influential-people-in-his-f1-career-3",
-      "title": "Lando Norris names four most influential people in his F1 career",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-names-four-most-influential-people-in-his-f1-career/10811984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 11, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -264,7 +264,18 @@
       "publishedLabel": "Apr 10, 2026"
     },
     {
-      "id": "aj-foyt-racing-adds-toby-sowery-as-reserve-driver-0",
+      "id": "indycar-representatives-visit-the-goiania-raceway-and-consider-a-return-to-brazil-0",
+      "title": "IndyCar representatives visit the Goiânia Raceway and consider a return to Brazil ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indy-representatives-visit-the-goiania-raceway-and-consider-a-return-to-brazil-/10812354/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 12, 2026"
+    },
+    {
+      "id": "aj-foyt-racing-adds-toby-sowery-as-reserve-driver-1",
       "title": "AJ Foyt Racing adds Toby Sowery as reserve driver",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/aj-foyt-racing-adds-toby-sowery-as-reserve-driver/10811735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Apr 9, 2026"
     },
     {
-      "id": "a-closer-look-at-mick-schumachers-true-pace-in-indycar-1",
+      "id": "a-closer-look-at-mick-schumachers-true-pace-in-indycar-2",
       "title": "A closer look at Mick Schumacher's true pace in IndyCar",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-a-closer-look-at-mick-schumachers-true-pace/10811376/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Apr 7, 2026"
     },
     {
-      "id": "will-powers-father-okay-after-wrestling-with-armed-gunman-2",
+      "id": "will-powers-father-okay-after-wrestling-with-armed-gunman-3",
       "title": "Will Power's father okay after wrestling with armed gunman ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/will-powers-father-okay-after-wrestling-with-armed-gunman-/10811340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Apr 7, 2026"
-    },
-    {
-      "id": "winners-and-losers-from-indycar-at-barber-motorsports-park-3",
-      "title": "Winners and losers from IndyCar at Barber Motorsports Park",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-indycar-at-barber-motorsports-park/10810118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Mar 31, 2026"
     },
     {
       "id": "how-much-factory-support-should-be-allowed-in-wecs-lmgt3-class-0",
