@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T16:31:59.702Z",
+  "generatedAt": "2026-04-12T02:09:59.764Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,28 @@
       ]
     },
     {
+      "videoId": "B6m0k_7yQzM",
+      "title": "Graham Rahal: I Want My Girls To See Me Have Success | Java with James Hinchcliffe",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "fhjQ6RLYwRA",
+      "title": "These drivers are opinionated 🫢👀 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "gHpjRloLqHU",
       "title": "🔴 LIVE: INDYCAR Long Beach Marathon | Classic Full Races",
       "channel": "NTT INDYCAR SERIES",
@@ -218,25 +240,14 @@
       ]
     },
     {
-      "videoId": "crZbf8dcFRs",
-      "title": "Inside Arrow McLaren's INDYCAR Headquarters",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "N_ZTtWkaT2E",
+      "title": "Day 2 Highlights | WRC Croatia Rally 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "rLPc6mM6Nis",
-      "title": "You can call him Captain Kirk now 🫡 #indycar #racing #kylekirkwood",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "X_J-akHRKEM",
       "title": "Day 1 Highlights | WRC Croatia Rally 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "XjoYOPgyLGA",
-      "title": "Precision 😮‍💨",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
