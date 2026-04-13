@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T18:38:26.301Z",
+  "generatedAt": "2026-04-13T02:04:18.982Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind-0",
-      "title": "Who benefits from the new F1 start regulations – and who is falling behind?",
+      "id": "toto-wolff-opens-up-on-shock-plan-to-sack-lewis-hamilton-and-nico-rosberg-in-2016-battle-0",
+      "title": "Toto Wolff opens up on shock plan to sack Lewis Hamilton and Nico Rosberg in 2016 battle",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind/10812263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-opens-up-on-shock-plan-to-sack-lewis-hamilton-and-nico-rosberg-in-2016-battle/10812300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind-0",
+      "id": "toto-wolff-opens-up-on-shock-plan-to-sack-lewis-hamilton-and-nico-rosberg-in-2016-battle-0",
+      "title": "Toto Wolff opens up on shock plan to sack Lewis Hamilton and Nico Rosberg in 2016 battle",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-opens-up-on-shock-plan-to-sack-lewis-hamilton-and-nico-rosberg-in-2016-battle/10812300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 12, 2026"
+    },
+    {
+      "id": "who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind-1",
       "title": "Who benefits from the new F1 start regulations – and who is falling behind?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/who-benefits-from-the-new-f1-start-regulations-and-who-is-falling-behind/10812263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 12, 2026"
     },
     {
-      "id": "lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss-1",
+      "id": "lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss-2",
       "title": "Lewis Hamilton hailed by James Vowles over handling of 2021 championship loss",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-hailed-by-james-vowles-over-handling-of-2021-championship-loss/10812205/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 12, 2026"
     },
     {
-      "id": "jacques-villeneuve-explains-why-battling-damon-hill-was-harder-than-fighting-michael-schumacher-2",
+      "id": "jacques-villeneuve-explains-why-battling-damon-hill-was-harder-than-fighting-michael-schumacher-3",
       "title": "Jacques Villeneuve explains why battling Damon Hill was harder than fighting Michael Schumacher",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-explains-why-battling-damon-hill-was-harder-than-fighting-michael-schumacher/10812181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 12, 2026"
-    },
-    {
-      "id": "f1-2026-driver-numbers-who-runs-which-number-and-why-3",
-      "title": "F1 2026 driver numbers: Who runs which number and why?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-driver-numbers-who-runs-which-number-and-why/10811855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
