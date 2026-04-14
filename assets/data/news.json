@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T19:06:02.538Z",
+  "generatedAt": "2026-04-14T01:59:16.424Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "williams-announces-2026-festival-of-speed-line-up-damon-hill-to-reunite-with-title-winning-fw18-0",
-      "title": "Williams announces 2026 Festival of Speed line-up: Damon Hill to reunite with title-winning FW18",
+      "id": "red-bull-gives-fans-the-chance-to-win-a-signed-replica-max-verstappen-race-suit-0",
+      "title": "Red Bull gives fans the chance to win a signed replica Max Verstappen race suit",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/williams-announces-2026-festival-of-speed-line-up-damon-hill-to-reunite-with-title-winning-fw18/10812557/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/red-bull-gives-fans-the-chance-to-win-a-signed-replica-max-verstappen-race-suit/10812489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "williams-announces-2026-festival-of-speed-line-up-damon-hill-to-reunite-with-title-winning-fw18-0",
+      "id": "red-bull-gives-fans-the-chance-to-win-a-signed-replica-max-verstappen-race-suit-0",
+      "title": "Red Bull gives fans the chance to win a signed replica Max Verstappen race suit",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-gives-fans-the-chance-to-win-a-signed-replica-max-verstappen-race-suit/10812489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 13, 2026"
+    },
+    {
+      "id": "michael-schumachers-greatest-quality-at-mercedes-revealed-by-former-reserve-driver-1",
+      "title": "Michael Schumacher’s greatest quality at Mercedes revealed by former reserve driver",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/michael-schumachers-greatest-quality-at-mercedes-revealed-by-former-reserve-driver/10812616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 13, 2026"
+    },
+    {
+      "id": "oscar-piastri-details-2025-mindset-change-2",
+      "title": "Oscar Piastri details 2025 mindset change",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-details-2025-mindset-change/10812568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 13, 2026"
+    },
+    {
+      "id": "williams-announces-2026-festival-of-speed-line-up-damon-hill-to-reunite-with-title-winning-fw18-3",
       "title": "Williams announces 2026 Festival of Speed line-up: Damon Hill to reunite with title-winning FW18",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/williams-announces-2026-festival-of-speed-line-up-damon-hill-to-reunite-with-title-winning-fw18/10812557/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 13, 2026"
-    },
-    {
-      "id": "how-every-f1-2026-team-performed-so-far-team-by-team-1",
-      "title": "How every F1 2026 team performed so far, team by team",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/how-every-f1-2026-teams-performed-so-far-team-by-team/10812450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 13, 2026"
-    },
-    {
-      "id": "nico-rosberg-gives-verdict-on-f1s-2026-regulations-2",
-      "title": "Nico Rosberg gives verdict on F1's 2026 regulations",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-gives-verdict-on-f1s-2026-regulations/10812464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 13, 2026"
-    },
-    {
-      "id": "helmut-marko-critical-of-new-f1-rules-but-expects-solutions-to-be-found-3",
-      "title": "Helmut Marko critical of new F1 rules but expects solutions to be found",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/helmut-marko-critical-of-new-f1-rules-but-expects-solutions-to-be-found/10812495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Apr 11, 2026"
     },
     {
-      "id": "openai-expands-partnership-with-chip-ganassi-racing-to-include-two-races-as-primary-sponsor-0",
+      "id": "tweaked-single-car-fast-six-qualifying-set-for-remaining-indycar-street-rounds-0",
+      "title": "Tweaked single-car Fast Six qualifying set for remaining IndyCar street rounds",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/tweaked-single-car-fast-six-qualifying-set-for-remaining-indycar-street-rounds/10812601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 13, 2026"
+    },
+    {
+      "id": "openai-expands-partnership-with-chip-ganassi-racing-to-include-two-races-as-primary-sponsor-1",
       "title": "OpenAI expands partnership with Chip Ganassi Racing to include two races as primary sponsor",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/openai-expands-partnership-with-chip-ganassi-racing-to-include-two-races-as-primary/10812559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Apr 13, 2026"
     },
     {
-      "id": "indycar-representatives-visit-the-goiania-raceway-and-consider-a-return-to-brazil-1",
+      "id": "indycar-representatives-visit-the-goiania-raceway-and-consider-a-return-to-brazil-2",
       "title": "IndyCar representatives visit the Goiânia Raceway and consider a return to Brazil ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indy-representatives-visit-the-goiania-raceway-and-consider-a-return-to-brazil-/10812354/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Apr 12, 2026"
     },
     {
-      "id": "aj-foyt-racing-adds-toby-sowery-as-reserve-driver-2",
+      "id": "aj-foyt-racing-adds-toby-sowery-as-reserve-driver-3",
       "title": "AJ Foyt Racing adds Toby Sowery as reserve driver",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/aj-foyt-racing-adds-toby-sowery-as-reserve-driver/10811735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Apr 9, 2026"
-    },
-    {
-      "id": "a-closer-look-at-mick-schumachers-true-pace-in-indycar-3",
-      "title": "A closer look at Mick Schumacher's true pace in IndyCar",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-a-closer-look-at-mick-schumachers-true-pace/10811376/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 7, 2026"
     },
     {
       "id": "how-much-factory-support-should-be-allowed-in-wecs-lmgt3-class-0",
