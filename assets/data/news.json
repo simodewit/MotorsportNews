@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T07:22:42.114Z",
+  "generatedAt": "2026-04-15T13:10:56.428Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "oscar-piastri-explains-why-mental-strength-mattered-more-in-2025-title-battle-0",
-      "title": "Oscar Piastri explains why mental strength mattered more in 2025 title battle",
+      "id": "f1-boss-issues-verdict-on-start-of-2026-season-backs-potential-changes-0",
+      "title": "F1 boss issues verdict on start of 2026 season, backs potential changes",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-explains-why-mental-strength-mattered-more-in-2025-title-battle/10812609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-boss-issues-verdict-on-start-of-2026-season-backs-potential-changes/10812833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,20 +75,42 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "nicolo-bulega-is-not-ducatis-first-choice-for-motogp-2027-0",
-      "title": "Nicolo Bulega is not Ducati's \"first choice\" for MotoGP 2027",
+      "id": "alex-marquez-still-involved-in-ducatis-motogp-development-despite-ktm-move-0",
+      "title": "Alex Marquez still involved in Ducati’s MotoGP development despite KTM move",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/nicolo-bulega-not-ducati-first-choice-2027/10812652/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/alex-marquez-still-involved-in-ducatis-motogp-development-despite-ktm-move/10812869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 14, 2026"
+      "publishedLabel": "Apr 15, 2026"
     }
   ],
   "articles": [
     {
-      "id": "oscar-piastri-explains-why-mental-strength-mattered-more-in-2025-title-battle-0",
+      "id": "f1-boss-issues-verdict-on-start-of-2026-season-backs-potential-changes-0",
+      "title": "F1 boss issues verdict on start of 2026 season, backs potential changes",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-boss-issues-verdict-on-start-of-2026-season-backs-potential-changes/10812833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 15, 2026"
+    },
+    {
+      "id": "f1-boss-responds-to-max-verstappens-criticism-of-2026-rules-his-voice-has-to-be-listened-to-1",
+      "title": "F1 boss responds to Max Verstappen's criticism of 2026 rules: “His voice has to be listened to”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-boss-responds-to-max-verstappens-criticism-of-2026-rules-his-voice-has-to-be-listened-to/10812823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 15, 2026"
+    },
+    {
+      "id": "oscar-piastri-explains-why-mental-strength-mattered-more-in-2025-title-battle-2",
       "title": "Oscar Piastri explains why mental strength mattered more in 2025 title battle",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/oscar-piastri-explains-why-mental-strength-mattered-more-in-2025-title-battle/10812609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Apr 15, 2026"
     },
     {
-      "id": "f1-stars-spotted-at-jannik-sinner-match-at-rolex-monte-carlo-masters-1",
+      "id": "f1-stars-spotted-at-jannik-sinner-match-at-rolex-monte-carlo-masters-3",
       "title": "F1 stars spotted at Jannik Sinner match at Rolex Monte-Carlo Masters",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-stars-spotted-at-jannik-sinner-match-at-rolex-monte-carlo-masters/10812658/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 15, 2026"
-    },
-    {
-      "id": "sam-bird-reveals-what-formula-1-reserve-drivers-actually-do-behind-the-scenes-2",
-      "title": "Sam Bird reveals what Formula 1 reserve drivers actually do behind the scenes",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/sam-bird-reveals-what-formula-1-reserve-drivers-actually-do-behind-the-scenes/10812620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 15, 2026"
-    },
-    {
-      "id": "miami-grand-prix-2026-imax-tickets-now-on-sale-how-much-are-they-and-how-to-get-them-3",
-      "title": "Miami Grand Prix 2026 IMAX tickets now on sale: How much are they and how to get them?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/miami-grand-prix-2026-imax-tickets-now-on-sale-how-much-are-they-and-how-to-get-them/10812665/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "nicolo-bulega-is-not-ducatis-first-choice-for-motogp-2027-0",
+      "id": "alex-marquez-still-involved-in-ducatis-motogp-development-despite-ktm-move-0",
+      "title": "Alex Marquez still involved in Ducati’s MotoGP development despite KTM move",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/alex-marquez-still-involved-in-ducatis-motogp-development-despite-ktm-move/10812869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 15, 2026"
+    },
+    {
+      "id": "aleix-espargaro-to-undergo-surgery-after-vertebral-injury-1",
+      "title": "Aleix Espargaro to undergo surgery after vertebral injury",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/aleix-espargaro-to-undergo-surgery-after-vertebral-injury/10812858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 15, 2026"
+    },
+    {
+      "id": "nicolo-bulega-is-not-ducatis-first-choice-for-motogp-2027-2",
       "title": "Nicolo Bulega is not Ducati's \"first choice\" for MotoGP 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/nicolo-bulega-not-ducati-first-choice-2027/10812652/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +253,7 @@
       "publishedLabel": "Apr 14, 2026"
     },
     {
-      "id": "how-ai-ogura-is-starting-to-fulfil-his-motogp-potential-1",
+      "id": "how-ai-ogura-is-starting-to-fulfil-his-motogp-potential-3",
       "title": "How Ai Ogura is starting to fulfil his MotoGP potential",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/how-ai-ogura-is-starting-to-fulfil-his-motogp-potential/10812646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -240,28 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Apr 14, 2026"
-    },
-    {
-      "id": "ducati-carries-out-850cc-motogp-bike-shakedown-at-misano-2",
-      "title": "Ducati carries out 850cc MotoGP bike shakedown at Misano",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ducati-carries-out-850cc-motogp-bike-shakedown-at-misano/10812570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 13, 2026"
-    },
-    {
-      "id": "pedro-acosta-fears-intense-motogp-format-means-shorter-rider-careers-3",
-      "title": "Pedro Acosta fears intense MotoGP format means shorter rider careers ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-fears-intense-motogp-format-means-shorter-rider-careers-/10808340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 13, 2026"
     },
     {
       "id": "christian-lundgaard-bye-week-a-chance-to-unite-team-after-barber-pitstop-error-0",
