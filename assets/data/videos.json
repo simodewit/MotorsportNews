@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T16:58:56.715Z",
+  "generatedAt": "2026-04-16T09:14:56.029Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "HAj0ibTy3gw",
+      "title": "Technical Review Of The F1 Season So Far | F1 TV Tech Talk",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "SOBCnJoEw6I",
+      "title": "How F1 Drivers Get Ready 🪖",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "5q_OLg3n_l4",
       "title": "Nico & Gabi Take On Grid Games! 💪",
       "channel": "FORMULA 1",
@@ -77,28 +99,6 @@
     {
       "videoId": "VrORfPucQVo",
       "title": "Nico Hulkenberg & Gabriel Bortoleto Take On F1 Grid Games!",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "C45_zPRNcdY",
-      "title": "Bernd Maylander: 500 Races In The Safety Car | F1 Beyond The Grid",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "6MyFyJBXZ7w",
-      "title": "Tell Us Your Hair Secrets, Oscar 💇‍♂️",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "kFnP2hOPi3o",
+      "title": "PURE Sound of All The Hypercars and LMGT3s from 2026 FIA WEC 👀",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "X9ksnBj5sH8",
       "title": "DAMAGE drama as bodywork hangs loose at Imola 😳",
       "channel": "FIA World Endurance Championship",
@@ -176,17 +187,6 @@
     {
       "videoId": "w62OLa4_Y1w",
       "title": "5 Incredible Imola Moments 🇮🇹",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "WBVbV3zWGZg",
-      "title": "Buemi at His Best - WEC’s Silent Dominator 🔥 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
