@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T19:04:12.532Z",
+  "generatedAt": "2026-04-17T01:59:38.074Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "oliver-bearman-blames-franco-colapinto-for-f1-japanese-gp-crash-0",
-      "title": "Oliver Bearman blames Franco Colapinto for F1 Japanese GP crash",
+      "id": "max-verstappens-gt3-rise-praised-by-f1-safety-car-driver-bernd-maylander-0",
+      "title": "Max Verstappen’s GT3 rise praised by F1 safety car driver Bernd Maylander",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/bearman-blames-colapinto-for-japan-crash/10813212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-gt3-rise-praised-by-f1-safety-car-driver-bernd-maylander/10813116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "oliver-bearman-blames-franco-colapinto-for-f1-japanese-gp-crash-0",
+      "id": "max-verstappens-gt3-rise-praised-by-f1-safety-car-driver-bernd-maylander-0",
+      "title": "Max Verstappen’s GT3 rise praised by F1 safety car driver Bernd Maylander",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-gt3-rise-praised-by-f1-safety-car-driver-bernd-maylander/10813116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 16, 2026"
+    },
+    {
+      "id": "cadillac-f1-announces-free-miami-fan-experience-for-2026-grand-prix-weekend-1",
+      "title": "Cadillac F1 announces free Miami fan experience for 2026 grand prix weekend",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/cadillac-f1-announces-free-miami-fan-experience-for-2026-grand-prix-weekend/10813175/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 16, 2026"
+    },
+    {
+      "id": "oliver-bearman-blames-franco-colapinto-for-f1-japanese-gp-crash-2",
       "title": "Oliver Bearman blames Franco Colapinto for F1 Japanese GP crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/bearman-blames-colapinto-for-japan-crash/10813212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Apr 16, 2026"
     },
     {
-      "id": "niels-wittich-michael-masi-a-scapegoat-who-didnt-do-much-wrong-at-abu-dhabi-2021-1",
+      "id": "niels-wittich-michael-masi-a-scapegoat-who-didnt-do-much-wrong-at-abu-dhabi-2021-3",
       "title": "Niels Wittich: Michael Masi a “scapegoat” who “didn’t do much wrong” at Abu Dhabi 2021",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/abu-dhabi-2021-michael-masi-was-a-scapegoat-and-didnt-do-that-much-wrong/10813209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 16, 2026"
-    },
-    {
-      "id": "mick-schumacher-says-f1-will-find-a-solution-to-improve-2026-regulations-2",
-      "title": "Mick Schumacher says F1 \"will find a solution\" to improve 2026 regulations ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mick-schumacher-says-f1-will-find-a-solution-to-improve-2026-regulations-/10812996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 16, 2026"
-    },
-    {
-      "id": "racing-bulls-planning-double-upgrade-due-to-enforced-april-break-for-f1-3",
-      "title": "Racing Bulls planning double upgrade due to enforced April break for F1",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/racing-bulls-planning-double-upgrade-due-to-enforced-april-break-for-f1/10813123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
