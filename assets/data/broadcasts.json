@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T08:40:32.416Z",
+  "generatedAt": "2026-04-18T16:31:07.067Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -68,21 +68,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "o9vj-7stf4E",
       "url": "https://www.youtube.com/watch?v=o9vj-7stf4E",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Max Verstappen Attempts To Qualify for ADAC RAVENOL 24h Nürburgring | Race 1",
-      "channel": "Red Bull Motorsports",
-      "videoId": "IQKeFdS9ytE",
-      "url": "https://www.youtube.com/watch?v=IQKeFdS9ytE",
       "series": [
         "other"
       ],
