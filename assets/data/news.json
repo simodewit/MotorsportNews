@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T01:50:49.547Z",
+  "generatedAt": "2026-04-18T06:59:46.771Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "martin-brundle-labels-williamss-2026-f1-start-very-concerning-after-early-setbacks-0",
-      "title": "Martin Brundle labels Williams’s 2026 F1 start “very concerning” after early setbacks",
+      "id": "bernd-maylander-explains-how-1994-san-marino-gp-tragedy-transformed-f1s-safety-car-system-0",
+      "title": "Bernd Maylander explains how 1994 San Marino GP tragedy transformed F1’s safety car system",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-labels-williamss-2026-f1-start-very-concerning-after-early-setbacks/10813362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/bernd-maylander-explains-how-1994-san-marino-gp-tragedy-transformed-f1s-safety-car-system/10813332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 17, 2026"
+      "publishedLabel": "Apr 18, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "martin-brundle-labels-williamss-2026-f1-start-very-concerning-after-early-setbacks-0",
+      "id": "bernd-maylander-explains-how-1994-san-marino-gp-tragedy-transformed-f1s-safety-car-system-0",
+      "title": "Bernd Maylander explains how 1994 San Marino GP tragedy transformed F1’s safety car system",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/bernd-maylander-explains-how-1994-san-marino-gp-tragedy-transformed-f1s-safety-car-system/10813332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 18, 2026"
+    },
+    {
+      "id": "martin-brundle-labels-williamss-2026-f1-start-very-concerning-after-early-setbacks-1",
       "title": "Martin Brundle labels Williams’s 2026 F1 start “very concerning” after early setbacks",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/martin-brundle-labels-williamss-2026-f1-start-very-concerning-after-early-setbacks/10813362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 17, 2026"
     },
     {
-      "id": "red-bull-faces-awkward-gianpiero-lambiase-dilemma-ahead-of-mclaren-move-says-david-coulthard-1",
+      "id": "red-bull-faces-awkward-gianpiero-lambiase-dilemma-ahead-of-mclaren-move-says-david-coulthard-2",
       "title": "Red Bull faces \"awkward\" Gianpiero Lambiase dilemma ahead of McLaren move, says David Coulthard",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/red-bull-face-awkward-gianpiero-lambiase-dilemma-ahead-of-mclaren-move-says-david-coulthard/10813426/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 17, 2026"
     },
     {
-      "id": "ollie-bearman-opens-up-on-lewis-hamiltons-message-after-ferrari-f1-debut-2",
+      "id": "ollie-bearman-opens-up-on-lewis-hamiltons-message-after-ferrari-f1-debut-3",
       "title": "Ollie Bearman opens up on Lewis Hamilton’s message after Ferrari F1 debut",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ollie-bearman-opens-up-on-lewis-hamiltons-message-after-ferrari-f1-debut/10813367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 17, 2026"
-    },
-    {
-      "id": "colton-herta-admits-indycar-absence-hurts-a-bit-during-f2-season-3",
-      "title": "Colton Herta admits IndyCar absence \"hurts a bit\" during F2 season",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/colton-herta-admits-indycar-absence-hurts-a-bit-during-f2-season/10813502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
