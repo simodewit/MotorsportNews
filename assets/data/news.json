@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T18:38:52.612Z",
+  "generatedAt": "2026-04-19T02:04:02.776Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "the-key-lesson-f1-has-learned-ahead-of-the-next-rule-change-0",
-      "title": "The key lesson F1 has learned ahead of the next rule change",
+      "id": "aston-martins-2026-woes-laid-bare-as-karun-chandhok-questions-jonathan-wheatley-fix-0",
+      "title": "Aston Martin’s 2026 woes laid bare as Karun Chandhok questions Jonathan Wheatley fix",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-key-lesson-f1-has-learned-ahead-of-the-next-rule-change/10813605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/aston-martins-2026-woes-laid-bare-as-karun-chandhok-questions-jonathan-wheatley-fix/10813610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "the-key-lesson-f1-has-learned-ahead-of-the-next-rule-change-0",
+      "id": "aston-martins-2026-woes-laid-bare-as-karun-chandhok-questions-jonathan-wheatley-fix-0",
+      "title": "Aston Martin’s 2026 woes laid bare as Karun Chandhok questions Jonathan Wheatley fix",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/aston-martins-2026-woes-laid-bare-as-karun-chandhok-questions-jonathan-wheatley-fix/10813610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 18, 2026"
+    },
+    {
+      "id": "charles-leclerc-delivers-optimistic-ferrari-verdict-after-strong-2026-progress-1",
+      "title": "Charles Leclerc delivers optimistic Ferrari verdict after strong 2026 progress",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-delivers-optimistic-ferrari-verdict-after-strong-2026-progress/10813693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 18, 2026"
+    },
+    {
+      "id": "the-key-lesson-f1-has-learned-ahead-of-the-next-rule-change-2",
       "title": "The key lesson F1 has learned ahead of the next rule change",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-key-lesson-f1-has-learned-ahead-of-the-next-rule-change/10813605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Apr 18, 2026"
     },
     {
-      "id": "doriane-pin-reflects-on-unreal-maiden-f1-test-an-extremely-emotional-day-1",
+      "id": "doriane-pin-reflects-on-unreal-maiden-f1-test-an-extremely-emotional-day-3",
       "title": "Doriane Pin reflects on \"unreal\" maiden F1 test: \"An extremely emotional day\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/doriane-pin-reflects-on-unreal-maiden-f1-test-an-extremely-emotional-day/10813684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 18, 2026"
-    },
-    {
-      "id": "susie-wolff-sends-heartfelt-message-to-doriane-pin-for-mercedes-f1-test-2",
-      "title": "Susie Wolff sends heartfelt message to Doriane Pin for Mercedes F1 test",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/susie-wolff-sends-heartfelt-message-to-doriane-pin-ahead-of-mercedes-f1-test/10813680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 18, 2026"
-    },
-    {
-      "id": "jolyon-palmer-delivers-brutal-verdict-on-aston-martins-nightmare-2026-f1-start-3",
-      "title": "Jolyon Palmer delivers brutal verdict on Aston Martin’s nightmare 2026 F1 start",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/jolyon-palmer-delivers-brutal-verdict-on-aston-martins-nightmare-2026-f1-start/10813593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "Apr 17, 2026"
     },
     {
-      "id": "will-power-says-father-wrestling-gunman-was-just-another-day-0",
+      "id": "felix-rosenqvist-hopes-long-beach-pole-kickstarts-indycar-season-turnaround-0",
+      "title": "Felix Rosenqvist hopes Long Beach pole kickstarts IndyCar season turnaround",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-hopes-long-beach-pole-kickstarts-indycar-season-turnaround/10813755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 19, 2026"
+    },
+    {
+      "id": "2026-indycar-long-beach-starting-lineup-felix-rosenqvist-beats-pato-oward-to-pole-1",
+      "title": "2026 IndyCar Long Beach starting lineup: Felix Rosenqvist beats Pato O’Ward to pole",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-beats-pato-oward-to-long-beach-indycar-pole/10813748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 19, 2026"
+    },
+    {
+      "id": "will-power-says-father-wrestling-gunman-was-just-another-day-2",
       "title": "Will Power says father wrestling gunman was \"just another day\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/will-power-not-surprised-his-father-wrestled-with-gunman-in-crazy-encounter/10813508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Apr 17, 2026"
     },
     {
-      "id": "current-street-course-woes-make-long-beach-a-critical-weekend-for-graham-rahal-1",
+      "id": "current-street-course-woes-make-long-beach-a-critical-weekend-for-graham-rahal-3",
       "title": "Current street course woes make Long Beach “a critical weekend” for Graham Rahal",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/current-street-course-woes-make-long-beach-a-critical-weekend-for-graham-rahal/10813483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Apr 17, 2026"
-    },
-    {
-      "id": "oward-f1-has-become-an-artificial-show-while-indycar-is-where-the-real-racing-is-2",
-      "title": "O'Ward: F1 has become an \"artificial\" show, while IndyCar is where the real racing is",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/oward-f1-has-become-an-artificial-show-while-indycar-is-where-the-real-racing-is/10813468/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 17, 2026"
-    },
-    {
-      "id": "how-to-watch-indycar-2026-at-long-beach-weekend-schedule-start-time-tv-3",
-      "title": "How to watch IndyCar 2026 at Long Beach: Weekend schedule, start time, TV",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-at-long-beach-weekend-schedule-start-time-tv/10813012/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 16, 2026"
     },
     {
       "id": "wec-imola-ferrari-snatches-pole-from-toyota-0",
