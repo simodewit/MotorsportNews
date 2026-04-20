@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T02:04:54.877Z",
+  "generatedAt": "2026-04-20T07:56:45.208Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "why-cadillac-has-already-exceeded-expectations-in-f1-according-to-alex-jacques-0",
-      "title": "Why Cadillac has already exceeded expectations in F1, according to Alex Jacques",
+      "id": "ollie-bearmans-ferrari-f1-hopes-boosted-by-karun-chandhoks-verdict-on-haas-progress-0",
+      "title": "Ollie Bearman’s Ferrari F1 hopes boosted by Karun Chandhok's verdict on Haas progress",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/alex-jacques-cadillac/10813812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/ollie-bearmans-ferrari-f1-hopes-boosted-by-karun-chandhoks-verdict-on-haas-progress/10813928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "why-cadillac-has-already-exceeded-expectations-in-f1-according-to-alex-jacques-0",
+      "id": "ollie-bearmans-ferrari-f1-hopes-boosted-by-karun-chandhoks-verdict-on-haas-progress-0",
+      "title": "Ollie Bearman’s Ferrari F1 hopes boosted by Karun Chandhok's verdict on Haas progress",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/ollie-bearmans-ferrari-f1-hopes-boosted-by-karun-chandhoks-verdict-on-haas-progress/10813928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 20, 2026"
+    },
+    {
+      "id": "why-cadillac-has-already-exceeded-expectations-in-f1-according-to-alex-jacques-1",
       "title": "Why Cadillac has already exceeded expectations in F1, according to Alex Jacques",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/alex-jacques-cadillac/10813812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "david-croft-hopes-for-fia-action-before-british-gp-as-he-shares-fears-iconic-corners-could-suffer-1",
+      "id": "david-croft-hopes-for-fia-action-before-british-gp-as-he-shares-fears-iconic-corners-could-suffer-2",
       "title": "David Croft hopes for FIA action before British GP as he shares fears iconic corners could suffer",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/david-croft-hopes-for-fia-action-before-british-gp-as-he-shares-fears-iconic-corners-could-suffer/10813077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 19, 2026"
     },
     {
-      "id": "james-vowles-explains-why-he-chose-williams-over-three-other-f1-team-offers-2",
+      "id": "james-vowles-explains-why-he-chose-williams-over-three-other-f1-team-offers-3",
       "title": "James Vowles explains why he chose Williams over three other F1 team offers",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/james-vowles-explains-why-he-chose-williams-over-three-other-f1-team-offers/10813801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 19, 2026"
-    },
-    {
-      "id": "george-russell-returns-to-karting-roots-with-toto-and-susie-wolff-during-f1-break-3",
-      "title": "George Russell returns to karting roots with Toto and Susie Wolff during F1 break",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-returns-to-karting-roots-with-toto-and-susie-wolff-during-f1-brea/10813839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,40 @@
       "publishedLabel": "Apr 17, 2026"
     },
     {
-      "id": "official-race-results-indycar-2026-grand-prix-of-long-beach-0",
+      "id": "complete-indycar-championship-standings-after-long-beach-2026-0",
+      "title": "Complete IndyCar championship standings after Long Beach 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-long-beach-2026/10813949/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 20, 2026"
+    },
+    {
+      "id": "scott-dixon-calls-long-beach-race-blah-despite-first-podium-of-indycar-season-1",
+      "title": "Scott Dixon calls Long Beach race \"blah\" despite first podium of IndyCar season",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/scott-dixon-calls-long-beach-race-blah-despite-first-podium-of-indycar-season/10813961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 20, 2026"
+    },
+    {
+      "id": "felix-rosenqvist-feeling-mixed-emotions-after-long-beach-win-slips-away-2",
+      "title": "Felix Rosenqvist feeling mixed emotions after Long Beach win slips away ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-feeling-mixed-emotions-after-long-beach-win-slips-away-/10813958/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 20, 2026"
+    },
+    {
+      "id": "official-race-results-indycar-2026-grand-prix-of-long-beach-3",
       "title": "Official race results: IndyCar 2026 Grand Prix of Long Beach",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/official-race-results-indycar-2026-grand-prix-of-long-beach/10813944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -273,39 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "alex-palou-beats-felix-rosenqvist-to-take-first-long-beach-indycar-win-1",
-      "title": "Alex Palou beats Felix Rosenqvist to take first Long Beach IndyCar win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/alex-palou-beats-felix-rosenqvist-to-take-first-long-beach-indycar-win/10813941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 19, 2026"
-    },
-    {
-      "id": "felix-rosenqvist-hopes-long-beach-pole-kickstarts-indycar-season-turnaround-2",
-      "title": "Felix Rosenqvist hopes Long Beach pole kickstarts IndyCar season turnaround",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-hopes-long-beach-pole-kickstarts-indycar-season-turnaround/10813755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 19, 2026"
-    },
-    {
-      "id": "2026-indycar-long-beach-starting-lineup-felix-rosenqvist-beats-pato-oward-to-pole-3",
-      "title": "2026 IndyCar Long Beach starting lineup: Felix Rosenqvist beats Pato O’Ward to pole",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-beats-pato-oward-to-long-beach-indycar-pole/10813748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 19, 2026"
     },
     {
       "id": "wec-imola-toyota-denies-ferrari-home-win-in-season-opener-0",
