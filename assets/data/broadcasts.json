@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T16:31:32.626Z",
+  "generatedAt": "2026-04-20T09:52:51.092Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 シェイクダウン ライブ！WRC Rally Islas Canarias - Rally of Spain 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "o5u1x3tKyCE",
+      "url": "https://www.youtube.com/watch?v=o5u1x3tKyCE",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 Shakedown LIVE | WRC Rally Islas Canarias - Rally of Spain 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "BDHg0EJGKqs",
+      "url": "https://www.youtube.com/watch?v=BDHg0EJGKqs",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
