@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T18:39:17.252Z",
+  "generatedAt": "2026-04-20T02:04:54.877Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "f1-bosses-explain-long-term-push-to-fill-24-race-calendar-0",
-      "title": "F1 bosses explain long-term push to fill 24-race calendar",
+      "id": "why-cadillac-has-already-exceeded-expectations-in-f1-according-to-alex-jacques-0",
+      "title": "Why Cadillac has already exceeded expectations in F1, according to Alex Jacques",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/whats-behind-f1s-long-term-push-to-fill-its-24-race-calendar/10813879/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/alex-jacques-cadillac/10813812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 19, 2026"
+      "publishedLabel": "Apr 20, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -88,10 +88,21 @@
   ],
   "articles": [
     {
-      "id": "f1-bosses-explain-long-term-push-to-fill-24-race-calendar-0",
-      "title": "F1 bosses explain long-term push to fill 24-race calendar",
+      "id": "why-cadillac-has-already-exceeded-expectations-in-f1-according-to-alex-jacques-0",
+      "title": "Why Cadillac has already exceeded expectations in F1, according to Alex Jacques",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/whats-behind-f1s-long-term-push-to-fill-its-24-race-calendar/10813879/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/alex-jacques-cadillac/10813812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 20, 2026"
+    },
+    {
+      "id": "david-croft-hopes-for-fia-action-before-british-gp-as-he-shares-fears-iconic-corners-could-suffer-1",
+      "title": "David Croft hopes for FIA action before British GP as he shares fears iconic corners could suffer",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/david-croft-hopes-for-fia-action-before-british-gp-as-he-shares-fears-iconic-corners-could-suffer/10813077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -99,10 +110,10 @@
       "publishedLabel": "Apr 19, 2026"
     },
     {
-      "id": "when-a-journeyman-drivers-f1-career-lasted-just-800m-1",
-      "title": "When a journeyman driver's F1 career lasted just 800m",
+      "id": "james-vowles-explains-why-he-chose-williams-over-three-other-f1-team-offers-2",
+      "title": "James Vowles explains why he chose Williams over three other F1 team offers",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/when-a-journeyman-drivers-f1-career-lasted-just-800m/6077410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/james-vowles-explains-why-he-chose-williams-over-three-other-f1-team-offers/10813801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 19, 2026"
     },
     {
-      "id": "martin-brundle-opens-up-on-the-brutal-moment-he-learned-he-had-lost-his-f1-seat-2",
-      "title": "Martin Brundle opens up on the brutal moment he learned he had lost his F1 seat",
+      "id": "george-russell-returns-to-karting-roots-with-toto-and-susie-wolff-during-f1-break-3",
+      "title": "George Russell returns to karting roots with Toto and Susie Wolff during F1 break",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-opens-up-on-the-brutal-moment-he-learned-he-had-lost-his-f1-seat/10813850/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 19, 2026"
-    },
-    {
-      "id": "mark-webbers-oscar-piastri-role-change-was-inevitable-says-david-coulthard-3",
-      "title": "Mark Webber’s Oscar Piastri role change was inevitable, says David Coulthard",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mark-webbers-oscar-piastri-role-change-was-inevitable-says-david-coulthard/10813666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/george-russell-returns-to-karting-roots-with-toto-and-susie-wolff-during-f1-brea/10813839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "Apr 17, 2026"
     },
     {
-      "id": "felix-rosenqvist-hopes-long-beach-pole-kickstarts-indycar-season-turnaround-0",
+      "id": "official-race-results-indycar-2026-grand-prix-of-long-beach-0",
+      "title": "Official race results: IndyCar 2026 Grand Prix of Long Beach",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/official-race-results-indycar-2026-grand-prix-of-long-beach/10813944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 20, 2026"
+    },
+    {
+      "id": "alex-palou-beats-felix-rosenqvist-to-take-first-long-beach-indycar-win-1",
+      "title": "Alex Palou beats Felix Rosenqvist to take first Long Beach IndyCar win",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/alex-palou-beats-felix-rosenqvist-to-take-first-long-beach-indycar-win/10813941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 19, 2026"
+    },
+    {
+      "id": "felix-rosenqvist-hopes-long-beach-pole-kickstarts-indycar-season-turnaround-2",
       "title": "Felix Rosenqvist hopes Long Beach pole kickstarts IndyCar season turnaround",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-hopes-long-beach-pole-kickstarts-indycar-season-turnaround/10813755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Apr 19, 2026"
     },
     {
-      "id": "2026-indycar-long-beach-starting-lineup-felix-rosenqvist-beats-pato-oward-to-pole-1",
+      "id": "2026-indycar-long-beach-starting-lineup-felix-rosenqvist-beats-pato-oward-to-pole-3",
       "title": "2026 IndyCar Long Beach starting lineup: Felix Rosenqvist beats Pato O’Ward to pole",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-beats-pato-oward-to-long-beach-indycar-pole/10813748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Apr 19, 2026"
-    },
-    {
-      "id": "will-power-says-father-wrestling-gunman-was-just-another-day-2",
-      "title": "Will Power says father wrestling gunman was \"just another day\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/will-power-not-surprised-his-father-wrestled-with-gunman-in-crazy-encounter/10813508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 17, 2026"
-    },
-    {
-      "id": "current-street-course-woes-make-long-beach-a-critical-weekend-for-graham-rahal-3",
-      "title": "Current street course woes make Long Beach “a critical weekend” for Graham Rahal",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/current-street-course-woes-make-long-beach-a-critical-weekend-for-graham-rahal/10813483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 17, 2026"
     },
     {
       "id": "wec-imola-toyota-denies-ferrari-home-win-in-season-opener-0",
