@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-04-13T06:13:52.858Z",
+  "generatedAt": "2026-04-20T06:13:59.504Z",
   "window": {
-    "startDate": "2026-04-19"
+    "startDate": "2026-05-09"
   },
   "sources": [
     {
@@ -372,6 +372,25 @@
       ]
     },
     {
+      "id": "6-hours-of-imola-free-3-2026-04-18",
+      "name": "6 Hours of Imola (Free 3)",
+      "venue": "Imola Circuit",
+      "startDate": "2026-04-18",
+      "endDate": "2026-04-19",
+      "series": [
+        {
+          "id": "wec",
+          "name": "WEC",
+          "sessions": [
+            "Practice 3",
+            "Practice",
+            "Qualifying",
+            "Race"
+          ]
+        }
+      ]
+    },
+    {
       "id": "acura-grand-prix-of-long-beach-2026-04-19",
       "name": "Acura Grand Prix of Long Beach",
       "venue": "Acura  of Long Beach",
@@ -381,22 +400,6 @@
         {
           "id": "indycar",
           "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6-hours-of-imola-2026-04-19",
-      "name": "6 Hours of Imola",
-      "venue": "Imola Circuit",
-      "startDate": "2026-04-19",
-      "endDate": "2026-04-19",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
           "sessions": [
             "Race"
           ]
