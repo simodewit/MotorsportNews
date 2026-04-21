@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T09:18:42.639Z",
+  "generatedAt": "2026-04-21T16:52:06.656Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -88,6 +88,36 @@
       ],
       "seriesLabels": [
         "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Jerez: Race 2",
+      "channel": "Red Bull Motorsports",
+      "videoId": "rUY7B57PLXM",
+      "url": "https://www.youtube.com/watch?v=rUY7B57PLXM",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Jerez: Race 1",
+      "channel": "Red Bull Motorsports",
+      "videoId": "3WZvQVxTChk",
+      "url": "https://www.youtube.com/watch?v=3WZvQVxTChk",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
