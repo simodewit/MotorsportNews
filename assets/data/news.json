@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T13:10:16.536Z",
+  "generatedAt": "2026-04-21T19:03:42.673Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-0",
-      "title": "\"The more you run, the more you learn\" - how F1's break is impacting Ferrari",
+      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-0",
+      "title": "Jacky Ickx: If 2026 F1 rules grow audiences \"that’s fine, it’s all that matters”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-more-you-run-the-more-you-learn-how-f1s-april-break-is-impacting-ferrari/10814250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/jacky-ickx-surprises-everyone-if-f1-boosts-ratings-thats-fine-thats-all-that-matters/10814344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-0",
+      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-0",
+      "title": "Jacky Ickx: If 2026 F1 rules grow audiences \"that’s fine, it’s all that matters”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/jacky-ickx-surprises-everyone-if-f1-boosts-ratings-thats-fine-thats-all-that-matters/10814344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 21, 2026"
+    },
+    {
+      "id": "comparing-top-formula-1-drivers-to-nba-stars-1",
+      "title": "Comparing top Formula 1 drivers to NBA stars",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/comparing-each-top-f1-driver-to-an-nba-star/10814198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 21, 2026"
+    },
+    {
+      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-2",
       "title": "\"The more you run, the more you learn\" - how F1's break is impacting Ferrari",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-more-you-run-the-more-you-learn-how-f1s-april-break-is-impacting-ferrari/10814250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Apr 21, 2026"
     },
     {
-      "id": "james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal-1",
+      "id": "james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal-3",
       "title": "James Vowles reveals huge Toto Wolff role in his rise to Williams team principal",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal/10814064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "fia-confirms-2026-f1-rule-changes-ahead-of-miami-grand-prix-2",
-      "title": "FIA confirms 2026 F1 rule changes ahead of Miami Grand Prix",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fia-confirms-2026-f1-rule-changes-ahead-of-miami-grand-prix/10814169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "brutal-williams-verdict-delivered-like-talking-about-a-special-holiday-and-missing-the-flight-3",
-      "title": "Brutal Williams verdict delivered: 'Like talking about a special holiday and missing the flight'",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/brutal-williams-verdict-delivered-like-talking-about-a-special-holiday-and-missing-the-flight/10814055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "long-beach-win-probably-ranks-top-three-for-alex-palou-0",
+      "id": "winners-and-losers-from-the-indycar-grand-prix-of-long-beach-0",
+      "title": "Winners and losers from the IndyCar Grand Prix of Long Beach",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-grand-prix-of-long-beach/10814356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 21, 2026"
+    },
+    {
+      "id": "indycar-officiating-confirms-scot-elkins-as-managing-director-of-officiating-1",
+      "title": "IndyCar Officiating confirms Scot Elkins as Managing Director of Officiating",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-officiating-confirms-scot-elkins-as-managing-director-of-officiating/10814339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 21, 2026"
+    },
+    {
+      "id": "long-beach-win-probably-ranks-top-three-for-alex-palou-2",
       "title": "Long Beach win “probably ranks top three” for Alex Palou",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/long-beach-win-probably-ranks-top-three-for-alex-palou/10814208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,32 +297,10 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "indycar-reveals-push-to-pass-software-failure-wont-issue-penalties-1",
+      "id": "indycar-reveals-push-to-pass-software-failure-wont-issue-penalties-3",
       "title": "IndyCar reveals Push to Pass software failure, won't issue penalties",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-reveals-software-failure-that-made-push-to-pass-available-on-final-restart/10814140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "jacob-abel-set-to-run-indy-500-with-abel-motorsports-2",
-      "title": "Jacob Abel set to run Indy 500 with Abel Motorsports",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/jacob-abel-set-to-run-indy-500-with-abel-motorsports/10814138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "how-ayrton-sennas-penske-indycar-test-unfolded-3",
-      "title": "How Ayrton Senna's Penske IndyCar test unfolded",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/the-day-ayrton-senna-tested-a-penske-indy-car-666926/666926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
