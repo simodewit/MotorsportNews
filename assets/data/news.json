@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T18:56:41.963Z",
+  "generatedAt": "2026-04-21T02:00:30.720Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,18 @@
       "publishedLabel": "Apr 18, 2026"
     },
     {
-      "id": "indycar-reveals-push-to-pass-software-failure-wont-issue-penalties-0",
+      "id": "long-beach-win-probably-ranks-top-three-for-alex-palou-0",
+      "title": "Long Beach win “probably ranks top three” for Alex Palou",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/long-beach-win-probably-ranks-top-three-for-alex-palou/10814208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 20, 2026"
+    },
+    {
+      "id": "indycar-reveals-push-to-pass-software-failure-wont-issue-penalties-1",
       "title": "IndyCar reveals Push to Pass software failure, won't issue penalties",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-reveals-software-failure-that-made-push-to-pass-available-on-final-restart/10814140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "jacob-abel-set-to-run-indy-500-with-abel-motorsports-1",
+      "id": "jacob-abel-set-to-run-indy-500-with-abel-motorsports-2",
       "title": "Jacob Abel set to run Indy 500 with Abel Motorsports",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/jacob-abel-set-to-run-indy-500-with-abel-motorsports/10814138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "how-ayrton-sennas-penske-indycar-test-unfolded-2",
+      "id": "how-ayrton-sennas-penske-indycar-test-unfolded-3",
       "title": "How Ayrton Senna's Penske IndyCar test unfolded",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/the-day-ayrton-senna-tested-a-penske-indy-car-666926/666926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "complete-indycar-championship-standings-after-long-beach-2026-3",
-      "title": "Complete IndyCar championship standings after Long Beach 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-long-beach-2026/10813949/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
