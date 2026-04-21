@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T17:00:29.509Z",
+  "generatedAt": "2026-04-21T09:18:42.639Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2021 Spanish GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "aUWz33Kpdgc",
+      "url": "https://www.youtube.com/watch?v=aUWz33Kpdgc",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
