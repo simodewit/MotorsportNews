@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T07:26:05.763Z",
+  "generatedAt": "2026-04-21T13:10:16.536Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal-0",
-      "title": "James Vowles reveals huge Toto Wolff role in his rise to Williams team principal",
+      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-0",
+      "title": "\"The more you run, the more you learn\" - how F1's break is impacting Ferrari",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal/10814064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/the-more-you-run-the-more-you-learn-how-f1s-april-break-is-impacting-ferrari/10814250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 20, 2026"
+      "publishedLabel": "Apr 21, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -75,20 +75,31 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "giacomo-agostini-backs-2027-motogp-rules-wings-belong-on-planes-not-bikes-0",
-      "title": "Giacomo Agostini backs 2027 MotoGP rules: “Wings belong on planes, not bikes”",
+      "id": "why-ducati-stronghold-jerez-presents-aprilias-ultimate-motogp-test-0",
+      "title": "Why Ducati stronghold Jerez presents Aprilia’s ultimate MotoGP test",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/agostini-2027-regulation-changes-/10813979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/why-spanish-gp-presents-aprilia-biggest-challenge/10814047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 20, 2026"
+      "publishedLabel": "Apr 21, 2026"
     }
   ],
   "articles": [
     {
-      "id": "james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal-0",
+      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-0",
+      "title": "\"The more you run, the more you learn\" - how F1's break is impacting Ferrari",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/the-more-you-run-the-more-you-learn-how-f1s-april-break-is-impacting-ferrari/10814250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 21, 2026"
+    },
+    {
+      "id": "james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal-1",
       "title": "James Vowles reveals huge Toto Wolff role in his rise to Williams team principal",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal/10814064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "fia-confirms-2026-f1-rule-changes-ahead-of-miami-grand-prix-1",
+      "id": "fia-confirms-2026-f1-rule-changes-ahead-of-miami-grand-prix-2",
       "title": "FIA confirms 2026 F1 rule changes ahead of Miami Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fia-confirms-2026-f1-rule-changes-ahead-of-miami-grand-prix/10814169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "brutal-williams-verdict-delivered-like-talking-about-a-special-holiday-and-missing-the-flight-2",
+      "id": "brutal-williams-verdict-delivered-like-talking-about-a-special-holiday-and-missing-the-flight-3",
       "title": "Brutal Williams verdict delivered: 'Like talking about a special holiday and missing the flight'",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/brutal-williams-verdict-delivered-like-talking-about-a-special-holiday-and-missing-the-flight/10814055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "mercedes-disappointed-if-aduo-affects-f1-title-fight-no-place-for-gamesmanship-3",
-      "title": "Mercedes “disappointed” if ADUO affects F1 title fight: “No place for gamesmanship”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-disappointed-if-aduo-affects-f1-title-fight-no-place-for-gamesmanship/10814154/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "giacomo-agostini-backs-2027-motogp-rules-wings-belong-on-planes-not-bikes-0",
+      "id": "why-ducati-stronghold-jerez-presents-aprilias-ultimate-motogp-test-0",
+      "title": "Why Ducati stronghold Jerez presents Aprilia’s ultimate MotoGP test",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/why-spanish-gp-presents-aprilia-biggest-challenge/10814047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 21, 2026"
+    },
+    {
+      "id": "motogp-star-pedro-acosta-wants-to-keep-racing-beyond-35-1",
+      "title": "MotoGP star Pedro Acosta wants to keep racing beyond 35",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/motogp-star-pedro-acosta-wants-to-keep-racing-beyond-35/10814114/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 21, 2026"
+    },
+    {
+      "id": "giacomo-agostini-backs-2027-motogp-rules-wings-belong-on-planes-not-bikes-2",
       "title": "Giacomo Agostini backs 2027 MotoGP rules: “Wings belong on planes, not bikes”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/agostini-2027-regulation-changes-/10813979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +253,7 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "injured-maverick-vinales-to-miss-spanish-gp-after-undergoing-surgery-1",
+      "id": "injured-maverick-vinales-to-miss-spanish-gp-after-undergoing-surgery-3",
       "title": "Injured Maverick Vinales to miss Spanish GP after undergoing surgery",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/injured-maverick-vinales-to-miss-spanish-gp-after-undergoing-surgery/10814023/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -240,28 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "has-ducati-stagnated-or-have-its-motogp-rivals-caught-up-2",
-      "title": "Has Ducati stagnated or have its MotoGP rivals caught up?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/has-ducati-stagnated-or-have-rivals-caught-up-in-motogp/10813766/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 19, 2026"
-    },
-    {
-      "id": "ktm-riders-say-top-speed-advantage-has-disappeared-in-motogp-3",
-      "title": "KTM riders say top speed advantage has disappeared in MotoGP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ktm-top-speed-advantage-disappears/10813537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 18, 2026"
     },
     {
       "id": "long-beach-win-probably-ranks-top-three-for-alex-palou-0",
