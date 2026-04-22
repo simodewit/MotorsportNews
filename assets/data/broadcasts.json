@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T16:52:06.656Z",
+  "generatedAt": "2026-04-22T09:13:36.305Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,6 +49,36 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
+      "title": "LIVE Race | 2026 F1 Sim Racing World Championship | Round 4: Saudi Arabia",
+      "channel": "FORMULA 1",
+      "videoId": "u82Ilj5x6EY",
+      "url": "https://www.youtube.com/watch?v=u82Ilj5x6EY",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE Qualifying | 2026 F1 Sim Racing World Championship | Round 4: Saudi Arabia",
+      "channel": "FORMULA 1",
+      "videoId": "SI7ULjVA8lE",
+      "url": "https://www.youtube.com/watch?v=SI7ULjVA8lE",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
       "title": "2021 Spanish GP | MotoGP™ Full Race",
       "channel": "MotoGP",
       "videoId": "aUWz33Kpdgc",
@@ -58,6 +88,36 @@
       ],
       "seriesLabels": [
         "MotoGP"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2026 Indianapolis 500 Open Test | Day 2 | INDYCAR SERIES",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "FB5m8cpkl9Q",
+      "url": "https://www.youtube.com/watch?v=FB5m8cpkl9Q",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2026 Indianapolis 500 Open Test | Day 1 | INDYCAR SERIES",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "oDYPzy1sRF4",
+      "url": "https://www.youtube.com/watch?v=oDYPzy1sRF4",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
