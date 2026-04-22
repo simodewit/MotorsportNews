@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T13:13:52.606Z",
+  "generatedAt": "2026-04-22T19:04:41.136Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026-0",
-      "title": "Question of the week: Are rule tweaks enough to fix F1 2026?",
+      "id": "the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut-0",
+      "title": "The good, the bad and the ugly from Cadillac’s F1 debut",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026/10814496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut/10814465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp-0",
-      "title": "Interview: Massimo Rivola on Aprilia's rise from last to first in MotoGP",
+      "id": "aprilia-explains-why-it-hasnt-tested-850cc-bike-yet-we-are-in-no-hurry-0",
+      "title": "Aprilia explains why it hasn’t tested 850cc bike yet: “We are in no hurry”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp/10814120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/aprilia-explains-why-it-hasnt-tested-850cc-bike-yet-we-are-in-no-hurry/10814123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026-0",
+      "id": "the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut-0",
+      "title": "The good, the bad and the ugly from Cadillac’s F1 debut",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut/10814465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "who-will-replace-max-verstappen-as-f1s-megastar-1",
+      "title": "Who will replace Max Verstappen as F1’s megastar?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-will-replace-max-verstappen-as-f1s-megastar/10814342/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026-2",
       "title": "Question of the week: Are rule tweaks enough to fix F1 2026?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026/10814496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Apr 22, 2026"
     },
     {
-      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-1",
+      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-3",
       "title": "Jacky Ickx: If 2026 F1 rules grow audiences \"that’s fine, it’s all that matters”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jacky-ickx-surprises-everyone-if-f1-boosts-ratings-thats-fine-thats-all-that-matters/10814344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 21, 2026"
-    },
-    {
-      "id": "comparing-top-formula-1-drivers-to-nba-stars-2",
-      "title": "Comparing top Formula 1 drivers to NBA stars",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/comparing-each-top-f1-driver-to-an-nba-star/10814198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 21, 2026"
-    },
-    {
-      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-3",
-      "title": "\"The more you run, the more you learn\" - how F1's break is impacting Ferrari",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-more-you-run-the-more-you-learn-how-f1s-april-break-is-impacting-ferrari/10814250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp-0",
+      "id": "aprilia-explains-why-it-hasnt-tested-850cc-bike-yet-we-are-in-no-hurry-0",
+      "title": "Aprilia explains why it hasn’t tested 850cc bike yet: “We are in no hurry”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/aprilia-explains-why-it-hasnt-tested-850cc-bike-yet-we-are-in-no-hurry/10814123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "the-dilemma-francesco-bagnaias-motogp-race-engineer-faces-for-2027-1",
+      "title": "The dilemma Francesco Bagnaia's MotoGP race engineer faces for 2027",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/the-dilemma-francesco-bagnaias-motogp-race-engineer-faces-for-2027/10814523/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp-2",
       "title": "Interview: Massimo Rivola on Aprilia's rise from last to first in MotoGP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp/10814120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +253,7 @@
       "publishedLabel": "Apr 22, 2026"
     },
     {
-      "id": "why-ai-oguras-yamaha-move-is-hondas-cruellest-lesson-1",
+      "id": "why-ai-oguras-yamaha-move-is-hondas-cruellest-lesson-3",
       "title": "Why Ai Ogura’s Yamaha move is Honda’s cruellest lesson",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/why-ai-oguras-yamaha-move-is-hondas-cruellest-lesson/10814452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -240,28 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Apr 22, 2026"
-    },
-    {
-      "id": "why-ducati-stronghold-jerez-presents-aprilias-ultimate-motogp-test-2",
-      "title": "Why Ducati stronghold Jerez presents Aprilia’s ultimate MotoGP test",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-spanish-gp-presents-aprilia-biggest-challenge/10814047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 21, 2026"
-    },
-    {
-      "id": "motogp-star-pedro-acosta-wants-to-keep-racing-beyond-35-3",
-      "title": "MotoGP star Pedro Acosta wants to keep racing beyond 35",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-star-pedro-acosta-wants-to-keep-racing-beyond-35/10814114/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 21, 2026"
     },
     {
       "id": "winners-and-losers-from-the-indycar-grand-prix-of-long-beach-0",
