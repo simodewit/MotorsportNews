@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T07:23:52.666Z",
+  "generatedAt": "2026-04-22T13:13:52.606Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-0",
-      "title": "Jacky Ickx: If 2026 F1 rules grow audiences \"that’s fine, it’s all that matters”",
+      "id": "question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026-0",
+      "title": "Question of the week: Are rule tweaks enough to fix F1 2026?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/jacky-ickx-surprises-everyone-if-f1-boosts-ratings-thats-fine-thats-all-that-matters/10814344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026/10814496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 21, 2026"
+      "publishedLabel": "Apr 22, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -75,20 +75,31 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "why-ducati-stronghold-jerez-presents-aprilias-ultimate-motogp-test-0",
-      "title": "Why Ducati stronghold Jerez presents Aprilia’s ultimate MotoGP test",
+      "id": "interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp-0",
+      "title": "Interview: Massimo Rivola on Aprilia's rise from last to first in MotoGP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-spanish-gp-presents-aprilia-biggest-challenge/10814047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp/10814120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 21, 2026"
+      "publishedLabel": "Apr 22, 2026"
     }
   ],
   "articles": [
     {
-      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-0",
+      "id": "question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026-0",
+      "title": "Question of the week: Are rule tweaks enough to fix F1 2026?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026/10814496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-1",
       "title": "Jacky Ickx: If 2026 F1 rules grow audiences \"that’s fine, it’s all that matters”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jacky-ickx-surprises-everyone-if-f1-boosts-ratings-thats-fine-thats-all-that-matters/10814344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 21, 2026"
     },
     {
-      "id": "comparing-top-formula-1-drivers-to-nba-stars-1",
+      "id": "comparing-top-formula-1-drivers-to-nba-stars-2",
       "title": "Comparing top Formula 1 drivers to NBA stars",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/comparing-each-top-f1-driver-to-an-nba-star/10814198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,7 +121,7 @@
       "publishedLabel": "Apr 21, 2026"
     },
     {
-      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-2",
+      "id": "the-more-you-run-the-more-you-learn-how-f1s-break-is-impacting-ferrari-3",
       "title": "\"The more you run, the more you learn\" - how F1's break is impacting Ferrari",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-more-you-run-the-more-you-learn-how-f1s-april-break-is-impacting-ferrari/10814250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -119,17 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Apr 21, 2026"
-    },
-    {
-      "id": "james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal-3",
-      "title": "James Vowles reveals huge Toto Wolff role in his rise to Williams team principal",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-huge-toto-wolff-role-in-his-rise-to-williams-team-principal/10814064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 20, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "why-ducati-stronghold-jerez-presents-aprilias-ultimate-motogp-test-0",
+      "id": "interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp-0",
+      "title": "Interview: Massimo Rivola on Aprilia's rise from last to first in MotoGP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/interview-massimo-rivola-on-aprilias-rise-from-last-to-first-in-motogp/10814120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "why-ai-oguras-yamaha-move-is-hondas-cruellest-lesson-1",
+      "title": "Why Ai Ogura’s Yamaha move is Honda’s cruellest lesson",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/why-ai-oguras-yamaha-move-is-hondas-cruellest-lesson/10814452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "why-ducati-stronghold-jerez-presents-aprilias-ultimate-motogp-test-2",
       "title": "Why Ducati stronghold Jerez presents Aprilia’s ultimate MotoGP test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/why-spanish-gp-presents-aprilia-biggest-challenge/10814047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +253,7 @@
       "publishedLabel": "Apr 21, 2026"
     },
     {
-      "id": "motogp-star-pedro-acosta-wants-to-keep-racing-beyond-35-1",
+      "id": "motogp-star-pedro-acosta-wants-to-keep-racing-beyond-35-3",
       "title": "MotoGP star Pedro Acosta wants to keep racing beyond 35",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-star-pedro-acosta-wants-to-keep-racing-beyond-35/10814114/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -240,28 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Apr 21, 2026"
-    },
-    {
-      "id": "giacomo-agostini-backs-2027-motogp-rules-wings-belong-on-planes-not-bikes-2",
-      "title": "Giacomo Agostini backs 2027 MotoGP rules: “Wings belong on planes, not bikes”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/agostini-2027-regulation-changes-/10813979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 20, 2026"
-    },
-    {
-      "id": "injured-maverick-vinales-to-miss-spanish-gp-after-undergoing-surgery-3",
-      "title": "Injured Maverick Vinales to miss Spanish GP after undergoing surgery",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/injured-maverick-vinales-to-miss-spanish-gp-after-undergoing-surgery/10814023/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 20, 2026"
     },
     {
       "id": "winners-and-losers-from-the-indycar-grand-prix-of-long-beach-0",
@@ -308,7 +308,18 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "opinion-why-wecs-bop-secrecy-stance-is-set-to-backfire-0",
+      "id": "wec-lmgt3-winner-shares-powerful-statement-on-nurburgring-tragedy-after-brush-with-death-0",
+      "title": "WEC LMGT3 winner shares powerful statement on Nurburgring tragedy after brush with death",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/he-was-nearly-dead-himself-wec-winner-delivers-powerful-speech-on-the-nurburgring-tragedy/10814424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "opinion-why-wecs-bop-secrecy-stance-is-set-to-backfire-1",
       "title": "Opinion: Why WEC’s BoP secrecy stance is set to backfire",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/opinion-why-wecs-bop-secrecy-stance-is-set-to-backfire/10814039/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "ferrari-explains-where-toyota-gained-the-upper-hand-in-imola-wec-opener-1",
+      "id": "ferrari-explains-where-toyota-gained-the-upper-hand-in-imola-wec-opener-2",
       "title": "Ferrari explains where Toyota gained the upper hand in Imola WEC opener",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ferrari-explains-where-toyota-gained-edge-imola/10813996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,21 +341,10 @@
       "publishedLabel": "Apr 20, 2026"
     },
     {
-      "id": "wec-imola-toyota-denies-ferrari-home-win-in-season-opener-2",
+      "id": "wec-imola-toyota-denies-ferrari-home-win-in-season-opener-3",
       "title": "WEC Imola: Toyota denies Ferrari home win in season opener",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-imola-toyota-denies-ferrari-home-win-in-season-opener/10813899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Apr 19, 2026"
-    },
-    {
-      "id": "peugeot-set-to-homologate-new-car-for-2027-wec-3",
-      "title": "Peugeot set to homologate new car for 2027 WEC",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/wec-peugeot-set-to-homologate-an-lmh-version-of-the-9x8-through-2029/10813771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
