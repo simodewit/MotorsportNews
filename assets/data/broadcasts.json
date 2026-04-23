@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T16:52:10.960Z",
+  "generatedAt": "2026-04-23T01:58:50.235Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "LIVE Race | 2026 F1 Sim Racing World Championship | Round 4: Saudi Arabia",
-      "channel": "FORMULA 1",
-      "videoId": "u82Ilj5x6EY",
-      "url": "https://www.youtube.com/watch?v=u82Ilj5x6EY",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
