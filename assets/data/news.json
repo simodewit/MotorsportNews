@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T19:04:41.136Z",
+  "generatedAt": "2026-04-23T02:03:06.598Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut-0",
-      "title": "The good, the bad and the ugly from Cadillac’s F1 debut",
+      "id": "2026-f1-draft-who-would-each-team-take-first-to-start-their-future-0",
+      "title": "2026 F1 Draft: Who would each team take first to start their future?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut/10814465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/2026-f1-draft-who-would-each-team-take-first-to-start-their-future/10814607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut-0",
+      "id": "2026-f1-draft-who-would-each-team-take-first-to-start-their-future-0",
+      "title": "2026 F1 Draft: Who would each team take first to start their future?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/2026-f1-draft-who-would-each-team-take-first-to-start-their-future/10814607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 22, 2026"
+    },
+    {
+      "id": "the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut-1",
       "title": "The good, the bad and the ugly from Cadillac’s F1 debut",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-good-the-bad-and-the-ugly-from-cadillacs-f1-debut/10814465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 22, 2026"
     },
     {
-      "id": "who-will-replace-max-verstappen-as-f1s-megastar-1",
+      "id": "who-will-replace-max-verstappen-as-f1s-megastar-2",
       "title": "Who will replace Max Verstappen as F1’s megastar?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/who-will-replace-max-verstappen-as-f1s-megastar/10814342/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,7 +121,7 @@
       "publishedLabel": "Apr 22, 2026"
     },
     {
-      "id": "question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026-2",
+      "id": "question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026-3",
       "title": "Question of the week: Are rule tweaks enough to fix F1 2026?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/question-of-the-week-are-rule-tweaks-enough-to-fix-f1-2026/10814496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -119,17 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Apr 22, 2026"
-    },
-    {
-      "id": "jacky-ickx-if-2026-f1-rules-grow-audiences-thats-fine-its-all-that-matters-3",
-      "title": "Jacky Ickx: If 2026 F1 rules grow audiences \"that’s fine, it’s all that matters”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/jacky-ickx-surprises-everyone-if-f1-boosts-ratings-thats-fine-thats-all-that-matters/10814344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 21, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
