@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T09:19:49.616Z",
+  "generatedAt": "2026-04-23T17:12:58.055Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -83,21 +83,6 @@
       "channel": "FIA World Rally Championship",
       "videoId": "o5u1x3tKyCE",
       "url": "https://www.youtube.com/watch?v=o5u1x3tKyCE",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Shakedown LIVE | WRC Rally Islas Canarias - Rally of Spain 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "BDHg0EJGKqs",
-      "url": "https://www.youtube.com/watch?v=BDHg0EJGKqs",
       "series": [
         "rally"
       ],
