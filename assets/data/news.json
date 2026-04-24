@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T19:00:10.699Z",
+  "generatedAt": "2026-04-24T02:03:39.976Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "which-modern-formula-1-driver-raced-for-the-most-teams-0",
-      "title": "Which modern Formula 1 driver raced for the most teams?",
+      "id": "f1-and-fia-applauded-for-quick-reaction-to-2026-complaints-0",
+      "title": "F1 and FIA applauded for quick reaction to 2026 complaints",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/which-modern-formula-1-driver-raced-for-the-most-teams/10814737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-and-fia-applauded-for-quick-reaction-to-2026-complaints/10814838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "which-modern-formula-1-driver-raced-for-the-most-teams-0",
+      "id": "f1-and-fia-applauded-for-quick-reaction-to-2026-complaints-0",
+      "title": "F1 and FIA applauded for quick reaction to 2026 complaints",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-and-fia-applauded-for-quick-reaction-to-2026-complaints/10814838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 23, 2026"
+    },
+    {
+      "id": "jean-todt-reveals-red-bull-wanted-him-after-ferrari-and-why-he-rejected-the-offer-1",
+      "title": "Jean Todt reveals Red Bull wanted him after Ferrari, and why he rejected the offer",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/jean-todt-reveals-red-bull-wanted-him-after-ferrari-and-why-he-rejected-the-offer/10814021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 23, 2026"
+    },
+    {
+      "id": "jolyon-palmer-names-ideal-max-verstappen-replacement-at-red-bull-if-he-leaves-2",
+      "title": "Jolyon Palmer names ideal Max Verstappen replacement at Red Bull if he leaves",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/jolyon-palmer-names-ideal-max-verstappen-replacement-at-red-bull-if-he-leaves/10814677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 23, 2026"
+    },
+    {
+      "id": "which-modern-formula-1-driver-raced-for-the-most-teams-3",
       "title": "Which modern Formula 1 driver raced for the most teams?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/which-modern-formula-1-driver-raced-for-the-most-teams/10814737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 23, 2026"
-    },
-    {
-      "id": "david-coulthard-lifts-lid-on-soaring-junior-racing-costs-with-8million-claim-1",
-      "title": "David Coulthard lifts lid on soaring junior racing costs with £8million claim",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-lifts-lid-on-soaring-junior-racing-costs-with-8million-claim/10814756/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 23, 2026"
-    },
-    {
-      "id": "20-years-ago-michael-schumacher-held-off-fernando-alonso-in-imola-f1-duel-2",
-      "title": "20 years ago, Michael Schumacher held off Fernando Alonso in Imola F1 duel",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/20-years-ago-michael-schumacher-held-off-fernando-alonso-in-imola-f1-duel/10814238/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 23, 2026"
-    },
-    {
-      "id": "audi-drops-limited-edition-adidas-collection-ahead-of-f1-miami-gp-3",
-      "title": "Audi drops limited-edition adidas collection ahead of F1 Miami GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/audi-drops-limited-edition-adidas-collection-ahead-of-f1-miami-gp/10814701/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
