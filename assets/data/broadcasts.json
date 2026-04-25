@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T08:43:33.887Z",
+  "generatedAt": "2026-04-25T16:33:29.184Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,21 +49,6 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "2026 Indianapolis 500 Open Test | Day 2 | INDYCAR SERIES",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "FB5m8cpkl9Q",
-      "url": "https://www.youtube.com/watch?v=FB5m8cpkl9Q",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
       "title": "🔴 シェイクダウン ライブ！WRC Rally Islas Canarias - Rally of Spain 2026",
       "channel": "FIA World Rally Championship",
       "videoId": "o5u1x3tKyCE",
@@ -83,21 +68,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "rUY7B57PLXM",
       "url": "https://www.youtube.com/watch?v=rUY7B57PLXM",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Jerez: Race 1",
-      "channel": "Red Bull Motorsports",
-      "videoId": "3WZvQVxTChk",
-      "url": "https://www.youtube.com/watch?v=3WZvQVxTChk",
       "series": [
         "other"
       ],
