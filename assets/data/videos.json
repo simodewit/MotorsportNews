@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T16:51:37.021Z",
+  "generatedAt": "2026-04-25T02:03:15.234Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "8p8z3jlr9NY",
+      "title": "What We Learned on Friday 📝  | 2026 Spanish GP",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "2SSV51BiX6M",
       "title": "On the edge 😮‍💨... and El Diablo saves it 😈🔥",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "NeucFr9l7DQ",
       "title": "Big crash for Martin in Practice! ❌",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "8nSVIP_xCLE",
-      "title": "Not the start to Practice Pecco was hoping for 😔",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,28 @@
       ]
     },
     {
+      "videoId": "LjjrjX1ZXOo",
+      "title": "Let's Rewind Long Beach Weekend | 2026 INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "R-0s581vqe4",
+      "title": "Class is in session 👨‍🏫 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "uzZXgxnLfQ8",
       "title": "ANOTHER last-lap battle for Graham Rahal 😳 #Indycar #Racing #GrahamRahal",
       "channel": "NTT INDYCAR SERIES",
@@ -209,28 +231,6 @@
     {
       "videoId": "dye-C-O31AM",
       "title": "Pato O'Ward: certified rage-baiter 😂 #INDYCAR #racing #patooward",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "oCVMkD-HsZI",
-      "title": "INDYCAR Terms… Explained Like You’re 5 😂",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "J0_HuNfkNNY",
-      "title": "How Alex Palou MASTERED Oval Racing | INDYCAR",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
