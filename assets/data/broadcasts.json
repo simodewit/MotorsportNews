@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T08:52:02.534Z",
+  "generatedAt": "2026-04-26T16:34:50.949Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Post-Event Show LIVE | WRC Rally Islas Canarias - Rally of Spain 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "W9PjPbKaf7k",
-      "url": "https://www.youtube.com/watch?v=W9PjPbKaf7k",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
