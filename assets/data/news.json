@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T02:06:56.280Z",
+  "generatedAt": "2026-04-26T07:20:33.241Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "james-vowles-names-the-qualities-that-make-alex-albon-and-carlos-sainz-stand-out-at-williams-0",
-      "title": "James Vowles names the qualities that make Alex Albon and Carlos Sainz stand out at Williams",
+      "id": "oscar-piastri-f1-drivers-need-to-find-things-in-data-weve-never-looked-for-before-in-qualifying-0",
+      "title": "Oscar Piastri: F1 drivers need to find things in data we've never looked for before in qualifying",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-names-the-qualities-that-make-alex-albon-and-carlos-sainz-stand-out-at-williams/10815372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-f1-drivers-need-to-find-things-in-data-weve-never-looked-for-before-in-qualifying/10815425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 25, 2026"
+      "publishedLabel": "Apr 26, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "james-vowles-names-the-qualities-that-make-alex-albon-and-carlos-sainz-stand-out-at-williams-0",
+      "id": "oscar-piastri-f1-drivers-need-to-find-things-in-data-weve-never-looked-for-before-in-qualifying-0",
+      "title": "Oscar Piastri: F1 drivers need to find things in data we've never looked for before in qualifying",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-f1-drivers-need-to-find-things-in-data-weve-never-looked-for-before-in-qualifying/10815425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 26, 2026"
+    },
+    {
+      "id": "james-vowles-names-the-qualities-that-make-alex-albon-and-carlos-sainz-stand-out-at-williams-1",
       "title": "James Vowles names the qualities that make Alex Albon and Carlos Sainz stand out at Williams",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/james-vowles-names-the-qualities-that-make-alex-albon-and-carlos-sainz-stand-out-at-williams/10815372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 25, 2026"
     },
     {
-      "id": "isack-hadjar-admits-concern-over-weird-red-bull-seat-before-2026-promotion-1",
+      "id": "isack-hadjar-admits-concern-over-weird-red-bull-seat-before-2026-promotion-2",
       "title": "Isack Hadjar admits concern over “weird” Red Bull seat before 2026 promotion",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/isack-hadjar-admits-concern-over-weird-red-bull-seat-before-2026-promotion/10815443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 25, 2026"
     },
     {
-      "id": "f1-rule-changes-ahead-of-miami-gp-explained-whats-changing-and-why-2",
+      "id": "f1-rule-changes-ahead-of-miami-gp-explained-whats-changing-and-why-3",
       "title": "F1 rule changes ahead of Miami GP explained: What’s changing and why",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-rule-changes-ahead-of-miami-gp-explained-whats-changing-and-why/10815017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 25, 2026"
-    },
-    {
-      "id": "mercedes-shares-funny-kimi-antonelli-garage-prank-to-keep-him-grounded-3",
-      "title": "Mercedes shares funny Kimi Antonelli garage prank to 'keep him grounded'",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-shares-funny-kimi-antonelli-garage-prank-to-keep-him-grounded/10815351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
