@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T02:01:48.588Z",
+  "generatedAt": "2026-04-26T08:52:02.534Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,15 +49,15 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Jerez: Race 2",
-      "channel": "Red Bull Motorsports",
-      "videoId": "rUY7B57PLXM",
-      "url": "https://www.youtube.com/watch?v=rUY7B57PLXM",
+      "title": "🔴 Post-Event Show LIVE | WRC Rally Islas Canarias - Rally of Spain 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "W9PjPbKaf7k",
+      "url": "https://www.youtube.com/watch?v=W9PjPbKaf7k",
       "series": [
-        "other"
+        "rally"
       ],
       "seriesLabels": [
-        "Other"
+        "Rally"
       ]
     },
     {
