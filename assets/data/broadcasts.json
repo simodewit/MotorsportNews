@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T16:33:29.184Z",
+  "generatedAt": "2026-04-26T02:01:48.588Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！WRC Rally Islas Canarias - Rally of Spain 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "o5u1x3tKyCE",
-      "url": "https://www.youtube.com/watch?v=o5u1x3tKyCE",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
