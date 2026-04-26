@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T12:53:00.869Z",
+  "generatedAt": "2026-04-26T18:41:49.077Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "jean-todt-on-how-he-convinced-michael-schumacher-to-sign-with-ferrari-in-a-single-day-0",
-      "title": "Jean Todt on how he convinced Michael Schumacher to sign with Ferrari in a single day",
+      "id": "mclaren-sparks-ayrton-senna-livery-rumours-with-sega-themed-miami-gp-poster-0",
+      "title": "McLaren sparks Ayrton Senna livery rumours with Sega-themed Miami GP poster",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/jean-todt-on-how-he-convinced-michael-schumacher-to-sign-with-ferrari-in-one-day/10815345/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mclaren-sparks-ayrton-senna-livery-rumours-with-sega-themed-miami-gp-poster/10815659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,20 +75,31 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "marco-bezzecchi-explains-what-all-went-wrong-in-disastrous-jerez-sprint-0",
-      "title": "Marco Bezzecchi explains what all went wrong in disastrous Jerez sprint",
+      "id": "marco-bezzecchi-explains-how-ducati-ended-aprilias-winning-streak-in-jerez-0",
+      "title": "Marco Bezzecchi explains how Ducati ended Aprilia's winning streak in Jerez",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-explains-what-all-went-wrong-in-disastrous-jerez-sprint/10815450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-explains-how-ducati-ended-aprilias-winning-streak-in-jerez/10815730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 25, 2026"
+      "publishedLabel": "Apr 26, 2026"
     }
   ],
   "articles": [
     {
-      "id": "jean-todt-on-how-he-convinced-michael-schumacher-to-sign-with-ferrari-in-a-single-day-0",
+      "id": "mclaren-sparks-ayrton-senna-livery-rumours-with-sega-themed-miami-gp-poster-0",
+      "title": "McLaren sparks Ayrton Senna livery rumours with Sega-themed Miami GP poster",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-sparks-ayrton-senna-livery-rumours-with-sega-themed-miami-gp-poster/10815659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 26, 2026"
+    },
+    {
+      "id": "jean-todt-on-how-he-convinced-michael-schumacher-to-sign-with-ferrari-in-a-single-day-1",
       "title": "Jean Todt on how he convinced Michael Schumacher to sign with Ferrari in a single day",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jean-todt-on-how-he-convinced-michael-schumacher-to-sign-with-ferrari-in-one-day/10815345/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 26, 2026"
     },
     {
-      "id": "how-the-bahrain-and-saudi-arabian-races-might-have-unfolded-1",
+      "id": "how-the-bahrain-and-saudi-arabian-races-might-have-unfolded-2",
       "title": "How the Bahrain and Saudi Arabian races might have unfolded",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-the-bahrain-and-saudi-arabian-races-might-have-unfolded/10815584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 26, 2026"
     },
     {
-      "id": "kimi-antonelli-reflects-on-best-day-after-maiden-f1-gp-win-and-reveals-italy-reaction-2",
+      "id": "kimi-antonelli-reflects-on-best-day-after-maiden-f1-gp-win-and-reveals-italy-reaction-3",
       "title": "Kimi Antonelli reflects on \"best day\" after maiden F1 GP win and reveals Italy reaction",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reflects-on-best-day-after-maiden-f1-gp-win-and-reveals-italy-reaction/10815316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 26, 2026"
-    },
-    {
-      "id": "doriane-pin-details-historic-mercedes-f1-test-at-silverstone-3",
-      "title": "Doriane Pin details historic Mercedes F1 test at Silverstone",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/doriane-pin-details-historic-mercedes-f1-test-at-silverstone/10815326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,48 +220,48 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "marco-bezzecchi-explains-what-all-went-wrong-in-disastrous-jerez-sprint-0",
-      "title": "Marco Bezzecchi explains what all went wrong in disastrous Jerez sprint",
+      "id": "marco-bezzecchi-explains-how-ducati-ended-aprilias-winning-streak-in-jerez-0",
+      "title": "Marco Bezzecchi explains how Ducati ended Aprilia's winning streak in Jerez",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-explains-what-all-went-wrong-in-disastrous-jerez-sprint/10815450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-explains-how-ducati-ended-aprilias-winning-streak-in-jerez/10815730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 25, 2026"
+      "publishedLabel": "Apr 26, 2026"
     },
     {
-      "id": "marc-marquez-shrugs-off-controversy-over-pitlane-entry-in-spanish-motogp-sprint-1",
-      "title": "Marc Marquez shrugs off controversy over pitlane entry in Spanish MotoGP sprint",
+      "id": "how-alex-marquez-rediscovered-his-mojo-at-the-spanish-gp-1",
+      "title": "How Alex Marquez rediscovered his mojo at the Spanish GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marc-marquez-shrugs-off-controversy-over-pitlane-entry-in-spanish-motogp-sprint/10815432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/how-alex-marquez-rediscovered-his-mojo-at-the-spanish-gp/10815704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 25, 2026"
+      "publishedLabel": "Apr 26, 2026"
     },
     {
-      "id": "johann-zarco-questions-marc-marquez-over-jerez-pitlane-entry-he-shouldnt-have-won-the-race-2",
-      "title": "Johann Zarco questions Marc Marquez over Jerez pitlane entry: 'He shouldn't have won the race'",
+      "id": "marc-marquez-i-dont-have-the-pace-to-fight-for-motogp-title-2",
+      "title": "Marc Marquez: 'I don't have the pace to fight for MotoGP title'",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/zarco-wonders-in-my-opinion-marquez-shouldnt-win-the-race/10815405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-i-dont-have-the-pace-to-fight-for-motogp-title/10815668/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 25, 2026"
+      "publishedLabel": "Apr 26, 2026"
     },
     {
-      "id": "motogp-spanish-gp-marc-marquez-wins-chaotic-sprint-despite-crashing-3",
-      "title": "MotoGP Spanish GP: Marc Marquez wins chaotic sprint despite crashing",
+      "id": "motogp-spanish-gp-alex-marquez-ends-aprilias-winning-streak-marc-marquez-crashes-3",
+      "title": "MotoGP Spanish GP: Alex Marquez ends Aprilia’s winning streak, Marc Marquez crashes",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-spanish-gp-marc-marquez-wins-sprint-despite-crashing/10815387/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-spanish-gp-alex-marquez-win-gresini-marc-crash/10815629/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Apr 25, 2026"
+      "publishedLabel": "Apr 26, 2026"
     },
     {
       "id": "tony-kanaan-opens-up-on-lundgaard-siegel-contract-situation-0",
