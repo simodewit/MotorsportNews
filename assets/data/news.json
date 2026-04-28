@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T02:24:42.273Z",
+  "generatedAt": "2026-04-28T08:13:28.633Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "david-coulthard-explains-why-f1-race-engineer-relationship-is-more-than-professional-0",
-      "title": "David Coulthard explains why F1 race engineer relationship is “more than professional”",
+      "id": "on-this-day-jacques-villeneuves-maiden-f1-win-in-michael-schumacher-duel-0",
+      "title": "On this day: Jacques Villeneuve’s maiden F1 win in Michael Schumacher duel",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-explains-why-f1-race-engineer-relationship-is-more-than-professional/10815616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/on-this-day-jacques-villeneuve-takes-maiden-f1-win-in-michael-schumacher-duel/10814516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 27, 2026"
+      "publishedLabel": "Apr 28, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "david-coulthard-explains-why-f1-race-engineer-relationship-is-more-than-professional-0",
+      "id": "on-this-day-jacques-villeneuves-maiden-f1-win-in-michael-schumacher-duel-0",
+      "title": "On this day: Jacques Villeneuve’s maiden F1 win in Michael Schumacher duel",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/on-this-day-jacques-villeneuve-takes-maiden-f1-win-in-michael-schumacher-duel/10814516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 28, 2026"
+    },
+    {
+      "id": "david-coulthard-explains-why-f1-race-engineer-relationship-is-more-than-professional-1",
       "title": "David Coulthard explains why F1 race engineer relationship is “more than professional”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/david-coulthard-explains-why-f1-race-engineer-relationship-is-more-than-professional/10815616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Apr 27, 2026"
     },
     {
-      "id": "mclarens-new-car-upgrade-raises-hopes-of-mercedes-fight-at-miami-gp-1",
+      "id": "mclarens-new-car-upgrade-raises-hopes-of-mercedes-fight-at-miami-gp-2",
       "title": "McLaren’s 'new car' upgrade raises hopes of Mercedes fight at Miami GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mclarens-new-car-upgrade-raises-hopes-of-mercedes-fight-at-miami-gp/10815977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Apr 27, 2026"
     },
     {
-      "id": "lewis-hamilton-given-ferrari-vote-of-confidence-by-martin-brundle-2",
+      "id": "lewis-hamilton-given-ferrari-vote-of-confidence-by-martin-brundle-3",
       "title": "Lewis Hamilton given Ferrari vote of confidence by Martin Brundle",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-given-ferrari-vote-of-confidence-by-martin-brundle/10816028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 27, 2026"
-    },
-    {
-      "id": "isack-hadjar-admits-red-bull-f1-promotion-still-feels-weird-3",
-      "title": "Isack Hadjar admits Red Bull F1 promotion still feels \"weird\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-admits-red-bull-f1-promotion-still-feels-weird/10815453/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
