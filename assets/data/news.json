@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T19:24:44.048Z",
+  "generatedAt": "2026-04-29T02:25:10.760Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "how-apple-tv-deal-helps-f1-tap-into-us-sports-culture-0",
-      "title": "How Apple TV deal helps F1 tap into US sports culture",
+      "id": "martin-brundle-says-miami-gp-tweaks-could-relaunch-2026-f1-season-0",
+      "title": "Martin Brundle says Miami GP tweaks could “relaunch” 2026 F1 season",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/how-apple-tv-deal-helps-f1-tap-into-us-sports-culture/10816205/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-says-miami-gp-tweaks-could-relaunch-2026-f1-season/10816036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "how-apple-tv-deal-helps-f1-tap-into-us-sports-culture-0",
+      "id": "martin-brundle-says-miami-gp-tweaks-could-relaunch-2026-f1-season-0",
+      "title": "Martin Brundle says Miami GP tweaks could “relaunch” 2026 F1 season",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-says-miami-gp-tweaks-could-relaunch-2026-f1-season/10816036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 28, 2026"
+    },
+    {
+      "id": "colton-herta-super-excited-for-cadillac-fp1-debut-as-f1-dream-edges-closer-1",
+      "title": "Colton Herta \"super excited\" for Cadillac FP1 debut as F1 dream edges closer",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/colton-herta-super-excited-for-cadillac-fp1-debut-as-f1-dream-edges-closer/10815776/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Apr 28, 2026"
+    },
+    {
+      "id": "how-apple-tv-deal-helps-f1-tap-into-us-sports-culture-2",
       "title": "How Apple TV deal helps F1 tap into US sports culture",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-apple-tv-deal-helps-f1-tap-into-us-sports-culture/10816205/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Apr 28, 2026"
     },
     {
-      "id": "how-to-watch-f1-on-apple-tv-for-the-formula-1-cryptocom-miami-grand-prix-2026-1",
+      "id": "how-to-watch-f1-on-apple-tv-for-the-formula-1-cryptocom-miami-grand-prix-2026-3",
       "title": "How to watch F1® on Apple TV for the Formula 1® Crypto.com Miami Grand Prix 2026",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-to-watch-f1-on-apple-tv-for-the-miami-grand-prix/10814374/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 28, 2026"
-    },
-    {
-      "id": "red-bull-gianpiero-lambiases-mclaren-move-is-a-once-in-a-lifetime-opportunity-2",
-      "title": "Red Bull: Gianpiero Lambiase's McLaren move is a \"once in a lifetime\" opportunity",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/laurent-mekies-mclaren-move-a-once-in-a-lifetime-opportunity-for-gianpiero-lambiase/10816180/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Apr 28, 2026"
-    },
-    {
-      "id": "cadillac-f1-team-reveals-special-miami-gp-livery-3",
-      "title": "Cadillac F1 team reveals special Miami GP livery",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/cadillac-f1-team-reveals-special-miami-gp-livery/10816172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "Apr 27, 2026"
     },
     {
-      "id": "arrow-mclaren-has-no-fear-in-running-all-four-primary-indy-500-cars-at-open-test-0",
+      "id": "conor-daly-paces-day-1-of-indy-500-open-test-0",
+      "title": "Conor Daly paces Day 1 of Indy 500 Open Test",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/conor-daly-paces-day-1-of-indy-500-open-test/10816252/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 28, 2026"
+    },
+    {
+      "id": "rookies-take-on-indianapolis-in-open-test-newgarden-leads-first-veteran-session-1",
+      "title": "Rookies take on Indianapolis in open test, Newgarden leads first veteran session",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indy-500-test/10816241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Apr 28, 2026"
+    },
+    {
+      "id": "arrow-mclaren-has-no-fear-in-running-all-four-primary-indy-500-cars-at-open-test-2",
       "title": "Arrow McLaren has \"no fear\" in running all four primary Indy 500 cars at Open Test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/arrow-mclaren-has-no-fear-in-running-all-four-primary-indy-500-cars-at-open-test/10816000/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Apr 27, 2026"
     },
     {
-      "id": "katherine-legge-will-make-indy-500-return-in-hmd-motorsports-with-aj-foyt-racing-entry-1",
+      "id": "katherine-legge-will-make-indy-500-return-in-hmd-motorsports-with-aj-foyt-racing-entry-3",
       "title": "Katherine Legge will make Indy 500 return in HMD Motorsports with AJ Foyt Racing entry ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/katherine-legge-making-indy-500-return-in-hmd-motorsports-with-aj-fo/10815778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Apr 27, 2026"
-    },
-    {
-      "id": "tony-kanaan-opens-up-on-lundgaard-siegel-contract-situation-2",
-      "title": "Tony Kanaan opens up on Lundgaard, Siegel contract situation ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/tony-kanaan-opens-up-on-mclaren-contract-situation/10815188/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 24, 2026"
-    },
-    {
-      "id": "winners-and-losers-from-the-indycar-grand-prix-of-long-beach-3",
-      "title": "Winners and losers from the IndyCar Grand Prix of Long Beach",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-grand-prix-of-long-beach/10814356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 21, 2026"
     },
     {
       "id": "mclarens-newly-named-lmdh-set-for-first-shakedown-in-may-0",
