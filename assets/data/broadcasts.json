@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T09:59:57.474Z",
+  "generatedAt": "2026-04-30T17:11:59.405Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Drift Masters Round 1 - Italy - Top16",
+      "channel": "Red Bull Motorsports",
+      "videoId": "s1QDFB_anHM",
+      "url": "https://www.youtube.com/watch?v=s1QDFB_anHM",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Drift Masters Round 1 - Italy - Top32",
+      "channel": "Red Bull Motorsports",
+      "videoId": "lDf3FqIN0ic",
+      "url": "https://www.youtube.com/watch?v=lDf3FqIN0ic",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
