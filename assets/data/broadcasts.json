@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T16:48:33.535Z",
+  "generatedAt": "2026-05-02T08:58:54.421Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE: Miami Grand Prix Post-Sprint Show",
+      "channel": "FORMULA 1",
+      "videoId": "_vetZEvdiPM",
+      "url": "https://www.youtube.com/watch?v=_vetZEvdiPM",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
