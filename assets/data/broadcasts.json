@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T10:07:34.833Z",
+  "generatedAt": "2026-05-04T17:24:29.598Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,51 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 LIVE: INDYCAR Month of May Marathon | Indy Grand Prix | Classic Full Races",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "e-C9EwmLDxA",
+      "url": "https://www.youtube.com/watch?v=e-C9EwmLDxA",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Les Mans: Race 4",
+      "channel": "Red Bull Motorsports",
+      "videoId": "ahqiCcTCB90",
+      "url": "https://www.youtube.com/watch?v=ahqiCcTCB90",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Les Mans: Race 3",
+      "channel": "Red Bull Motorsports",
+      "videoId": "yJD6ZUr9ZKE",
+      "url": "https://www.youtube.com/watch?v=yJD6ZUr9ZKE",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
