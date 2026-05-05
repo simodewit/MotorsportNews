@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T17:24:29.598Z",
+  "generatedAt": "2026-05-05T02:07:05.681Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 LIVE: INDYCAR Month of May Marathon | Indy Grand Prix | Classic Full Races",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "e-C9EwmLDxA",
-      "url": "https://www.youtube.com/watch?v=e-C9EwmLDxA",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
