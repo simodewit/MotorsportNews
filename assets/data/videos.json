@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T02:26:47.431Z",
+  "generatedAt": "2026-05-05T09:58:44.890Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "p5hVJyCdzCE",
+      "title": "2003 French GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "SrOxbWDWkp8",
       "title": "The most VIRAL moments from MotoGP at Le Mans 🤩 🇫🇷",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "1MsUMDJuofI",
       "title": "One last look at the Spanish GP through the eyes of the fans ✨🤩",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "J2RJnuOdHes",
-      "title": "First times with Fabio Quartararo! 💭📲 ❤️",
       "channel": "MotoGP",
       "series": [
         "motogp"
