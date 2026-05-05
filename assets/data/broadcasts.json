@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T02:07:05.681Z",
+  "generatedAt": "2026-05-05T09:55:52.527Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2003 French GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "p5hVJyCdzCE",
+      "url": "https://www.youtube.com/watch?v=p5hVJyCdzCE",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
