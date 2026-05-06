@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T02:11:46.832Z",
+  "generatedAt": "2026-05-06T08:14:13.304Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "did-mclaren-maximise-everything-in-miami-lando-norris-isnt-so-sure-0",
-      "title": "Did McLaren ‘maximise everything’ in Miami? Lando Norris isn’t so sure",
+      "id": "why-red-bull-isnt-worried-about-isack-hadjars-miami-gp-disaster-0",
+      "title": "Why Red Bull isn’t worried about Isack Hadjar’s Miami GP disaster",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-lando-norris-left-miami-not-sure-if-mclaren-maximised-everything/10818419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/why-red-bull-isnt-worried-about-isack-hadjars-miami-gp-disaster/10818425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "May 5, 2026"
+      "publishedLabel": "May 6, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "did-mclaren-maximise-everything-in-miami-lando-norris-isnt-so-sure-0",
+      "id": "why-red-bull-isnt-worried-about-isack-hadjars-miami-gp-disaster-0",
+      "title": "Why Red Bull isn’t worried about Isack Hadjar’s Miami GP disaster",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/why-red-bull-isnt-worried-about-isack-hadjars-miami-gp-disaster/10818425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 6, 2026"
+    },
+    {
+      "id": "did-mclaren-maximise-everything-in-miami-lando-norris-isnt-so-sure-1",
       "title": "Did McLaren ‘maximise everything’ in Miami? Lando Norris isn’t so sure",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/why-lando-norris-left-miami-not-sure-if-mclaren-maximised-everything/10818419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "May 5, 2026"
     },
     {
-      "id": "the-unique-f1-record-that-kimi-antonelli-broke-with-his-miami-gp-win-1",
+      "id": "the-unique-f1-record-that-kimi-antonelli-broke-with-his-miami-gp-win-2",
       "title": "The unique F1 record that Kimi Antonelli broke with his Miami GP win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-unique-f1-record-that-kimi-antonelli-broke-with-his-miami-gp-win/10818399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "May 5, 2026"
     },
     {
-      "id": "red-bull-apologises-to-max-verstappen-for-not-fixing-f1-steering-issue-earlier-2",
+      "id": "red-bull-apologises-to-max-verstappen-for-not-fixing-f1-steering-issue-earlier-3",
       "title": "Red Bull apologises to Max Verstappen for not fixing F1 steering issue earlier",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/red-bull-apologises-to-max-verstappen-for-not-fixing-f1-steering-issue-earlier/10818389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 5, 2026"
-    },
-    {
-      "id": "red-bull-makes-gains-and-ferrari-updates-fall-flat-a-deep-dive-into-the-miami-gp-data-3",
-      "title": "Red Bull makes gains and Ferrari updates fall flat: A deep dive into the Miami GP data",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/miami-data-red-bull-makes-major-gains-ferrari-update-falls-flat/10818335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
