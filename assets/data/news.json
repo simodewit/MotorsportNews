@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T13:52:03.117Z",
+  "generatedAt": "2026-05-06T19:27:44.946Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "valtteri-bottas-unusual-miami-f1-penalty-explained-0",
-      "title": "Valtteri Bottas' unusual Miami F1 penalty explained",
+      "id": "question-of-the-week-can-mercedes-still-lose-out-this-year-0",
+      "title": "Question of the week: Can Mercedes still lose out this year?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-unusual-miami-f1-penalty-explained-as-cadillac-makes-progress/10818596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-can-mercedes-still-lose-out-this-year/10818554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "valtteri-bottas-unusual-miami-f1-penalty-explained-0",
+      "id": "question-of-the-week-can-mercedes-still-lose-out-this-year-0",
+      "title": "Question of the week: Can Mercedes still lose out this year?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-can-mercedes-still-lose-out-this-year/10818554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 6, 2026"
+    },
+    {
+      "id": "valtteri-bottas-unusual-miami-f1-penalty-explained-1",
       "title": "Valtteri Bottas' unusual Miami F1 penalty explained",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/valtteri-bottas-unusual-miami-f1-penalty-explained-as-cadillac-makes-progress/10818596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "May 6, 2026"
     },
     {
-      "id": "park-him-juan-pablo-montoya-calls-for-max-verstappen-race-ban-1",
+      "id": "park-him-juan-pablo-montoya-calls-for-max-verstappen-race-ban-2",
       "title": "\"Park him\" – Juan Pablo Montoya calls for Max Verstappen race ban",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/park-him-montoya-calls-for-verstappen-race-ban-or-penalty-points/10818544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "May 6, 2026"
     },
     {
-      "id": "f1-power-unit-changes-required-but-difficult-before-2028-says-mclaren-2",
+      "id": "f1-power-unit-changes-required-but-difficult-before-2028-says-mclaren-3",
       "title": "F1 power unit changes required but difficult before 2028, says McLaren",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-power-unit-changes-required-but-difficult-before-2028-says-mclaren/10818511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 6, 2026"
-    },
-    {
-      "id": "why-red-bull-isnt-worried-about-isack-hadjars-miami-gp-disaster-3",
-      "title": "Why Red Bull isn’t worried about Isack Hadjar’s Miami GP disaster",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-red-bull-isnt-worried-about-isack-hadjars-miami-gp-disaster/10818425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "Apr 29, 2026"
     },
     {
-      "id": "bmw-insists-wec-remains-a-great-championship-even-without-valentino-rossi-0",
+      "id": "nyck-de-vries-on-potential-mclaren-hypercar-link-up-ill-keep-that-to-myself-0",
+      "title": "Nyck de Vries on potential McLaren Hypercar link-up: “I’ll keep that to myself”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/de-vries-on-possible-mclaren-hypercar-link-ill-keep-that-to-myself/10818582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "May 6, 2026"
+    },
+    {
+      "id": "bmw-insists-wec-remains-a-great-championship-even-without-valentino-rossi-1",
       "title": "BMW insists “WEC remains a great championship, even without Valentino Rossi”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/bmw-insists-wec-remains-a-great-championship-even-without-valentino-rossi/10814132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "May 5, 2026"
     },
     {
-      "id": "mclarens-lmdh-prototype-hits-the-track-for-the-first-time-1",
+      "id": "mclarens-lmdh-prototype-hits-the-track-for-the-first-time-2",
       "title": "McLaren's LMDh prototype hits the track for the first time",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/mclaren-mcl-hy-lmdh-shakedown-italy/10818307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "May 5, 2026"
     },
     {
-      "id": "mclarens-wec-lmdh-prototype-breaks-cover-ahead-of-first-test-2",
+      "id": "mclarens-wec-lmdh-prototype-breaks-cover-ahead-of-first-test-3",
       "title": "McLaren’s WEC LMDh prototype breaks cover ahead of first test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/mclarens-wec-lmdh-prototype-breaks-cover-ahead-of-first-test/10818148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "May 4, 2026"
-    },
-    {
-      "id": "mclarens-newly-named-lmdh-set-for-first-shakedown-in-may-3",
-      "title": "McLaren's newly-named LMDh set for first shakedown in May",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/mclarens-lmdh-set-for-first-shakedown-in-may/10814959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Apr 24, 2026"
     }
   ]
 }
