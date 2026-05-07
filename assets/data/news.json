@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T08:24:37.536Z",
+  "generatedAt": "2026-05-07T13:50:52.256Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "question-of-the-week-can-mercedes-still-lose-out-this-year-0",
-      "title": "Question of the week: Can Mercedes still lose out this year?",
+      "id": "kimi-antonelli-has-earned-the-right-to-lead-f1-title-race-says-david-coulthard-0",
+      "title": "Kimi Antonelli has \"earned the right\" to lead F1 title race, says David Coulthard",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/question-of-the-week-can-mercedes-still-lose-out-this-year/10818554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-has-earned-the-right-to-lead-f1-title-race-says-david-coulthard/10818745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "May 6, 2026"
+      "publishedLabel": "May 7, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "carmelo-ezpeleta-confident-motogp-will-reach-an-agreement-with-manufacturers-0",
-      "title": "Carmelo Ezpeleta confident MotoGP will \"reach an agreement\" with manufacturers",
+      "id": "pedro-acosta-labels-ktm-spectacular-in-the-rain-as-wet-french-gp-looms-0",
+      "title": "Pedro Acosta labels KTM 'spectacular in the rain' as wet French GP looms",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ezpeleta-new-commercial-contract-motogp-future/10818509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-labels-ktm-spectacular-in-the-rain-as-wet-french-gp-looms/10818814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "May 6, 2026"
+      "publishedLabel": "May 7, 2026"
     }
   ],
   "articles": [
     {
-      "id": "question-of-the-week-can-mercedes-still-lose-out-this-year-0",
+      "id": "kimi-antonelli-has-earned-the-right-to-lead-f1-title-race-says-david-coulthard-0",
+      "title": "Kimi Antonelli has \"earned the right\" to lead F1 title race, says David Coulthard",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-has-earned-the-right-to-lead-f1-title-race-says-david-coulthard/10818745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "alpine-wants-more-after-colapintos-most-perfect-weekend-at-miami-gp-1",
+      "title": "Alpine wants more after Colapinto's \"most perfect weekend\" at Miami GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/alpine-f1-team-boss-wants-more-after-colapintos-most-perfect-weekend-in-miami/10818612/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "red-bull-targets-oscar-piastri-as-max-verstappen-replacement-2",
+      "title": "Red Bull targets Oscar Piastri as Max Verstappen replacement",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-targets-oscar-piastri-as-max-verstappen-replacement/10818715/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "question-of-the-week-can-mercedes-still-lose-out-this-year-3",
       "title": "Question of the week: Can Mercedes still lose out this year?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/question-of-the-week-can-mercedes-still-lose-out-this-year/10818554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 6, 2026"
-    },
-    {
-      "id": "valtteri-bottas-unusual-miami-f1-penalty-explained-1",
-      "title": "Valtteri Bottas' unusual Miami F1 penalty explained",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-unusual-miami-f1-penalty-explained-as-cadillac-makes-progress/10818596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 6, 2026"
-    },
-    {
-      "id": "park-him-juan-pablo-montoya-calls-for-max-verstappen-race-ban-2",
-      "title": "\"Park him\" – Juan Pablo Montoya calls for Max Verstappen race ban",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/park-him-montoya-calls-for-verstappen-race-ban-or-penalty-points/10818544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 6, 2026"
-    },
-    {
-      "id": "f1-power-unit-changes-required-but-difficult-before-2028-says-mclaren-3",
-      "title": "F1 power unit changes required but difficult before 2028, says McLaren",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-power-unit-changes-required-but-difficult-before-2028-says-mclaren/10818511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "carmelo-ezpeleta-confident-motogp-will-reach-an-agreement-with-manufacturers-0",
+      "id": "pedro-acosta-labels-ktm-spectacular-in-the-rain-as-wet-french-gp-looms-0",
+      "title": "Pedro Acosta labels KTM 'spectacular in the rain' as wet French GP looms",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-labels-ktm-spectacular-in-the-rain-as-wet-french-gp-looms/10818814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "marc-marquez-on-his-current-ducati-struggles-ive-come-out-of-worse-situations-1",
+      "title": "Marc Marquez on his current Ducati struggles: “I've come out of worse situations”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-his-current-ducati-struggles-ive-come-out-of-worse-situations/10818800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "carmelo-ezpeleta-confident-motogp-will-reach-an-agreement-with-manufacturers-2",
       "title": "Carmelo Ezpeleta confident MotoGP will \"reach an agreement\" with manufacturers",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ezpeleta-new-commercial-contract-motogp-future/10818509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +253,7 @@
       "publishedLabel": "May 6, 2026"
     },
     {
-      "id": "guenther-steiner-puzzled-by-motogp-bikes-sitting-out-sessions-without-stand-in-riders-1",
+      "id": "guenther-steiner-puzzled-by-motogp-bikes-sitting-out-sessions-without-stand-in-riders-3",
       "title": "Guenther Steiner puzzled by MotoGP bikes sitting out sessions without stand-in riders",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/guenther-steiner-puzzled-by-motogp-bikes-sitting-out-sessions-without-stand-in-riders/10818537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -240,28 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "May 6, 2026"
-    },
-    {
-      "id": "why-dani-pedrosa-wont-replace-maverick-vinales-at-le-mans-despite-his-form-2",
-      "title": "Why Dani Pedrosa won't replace Maverick Vinales at Le Mans, despite his form",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-pedrosa-isnt-replacing-vinales-at-le-mans-even-though-hes-in-top-form/10818356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "May 5, 2026"
-    },
-    {
-      "id": "andrea-iannone-returns-to-motogp-paddock-in-harley-davidson-support-series-3",
-      "title": "Andrea Iannone returns to MotoGP paddock in Harley-Davidson support series",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/andrea-iannone-returns-to-motogp-paddock-in-harley-davidson-support-series/10818368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "May 5, 2026"
     },
     {
       "id": "graham-rahal-not-a-fan-of-new-rule-allowing-push-to-pass-on-restarts-0",
@@ -308,7 +308,18 @@
       "publishedLabel": "Apr 30, 2026"
     },
     {
-      "id": "nyck-de-vries-on-potential-mclaren-hypercar-link-up-ill-keep-that-to-myself-0",
+      "id": "ferrari-hopes-for-revenge-at-spa-after-imola-wec-defeat-to-toyota-0",
+      "title": "Ferrari hopes for revenge at Spa after Imola WEC defeat to Toyota",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/ferrari-hopes-for-revenge-in-spa-wec-after-imola-defeat-to-toyota/10818816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "nyck-de-vries-on-potential-mclaren-hypercar-link-up-ill-keep-that-to-myself-1",
       "title": "Nyck de Vries on potential McLaren Hypercar link-up: “I’ll keep that to myself”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/de-vries-on-possible-mclaren-hypercar-link-ill-keep-that-to-myself/10818582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "May 6, 2026"
     },
     {
-      "id": "bmw-insists-wec-remains-a-great-championship-even-without-valentino-rossi-1",
+      "id": "bmw-insists-wec-remains-a-great-championship-even-without-valentino-rossi-2",
       "title": "BMW insists “WEC remains a great championship, even without Valentino Rossi”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/bmw-insists-wec-remains-a-great-championship-even-without-valentino-rossi/10814132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "May 5, 2026"
     },
     {
-      "id": "mclarens-lmdh-prototype-hits-the-track-for-the-first-time-2",
+      "id": "mclarens-lmdh-prototype-hits-the-track-for-the-first-time-3",
       "title": "McLaren's LMDh prototype hits the track for the first time",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/mclaren-mcl-hy-lmdh-shakedown-italy/10818307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "May 5, 2026"
-    },
-    {
-      "id": "mclarens-wec-lmdh-prototype-breaks-cover-ahead-of-first-test-3",
-      "title": "McLaren’s WEC LMDh prototype breaks cover ahead of first test",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/mclarens-wec-lmdh-prototype-breaks-cover-ahead-of-first-test/10818148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "May 4, 2026"
     }
   ]
 }
