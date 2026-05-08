@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T19:29:17.780Z",
+  "generatedAt": "2026-05-08T02:30:01.232Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "red-bull-we-dont-want-to-play-ping-pong-with-mclaren-over-gianpiero-lambiases-role-0",
-      "title": "Red Bull: ‘We don’t want to play ping-pong with McLaren over Gianpiero Lambiase’s role’",
+      "id": "mclaren-strategy-under-fire-after-lando-norris-missed-out-on-miami-gp-victory-0",
+      "title": "McLaren strategy under fire after Lando Norris missed out on Miami GP victory",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bull-we-dont-want-to-play-ping-pong-with-mclaren-over-gianpiero-lambiases-role/10818739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mclaren-strategy-under-fire-after-lando-norris-missed-out-on-miami-gp-victory/10818754/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "red-bull-we-dont-want-to-play-ping-pong-with-mclaren-over-gianpiero-lambiases-role-0",
+      "id": "mclaren-strategy-under-fire-after-lando-norris-missed-out-on-miami-gp-victory-0",
+      "title": "McLaren strategy under fire after Lando Norris missed out on Miami GP victory",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-strategy-under-fire-after-lando-norris-missed-out-on-miami-gp-victory/10818754/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "red-bull-we-dont-want-to-play-ping-pong-with-mclaren-over-gianpiero-lambiases-role-1",
       "title": "Red Bull: ‘We don’t want to play ping-pong with McLaren over Gianpiero Lambiase’s role’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/red-bull-we-dont-want-to-play-ping-pong-with-mclaren-over-gianpiero-lambiases-role/10818739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "May 7, 2026"
     },
     {
-      "id": "kimi-antonelli-has-earned-the-right-to-lead-f1-title-race-says-david-coulthard-1",
+      "id": "kimi-antonelli-has-earned-the-right-to-lead-f1-title-race-says-david-coulthard-2",
       "title": "Kimi Antonelli has \"earned the right\" to lead F1 title race, says David Coulthard",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-has-earned-the-right-to-lead-f1-title-race-says-david-coulthard/10818745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "May 7, 2026"
     },
     {
-      "id": "alpine-wants-more-after-colapintos-most-perfect-weekend-at-miami-gp-2",
+      "id": "alpine-wants-more-after-colapintos-most-perfect-weekend-at-miami-gp-3",
       "title": "Alpine wants more after Colapinto's \"most perfect weekend\" at Miami GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/alpine-f1-team-boss-wants-more-after-colapintos-most-perfect-weekend-in-miami/10818612/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 7, 2026"
-    },
-    {
-      "id": "red-bull-targets-oscar-piastri-as-max-verstappen-replacement-3",
-      "title": "Red Bull targets Oscar Piastri as Max Verstappen replacement",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bull-targets-oscar-piastri-as-max-verstappen-replacement/10818715/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "May 7, 2026"
     },
     {
-      "id": "graham-rahal-not-a-fan-of-new-rule-allowing-push-to-pass-on-restarts-0",
+      "id": "how-to-watch-indycar-2026-indy-gp-weekend-schedule-start-time-tv-0",
+      "title": "How to watch IndyCar 2026 Indy GP: Weekend schedule, start time, TV",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-indy-gp-weekend-schedule-start-time-tv/10818952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 7, 2026"
+    },
+    {
+      "id": "graham-rahal-not-a-fan-of-new-rule-allowing-push-to-pass-on-restarts-1",
       "title": "Graham Rahal “not a fan” of new rule allowing push-to-pass on restarts",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/graham-rahal-not-a-fan-of-new-rule-allowing-push-to-pass-on-restarts/10818674/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "May 6, 2026"
     },
     {
-      "id": "fox-unveils-plan-for-60-hours-of-indy-500-coverage-1",
+      "id": "fox-unveils-plan-for-60-hours-of-indy-500-coverage-2",
       "title": "FOX unveils plan for 60 hours of Indy 500 coverage",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/fox-unveils-plan-for-60-hours-of-indy-500-coverage/10818264/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "May 4, 2026"
     },
     {
-      "id": "alex-zanardi-the-man-whose-name-is-a-synonym-for-hero-2",
+      "id": "alex-zanardi-the-man-whose-name-is-a-synonym-for-hero-3",
       "title": "Alex Zanardi: The man whose name is a synonym for “hero”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-zanardi-synonym-for-hero/4930548/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 2, 2026"
-    },
-    {
-      "id": "mick-schumacher-shares-injury-update-after-breaking-wrist-in-indycar-st-pete-crash-3",
-      "title": "Mick Schumacher shares injury update after breaking wrist in IndyCar St Pete crash",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/mick-schumacher-shares-injury-update-after-breaking-wrist-in-indycar-st-pete-crash/10816595/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Apr 30, 2026"
     },
     {
       "id": "ferrari-hopes-for-revenge-at-spa-after-imola-wec-defeat-to-toyota-0",
