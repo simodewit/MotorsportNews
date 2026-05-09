@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T09:11:17.150Z",
+  "generatedAt": "2026-05-09T16:43:46.912Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,25 +49,25 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Les Mans: Race 4",
-      "channel": "Red Bull Motorsports",
-      "videoId": "ahqiCcTCB90",
-      "url": "https://www.youtube.com/watch?v=ahqiCcTCB90",
+      "title": "Condensed Qualifying | 2026 INDYCAR at Indianapolis",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "0orilvcjzH4",
+      "url": "https://www.youtube.com/watch?v=0orilvcjzH4",
       "series": [
-        "other"
+        "indycar"
       ],
       "seriesLabels": [
-        "Other"
+        "IndyCar"
       ]
     },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Les Mans: Race 3",
+      "title": "Red Bull MotoGP Rookies Cup - Les Mans: Race 4",
       "channel": "Red Bull Motorsports",
-      "videoId": "yJD6ZUr9ZKE",
-      "url": "https://www.youtube.com/watch?v=yJD6ZUr9ZKE",
+      "videoId": "ahqiCcTCB90",
+      "url": "https://www.youtube.com/watch?v=ahqiCcTCB90",
       "series": [
         "other"
       ],
