@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T02:11:52.336Z",
+  "generatedAt": "2026-05-10T09:23:47.277Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,15 +49,15 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Les Mans: Race 4",
-      "channel": "Red Bull Motorsports",
-      "videoId": "ahqiCcTCB90",
-      "url": "https://www.youtube.com/watch?v=ahqiCcTCB90",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Sonsio Grand Prix at Indianapolis",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "MYajcle2DWo",
+      "url": "https://www.youtube.com/watch?v=MYajcle2DWo",
       "series": [
-        "other"
+        "indycar"
       ],
       "seriesLabels": [
-        "Other"
+        "IndyCar"
       ]
     },
     {
