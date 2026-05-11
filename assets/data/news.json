@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T02:34:55.629Z",
+  "generatedAt": "2026-05-11T09:29:14.458Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "guenther-steiner-explains-why-ferrari-has-no-easy-fix-after-mclaren-surge-0",
-      "title": "Guenther Steiner explains why Ferrari has no easy fix after McLaren surge",
+      "id": "red-bull-aims-to-hit-f1-weight-limit-at-austrian-grand-prix-0",
+      "title": "Red Bull aims to hit F1 weight limit at Austrian Grand Prix",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-explains-why-ferrari-has-no-easy-fix-after-mclaren-surge/10819676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/red-bull-aims-to-hit-f1-weight-limit-at-austrian-grand-prix/10819900/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "May 10, 2026"
+      "publishedLabel": "May 11, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "guenther-steiner-explains-why-ferrari-has-no-easy-fix-after-mclaren-surge-0",
+      "id": "red-bull-aims-to-hit-f1-weight-limit-at-austrian-grand-prix-0",
+      "title": "Red Bull aims to hit F1 weight limit at Austrian Grand Prix",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-aims-to-hit-f1-weight-limit-at-austrian-grand-prix/10819900/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 11, 2026"
+    },
+    {
+      "id": "guenther-steiner-predicts-george-russell-title-blow-if-kimi-antonelli-can-keep-his-cool-1",
+      "title": "Guenther Steiner predicts George Russell title blow if Kimi Antonelli can \"keep his cool\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-george-russell-title-blow-if-kimi-antonelli-can-keep-his-cool/10819185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 11, 2026"
+    },
+    {
+      "id": "guenther-steiner-explains-why-ferrari-has-no-easy-fix-after-mclaren-surge-2",
       "title": "Guenther Steiner explains why Ferrari has no easy fix after McLaren surge",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/guenther-steiner-explains-why-ferrari-has-no-easy-fix-after-mclaren-surge/10819676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "May 10, 2026"
     },
     {
-      "id": "ollie-bearman-reveals-biggest-lesson-from-rookie-f1-season-1",
+      "id": "ollie-bearman-reveals-biggest-lesson-from-rookie-f1-season-3",
       "title": "Ollie Bearman reveals biggest lesson from rookie F1 season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ollie-bearman-reveals-biggest-lesson-from-rookie-f1-season/10819691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 10, 2026"
-    },
-    {
-      "id": "williams-f1-confirms-sizeable-upgrade-package-planned-for-canadian-gp-2",
-      "title": "Williams F1 confirms “sizeable” upgrade package planned for Canadian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/williams-f1-confirms-sizeable-upgrade-package-planned-for-canadian-gp/10819708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 10, 2026"
-    },
-    {
-      "id": "david-croft-alarm-bells-will-ring-if-kimi-antonelli-beats-george-russell-at-canadian-gp-3",
-      "title": "David Croft: Alarm bells will ring if Kimi Antonelli beats George Russell at Canadian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/david-croft-alarm-bells-will-ring-if-kimi-antonelli-beats-george-russell-at-canadian-gp/10819116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
