@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T06:37:50.752Z",
+  "generatedAt": "2026-05-11T07:39:40.623Z",
   "window": {
-    "startDate": "2026-05-09"
+    "startDate": "2026-05-23"
   },
   "sources": [
     {
@@ -407,6 +407,43 @@
       ]
     },
     {
+      "id": "miami-international-autodrome-weekend-2026-05-02",
+      "name": "Miami International Autodrome Weekend",
+      "venue": "Miami International Autodrome",
+      "startDate": "2026-05-02",
+      "endDate": "2026-05-03",
+      "series": [
+        {
+          "id": "f2",
+          "name": "Formula 2",
+          "sessions": [
+            "Sprint",
+            "Race",
+            "Feature Race"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6-hours-of-spa-francorchamps-free-3-2026-05-08",
+      "name": "6 Hours of Spa Francorchamps (Free 3)",
+      "venue": "Circuit de Spa-Francorchamps",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-09",
+      "series": [
+        {
+          "id": "wec",
+          "name": "WEC",
+          "sessions": [
+            "Practice 3",
+            "Practice",
+            "Qualifying",
+            "Race"
+          ]
+        }
+      ]
+    },
+    {
       "id": "sonsio-grand-prix-2026-05-09",
       "name": "Sonsio Grand Prix",
       "venue": "Sonsio",
@@ -423,17 +460,19 @@
       ]
     },
     {
-      "id": "6-hours-of-spa-francorchamps-2026-05-09",
-      "name": "6 Hours of Spa Francorchamps",
-      "venue": "Circuit de Spa-Francorchamps",
-      "startDate": "2026-05-09",
-      "endDate": "2026-05-09",
+      "id": "montreal-2026-05-23",
+      "name": "Montréal",
+      "venue": "Circuit Gilles Villeneuve",
+      "startDate": "2026-05-23",
+      "endDate": "2026-05-24",
       "series": [
         {
-          "id": "wec",
-          "name": "WEC",
+          "id": "f2",
+          "name": "Formula 2",
           "sessions": [
-            "Race"
+            "Sprint",
+            "Race",
+            "Feature Race"
           ]
         }
       ]
@@ -611,8 +650,7 @@
           "name": "Formula 2",
           "sessions": [
             "Sprint",
-            "Race",
-            "Feature Race"
+            "Race"
           ]
         },
         {
@@ -666,15 +704,6 @@
       "endDate": "2026-07-19",
       "series": [
         {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race",
-            "Feature Race"
-          ]
-        },
-        {
           "id": "f3",
           "name": "Formula 3",
           "sessions": [
@@ -696,23 +725,6 @@
           "id": "indycar",
           "name": "IndyCar",
           "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "hungarian-2026-07-25",
-      "name": "Hungarian",
-      "venue": "Hungaroring",
-      "startDate": "2026-07-25",
-      "endDate": "2026-07-25",
-      "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
             "Race"
           ]
         }
