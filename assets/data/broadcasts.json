@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T16:43:54.238Z",
+  "generatedAt": "2026-05-11T02:30:02.256Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Sonsio Grand Prix at Indianapolis",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "MYajcle2DWo",
-      "url": "https://www.youtube.com/watch?v=MYajcle2DWo",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
