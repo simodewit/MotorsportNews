@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T02:28:17.333Z",
+  "generatedAt": "2026-05-12T08:31:01.059Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "max-verstappens-sarcastic-jimmy-fallon-comeback-leaves-f1-fans-in-stitches-0",
-      "title": "Max Verstappen’s ‘sarcastic’ Jimmy Fallon comeback leaves F1 fans in stitches",
+      "id": "kimi-antonellis-support-system-crucial-to-f1-title-fight-says-david-coulthard-0",
+      "title": "Kimi Antonelli's support system crucial to F1 title fight, says David Coulthard",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-sarcastic-jimmy-fallon-comeback-leaves-f1-fans-in-stitches/10819516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonellis-support-system-crucial-to-f1-title-fight-says-david-coulthard/10819686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "max-verstappens-sarcastic-jimmy-fallon-comeback-leaves-f1-fans-in-stitches-0",
+      "id": "kimi-antonellis-support-system-crucial-to-f1-title-fight-says-david-coulthard-0",
+      "title": "Kimi Antonelli's support system crucial to F1 title fight, says David Coulthard",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonellis-support-system-crucial-to-f1-title-fight-says-david-coulthard/10819686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 12, 2026"
+    },
+    {
+      "id": "max-verstappens-sarcastic-jimmy-fallon-comeback-leaves-f1-fans-in-stitches-1",
       "title": "Max Verstappen’s ‘sarcastic’ Jimmy Fallon comeback leaves F1 fans in stitches",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappens-sarcastic-jimmy-fallon-comeback-leaves-f1-fans-in-stitches/10819516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "May 12, 2026"
     },
     {
-      "id": "f1-v8-engine-return-backed-as-david-coulthard-says-series-can-go-zero-emissions-1",
+      "id": "f1-v8-engine-return-backed-as-david-coulthard-says-series-can-go-zero-emissions-2",
       "title": "F1 V8 engine return backed as David Coulthard says series can go \"zero emissions\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-v8-engine-return-backed-as-david-coulthard-says-series-can-go-zero-emissions/10819755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "May 12, 2026"
     },
     {
-      "id": "rob-smedley-sounds-alarm-on-slightly-soul-destroying-ferrari-f1-upgrades-2",
+      "id": "rob-smedley-sounds-alarm-on-slightly-soul-destroying-ferrari-f1-upgrades-3",
       "title": "Rob Smedley sounds alarm on \"slightly soul-destroying\" Ferrari F1 upgrades",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/rob-smedley-sounds-alarm-on-slight-soul-destroying-ferrari-f1-upgrades/10819700/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 11, 2026"
-    },
-    {
-      "id": "why-jolyon-palmer-believes-audi-f1-is-behind-on-the-curve-after-miami-gp-3",
-      "title": "Why Jolyon Palmer believes Audi F1 is “behind on the curve” after Miami GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-jolyon-palmer-believes-audi-f1-is-behind-on-the-curve-after-miami-gp/10819503/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
