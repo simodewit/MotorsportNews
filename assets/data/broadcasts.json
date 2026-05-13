@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T17:54:03.918Z",
+  "generatedAt": "2026-05-13T10:15:11.252Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,51 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE Race | 2026 F1 Sim Racing World Championship | Round 7: Belgium",
+      "channel": "FORMULA 1",
+      "videoId": "7Cy1yEmALqk",
+      "url": "https://www.youtube.com/watch?v=7Cy1yEmALqk",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE Qualifying | 2026 F1 Sim Racing World Championship | Round 7: Belgium",
+      "channel": "FORMULA 1",
+      "videoId": "QD0bw_hRwKM",
+      "url": "https://www.youtube.com/watch?v=QD0bw_hRwKM",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2007 Catalan GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "9mMm2ajsyF0",
+      "url": "https://www.youtube.com/watch?v=9mMm2ajsyF0",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
