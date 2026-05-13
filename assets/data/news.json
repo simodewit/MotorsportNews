@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T19:41:40.833Z",
+  "generatedAt": "2026-05-13T02:34:58.769Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,29 @@
       "publishedLabel": "May 11, 2026"
     },
     {
-      "id": "louis-foster-throwing-a-yellow-doesnt-kill-the-race-nascar-does-it-for-fun-0",
+      "id": "indy-500-day-1-practice-results-alex-palou-leads-the-way-at-225937mph-0",
+      "title": "Indy 500 Day 1 practice results: Alex Palou leads the way at 225.937mph",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indy-500-day-1-practice-results-alex-palou-leads-the-way-at-225937mph/10820313/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 12, 2026"
+    },
+    {
+      "id": "scott-mclaughlin-pushing-to-avenge-last-years-embarrassing-indy-500-pace-lap-crash-1",
+      "title": "Scott McLaughlin pushing to avenge last year’s ‘embarrassing’ Indy 500 pace lap crash ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-pushing-to-avenge-last-years-embarrassing-indy-500-pace-lap-crash-/10820308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 12, 2026"
+    },
+    {
+      "id": "louis-foster-throwing-a-yellow-doesnt-kill-the-race-nascar-does-it-for-fun-2",
       "title": "Louis Foster: Throwing a yellow doesn’t kill the race, NASCAR does it for fun",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/louis-foster-throwing-a-yellow-doesnt-kill-the-race-nascar-does-it-for-fun/10820288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "May 12, 2026"
     },
     {
-      "id": "indycar-indycar-officiating-announce-changes-following-rossis-indy-road-course-incident-1",
+      "id": "indycar-indycar-officiating-announce-changes-following-rossis-indy-road-course-incident-3",
       "title": "IndyCar, IndyCar Officiating announce changes following Rossi’s Indy road course incident",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-indycar-officiating-announce-changes-following-rossis-indy-road-course-incident/10820218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 12, 2026"
-    },
-    {
-      "id": "mclaren-unveils-special-indy-500-liveries-2",
-      "title": "McLaren unveils special Indy 500 liveries ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/mclaren-unveils-special-indy-500-liveries-/10820106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 11, 2026"
-    },
-    {
-      "id": "indycar-alters-qualifying-format-for-2026-indianapolis-500-3",
-      "title": "IndyCar alters qualifying format for 2026 Indianapolis 500",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/altered-qualifying-format-for-2026-indy-500-announced/10820098/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 11, 2026"
     },
     {
       "id": "logan-sargeant-hopes-for-max-verstappen-in-ford-hypercar-hes-going-to-kick-everyones-ass-0",
