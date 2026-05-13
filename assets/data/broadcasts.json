@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T10:15:11.252Z",
+  "generatedAt": "2026-05-13T17:56:03.593Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,30 +64,60 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "LIVE Qualifying | 2026 F1 Sim Racing World Championship | Round 7: Belgium",
-      "channel": "FORMULA 1",
-      "videoId": "QD0bw_hRwKM",
-      "url": "https://www.youtube.com/watch?v=QD0bw_hRwKM",
+      "title": "ADAC RAVENOL 24h Nürburgring Top Quali 3",
+      "channel": "Red Bull Motorsports",
+      "videoId": "lUMjiR8_VQg",
+      "url": "https://www.youtube.com/watch?v=lUMjiR8_VQg",
       "series": [
-        "f1"
+        "other"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "Other"
       ]
     },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "2007 Catalan GP | MotoGP™ Full Race",
-      "channel": "MotoGP",
-      "videoId": "9mMm2ajsyF0",
-      "url": "https://www.youtube.com/watch?v=9mMm2ajsyF0",
+      "title": "Nürburgring 24h Top Quali 1, 2 and Qualifying 3",
+      "channel": "Red Bull Motorsports",
+      "videoId": "LyXB-n5Mjo0",
+      "url": "https://www.youtube.com/watch?v=LyXB-n5Mjo0",
       "series": [
-        "motogp"
+        "other"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "ADAC RAVENOL 24h Nürburgring Qualifying 2",
+      "channel": "Red Bull Motorsports",
+      "videoId": "ApMxAe_0An4",
+      "url": "https://www.youtube.com/watch?v=ApMxAe_0An4",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "ADAC RAVENOL 24h Nürburgring Qualifying 1",
+      "channel": "Red Bull Motorsports",
+      "videoId": "N9rmzRJjbpU",
+      "url": "https://www.youtube.com/watch?v=N9rmzRJjbpU",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
