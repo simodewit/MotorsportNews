@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T10:08:11.148Z",
+  "generatedAt": "2026-05-14T17:43:36.748Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,15 +49,15 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "LIVE Race | 2026 F1 Sim Racing World Championship | Round 8: Netherlands",
-      "channel": "FORMULA 1",
-      "videoId": "_qJb2AfU3Oc",
-      "url": "https://www.youtube.com/watch?v=_qJb2AfU3Oc",
+      "title": "ADAC RAVENOL 24h Nürburgring Qualifying 1",
+      "channel": "Red Bull Motorsports",
+      "videoId": "N9rmzRJjbpU",
+      "url": "https://www.youtube.com/watch?v=N9rmzRJjbpU",
       "series": [
-        "f1"
+        "other"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "Other"
       ]
     },
     {
@@ -98,21 +98,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "ApMxAe_0An4",
       "url": "https://www.youtube.com/watch?v=ApMxAe_0An4",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "ADAC RAVENOL 24h Nürburgring Qualifying 1",
-      "channel": "Red Bull Motorsports",
-      "videoId": "N9rmzRJjbpU",
-      "url": "https://www.youtube.com/watch?v=N9rmzRJjbpU",
       "series": [
         "other"
       ],
