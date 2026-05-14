@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T19:45:52.997Z",
+  "generatedAt": "2026-05-14T02:35:50.441Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,29 @@
       "publishedLabel": "May 13, 2026"
     },
     {
-      "id": "katherine-legge-focused-on-results-not-milestones-in-indy-charlotte-double-0",
+      "id": "indy-500-day-2-practice-results-conor-daly-tops-the-charts-at-228mph-0",
+      "title": "Indy 500 Day 2 practice results: Conor Daly tops the charts at 228mph",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indy-500-day-2-practice-results-conor-daly-tops-the-charts-at-228mph/10820537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 13, 2026"
+    },
+    {
+      "id": "alex-palou-i-love-that-were-getting-some-heat-after-hearing-boos-1",
+      "title": "Alex Palou: “I love that we’re getting some heat” after hearing boos",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/alex-palou-i-love-that-were-getting-some-heat/10820528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 13, 2026"
+    },
+    {
+      "id": "katherine-legge-focused-on-results-not-milestones-in-indy-charlotte-double-2",
       "title": "Katherine Legge focused on results, not milestones in Indy-Charlotte Double ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/katherine-legge-focused-on-results-not-milestones-indy-500-coke-600/10820523/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "May 13, 2026"
     },
     {
-      "id": "the-exclusive-club-katherine-legge-hopes-to-join-with-historic-double-attempt-1",
+      "id": "the-exclusive-club-katherine-legge-hopes-to-join-with-historic-double-attempt-3",
       "title": "The exclusive club Katherine Legge hopes to join with historic 'Double' attempt",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/the-exclusive-club-katherine-legge-hopes-to-join-with-historic-double-attempt/10820334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 13, 2026"
-    },
-    {
-      "id": "indy-500-day-1-practice-results-alex-palou-leads-the-way-at-225937mph-2",
-      "title": "Indy 500 Day 1 practice results: Alex Palou leads the way at 225.937mph",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indy-500-day-1-practice-results-alex-palou-leads-the-way-at-225937mph/10820313/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 12, 2026"
-    },
-    {
-      "id": "scott-mclaughlin-pushing-to-avenge-last-years-embarrassing-indy-500-pace-lap-crash-3",
-      "title": "Scott McLaughlin pushing to avenge last year’s ‘embarrassing’ Indy 500 pace lap crash ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-pushing-to-avenge-last-years-embarrassing-indy-500-pace-lap-crash-/10820308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 12, 2026"
     },
     {
       "id": "logan-sargeant-hopes-for-max-verstappen-in-ford-hypercar-hes-going-to-kick-everyones-ass-0",
