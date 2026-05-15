@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T02:30:46.982Z",
+  "generatedAt": "2026-05-15T10:14:33.833Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,21 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
+      "title": "Nürburgring 24h Top Quali 1, 2 and Qualifying 3",
+      "channel": "Red Bull Motorsports",
+      "videoId": "LyXB-n5Mjo0",
+      "url": "https://www.youtube.com/watch?v=LyXB-n5Mjo0",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
       "title": "ADAC RAVENOL 24h Nürburgring Qualifying 2",
       "channel": "Red Bull Motorsports",
       "videoId": "ApMxAe_0An4",
@@ -98,21 +113,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "lUMjiR8_VQg",
       "url": "https://www.youtube.com/watch?v=lUMjiR8_VQg",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Nürburgring 24h Top Quali 1, 2 and Qualifying 3",
-      "channel": "Red Bull Motorsports",
-      "videoId": "LyXB-n5Mjo0",
-      "url": "https://www.youtube.com/watch?v=LyXB-n5Mjo0",
       "series": [
         "other"
       ],
