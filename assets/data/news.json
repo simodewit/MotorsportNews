@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:51:16.419Z",
+  "generatedAt": "2026-05-15T19:22:33.512Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "the-lotus-72-was-an-extension-of-my-body-emerson-fittipaldi-reveals-0",
-      "title": "The Lotus 72 was \"an extension of my body,\" Emerson Fittipaldi reveals",
+      "id": "ollie-bearman-admits-f2-did-not-prepare-him-for-brutal-reality-of-ferrari-f1-debut-0",
+      "title": "Ollie Bearman admits F2 did not prepare him for brutal reality of Ferrari F1 debut",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-lotus-72-was-an-extension-of-my-body-emerson-fittipaldi-reveals/10820966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/ollie-bearman-admits-f2-did-not-prepare-him-for-brutal-reality-of-ferrari-f1-debut/10821010/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "pramac-yamaha-set-to-sign-izan-guevara-in-motogp-for-2027-0",
-      "title": "Pramac Yamaha set to sign Izan Guevara in MotoGP for 2027",
+      "id": "francesco-bagnaia-utter-nonsense-to-think-motogp-riders-cannot-influence-safety-commission-0",
+      "title": "Francesco Bagnaia: “Utter nonsense” to think MotoGP riders cannot influence Safety Commission",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pramac-yamaha-set-to-sign-izan-guevara-in-motogp-for-2027/10820907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-motogp-riders-skipping-safety-commission-meetings-is-serious/10821105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "the-lotus-72-was-an-extension-of-my-body-emerson-fittipaldi-reveals-0",
+      "id": "ollie-bearman-admits-f2-did-not-prepare-him-for-brutal-reality-of-ferrari-f1-debut-0",
+      "title": "Ollie Bearman admits F2 did not prepare him for brutal reality of Ferrari F1 debut",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/ollie-bearman-admits-f2-did-not-prepare-him-for-brutal-reality-of-ferrari-f1-debut/10821010/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 15, 2026"
+    },
+    {
+      "id": "mclaren-announces-major-intel-partnership-as-tech-giant-returns-to-f1-1",
+      "title": "McLaren announces major Intel partnership as tech giant returns to F1",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-announces-major-intel-partnership-as-tech-giant-returns-to-f1/10820996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 15, 2026"
+    },
+    {
+      "id": "the-lotus-72-was-an-extension-of-my-body-emerson-fittipaldi-reveals-2",
       "title": "The Lotus 72 was \"an extension of my body,\" Emerson Fittipaldi reveals",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-lotus-72-was-an-extension-of-my-body-emerson-fittipaldi-reveals/10820966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "May 15, 2026"
     },
     {
-      "id": "george-russell-reveals-how-viral-t-pose-was-accidentally-created-1",
+      "id": "george-russell-reveals-how-viral-t-pose-was-accidentally-created-3",
       "title": "George Russell reveals how viral 'T-pose' was accidentally created",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-reveals-how-viral-t-pose-was-accidentally-created/10820975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 15, 2026"
-    },
-    {
-      "id": "former-fia-aero-chief-officially-joins-alpine-in-senior-f1-role-2",
-      "title": "Former FIA aero chief officially joins Alpine in senior F1 role",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/former-fia-aero-chief-officially-joins-alpine-in-senior-f1-role/10820932/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 15, 2026"
-    },
-    {
-      "id": "james-vowles-explains-why-williams-cannot-immediately-fix-fw48-weight-issue-3",
-      "title": "James Vowles explains why Williams cannot immediately fix FW48 weight issue",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-explains-why-williams-cannot-immediately-fix-fw48-weight-issue/10820951/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,10 +220,10 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "pramac-yamaha-set-to-sign-izan-guevara-in-motogp-for-2027-0",
-      "title": "Pramac Yamaha set to sign Izan Guevara in MotoGP for 2027",
+      "id": "francesco-bagnaia-utter-nonsense-to-think-motogp-riders-cannot-influence-safety-commission-0",
+      "title": "Francesco Bagnaia: “Utter nonsense” to think MotoGP riders cannot influence Safety Commission",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pramac-yamaha-set-to-sign-izan-guevara-in-motogp-for-2027/10820907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-motogp-riders-skipping-safety-commission-meetings-is-serious/10821105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -231,10 +231,10 @@
       "publishedLabel": "May 15, 2026"
     },
     {
-      "id": "aprilia-riders-not-ruling-out-marc-marquez-from-2026-motogp-title-fight-1",
-      "title": "Aprilia riders not ruling out Marc Marquez from 2026 MotoGP title fight",
+      "id": "pedro-acosta-sends-ktm-to-the-top-in-barcelona-despite-bittersweet-feeling-1",
+      "title": "Pedro Acosta sends KTM to the top in Barcelona despite “bittersweet” feeling",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/aprilia-riders-not-ruling-out-marc-marquez-from-2026-motogp-title-fight/10820771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-not-feeling-that-fast-despite-topping-barcelona-motogp-practice/10821093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -242,10 +242,10 @@
       "publishedLabel": "May 15, 2026"
     },
     {
-      "id": "2026-motogp-catalan-grand-prix-how-to-watch-session-times-more-2",
-      "title": "2026 MotoGP Catalan Grand Prix – How to watch, session times & more",
+      "id": "ktm-will-fight-to-retain-tech3-as-satellite-motogp-team-2",
+      "title": "KTM will \"fight\" to retain Tech3 as satellite MotoGP team",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/2026-motogp-catalan-grand-prix-how-to-watch-session-times/10820865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/ktm-will-fight-to-retain-tech3-as-satellite-motogp-team/10821078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -253,18 +253,51 @@
       "publishedLabel": "May 15, 2026"
     },
     {
-      "id": "jorge-martin-marco-bezzecchi-and-i-are-not-friends-but-we-are-not-enemies-either-3",
-      "title": "Jorge Martin: 'Marco Bezzecchi and I are not friends, but we are not enemies either'",
+      "id": "jorge-martin-calls-for-barcelona-safety-improvements-after-dangerous-motogp-crash-3",
+      "title": "Jorge Martin calls for Barcelona safety improvements after “dangerous” MotoGP crash",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/jorge-martin-marco-bezzecchi-and-i-are-not-friends-but-we-are-always-going-to-help-each-other/10820758/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/jorge-martin-calls-for-barcelona-safety-improvements-after-dangerous-motogp-crash/10821056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "May 14, 2026"
+      "publishedLabel": "May 15, 2026"
     },
     {
-      "id": "exclusive-rll-president-praises-mick-schumacher-as-very-serious-about-his-craft-0",
+      "id": "scott-dixon-quietly-comfortable-ahead-of-indy-500-qualifying-0",
+      "title": "Scott Dixon “quietly comfortable” ahead of Indy 500 qualifying ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/scott-dixon-quietly-comfortable-ahead-of-indy-500-qualifying-/10821114/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 15, 2026"
+    },
+    {
+      "id": "robert-shwartzman-says-its-pretty-tough-to-watch-indy-500-from-sidelines-after-2025-pole-1",
+      "title": "Robert Shwartzman says it's \"pretty tough\" to watch Indy 500 from sidelines after 2025 pole",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/robert-shwartzman-says-its-pretty-tough-to-watch-indy-500-from-sidelines-after-2025-pole/10821069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 15, 2026"
+    },
+    {
+      "id": "daniel-ricciardo-pushes-back-on-claims-f1-drivers-look-down-on-indycar-ahead-of-first-indy-500-visit-2",
+      "title": "Daniel Ricciardo pushes back on claims F1 drivers look down on IndyCar ahead of first Indy 500 visit",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/daniel-ricciardo-pushes-back-on-claims-f1-drivers-look-down-on-indycar-ahead-of-first-indy-500-visit/10821008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 15, 2026"
+    },
+    {
+      "id": "exclusive-rll-president-praises-mick-schumacher-as-very-serious-about-his-craft-3",
       "title": "Exclusive: RLL President praises Mick Schumacher as \"very serious about his craft\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/rll-president-praises-mick-schumacher-a-true-professional-who-makes-a-valuable-contribution/10820853/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -273,39 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 15, 2026"
-    },
-    {
-      "id": "indy-500-day-3-practice-results-pato-oward-leads-at-227308mph-1",
-      "title": "Indy 500 Day 3 practice results: Pato O'Ward leads at 227.308mph",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indy-500-day-3-practice-results-pato-oward-leads-at-227308mph/10820824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 14, 2026"
-    },
-    {
-      "id": "last-years-indy-500-defeat-hurt-more-than-anything-for-ryan-hunter-reay-2",
-      "title": "Last year’s Indy 500 defeat “hurt more than anything” for Ryan Hunter-Reay",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/last-years-indy-500-defeat-hurt-more-than-anything-for-ryan-hunter-reay/10820816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 14, 2026"
-    },
-    {
-      "id": "conor-daly-this-is-the-best-car-ive-ever-had-here-for-the-indy-500-3",
-      "title": "Conor Daly: “This is the best car I’ve ever had here” for the Indy 500",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/conor-daly-this-is-the-best-car-ive-ever-had-here-for-the-indy-500/10820791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 14, 2026"
     },
     {
       "id": "the-2026-le-mans-24-hours-entry-list-in-full-0",
