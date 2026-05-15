@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T17:43:36.748Z",
+  "generatedAt": "2026-05-15T02:30:46.982Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,6 +49,36 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
+      "title": "LIVE: 2026 Indianapolis 500 Qualifying Draw | INDYCAR SERIES",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "5uVn5WGEVgo",
+      "url": "https://www.youtube.com/watch?v=5uVn5WGEVgo",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "ADAC RAVENOL 24h Nürburgring Qualifying 2",
+      "channel": "Red Bull Motorsports",
+      "videoId": "ApMxAe_0An4",
+      "url": "https://www.youtube.com/watch?v=ApMxAe_0An4",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
       "title": "ADAC RAVENOL 24h Nürburgring Qualifying 1",
       "channel": "Red Bull Motorsports",
       "videoId": "N9rmzRJjbpU",
@@ -83,36 +113,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "LyXB-n5Mjo0",
       "url": "https://www.youtube.com/watch?v=LyXB-n5Mjo0",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "ADAC RAVENOL 24h Nürburgring Qualifying 2",
-      "channel": "Red Bull Motorsports",
-      "videoId": "ApMxAe_0An4",
-      "url": "https://www.youtube.com/watch?v=ApMxAe_0An4",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Max Verstappen vs 24hr Nurburgring | Full Onboard Live",
-      "channel": "Red Bull Motorsports",
-      "videoId": "5t3WpNypCUw",
-      "url": "https://www.youtube.com/watch?v=5t3WpNypCUw",
       "series": [
         "other"
       ],
