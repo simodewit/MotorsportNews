@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T19:39:31.118Z",
+  "generatedAt": "2026-05-15T02:35:51.924Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "valtteri-bottas-reveals-fbi-involvement-after-cadillac-stolen-during-miami-gp-weekend-0",
-      "title": "Valtteri Bottas reveals FBI involvement after Cadillac stolen during Miami GP weekend",
+      "id": "zak-brown-takes-fia-fight-over-mercedes-alpine-f1-talks-public-0",
+      "title": "Zak Brown takes FIA fight over Mercedes-Alpine F1 talks public",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-reveals-fbi-involvement-after-cadillac-stolen-during-miami-gp-weekend/10820740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/zak-brown-takes-fia-fight-over-mercedes-alpine-f1-talks-public/10820811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "valtteri-bottas-reveals-fbi-involvement-after-cadillac-stolen-during-miami-gp-weekend-0",
+      "id": "zak-brown-takes-fia-fight-over-mercedes-alpine-f1-talks-public-0",
+      "title": "Zak Brown takes FIA fight over Mercedes-Alpine F1 talks public",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/zak-brown-takes-fia-fight-over-mercedes-alpine-f1-talks-public/10820811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 14, 2026"
+    },
+    {
+      "id": "valtteri-bottas-reveals-fbi-involvement-after-cadillac-stolen-during-miami-gp-weekend-1",
       "title": "Valtteri Bottas reveals FBI involvement after Cadillac stolen during Miami GP weekend",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/valtteri-bottas-reveals-fbi-involvement-after-cadillac-stolen-during-miami-gp-weekend/10820740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "May 14, 2026"
     },
     {
-      "id": "how-competitive-is-the-red-bull-ford-f1-engine-compared-to-mercedes-1",
+      "id": "how-competitive-is-the-red-bull-ford-f1-engine-compared-to-mercedes-2",
       "title": "How competitive is the Red Bull Ford F1 engine compared to Mercedes?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-competitive-is-the-red-bull-ford-f1-engine-compared-to-mercedes/10820631/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "May 14, 2026"
     },
     {
-      "id": "james-vowles-sets-timeline-for-consistent-williams-f1-points-2",
+      "id": "james-vowles-sets-timeline-for-consistent-williams-f1-points-3",
       "title": "James Vowles sets timeline for consistent Williams F1 points",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/james-vowles-sets-timeline-for-consistent-williams-f1-points/10820605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 14, 2026"
-    },
-    {
-      "id": "why-haas-fears-its-losing-ground-to-alpine-in-midfield-battle-following-miami-gp-updates-3",
-      "title": "Why Haas fears it's losing ground to Alpine in midfield battle following Miami GP updates",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-haas-fears-loss-of-ground-to-alpine-in-f1s-upper-midfield-battle/10820490/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "May 14, 2026"
     },
     {
-      "id": "conor-daly-this-is-the-best-car-ive-ever-had-here-for-the-indy-500-0",
+      "id": "indy-500-day-3-practice-results-pato-oward-leads-at-227308mph-0",
+      "title": "Indy 500 Day 3 practice results: Pato O'Ward leads at 227.308mph",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indy-500-day-3-practice-results-pato-oward-leads-at-227308mph/10820824/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 14, 2026"
+    },
+    {
+      "id": "last-years-indy-500-defeat-hurt-more-than-anything-for-ryan-hunter-reay-1",
+      "title": "Last year’s Indy 500 defeat “hurt more than anything” for Ryan Hunter-Reay",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/last-years-indy-500-defeat-hurt-more-than-anything-for-ryan-hunter-reay/10820816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 14, 2026"
+    },
+    {
+      "id": "conor-daly-this-is-the-best-car-ive-ever-had-here-for-the-indy-500-2",
       "title": "Conor Daly: “This is the best car I’ve ever had here” for the Indy 500",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/conor-daly-this-is-the-best-car-ive-ever-had-here-for-the-indy-500/10820791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "May 14, 2026"
     },
     {
-      "id": "romain-grosjean-explains-marcus-armstrong-confrontation-wasnt-looking-for-a-fight-1",
+      "id": "romain-grosjean-explains-marcus-armstrong-confrontation-wasnt-looking-for-a-fight-3",
       "title": "Romain Grosjean explains Marcus Armstrong confrontation, wasn't looking for a fight",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/romain-grosjean-explains-anger-with-marcus-armstrong-didnt-really-want-to-punch-him/10820775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 14, 2026"
-    },
-    {
-      "id": "indy-500-day-2-practice-results-conor-daly-tops-the-charts-at-228mph-2",
-      "title": "Indy 500 Day 2 practice results: Conor Daly tops the charts at 228mph",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indy-500-day-2-practice-results-conor-daly-tops-the-charts-at-228mph/10820537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 13, 2026"
-    },
-    {
-      "id": "alex-palou-i-love-that-were-getting-some-heat-after-hearing-boos-3",
-      "title": "Alex Palou: “I love that we’re getting some heat” after hearing boos",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/alex-palou-i-love-that-were-getting-some-heat/10820528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 13, 2026"
     },
     {
       "id": "the-2026-le-mans-24-hours-entry-list-in-full-0",
