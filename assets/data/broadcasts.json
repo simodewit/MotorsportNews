@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T09:24:10.465Z",
+  "generatedAt": "2026-05-16T16:50:04.514Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -48,16 +48,16 @@
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
-      "statusLabel": "Upcoming",
-      "title": "Carlos Sainz’s First Laps Of The Madring! | New Spanish Grand Prix Track",
-      "channel": "FORMULA 1",
-      "videoId": "yKsOHifPokY",
-      "url": "https://www.youtube.com/watch?v=yKsOHifPokY",
+      "statusLabel": "Live now",
+      "title": "Max Verstappen vs 24hr Nurburgring | Full Onboard Live",
+      "channel": "Red Bull Motorsports",
+      "videoId": "5t3WpNypCUw",
+      "url": "https://www.youtube.com/watch?v=5t3WpNypCUw",
       "series": [
-        "f1"
+        "other"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "Other"
       ]
     },
     {
