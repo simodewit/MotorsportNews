@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T17:23:26.379Z",
+  "generatedAt": "2026-05-16T02:12:52.359Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "LIVE: 2026 Indianapolis 500 Qualifying Draw | INDYCAR SERIES",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "5uVn5WGEVgo",
-      "url": "https://www.youtube.com/watch?v=5uVn5WGEVgo",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
