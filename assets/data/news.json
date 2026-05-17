@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T18:55:05.736Z",
+  "generatedAt": "2026-05-17T02:32:53.613Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -75,8 +75,8 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "valentino-rossi-asks-ducati-to-put-in-the-same-effort-as-francesco-bagnaia-to-help-him-in-motogp-0",
-      "title": "Valentino Rossi asks Ducati “to put in the same effort as Francesco Bagnaia” to help him in MotoGP",
+      "id": "valentino-rossi-calls-on-ducati-to-do-more-for-francesco-bagnaia-in-motogp-title-fight-0",
+      "title": "Valentino Rossi calls on Ducati to do more for Francesco Bagnaia in MotoGP title fight",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/valentino-rossi-asks-ducati-to-put-in-the-same-effort-as-francesco-bagnaia-to-help-him-in-motogp/10821408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
@@ -220,8 +220,8 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "valentino-rossi-asks-ducati-to-put-in-the-same-effort-as-francesco-bagnaia-to-help-him-in-motogp-0",
-      "title": "Valentino Rossi asks Ducati “to put in the same effort as Francesco Bagnaia” to help him in MotoGP",
+      "id": "valentino-rossi-calls-on-ducati-to-do-more-for-francesco-bagnaia-in-motogp-title-fight-0",
+      "title": "Valentino Rossi calls on Ducati to do more for Francesco Bagnaia in MotoGP title fight",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/valentino-rossi-asks-ducati-to-put-in-the-same-effort-as-francesco-bagnaia-to-help-him-in-motogp/10821408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
@@ -264,7 +264,18 @@
       "publishedLabel": "May 16, 2026"
     },
     {
-      "id": "one-year-later-the-scandal-that-changed-team-penske-and-indycar-0",
+      "id": "indy-500-qualifying-postponed-to-sunday-with-condensed-format-0",
+      "title": "Indy 500 qualifying postponed to Sunday with condensed format",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indy-500-qualifying-postponed-to-sunday-with-another-tweak-to-the-format/10821443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 16, 2026"
+    },
+    {
+      "id": "one-year-later-the-scandal-that-changed-team-penske-and-indycar-1",
       "title": "One year later: The scandal that changed Team Penske and IndyCar",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/one-year-later-the-scandal-that-changed-team-penske-and-indycar/10821150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "May 16, 2026"
     },
     {
-      "id": "start-of-indy-500-qualifying-delayed-by-rain-1",
+      "id": "start-of-indy-500-qualifying-delayed-by-rain-2",
       "title": "Start of Indy 500 qualifying delayed by rain",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/start-of-indy-500-qualifying-delayed-by-rain/10821340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "May 16, 2026"
     },
     {
-      "id": "felix-rosenqvist-smashes-233mph-barrier-as-indy-500-speeds-surge-on-fast-friday-2",
+      "id": "felix-rosenqvist-smashes-233mph-barrier-as-indy-500-speeds-surge-on-fast-friday-3",
       "title": "Felix Rosenqvist smashes 233mph barrier as Indy 500 speeds surge on Fast Friday",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-smashes-233mph-barrier-as-indy-500-speeds-surge-on-fast-friday/10821130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 15, 2026"
-    },
-    {
-      "id": "scott-dixon-quietly-comfortable-ahead-of-indy-500-qualifying-3",
-      "title": "Scott Dixon “quietly comfortable” ahead of Indy 500 qualifying ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/scott-dixon-quietly-comfortable-ahead-of-indy-500-qualifying-/10821114/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
