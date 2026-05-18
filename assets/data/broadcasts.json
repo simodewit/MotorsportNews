@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T16:50:04.847Z",
+  "generatedAt": "2026-05-18T02:38:33.672Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🥛 LIVE: Indy 500 Qualifying Marathon | 2023-2025 | INDYCAR Classics",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "MqFi5JJ_Dfk",
-      "url": "https://www.youtube.com/watch?v=MqFi5JJ_Dfk",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
