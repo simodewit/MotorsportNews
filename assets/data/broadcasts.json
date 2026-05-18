@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T02:38:33.672Z",
+  "generatedAt": "2026-05-18T11:38:47.479Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "⏱️ 2026 Indy 500 Qualifying Rewind | INDYCAR SERIES",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "6eo7ZHpLqt8",
+      "url": "https://www.youtube.com/watch?v=6eo7ZHpLqt8",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
