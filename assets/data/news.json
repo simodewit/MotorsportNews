@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T09:48:21.688Z",
+  "generatedAt": "2026-05-18T15:01:23.328Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "mercedes-is-temporarily-banning-kimi-antonelli-from-the-nurburgring-heres-why-0",
-      "title": "Mercedes is temporarily banning Kimi Antonelli from the Nurburgring, here’s why",
+      "id": "will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp-0",
+      "title": "Will Mercedes or McLaren land the next blow at F1's Canadian GP?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-is-banning-kimi-antonelli-from-the-nordschleife-heres-why/10821865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp/10821878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "winners-and-losers-from-motogps-turbulent-catalan-gp-0",
-      "title": "Winners and losers from MotoGP’s turbulent Catalan GP",
+      "id": "francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race-0",
+      "title": "Francesco Bagnaia felt dizzy after Johann Zarco crash: “Maybe I wasn’t ready to race\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-turbulent-catalan-gp/10821839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race/10821925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "mercedes-is-temporarily-banning-kimi-antonelli-from-the-nurburgring-heres-why-0",
+      "id": "will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp-0",
+      "title": "Will Mercedes or McLaren land the next blow at F1's Canadian GP?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp/10821878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "why-ford-loves-the-v8-idea-in-f1-amid-changing-road-car-strategy-1",
+      "title": "Why Ford 'loves the V8 idea' in F1 amid changing road car strategy",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/why-ford-loves-the-v8-idea-in-f1-amid-changing-road-car-strategy/10821858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "mercedes-is-temporarily-banning-kimi-antonelli-from-the-nurburgring-heres-why-2",
       "title": "Mercedes is temporarily banning Kimi Antonelli from the Nurburgring, here’s why",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mercedes-is-banning-kimi-antonelli-from-the-nordschleife-heres-why/10821865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +121,7 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "red-bull-launches-95-crocs-clog-with-f1-car-inspired-design-1",
+      "id": "red-bull-launches-95-crocs-clog-with-f1-car-inspired-design-3",
       "title": "Red Bull launches $95 Crocs clog with F1 car-inspired design",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/red-bull-launches-95-crocs-clog-with-f1-car-inspired-design/10821798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -108,28 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "exotic-dancers-target-canadian-grand-prix-weekend-with-montreal-strike-2",
-      "title": "Exotic dancers target Canadian Grand Prix weekend with Montreal strike",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/exotic-dancers-target-canadian-grand-prix-weekend-with-montreal-strike/10821786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 17, 2026"
-    },
-    {
-      "id": "f1-fans-split-over-carlos-sainzs-first-laps-at-madrids-new-circuit-3",
-      "title": "F1 fans split over Carlos Sainz's first laps at Madrid's new circuit",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-fans-split-over-carlos-sainzs-first-laps-at-madrids-new-circuit/10821796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 17, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -220,10 +220,10 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "winners-and-losers-from-motogps-turbulent-catalan-gp-0",
-      "title": "Winners and losers from MotoGP’s turbulent Catalan GP",
+      "id": "francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race-0",
+      "title": "Francesco Bagnaia felt dizzy after Johann Zarco crash: “Maybe I wasn’t ready to race\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-turbulent-catalan-gp/10821839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race/10821925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -231,40 +231,51 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "johann-zarco-reveals-knee-injury-after-catalan-gp-crash-1",
-      "title": "Johann Zarco reveals knee injury after Catalan GP crash",
+      "id": "jorge-martin-suffers-another-crash-in-barcelona-test-taken-to-hospital-1",
+      "title": "Jorge Martin suffers another crash in Barcelona test, taken to hospital",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/johann-zarco-reveals-knee-injury-after-catalan-gp-crash/10821755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/jorge-martin-crash-barcelona-test-medical-centre/10821898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "May 17, 2026"
+      "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "final-catalan-gp-results-as-five-riders-penalised-and-joan-mir-loses-motogp-podium-2",
-      "title": "Final Catalan GP results as five riders penalised and Joan Mir loses MotoGP podium",
+      "id": "alex-marquez-undergoes-successful-surgery-after-barcelona-crash-2",
+      "title": "Alex Marquez undergoes successful surgery after Barcelona crash",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/final-catalan-gp-results-as-five-riders-penalised-and-joan-mir-loses-motogp-podium/10821727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/alex-marquez-has-undergone-successful-surgery-and-is-ready-to-return-to-madrid/10821887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "May 17, 2026"
+      "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "alex-marquez-suffers-fractures-in-frightening-catalan-gp-crash-3",
-      "title": "Alex Marquez suffers fractures in frightening Catalan GP crash",
+      "id": "motogps-crash-filled-catalan-gp-forces-several-riders-out-of-barcelona-test-3",
+      "title": "MotoGP’s crash-filled Catalan GP forces several riders out of Barcelona test",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/alex-marquez-suffers-fractures-in-frightening-catalan-gp-crash/10821711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogps-crash-filled-catalan-gp-forces-several-riders-out-of-barcelona-test/10821873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "May 17, 2026"
+      "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000-0",
+      "id": "dejected-felix-rosenqvist-a-little-bit-of-deja-vu-as-indy-500-pole-slips-away-0",
+      "title": "Dejected Felix Rosenqvist: “A little bit of déjà vu” as Indy 500 pole slips away",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/a-little-bit-of-deja-vu-as-chance-for-indy-500-pole-slips-away-for-felix-rosenqvist/10821823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000-1",
       "title": "Juan Pablo Montoya reveals reluctance before dominant Indy 500 debut in 2000",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000/10821357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "indycar-penalizes-collet-and-harvey-after-indy-500-inspection-failures-1",
+      "id": "indycar-penalizes-collet-and-harvey-after-indy-500-inspection-failures-2",
       "title": "IndyCar penalizes Collet and Harvey after Indy 500 inspection failures",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-disallows-qualifying-times-of-collet-and-harvey-after-inspection-failures/10821809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying-2",
+      "id": "alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying-3",
       "title": "Alexander Rossi admits “It’s not often that you are happy with second place” after Indy 500 qualifying",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying/10821805/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "alex-palou-delivers-crushing-final-run-to-claim-indy-500-pole-rossi-second-3",
-      "title": "Alex Palou delivers crushing final run to claim Indy 500 pole, Rossi second",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/alex-palou-delivers-crushing-final-run-to-claim-indy-500-pole-at-indianapolis/10821792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 17, 2026"
     },
     {
       "id": "the-2026-le-mans-24-hours-entry-list-in-full-0",
