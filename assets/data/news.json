@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T15:01:23.328Z",
+  "generatedAt": "2026-05-18T19:29:27.293Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp-0",
-      "title": "Will Mercedes or McLaren land the next blow at F1's Canadian GP?",
+      "id": "lando-norris-opens-up-on-mclaren-award-that-transformed-his-racing-career-0",
+      "title": "Lando Norris opens up on McLaren award that transformed his racing career",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp/10821878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/norris-opens-up-on-mclaren-award-that-transformed-his-racing-career/10822027/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race-0",
-      "title": "Francesco Bagnaia felt dizzy after Johann Zarco crash: “Maybe I wasn’t ready to race\"",
+      "id": "pedro-acosta-does-not-believe-a-motogp-riders-association-is-viable-we-are-too-egocentric-0",
+      "title": "Pedro Acosta does not believe a MotoGP riders' association is viable: \"We are too egocentric\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race/10821925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/acosta-doesnt-think-a-motogp-riders-association-is-feasible-were-too-self-centered/10821987/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp-0",
+      "id": "lando-norris-opens-up-on-mclaren-award-that-transformed-his-racing-career-0",
+      "title": "Lando Norris opens up on McLaren award that transformed his racing career",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/norris-opens-up-on-mclaren-award-that-transformed-his-racing-career/10822027/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "rob-smedley-slams-slow-f1-pitwall-responses-as-unacceptable-1",
+      "title": "Rob Smedley slams slow F1 pitwall responses as \"unacceptable\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/rob-smedley-slams-slow-f1-pitwall-responses-as-unacceptable/10821956/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "oscar-piastri-joins-alex-albon-and-gabriel-bortoleto-in-viral-karting-session-2",
+      "title": "Oscar Piastri joins Alex Albon and Gabriel Bortoleto in viral karting session",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-joins-alex-albon-and-gabriel-bortoleto-in-viral-karting-session/10821985/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp-3",
       "title": "Will Mercedes or McLaren land the next blow at F1's Canadian GP?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/will-mercedes-or-mclaren-land-the-next-blow-at-f1s-canadian-gp/10821878/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "why-ford-loves-the-v8-idea-in-f1-amid-changing-road-car-strategy-1",
-      "title": "Why Ford 'loves the V8 idea' in F1 amid changing road car strategy",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-ford-loves-the-v8-idea-in-f1-amid-changing-road-car-strategy/10821858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "mercedes-is-temporarily-banning-kimi-antonelli-from-the-nurburgring-heres-why-2",
-      "title": "Mercedes is temporarily banning Kimi Antonelli from the Nurburgring, here’s why",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-is-banning-kimi-antonelli-from-the-nordschleife-heres-why/10821865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "red-bull-launches-95-crocs-clog-with-f1-car-inspired-design-3",
-      "title": "Red Bull launches $95 Crocs clog with F1 car-inspired design",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bull-launches-95-crocs-clog-with-f1-car-inspired-design/10821798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race-0",
+      "id": "pedro-acosta-does-not-believe-a-motogp-riders-association-is-viable-we-are-too-egocentric-0",
+      "title": "Pedro Acosta does not believe a MotoGP riders' association is viable: \"We are too egocentric\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/acosta-doesnt-think-a-motogp-riders-association-is-feasible-were-too-self-centered/10821987/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "pedro-acosta-fastest-as-rain-curtails-barcelona-motogp-test-1",
+      "title": "Pedro Acosta fastest as rain curtails Barcelona MotoGP test",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-fastest-as-rain-curtails-barcelona-motogp-test/10822012/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race-2",
       "title": "Francesco Bagnaia felt dizzy after Johann Zarco crash: “Maybe I wasn’t ready to race\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-felt-dizzy-after-johann-zarco-crash-maybe-i-wasnt-ready-to-race/10821925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +253,7 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "jorge-martin-suffers-another-crash-in-barcelona-test-taken-to-hospital-1",
+      "id": "jorge-martin-suffers-another-crash-in-barcelona-test-taken-to-hospital-3",
       "title": "Jorge Martin suffers another crash in Barcelona test, taken to hospital",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/jorge-martin-crash-barcelona-test-medical-centre/10821898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,29 +264,29 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "alex-marquez-undergoes-successful-surgery-after-barcelona-crash-2",
-      "title": "Alex Marquez undergoes successful surgery after Barcelona crash",
+      "id": "rossi-oward-and-grosjean-cars-destroyed-in-huge-indy-500-practice-crash-0",
+      "title": "Rossi, O'Ward, and Grosjean cars destroyed in huge Indy 500 practice crash ",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/alex-marquez-has-undergone-successful-surgery-and-is-ready-to-return-to-madrid/10821887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/rossi-oward-and-grosjean-cars-destroyed-in-indy-500-practice-crash/10822043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
+      "seriesLabel": "IndyCar",
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "motogps-crash-filled-catalan-gp-forces-several-riders-out-of-barcelona-test-3",
-      "title": "MotoGP’s crash-filled Catalan GP forces several riders out of Barcelona test",
+      "id": "josef-newgarden-leads-abbreviated-indy-500-practice-marred-by-storms-major-wreck-1",
+      "title": "Josef Newgarden leads abbreviated Indy 500 practice marred by storms, major wreck",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogps-crash-filled-catalan-gp-forces-several-riders-out-of-barcelona-test/10821873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/josef-newgarden-leads-indy-500-practice-storms-major-wreck/10822048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
+      "seriesLabel": "IndyCar",
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "dejected-felix-rosenqvist-a-little-bit-of-deja-vu-as-indy-500-pole-slips-away-0",
+      "id": "dejected-felix-rosenqvist-a-little-bit-of-deja-vu-as-indy-500-pole-slips-away-2",
       "title": "Dejected Felix Rosenqvist: “A little bit of déjà vu” as Indy 500 pole slips away",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/a-little-bit-of-deja-vu-as-chance-for-indy-500-pole-slips-away-for-felix-rosenqvist/10821823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,32 +297,10 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000-1",
+      "id": "juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000-3",
       "title": "Juan Pablo Montoya reveals reluctance before dominant Indy 500 debut in 2000",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000/10821357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "indycar-penalizes-collet-and-harvey-after-indy-500-inspection-failures-2",
-      "title": "IndyCar penalizes Collet and Harvey after Indy 500 inspection failures",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-disallows-qualifying-times-of-collet-and-harvey-after-inspection-failures/10821809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying-3",
-      "title": "Alexander Rossi admits “It’s not often that you are happy with second place” after Indy 500 qualifying",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying/10821805/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
