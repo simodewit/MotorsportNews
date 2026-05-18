@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T02:43:09.920Z",
+  "generatedAt": "2026-05-18T09:48:21.688Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "exotic-dancers-target-canadian-grand-prix-weekend-with-montreal-strike-0",
-      "title": "Exotic dancers target Canadian Grand Prix weekend with Montreal strike",
+      "id": "mercedes-is-temporarily-banning-kimi-antonelli-from-the-nurburgring-heres-why-0",
+      "title": "Mercedes is temporarily banning Kimi Antonelli from the Nurburgring, here’s why",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/exotic-dancers-target-canadian-grand-prix-weekend-with-montreal-strike/10821786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mercedes-is-banning-kimi-antonelli-from-the-nordschleife-heres-why/10821865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "May 17, 2026"
+      "publishedLabel": "May 18, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -75,20 +75,42 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "johann-zarco-reveals-knee-injury-after-catalan-gp-crash-0",
-      "title": "Johann Zarco reveals knee injury after Catalan GP crash",
+      "id": "winners-and-losers-from-motogps-turbulent-catalan-gp-0",
+      "title": "Winners and losers from MotoGP’s turbulent Catalan GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/johann-zarco-reveals-knee-injury-after-catalan-gp-crash/10821755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-turbulent-catalan-gp/10821839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "May 17, 2026"
+      "publishedLabel": "May 18, 2026"
     }
   ],
   "articles": [
     {
-      "id": "exotic-dancers-target-canadian-grand-prix-weekend-with-montreal-strike-0",
+      "id": "mercedes-is-temporarily-banning-kimi-antonelli-from-the-nurburgring-heres-why-0",
+      "title": "Mercedes is temporarily banning Kimi Antonelli from the Nurburgring, here’s why",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mercedes-is-banning-kimi-antonelli-from-the-nordschleife-heres-why/10821865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "red-bull-launches-95-crocs-clog-with-f1-car-inspired-design-1",
+      "title": "Red Bull launches $95 Crocs clog with F1 car-inspired design",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-launches-95-crocs-clog-with-f1-car-inspired-design/10821798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "exotic-dancers-target-canadian-grand-prix-weekend-with-montreal-strike-2",
       "title": "Exotic dancers target Canadian Grand Prix weekend with Montreal strike",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/exotic-dancers-target-canadian-grand-prix-weekend-with-montreal-strike/10821786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "May 17, 2026"
     },
     {
-      "id": "f1-fans-split-over-carlos-sainzs-first-laps-at-madrids-new-circuit-1",
+      "id": "f1-fans-split-over-carlos-sainzs-first-laps-at-madrids-new-circuit-3",
       "title": "F1 fans split over Carlos Sainz's first laps at Madrid's new circuit",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-fans-split-over-carlos-sainzs-first-laps-at-madrids-new-circuit/10821796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 17, 2026"
-    },
-    {
-      "id": "naomi-schiff-reveals-how-gt-drivers-felt-about-max-verstappens-nurburgring-debut-2",
-      "title": "Naomi Schiff reveals how GT drivers felt about Max Verstappen's Nurburgring debut",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/naomi-schiff-reveals-how-gt-drivers-felt-about-max-verstappens-nurburgring-debut/10821782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 17, 2026"
-    },
-    {
-      "id": "max-verstappen-revisits-super-chaotic-2024-brazil-gp-win-one-of-my-best-races-3",
-      "title": "Max Verstappen revisits \"super chaotic\" 2024 Brazil GP win: \"One of my best races\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-revisits-super-chaotic-2024-brazil-gp-win-as-one-of-my-best-races/10821659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "johann-zarco-reveals-knee-injury-after-catalan-gp-crash-0",
+      "id": "winners-and-losers-from-motogps-turbulent-catalan-gp-0",
+      "title": "Winners and losers from MotoGP’s turbulent Catalan GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-turbulent-catalan-gp/10821839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "May 18, 2026"
+    },
+    {
+      "id": "johann-zarco-reveals-knee-injury-after-catalan-gp-crash-1",
       "title": "Johann Zarco reveals knee injury after Catalan GP crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/johann-zarco-reveals-knee-injury-after-catalan-gp-crash/10821755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "May 17, 2026"
     },
     {
-      "id": "final-catalan-gp-results-as-five-riders-penalised-and-joan-mir-loses-motogp-podium-1",
+      "id": "final-catalan-gp-results-as-five-riders-penalised-and-joan-mir-loses-motogp-podium-2",
       "title": "Final Catalan GP results as five riders penalised and Joan Mir loses MotoGP podium",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/final-catalan-gp-results-as-five-riders-penalised-and-joan-mir-loses-motogp-podium/10821727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "May 17, 2026"
     },
     {
-      "id": "alex-marquez-suffers-fractures-in-frightening-catalan-gp-crash-2",
+      "id": "alex-marquez-suffers-fractures-in-frightening-catalan-gp-crash-3",
       "title": "Alex Marquez suffers fractures in frightening Catalan GP crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/alex-marquez-suffers-fractures-in-frightening-catalan-gp-crash/10821711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "May 17, 2026"
     },
     {
-      "id": "pedro-acosta-slams-catalan-gp-calls-its-awful-we-acted-as-if-nothing-happened-3",
-      "title": "Pedro Acosta slams Catalan GP calls: “It’s awful we acted as if nothing happened” ",
+      "id": "juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000-0",
+      "title": "Juan Pablo Montoya reveals reluctance before dominant Indy 500 debut in 2000",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-slams-catalan-gp-calls-its-awful-we-acted-as-if-nothing-happened-/10821700/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/juan-pablo-montoya-reveals-reluctance-before-dominant-indy-500-debut-in-2000/10821357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "May 17, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "indycar-penalizes-collet-and-harvey-after-indy-500-inspection-failures-0",
+      "id": "indycar-penalizes-collet-and-harvey-after-indy-500-inspection-failures-1",
       "title": "IndyCar penalizes Collet and Harvey after Indy 500 inspection failures",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-disallows-qualifying-times-of-collet-and-harvey-after-inspection-failures/10821809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying-1",
+      "id": "alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying-2",
       "title": "Alexander Rossi admits “It’s not often that you are happy with second place” after Indy 500 qualifying",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alexander-rossi-admits-its-not-often-that-you-are-happy-with-second-place-after-indy-500-qualifying/10821805/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "May 18, 2026"
     },
     {
-      "id": "alex-palou-delivers-crushing-final-run-to-claim-indy-500-pole-rossi-second-2",
+      "id": "alex-palou-delivers-crushing-final-run-to-claim-indy-500-pole-rossi-second-3",
       "title": "Alex Palou delivers crushing final run to claim Indy 500 pole, Rossi second",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-delivers-crushing-final-run-to-claim-indy-500-pole-at-indianapolis/10821792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 17, 2026"
-    },
-    {
-      "id": "complete-starting-lineup-for-the-110th-running-of-the-indianapolis-500-3",
-      "title": "Complete starting lineup for the 110th running of the Indianapolis 500",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/the-complete-starting-grid-for-the-110th-running-of-the-indianapolis-500/10821778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
