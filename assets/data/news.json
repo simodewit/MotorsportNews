@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T14:46:13.832Z",
+  "generatedAt": "2026-05-19T19:45:24.012Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "cadillac-details-new-f1-upgrade-package-for-canadian-gp-0",
-      "title": "Cadillac details new F1 upgrade package for Canadian GP",
+      "id": "enter-the-simulation-how-gm-tech-accelerated-cadillacs-f1-entry-0",
+      "title": "Enter the simulation - How GM tech accelerated Cadillac's F1 entry",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/cadillac-details-new-f1-upgrade-package-for-canadian-gp/10822214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/enter-the-simulation-how-gm-tech-accelerated-cadillacs-f1-entry/10822107/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "cadillac-details-new-f1-upgrade-package-for-canadian-gp-0",
+      "id": "enter-the-simulation-how-gm-tech-accelerated-cadillacs-f1-entry-0",
+      "title": "Enter the simulation - How GM tech accelerated Cadillac's F1 entry",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/enter-the-simulation-how-gm-tech-accelerated-cadillacs-f1-entry/10822107/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 19, 2026"
+    },
+    {
+      "id": "cadillac-details-new-f1-upgrade-package-for-canadian-gp-1",
       "title": "Cadillac details new F1 upgrade package for Canadian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/cadillac-details-new-f1-upgrade-package-for-canadian-gp/10822214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "May 19, 2026"
     },
     {
-      "id": "honda-reveals-important-target-for-f1-canadian-gp-1",
+      "id": "honda-reveals-important-target-for-f1-canadian-gp-2",
       "title": "Honda reveals “important target” for F1 Canadian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/honda-reveals-important-target-for-f1-canadian-gp/10822131/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,7 +121,7 @@
       "publishedLabel": "May 19, 2026"
     },
     {
-      "id": "on-this-day-olivier-panis-takes-only-f1-win-in-chaotic-monaco-gp-2",
+      "id": "on-this-day-olivier-panis-takes-only-f1-win-in-chaotic-monaco-gp-3",
       "title": "On this day: Olivier Panis takes only F1 win in chaotic Monaco GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/oliver-panis-win-chaotic-monaco-gp/10821836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -119,17 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "May 19, 2026"
-    },
-    {
-      "id": "lando-norris-eyes-le-mans-drive-as-mclaren-endurance-push-heats-up-3",
-      "title": "Lando Norris eyes Le Mans drive as McLaren endurance push heats up",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-eyes-le-mans-drive-as-mclaren-endurance-heats-up/10822065/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 18, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -264,7 +264,40 @@
       "publishedLabel": "May 19, 2026"
     },
     {
-      "id": "alexander-rossi-suffered-minor-injuries-to-finger-and-ankle-still-aims-to-race-indy-500-0",
+      "id": "the-milk-of-choice-for-every-2026-indy-500-driver-0",
+      "title": "The milk of choice for every 2026 Indy 500 driver ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/the-milk-of-choice-for-every-2026-indy-500-driver-/10822241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 19, 2026"
+    },
+    {
+      "id": "wnba-star-caitlin-clark-to-serve-as-grand-marshal-for-the-indy-500-1",
+      "title": "WNBA star Caitlin Clark to serve as Grand Marshal for the Indy 500",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/wnba-star-caitlin-clark-to-serve-as-grand-marshal-for-the-indy-500/10822244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 19, 2026"
+    },
+    {
+      "id": "the-voices-in-mick-schumachers-head-for-the-indy-500-2",
+      "title": "The voices in Mick Schumacher’s head for the Indy 500 ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/the-voices-in-mick-schumachers-head-for-the-indy-500-/10822225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 19, 2026"
+    },
+    {
+      "id": "alexander-rossi-suffered-minor-injuries-to-finger-and-ankle-still-aims-to-race-indy-500-3",
       "title": "Alexander Rossi suffered minor injuries to finger and ankle, still aims to race Indy 500",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alexander-rossi-indy-500-crash-update-minor-injuries-finger-ankle/10822083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -273,39 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 19, 2026"
-    },
-    {
-      "id": "kyle-kirkwood-here-to-win-indy-500-not-think-championship-1",
-      "title": "Kyle Kirkwood “here to win” Indy 500, not think championship",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/kyle-kirkwood-here-to-win-indy-500-not-think-championship/10822060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "how-alex-palou-captured-pole-for-the-110th-running-of-the-indy-500-2",
-      "title": "How Alex Palou captured pole for the 110th running of the Indy 500",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/how-alex-palou-captured-pole-for-the-110th-running-of-the-indy-500/10822055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 18, 2026"
-    },
-    {
-      "id": "rossi-oward-and-grosjean-cars-destroyed-in-huge-indy-500-practice-crash-3",
-      "title": "Rossi, O'Ward, and Grosjean cars destroyed in huge Indy 500 practice crash ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/rossi-oward-and-grosjean-cars-destroyed-in-indy-500-practice-crash/10822043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 18, 2026"
     },
     {
       "id": "the-2026-le-mans-24-hours-entry-list-in-full-0",
