@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T19:45:24.012Z",
+  "generatedAt": "2026-05-20T02:41:08.164Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,18 @@
       "publishedLabel": "May 19, 2026"
     },
     {
-      "id": "the-milk-of-choice-for-every-2026-indy-500-driver-0",
+      "id": "rookie-dennis-hauger-and-overcoming-the-uncomfortable-feeling-ahead-of-first-indy-500-0",
+      "title": "Rookie Dennis Hauger and overcoming the uncomfortable feeling ahead of first Indy 500",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/rookie-dennis-hauger-and-overcoming-the-uncomfortable-feeling-ahead-of-first-indy-500/10822272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 19, 2026"
+    },
+    {
+      "id": "the-milk-of-choice-for-every-2026-indy-500-driver-1",
       "title": "The milk of choice for every 2026 Indy 500 driver ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/the-milk-of-choice-for-every-2026-indy-500-driver-/10822241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "May 19, 2026"
     },
     {
-      "id": "wnba-star-caitlin-clark-to-serve-as-grand-marshal-for-the-indy-500-1",
+      "id": "wnba-star-caitlin-clark-to-serve-as-grand-marshal-for-the-indy-500-2",
       "title": "WNBA star Caitlin Clark to serve as Grand Marshal for the Indy 500",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/wnba-star-caitlin-clark-to-serve-as-grand-marshal-for-the-indy-500/10822244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "May 19, 2026"
     },
     {
-      "id": "the-voices-in-mick-schumachers-head-for-the-indy-500-2",
+      "id": "the-voices-in-mick-schumachers-head-for-the-indy-500-3",
       "title": "The voices in Mick Schumacher’s head for the Indy 500 ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/the-voices-in-mick-schumachers-head-for-the-indy-500-/10822225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 19, 2026"
-    },
-    {
-      "id": "alexander-rossi-suffered-minor-injuries-to-finger-and-ankle-still-aims-to-race-indy-500-3",
-      "title": "Alexander Rossi suffered minor injuries to finger and ankle, still aims to race Indy 500",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/alexander-rossi-indy-500-crash-update-minor-injuries-finger-ankle/10822083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
