@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T14:46:14.924Z",
+  "generatedAt": "2026-05-20T20:05:26.746Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "how-will-max-verstappen-re-adapt-to-f1-after-nurburgring-24h-adventure-0",
-      "title": "How will Max Verstappen re-adapt to F1 after Nurburgring 24h adventure?",
+      "id": "question-of-the-week-is-more-overtaking-in-f1-always-better-0",
+      "title": "Question of the week: Is more overtaking in F1 always better?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/how-will-max-verstappen-re-adapt-to-f1-after-nurburgring-24h-adventure/10822231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-is-more-overtaking-in-f1-always-better/10822396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "how-will-max-verstappen-re-adapt-to-f1-after-nurburgring-24h-adventure-0",
+      "id": "question-of-the-week-is-more-overtaking-in-f1-always-better-0",
+      "title": "Question of the week: Is more overtaking in F1 always better?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-is-more-overtaking-in-f1-always-better/10822396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 20, 2026"
+    },
+    {
+      "id": "how-will-max-verstappen-re-adapt-to-f1-after-nurburgring-24h-adventure-1",
       "title": "How will Max Verstappen re-adapt to F1 after Nurburgring 24h adventure?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-will-max-verstappen-re-adapt-to-f1-after-nurburgring-24h-adventure/10822231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "May 20, 2026"
     },
     {
-      "id": "five-things-to-look-out-for-at-the-f1-canada-gp-1",
+      "id": "five-things-to-look-out-for-at-the-f1-canada-gp-2",
       "title": "Five things to look out for at the F1 Canada GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-canada-gp/10822274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "May 20, 2026"
     },
     {
-      "id": "enter-the-simulation-how-gm-tech-accelerated-cadillacs-f1-entry-2",
+      "id": "enter-the-simulation-how-gm-tech-accelerated-cadillacs-f1-entry-3",
       "title": "Enter the simulation - How GM tech accelerated Cadillac's F1 entry",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/enter-the-simulation-how-gm-tech-accelerated-cadillacs-f1-entry/10822107/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 19, 2026"
-    },
-    {
-      "id": "cadillac-details-new-f1-upgrade-package-for-canadian-gp-3",
-      "title": "Cadillac details new F1 upgrade package for Canadian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/cadillac-details-new-f1-upgrade-package-for-canadian-gp/10822214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
