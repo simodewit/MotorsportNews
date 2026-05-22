@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T10:43:25.131Z",
+  "generatedAt": "2026-05-22T17:46:21.677Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE: 2026 Indianapolis 500 Drivers' Meeting | INDYCAR SERIES",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "S7W3gER6h6s",
+      "url": "https://www.youtube.com/watch?v=S7W3gER6h6s",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
