@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T13:10:08.146Z",
+  "generatedAt": "2026-05-24T19:07:26.616Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "why-a-wet-canadian-gp-could-be-the-perfect-storm-for-f1-0",
-      "title": "Why a wet Canadian GP could be \"the perfect storm\" for F1",
+      "id": "charles-leclercs-canadian-gp-has-been-a-disaster-and-might-get-worse-0",
+      "title": "Charles Leclerc’s Canadian GP has been a “disaster” – and might get worse",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-a-wet-canadian-grand-prix-could-be-the-perfect-storm-for-f1/10823803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/charles-leclercs-canadian-gp-has-been-a-disaster-and-might-get-worse/10823821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "why-a-wet-canadian-gp-could-be-the-perfect-storm-for-f1-0",
+      "id": "charles-leclercs-canadian-gp-has-been-a-disaster-and-might-get-worse-0",
+      "title": "Charles Leclerc’s Canadian GP has been a “disaster” – and might get worse",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/charles-leclercs-canadian-gp-has-been-a-disaster-and-might-get-worse/10823821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 24, 2026"
+    },
+    {
+      "id": "pirelli-f1-tests-boost-ferrari-red-bull-for-rainy-canadian-gp-mclaren-1",
+      "title": "Pirelli F1 tests boost Ferrari, Red Bull for rainy Canadian GP – McLaren",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/pirelli-f1-tests-boost-ferrari-red-bull-for-rainy-canadian-gp-mclaren/10823779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 24, 2026"
+    },
+    {
+      "id": "i-had-a-s-lap-isack-hadjar-upset-despite-0028s-gap-to-max-verstappen-2",
+      "title": "“I had a s***** lap” – Isack Hadjar upset despite 0.028s gap to Max Verstappen",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/i-had-a-s-lap-isack-hadjar-upset-despite-0028s-gap-to-max-verstappen/10823762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 24, 2026"
+    },
+    {
+      "id": "why-a-wet-canadian-gp-could-be-the-perfect-storm-for-f1-3",
       "title": "Why a wet Canadian GP could be \"the perfect storm\" for F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/why-a-wet-canadian-grand-prix-could-be-the-perfect-storm-for-f1/10823803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 24, 2026"
-    },
-    {
-      "id": "audis-gabriel-bortoleto-set-for-tough-canadian-gp-start-unless-everyone-else-f-it-up-1",
-      "title": "Audi’s Gabriel Bortoleto set for tough Canadian GP start ‘unless everyone else f**** it up’",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/audis-gabriel-bortoleto-set-for-tough-canadian-gp-start-unless-everyone-else-fcks-it-up/10823736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 24, 2026"
-    },
-    {
-      "id": "ollie-bearman-haas-chasing-our-tail-all-weekend-with-updates-and-montreal-bumps-2",
-      "title": "Ollie Bearman: Haas \"chasing our tail all weekend\" with updates and Montreal bumps",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ollie-bearman-haas-chasing-our-tail-all-weekend-with-updates-and-montreal-bumps/10823662/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 24, 2026"
-    },
-    {
-      "id": "lewis-hamiltons-new-approach-seems-to-work-as-he-outqualifies-charles-leclerc-again-3",
-      "title": "Lewis Hamilton’s new approach seems to work as he outqualifies Charles Leclerc again",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-new-approach-seems-to-work-as-he-outqualifies-charles-leclerc-again/10823725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "May 21, 2026"
     },
     {
-      "id": "coyne-to-pay-special-tribute-to-kyle-busch-with-grosjeans-no-18-indy-500-entry-0",
+      "id": "katherine-legges-indy-500-double-bid-hit-by-early-ryan-hunter-reay-crash-0",
+      "title": "Katherine Legge’s Indy 500 Double bid hit by early Ryan Hunter-Reay crash",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/katherine-legges-indy-500-double-bid-hit-by-early-hunter-reay-crash/10823870/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 24, 2026"
+    },
+    {
+      "id": "coyne-to-pay-special-tribute-to-kyle-busch-with-grosjeans-no-18-indy-500-entry-1",
       "title": "Coyne to pay special tribute to Kyle Busch with Grosjean's No. 18 Indy 500 entry",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/dale-coyne-racing-pays-special-tribute-to-kyle-busch-with-no-18-indy-500-entry/10823664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "May 24, 2026"
     },
     {
-      "id": "how-pato-owards-inner-circle-turned-arrow-mclaren-into-an-indycar-threat-1",
+      "id": "how-pato-owards-inner-circle-turned-arrow-mclaren-into-an-indycar-threat-2",
       "title": "How Pato O'Ward's inner circle turned Arrow McLaren into an IndyCar threat",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/exclusive-the-brotherhood-that-has-forged-arrow-mclaren-into-a-powerhouse/10823477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "May 23, 2026"
     },
     {
-      "id": "how-shell-is-helping-teams-in-f1-nascar-and-indycar-all-fight-for-the-win-this-weekend-2",
+      "id": "how-shell-is-helping-teams-in-f1-nascar-and-indycar-all-fight-for-the-win-this-weekend-3",
       "title": "How Shell is helping teams in F1, NASCAR and IndyCar all fight for the win this weekend",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/shell-is-hoping-for-a-memorial-day-weekend-sweep-with-indy-500-coke-600-and-canadian-gp/10823231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 23, 2026"
-    },
-    {
-      "id": "social-media-star-daniel-mac-is-heading-to-the-indy-500-3",
-      "title": "Social media star Daniel Mac is heading to the Indy 500",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/social-media-star-daniel-mac-is-heading-to-the-indy-500/10822647/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 22, 2026"
     },
     {
       "id": "the-2026-le-mans-24-hours-entry-list-in-full-0",
