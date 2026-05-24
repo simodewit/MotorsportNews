@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T02:51:25.454Z",
+  "generatedAt": "2026-05-24T09:50:53.457Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "IEYmEG79K18",
+      "title": "George Russell & Kimi Antonelli's Ghost Car Comparison Laps! | 2026 Canadian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "CNjJdmNPLMs",
       "title": "George Russell's Pole Lap | 2026 Canadian Grand Prix | Pirelli",
       "channel": "FORMULA 1",
@@ -97,14 +108,14 @@
       ]
     },
     {
-      "videoId": "rjLDgDc0td4",
-      "title": "Qualifying Highlights | 2026 Canadian Grand Prix",
-      "channel": "FORMULA 1",
+      "videoId": "jmHGnr-e_88",
+      "title": "LIGHT REACTION CHALLENGE with the VR46 riders! 👀🚦",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
@@ -132,17 +143,6 @@
     {
       "videoId": "aPkEjY1Fn-k",
       "title": "POV: the #FrenchGP 🇫🇷 fan experience has been unlocked 🔓",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "K6FA3odkWgM",
-      "title": "From A to Z with the KTM duo, Pedro Acosta and Brad Binder 🧡",
       "channel": "MotoGP",
       "series": [
         "motogp"
