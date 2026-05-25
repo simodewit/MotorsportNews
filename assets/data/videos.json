@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T03:26:37.040Z",
+  "generatedAt": "2026-05-25T11:50:24.293Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "Ut7n8Z4oTmQ",
+      "title": "10/10 For This Marshall! 🤣",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "SW_ROPQPxMw",
       "title": "Drivers React After To The Race | 2026 Canadian Grand Prix",
       "channel": "FORMULA 1",
@@ -97,14 +108,14 @@
       ]
     },
     {
-      "videoId": "2OxU8hgsxQ8",
-      "title": "Lewis Showing Kimi The Love! ❤️",
-      "channel": "FORMULA 1",
+      "videoId": "6ZDJEiIkb28",
+      "title": "22 de mayo de 2026",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
@@ -132,17 +143,6 @@
     {
       "videoId": "jrGFzKt8Nzk",
       "title": "Wish you could go back to your childhood years so you could be a MotoGP lucky fan, right? 😜",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "aPkEjY1Fn-k",
-      "title": "POV: the #FrenchGP 🇫🇷 fan experience has been unlocked 🔓",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -240,6 +240,28 @@
       ]
     },
     {
+      "videoId": "ZkV38cDDmPU",
+      "title": "🔴 Shakedown LIVE | WRC FORUM8 Rally Japan 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "YlZ8dwEQchQ",
+      "title": "🔴 シェイクダウン ライブ！WRC FORUM8 Rally Japan 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "Iz7CqpPEJd0",
       "title": "FULL ONBOARD - SS19 Katsuta/Johnston | WRC FORUM8 Rally Japan 2024",
       "channel": "FIA World Rally Championship",
@@ -262,25 +284,14 @@
       ]
     },
     {
-      "videoId": "0FbrD0Le4R0",
-      "title": "NEXT UP: WRC FORUM8 Rally Japan, 28 - 31 May 🇯🇵",
-      "channel": "FIA World Rally Championship",
+      "videoId": "pYIw6AwqP5I",
+      "title": "Carpool with #pedroacosta 😏",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "5WtVFRwFuZw",
-      "title": "MAX Attack 💪",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "VNgsDkEri_s",
       "title": "Every second logged 😤",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "HVfAmWw2G9I",
-      "title": "Muscle memory wins 😅",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
