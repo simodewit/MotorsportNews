@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T11:46:21.087Z",
+  "generatedAt": "2026-05-25T17:28:35.131Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,51 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2026 NTT INDYCAR SERIES Full Race | 110th Indianapolis 500",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "3rArTW6NrI0",
+      "url": "https://www.youtube.com/watch?v=3rArTW6NrI0",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 Shakedown LIVE | WRC FORUM8 Rally Japan 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "ZkV38cDDmPU",
+      "url": "https://www.youtube.com/watch?v=ZkV38cDDmPU",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 シェイクダウン ライブ！WRC FORUM8 Rally Japan 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "YlZ8dwEQchQ",
+      "url": "https://www.youtube.com/watch?v=YlZ8dwEQchQ",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
