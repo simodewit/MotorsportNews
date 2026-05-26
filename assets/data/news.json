@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T09:40:47.917Z",
+  "generatedAt": "2026-05-26T14:53:13.647Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "not-sure-we-had-that-pace-were-lewis-hamilton-and-max-verstappen-out-of-reach-for-mclaren-0",
-      "title": "‘Not sure we had that pace’ – Were Lewis Hamilton and Max Verstappen out of reach for McLaren?",
+      "id": "max-verstappen-laughs-at-mclarens-failed-strategy-gamble-0",
+      "title": "Max Verstappen laughs at McLaren's failed strategy gamble",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/not-sure-we-had-that-pace-were-lewis-hamilton-and-max-verstappen-out-of-reach-for-mclaren/10824326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-laughs-at-mclarens-f1-canadian-gp-strategy-gamble/10824426/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "how-the-2027-motogp-grid-is-shaping-up-0",
-      "title": "How the 2027 MotoGP grid is shaping up",
+      "id": "former-f1-boss-ross-brawn-gets-motogp-role-0",
+      "title": "Former F1 boss Ross Brawn gets MotoGP role",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/how-2027-motogp-grid-shaping-up/10824355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/former-f1-boss-ross-brawn-gets-motogp-role/10824385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "not-sure-we-had-that-pace-were-lewis-hamilton-and-max-verstappen-out-of-reach-for-mclaren-0",
+      "id": "max-verstappen-laughs-at-mclarens-failed-strategy-gamble-0",
+      "title": "Max Verstappen laughs at McLaren's failed strategy gamble",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-laughs-at-mclarens-f1-canadian-gp-strategy-gamble/10824426/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "alpine-continues-quest-to-fix-pierre-gaslys-mystifying-car-issues-1",
+      "title": "Alpine continues quest to fix Pierre Gasly's mystifying car issues",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/alpine-continues-quest-to-fix-pierre-gaslys-mystifying-car-issues/10824331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "not-sure-we-had-that-pace-were-lewis-hamilton-and-max-verstappen-out-of-reach-for-mclaren-2",
       "title": "‘Not sure we had that pace’ – Were Lewis Hamilton and Max Verstappen out of reach for McLaren?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/not-sure-we-had-that-pace-were-lewis-hamilton-and-max-verstappen-out-of-reach-for-mclaren/10824326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "May 26, 2026"
     },
     {
-      "id": "jacques-villeneuve-warns-kimi-antonelli-not-to-believe-his-own-hype-amid-f1-title-battle-1",
+      "id": "jacques-villeneuve-warns-kimi-antonelli-not-to-believe-his-own-hype-amid-f1-title-battle-3",
       "title": "Jacques Villeneuve warns Kimi Antonelli not to 'believe his own hype' amid F1 title battle",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-warns-kimi-antonelli-not-to-believe-his-own-hype-amid-f1-title-battle/10824174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 25, 2026"
-    },
-    {
-      "id": "mercedes-knows-it-may-have-to-turn-george-russell-kimi-antonelli-fight-down-a-notch-2",
-      "title": "Mercedes knows it may have to turn George Russell-Kimi Antonelli fight \"down a notch\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-knows-it-may-have-to-turn-russell-antonelli-fight-down-a-notch/10824231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 25, 2026"
-    },
-    {
-      "id": "what-the-international-media-are-saying-about-the-f1-canadian-gp-3",
-      "title": "What the international media are saying about the F1 Canadian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/heres-what-the-international-media-are-saying-about-the-canadian-f1-grand-prix/10824199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "how-the-2027-motogp-grid-is-shaping-up-0",
+      "id": "former-f1-boss-ross-brawn-gets-motogp-role-0",
+      "title": "Former F1 boss Ross Brawn gets MotoGP role",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/former-f1-boss-ross-brawn-gets-motogp-role/10824385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "how-the-2027-motogp-grid-is-shaping-up-1",
       "title": "How the 2027 MotoGP grid is shaping up",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/how-2027-motogp-grid-shaping-up/10824355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "May 26, 2026"
     },
     {
-      "id": "the-five-motogp-manufacturers-gather-in-misano-for-a-two-day-private-test-1",
+      "id": "the-five-motogp-manufacturers-gather-in-misano-for-a-two-day-private-test-2",
       "title": "The five MotoGP manufacturers gather in Misano for a two-day private test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/the-five-motogp-manufacturers-gather-in-misano-for-a-two-day-private-test/10824248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "May 25, 2026"
     },
     {
-      "id": "valentino-rossi-faces-key-decision-who-will-replace-fabio-di-giannantonio-at-vr46-2",
+      "id": "valentino-rossi-faces-key-decision-who-will-replace-fabio-di-giannantonio-at-vr46-3",
       "title": "Valentino Rossi faces key decision: Who will replace Fabio di Giannantonio at VR46?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/valentino-rossi-faces-key-decision-who-will-replace-fabio-di-giannantonio-at-vr46/10822605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "May 25, 2026"
-    },
-    {
-      "id": "aprilia-motogp-chief-pedro-acosta-shouldnt-have-been-allowed-in-restarted-catalan-gp-3",
-      "title": "Aprilia MotoGP chief: Pedro Acosta shouldn't have been allowed in restarted Catalan GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/aprlia-rivola-pedro-acosta-restart-catalan-gp-crash/10822600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "May 22, 2026"
     },
     {
       "id": "mick-schumacher-named-indy-500-rookie-of-the-year-0",
