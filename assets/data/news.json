@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T19:19:52.423Z",
+  "generatedAt": "2026-05-26T02:37:29.636Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,10 +264,21 @@
       "publishedLabel": "May 21, 2026"
     },
     {
-      "id": "complete-indycar-championship-standings-after-2026-indianapolis-500-0",
-      "title": "Complete IndyCar championship standings after 2026 Indianapolis 500",
+      "id": "mick-schumacher-named-indy-500-rookie-of-the-year-0",
+      "title": "Mick Schumacher named Indy 500 Rookie of the Year",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-indianapolis-500/10824279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/mick-schumacher-named-indy-500-rookie-of-the-year/10824311/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "2026-indy-500-purse-is-the-largest-in-history-eclipsing-30-million-1",
+      "title": "2026 Indy 500 purse is the largest in history, eclipsing $30 million ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/2026-indy-500-purse-is-the-largest-in-history-eclipsing-30-million/10824297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
@@ -275,10 +286,10 @@
       "publishedLabel": "May 25, 2026"
     },
     {
-      "id": "the-five-closest-indy-500-finishes-in-history-1",
-      "title": "The five closest Indy 500 finishes in history",
+      "id": "rinus-veekay-delivers-juncos-hollinger-racing-its-best-indy-500-showing-ever-2",
+      "title": "Rinus VeeKay delivers Juncos Hollinger Racing its best Indy 500 showing ever",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/the-five-closest-indy-500-finishes-in-history/10824246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/rinus-veekay-delivers-juncos-hollinger-racing-its-best-indy-500-showing-ever/10824286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
@@ -286,21 +297,10 @@
       "publishedLabel": "May 25, 2026"
     },
     {
-      "id": "2026-indy-500-winner-felix-rosenqvist-dreamed-of-this-finish-then-made-it-real-2",
-      "title": "2026 Indy 500 winner Felix Rosenqvist dreamed of this finish — then made it real",
+      "id": "scott-mclaughlin-thought-if-i-crash-i-crash-before-mad-indy-500-charge-to-p3-3",
+      "title": "Scott McLaughlin thought \"if I crash, I crash\" before mad Indy 500 charge to P3",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-dreamed-of-this-indy-500-finish-then-made-it-real/10824056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 25, 2026"
-    },
-    {
-      "id": "indycar-penalizes-alex-palou-and-ganassi-after-indy-500-inspection-failure-3",
-      "title": "IndyCar penalizes Alex Palou and Ganassi after Indy 500 inspection failure",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-penalizes-alex-palou-and-ganassi-after-indy-500-inspection-failure/10824041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-thought-if-i-crash-i-crash-before-incredible-indy-500-charge/10824290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
