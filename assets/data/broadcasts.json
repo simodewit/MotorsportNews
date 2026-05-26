@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:28:35.131Z",
+  "generatedAt": "2026-05-26T18:19:02.065Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,15 +49,15 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | 110th Indianapolis 500",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "3rArTW6NrI0",
-      "url": "https://www.youtube.com/watch?v=3rArTW6NrI0",
+      "title": "2005 Italian GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "y3nr7VFMX9U",
+      "url": "https://www.youtube.com/watch?v=y3nr7VFMX9U",
       "series": [
-        "indycar"
+        "motogp"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "MotoGP"
       ]
     },
     {
@@ -88,6 +88,36 @@
       ],
       "seriesLabels": [
         "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 6",
+      "channel": "Red Bull Motorsports",
+      "videoId": "--EHpjDclXg",
+      "url": "https://www.youtube.com/watch?v=--EHpjDclXg",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 5",
+      "channel": "Red Bull Motorsports",
+      "videoId": "LbfQ2T86j4Q",
+      "url": "https://www.youtube.com/watch?v=LbfQ2T86j4Q",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
