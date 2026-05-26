@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T14:53:13.647Z",
+  "generatedAt": "2026-05-26T20:01:16.286Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "max-verstappen-laughs-at-mclarens-failed-strategy-gamble-0",
-      "title": "Max Verstappen laughs at McLaren's failed strategy gamble",
+      "id": "why-lewis-hamilton-now-has-everything-in-the-right-place-at-ferrari-0",
+      "title": "Why Lewis Hamilton now has everything in the right place at Ferrari",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-laughs-at-mclarens-f1-canadian-gp-strategy-gamble/10824426/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/moving-mountains-why-lewis-hamilton-now-has-everything-in-the-right-place-at-ferrari/10824461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "max-verstappen-laughs-at-mclarens-failed-strategy-gamble-0",
+      "id": "why-lewis-hamilton-now-has-everything-in-the-right-place-at-ferrari-0",
+      "title": "Why Lewis Hamilton now has everything in the right place at Ferrari",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/moving-mountains-why-lewis-hamilton-now-has-everything-in-the-right-place-at-ferrari/10824461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "how-charles-leclerc-will-recover-from-most-difficult-weekend-of-f1-career-1",
+      "title": "How Charles Leclerc will recover from \"most difficult weekend\" of F1 career",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/how-charles-leclerc-will-recover-from-most-difficult-weekend-of-f1-career/10824459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "max-verstappen-laughs-at-mclarens-failed-strategy-gamble-2",
       "title": "Max Verstappen laughs at McLaren's failed strategy gamble",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-laughs-at-mclarens-f1-canadian-gp-strategy-gamble/10824426/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +121,7 @@
       "publishedLabel": "May 26, 2026"
     },
     {
-      "id": "alpine-continues-quest-to-fix-pierre-gaslys-mystifying-car-issues-1",
+      "id": "alpine-continues-quest-to-fix-pierre-gaslys-mystifying-car-issues-3",
       "title": "Alpine continues quest to fix Pierre Gasly's mystifying car issues",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/alpine-continues-quest-to-fix-pierre-gaslys-mystifying-car-issues/10824331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -108,28 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "May 26, 2026"
-    },
-    {
-      "id": "not-sure-we-had-that-pace-were-lewis-hamilton-and-max-verstappen-out-of-reach-for-mclaren-2",
-      "title": "‘Not sure we had that pace’ – Were Lewis Hamilton and Max Verstappen out of reach for McLaren?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/not-sure-we-had-that-pace-were-lewis-hamilton-and-max-verstappen-out-of-reach-for-mclaren/10824326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 26, 2026"
-    },
-    {
-      "id": "jacques-villeneuve-warns-kimi-antonelli-not-to-believe-his-own-hype-amid-f1-title-battle-3",
-      "title": "Jacques Villeneuve warns Kimi Antonelli not to 'believe his own hype' amid F1 title battle",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-warns-kimi-antonelli-not-to-believe-his-own-hype-amid-f1-title-battle/10824174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 25, 2026"
     },
     {
       "id": "f2-to-join-f1-bill-in-miami-and-canada-0",
@@ -264,7 +264,29 @@
       "publishedLabel": "May 25, 2026"
     },
     {
-      "id": "mick-schumacher-named-indy-500-rookie-of-the-year-0",
+      "id": "romain-grosjean-earns-indy-500-biggest-mover-award-after-weird-day-0",
+      "title": "Romain Grosjean earns Indy 500 biggest mover award after 'weird' day",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indy-500-biggest-mover-romain-grosjean-reacts-to-impressive-top-ten-finish-/10824494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-the-110th-running-of-the-indianapolis-500-1",
+      "title": "Winners and losers from the 110th running of the Indianapolis 500",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-110th-running-of-the-indianapolis-500/10824502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 26, 2026"
+    },
+    {
+      "id": "mick-schumacher-named-indy-500-rookie-of-the-year-2",
       "title": "Mick Schumacher named Indy 500 Rookie of the Year",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/mick-schumacher-named-indy-500-rookie-of-the-year/10824311/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,32 +297,10 @@
       "publishedLabel": "May 26, 2026"
     },
     {
-      "id": "2026-indy-500-purse-is-the-largest-in-history-eclipsing-30-million-1",
+      "id": "2026-indy-500-purse-is-the-largest-in-history-eclipsing-30-million-3",
       "title": "2026 Indy 500 purse is the largest in history, eclipsing $30 million ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/2026-indy-500-purse-is-the-largest-in-history-eclipsing-30-million/10824297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 25, 2026"
-    },
-    {
-      "id": "rinus-veekay-delivers-juncos-hollinger-racing-its-best-indy-500-showing-ever-2",
-      "title": "Rinus VeeKay delivers Juncos Hollinger Racing its best Indy 500 showing ever",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/rinus-veekay-delivers-juncos-hollinger-racing-its-best-indy-500-showing-ever/10824286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 25, 2026"
-    },
-    {
-      "id": "scott-mclaughlin-thought-if-i-crash-i-crash-before-mad-indy-500-charge-to-p3-3",
-      "title": "Scott McLaughlin thought \"if I crash, I crash\" before mad Indy 500 charge to P3",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-thought-if-i-crash-i-crash-before-incredible-indy-500-charge/10824290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
