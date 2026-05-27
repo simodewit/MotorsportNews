@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T11:31:33.924Z",
+  "generatedAt": "2026-05-27T18:21:09.848Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,96 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "LIVE Race | 2026 F1 Sim Racing World Championship | Round 10: Mexico City",
-      "channel": "FORMULA 1",
-      "videoId": "tjR_v1M2-8k",
-      "url": "https://www.youtube.com/watch?v=tjR_v1M2-8k",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Upcoming",
-      "title": "2026 Indianapolis 500 Victory Celebration | Full Show | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "QXFwZYuXYa0",
-      "url": "https://www.youtube.com/watch?v=QXFwZYuXYa0",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Shakedown LIVE | WRC FORUM8 Rally Japan 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "ZkV38cDDmPU",
-      "url": "https://www.youtube.com/watch?v=ZkV38cDDmPU",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！WRC FORUM8 Rally Japan 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "YlZ8dwEQchQ",
-      "url": "https://www.youtube.com/watch?v=YlZ8dwEQchQ",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 6",
-      "channel": "Red Bull Motorsports",
-      "videoId": "--EHpjDclXg",
-      "url": "https://www.youtube.com/watch?v=--EHpjDclXg",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 5",
-      "channel": "Red Bull Motorsports",
-      "videoId": "LbfQ2T86j4Q",
-      "url": "https://www.youtube.com/watch?v=LbfQ2T86j4Q",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
