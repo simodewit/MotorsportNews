@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T18:19:02.065Z",
+  "generatedAt": "2026-05-27T11:31:33.924Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,15 +49,30 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "2005 Italian GP | MotoGP™ Full Race",
-      "channel": "MotoGP",
-      "videoId": "y3nr7VFMX9U",
-      "url": "https://www.youtube.com/watch?v=y3nr7VFMX9U",
+      "title": "LIVE Race | 2026 F1 Sim Racing World Championship | Round 10: Mexico City",
+      "channel": "FORMULA 1",
+      "videoId": "tjR_v1M2-8k",
+      "url": "https://www.youtube.com/watch?v=tjR_v1M2-8k",
       "series": [
-        "motogp"
+        "f1"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Upcoming",
+      "title": "2026 Indianapolis 500 Victory Celebration | Full Show | INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "QXFwZYuXYa0",
+      "url": "https://www.youtube.com/watch?v=QXFwZYuXYa0",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
