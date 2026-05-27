@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T15:22:41.318Z",
+  "generatedAt": "2026-05-27T20:06:30.783Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "when-haas-will-decide-its-f1-2027-driver-line-up-0",
-      "title": "When Haas will decide its F1 2027 driver line-up",
+      "id": "question-of-the-week-should-mercedes-interfere-in-george-russell-and-kimi-antonellis-battle-0",
+      "title": "Question of the week: Should Mercedes interfere in George Russell and Kimi Antonelli’s battle?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/when-haas-will-decide-on-its-f1-2027-driver-line-up/10824589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-should-mercedes-interfere-in-george-russell-and-kimi-antonellis-battle/10824666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "when-haas-will-decide-its-f1-2027-driver-line-up-0",
+      "id": "question-of-the-week-should-mercedes-interfere-in-george-russell-and-kimi-antonellis-battle-0",
+      "title": "Question of the week: Should Mercedes interfere in George Russell and Kimi Antonelli’s battle?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-should-mercedes-interfere-in-george-russell-and-kimi-antonellis-battle/10824666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 27, 2026"
+    },
+    {
+      "id": "kimi-antonelli-not-thinking-about-f1-title-despite-43-point-lead-1",
+      "title": "Kimi Antonelli not thinking about F1 title despite 43-point lead",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-not-thinking-about-f1-title-despite-43-point-lead/10824549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "May 27, 2026"
+    },
+    {
+      "id": "when-haas-will-decide-its-f1-2027-driver-line-up-2",
       "title": "When Haas will decide its F1 2027 driver line-up",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/when-haas-will-decide-on-its-f1-2027-driver-line-up/10824589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "May 27, 2026"
     },
     {
-      "id": "gucci-becomes-title-partner-of-alpine-f1-team-for-2027-1",
+      "id": "gucci-becomes-title-partner-of-alpine-f1-team-for-2027-3",
       "title": "Gucci becomes title partner of Alpine F1 team for 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/gucci-becomes-title-partner-of-alpine-f1-team-for-2027/10824620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 27, 2026"
-    },
-    {
-      "id": "gilles-villeneuves-final-f1-race-helmet-breaks-auction-record-2",
-      "title": "Gilles Villeneuve’s final F1 race helmet breaks auction record",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/gilles-villeneuves-iconic-helmet-fetches-record-price-at-auction/10824596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "May 27, 2026"
-    },
-    {
-      "id": "the-mysterious-disappearance-of-f1s-penalty-points-in-2026-3",
-      "title": "The mysterious disappearance of F1’s penalty points in 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/wednesday-do-penalty-points-still-serve-any-purpose-in-f1/10824575/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "May 26, 2026"
     },
     {
-      "id": "romain-grosjean-earns-indy-500-biggest-mover-award-after-weird-day-0",
+      "id": "santino-ferrucci-wish-we-had-the-week-off-for-crew-members-after-indy-stretch-0",
+      "title": "Santino Ferrucci “wish we had the week off” for crew members after Indy stretch",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/santino-ferrucci-wish-we-had-the-week-off-for-crew-members-after-indy-stretch/10824686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "May 27, 2026"
+    },
+    {
+      "id": "romain-grosjean-earns-indy-500-biggest-mover-award-after-weird-day-1",
       "title": "Romain Grosjean earns Indy 500 biggest mover award after 'weird' day",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indy-500-biggest-mover-romain-grosjean-reacts-to-impressive-top-ten-finish-/10824494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "May 26, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-110th-running-of-the-indianapolis-500-1",
+      "id": "winners-and-losers-from-the-110th-running-of-the-indianapolis-500-2",
       "title": "Winners and losers from the 110th running of the Indianapolis 500",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-110th-running-of-the-indianapolis-500/10824502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "May 26, 2026"
     },
     {
-      "id": "mick-schumacher-named-indy-500-rookie-of-the-year-2",
+      "id": "mick-schumacher-named-indy-500-rookie-of-the-year-3",
       "title": "Mick Schumacher named Indy 500 Rookie of the Year",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/mick-schumacher-named-indy-500-rookie-of-the-year/10824311/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "May 26, 2026"
-    },
-    {
-      "id": "2026-indy-500-purse-is-the-largest-in-history-eclipsing-30-million-3",
-      "title": "2026 Indy 500 purse is the largest in history, eclipsing $30 million ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/2026-indy-500-purse-is-the-largest-in-history-eclipsing-30-million/10824297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 25, 2026"
     },
     {
       "id": "a-clash-of-eras-jacky-ickx-gets-behind-the-wheel-of-the-genesis-hypercar-0",
