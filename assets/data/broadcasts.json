@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T18:21:09.848Z",
+  "generatedAt": "2026-05-28T11:31:14.970Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,66 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 開会式 | Opening LIVE | WRC FORUM8 Rally Japan 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "w9pJYkxLmUc",
+      "url": "https://www.youtube.com/watch?v=w9pJYkxLmUc",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 シェイクダウン ライブ！WRC FORUM8 Rally Japan 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "YlZ8dwEQchQ",
+      "url": "https://www.youtube.com/watch?v=YlZ8dwEQchQ",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 6",
+      "channel": "Red Bull Motorsports",
+      "videoId": "--EHpjDclXg",
+      "url": "https://www.youtube.com/watch?v=--EHpjDclXg",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 5",
+      "channel": "Red Bull Motorsports",
+      "videoId": "LbfQ2T86j4Q",
+      "url": "https://www.youtube.com/watch?v=LbfQ2T86j4Q",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
