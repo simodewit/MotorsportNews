@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T18:33:39.195Z",
+  "generatedAt": "2026-05-29T02:49:46.872Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "ZCN_UchHs0c",
+      "title": "How fast is Mugello? 🤔 🏍️💨",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "bleVoAZVCmU",
       "title": "How many penne are inside the jar? 🍝🤌",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "FEA8svIIacM",
       "title": "Cal is back but almost wasn't meant to be (thanks Lucy!) 😳",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "na4Tr72KDOE",
-      "title": "Franky fields Diggia and Bez as MotoGP Fantasy Gold Riders!",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "S9XxckRkOXA",
+      "title": "Race Preview | 2026 INDYCAR at Detroit",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "8J7K-yZqp94",
       "title": "Sunday in Indy | The Story of the 2026 Indianapolis 500 | INDYCAR",
       "channel": "NTT INDYCAR SERIES",
@@ -229,14 +240,14 @@
       ]
     },
     {
-      "videoId": "wCpSftxAeYM",
-      "title": "The CLOSEST Indy 500 Finishes Ever 🤯 | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "KcqRaH3xFeM",
+      "title": "Rally Japan 💥",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "YlZ8dwEQchQ",
       "title": "🔴 シェイクダウン ライブ！WRC FORUM8 Rally Japan 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "ZkV38cDDmPU",
-      "title": "🔴 Shakedown LIVE | WRC FORUM8 Rally Japan 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
