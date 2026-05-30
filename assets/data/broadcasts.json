@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T09:52:30.068Z",
+  "generatedAt": "2026-05-30T16:53:49.548Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -83,21 +83,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "--EHpjDclXg",
       "url": "https://www.youtube.com/watch?v=--EHpjDclXg",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 5",
-      "channel": "Red Bull Motorsports",
-      "videoId": "LbfQ2T86j4Q",
-      "url": "https://www.youtube.com/watch?v=LbfQ2T86j4Q",
       "series": [
         "other"
       ],
