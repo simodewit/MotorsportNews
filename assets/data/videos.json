@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T18:29:02.279Z",
+  "generatedAt": "2026-05-30T02:43:09.451Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,39 @@
       ]
     },
     {
+      "videoId": "NsSaF0WNhGo",
+      "title": "Practice 1 Highlights | 2026 INDYCAR at Detroit",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "F9lDIECd27A",
+      "title": "WHOA, PATO! 😳 #indycar #racing #patooward",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "xdry_6pS9UE",
+      "title": "Do not try this at home 🤣 #indycar #racing #willpower",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "S9XxckRkOXA",
       "title": "Race Preview | 2026 INDYCAR at Detroit",
       "channel": "NTT INDYCAR SERIES",
@@ -207,36 +240,14 @@
       ]
     },
     {
-      "videoId": "8J7K-yZqp94",
-      "title": "Sunday in Indy | The Story of the 2026 Indianapolis 500 | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "xXcnsejDxUU",
+      "title": "WRC2 Day 1 Highlights | WRC FORUM8 Rally Japan 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "DVI_BED1Vgg",
-      "title": "It was one for the history books 🏁🤯 #indycar #racing #indy500",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "QXFwZYuXYa0",
-      "title": "2026 Indianapolis 500 Victory Celebration | Full Show | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "w9pJYkxLmUc",
       "title": "🔴 開会式 | Opening LIVE | WRC FORUM8 Rally Japan 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "dM--rohYtFc",
-      "title": "🔴 Opening Ceremony LIVE | WRC FORUM8 Rally Japan 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
