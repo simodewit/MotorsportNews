@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T02:45:07.451Z",
+  "generatedAt": "2026-05-31T10:08:25.078Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,36 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 開会式 | Opening LIVE | WRC FORUM8 Rally Japan 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "w9pJYkxLmUc",
-      "url": "https://www.youtube.com/watch?v=w9pJYkxLmUc",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Mugello: Race 6",
-      "channel": "Red Bull Motorsports",
-      "videoId": "--EHpjDclXg",
-      "url": "https://www.youtube.com/watch?v=--EHpjDclXg",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
