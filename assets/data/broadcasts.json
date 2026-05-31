@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T16:53:49.548Z",
+  "generatedAt": "2026-05-31T02:45:07.451Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -53,21 +53,6 @@
       "channel": "FIA World Rally Championship",
       "videoId": "w9pJYkxLmUc",
       "url": "https://www.youtube.com/watch?v=w9pJYkxLmUc",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！WRC FORUM8 Rally Japan 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "YlZ8dwEQchQ",
-      "url": "https://www.youtube.com/watch?v=YlZ8dwEQchQ",
       "series": [
         "rally"
       ],
