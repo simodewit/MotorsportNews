@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T17:24:27.718Z",
+  "generatedAt": "2026-06-01T21:24:25.664Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "why-former-mclaren-boss-is-taking-on-new-f1-challenge-at-williams-0",
-      "title": "Why former McLaren boss is taking on new F1 challenge at Williams",
+      "id": "nico-rosberg-reveals-major-mental-change-behind-2016-lewis-hamilton-clash-0",
+      "title": "Nico Rosberg reveals major mental change behind 2016 Lewis Hamilton clash",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-former-mclaren-boss-is-taking-on-new-f1-challenge-at-williams/10825175/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/nico-rosberg-reveals-major-mental-change-behind-2016-lewis-hamilton-clash/10826083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "why-former-mclaren-boss-is-taking-on-new-f1-challenge-at-williams-0",
+      "id": "nico-rosberg-reveals-major-mental-change-behind-2016-lewis-hamilton-clash-0",
+      "title": "Nico Rosberg reveals major mental change behind 2016 Lewis Hamilton clash",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/nico-rosberg-reveals-major-mental-change-behind-2016-lewis-hamilton-clash/10826083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 1, 2026"
+    },
+    {
+      "id": "why-former-mclaren-boss-is-taking-on-new-f1-challenge-at-williams-1",
       "title": "Why former McLaren boss is taking on new F1 challenge at Williams",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/why-former-mclaren-boss-is-taking-on-new-f1-challenge-at-williams/10825175/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "mclaren-celebrates-1000th-f1-gp-in-monaco-with-special-livery-1",
+      "id": "mclaren-celebrates-1000th-f1-gp-in-monaco-with-special-livery-2",
       "title": "McLaren celebrates 1000th F1 GP in Monaco with special livery",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mclaren-celebrates-1000th-f1-gp-in-monaco-with-special-livery/10826078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "ferrari-unveils-special-charles-leclerc-monaco-gp-race-suit-2",
+      "id": "ferrari-unveils-special-charles-leclerc-monaco-gp-race-suit-3",
       "title": "Ferrari unveils special Charles Leclerc Monaco GP race suit",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ferrari-unveils-special-charles-leclerc-monaco-gp-race-suit/10826056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 1, 2026"
-    },
-    {
-      "id": "ayao-komatsu-says-monaco-sunday-should-be-accepted-as-haas-boss-highlights-its-unique-appeal-3",
-      "title": "Ayao Komatsu says Monaco sunday should be accepted as Haas boss highlights its \"unique\" appeal",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ayao-komatsu-monaco-sunday-accepted-haas-boss-unique-appeal/10826049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
