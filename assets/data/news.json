@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:10:57.312Z",
+  "generatedAt": "2026-06-02T16:09:25.776Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "on-this-day-michael-schumachers-greatest-formula-1-performance-ever-0",
-      "title": "On This Day: Michael Schumacher's \"greatest Formula 1 performance ever\"",
+      "id": "did-f1-lose-a-decade-of-pure-racing-with-hybrid-switch-or-is-fernando-alonso-just-feeling-nostalgic-0",
+      "title": "Did F1 lose a “decade of pure racing” with hybrid switch, or is Fernando Alonso just feeling nostalgic?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/on-this-day-schumachers-greatest-achievement-in-formula-1-ever/10826192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/with-hybrid-engines-weve-lost-a-decade-of-real-f1-is-alonsos-argument-valid-or-is-it-just-nostalgia/10826269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "iker-lecuona-returns-to-motogp-to-replace-alex-marquez-0",
-      "title": "Iker Lecuona returns to MotoGP to replace Alex Marquez",
+      "id": "francesco-bagnaia-hopes-mugello-podium-marks-end-of-motogp-nightmare-0",
+      "title": "Francesco Bagnaia hopes Mugello podium marks end of MotoGP ‘nightmare’",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/iker-lecuona-returns-to-motogp-to-replace-alex-marquez/10826176/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-hopes-mugello-podium-marks-end-of-motogp-nightmare/10826155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,8 +88,30 @@
   ],
   "articles": [
     {
-      "id": "on-this-day-michael-schumachers-greatest-formula-1-performance-ever-0",
-      "title": "On This Day: Michael Schumacher's \"greatest Formula 1 performance ever\"",
+      "id": "did-f1-lose-a-decade-of-pure-racing-with-hybrid-switch-or-is-fernando-alonso-just-feeling-nostalgic-0",
+      "title": "Did F1 lose a “decade of pure racing” with hybrid switch, or is Fernando Alonso just feeling nostalgic?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/with-hybrid-engines-weve-lost-a-decade-of-real-f1-is-alonsos-argument-valid-or-is-it-just-nostalgia/10826269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 2, 2026"
+    },
+    {
+      "id": "lando-norris-ferrari-will-be-on-pole-for-f1-monaco-gp-1",
+      "title": "Lando Norris: Ferrari will be on pole for F1 Monaco GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/norris-ferrari-will-be-on-pole-for-f1-monaco-gp/10826021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 2, 2026"
+    },
+    {
+      "id": "on-this-day-the-unbelievable-drive-that-earned-michael-schumacher-his-first-ferrari-win-2",
+      "title": "On This Day: The \"unbelievable\" drive that earned Michael Schumacher his first Ferrari win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/on-this-day-schumachers-greatest-achievement-in-formula-1-ever/10826192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
@@ -99,7 +121,7 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "mercedes-unique-diffuser-design-and-why-it-stands-out-from-the-rest-of-the-grid-1",
+      "id": "mercedes-unique-diffuser-design-and-why-it-stands-out-from-the-rest-of-the-grid-3",
       "title": "Mercedes' unique diffuser design and why it stands out from the rest of the grid",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-new-mercedes-design-the-upper-edge-of-the-diffuser-is-jagged-and-there-is-a-deflector-on-the-cas/10826173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -108,28 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Jun 2, 2026"
-    },
-    {
-      "id": "lewis-hamilton-drives-custom-1984-buick-regal-as-f1-driver-explores-lowrider-culture-2",
-      "title": "Lewis Hamilton drives custom 1984 Buick Regal as F1 driver explores lowrider culture",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-drives-custom-1984-buick-regal-as-f1-driver-explores-lowrider-culture/10826179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 2, 2026"
-    },
-    {
-      "id": "nico-rosberg-reveals-major-mental-change-behind-2016-lewis-hamilton-clash-3",
-      "title": "Nico Rosberg reveals major mental change behind 2016 Lewis Hamilton clash",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-reveals-major-mental-change-behind-2016-lewis-hamilton-clash/10826083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 1, 2026"
     },
     {
       "id": "formula-2-and-formula-3-reveal-new-logos-mid-season-0",
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "iker-lecuona-returns-to-motogp-to-replace-alex-marquez-0",
+      "id": "francesco-bagnaia-hopes-mugello-podium-marks-end-of-motogp-nightmare-0",
+      "title": "Francesco Bagnaia hopes Mugello podium marks end of MotoGP ‘nightmare’",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-hopes-mugello-podium-marks-end-of-motogp-nightmare/10826155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 2, 2026"
+    },
+    {
+      "id": "iker-lecuona-returns-to-motogp-to-replace-alex-marquez-1",
       "title": "Iker Lecuona returns to MotoGP to replace Alex Marquez",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/iker-lecuona-returns-to-motogp-to-replace-alex-marquez/10826176/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "the-motivation-isnt-there-anymore-says-fabio-quartararo-1",
+      "id": "the-motivation-isnt-there-anymore-says-fabio-quartararo-2",
       "title": "\"The motivation isn't there anymore,\" says Fabio Quartararo",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/the-motivation-isnt-there-anymore-says-fabio-quartararo/10825844/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "moto2-points-leader-manu-gonzalez-knocking-on-trackhouses-door-for-2027-motogp-seat-2",
+      "id": "moto2-points-leader-manu-gonzalez-knocking-on-trackhouses-door-for-2027-motogp-seat-3",
       "title": "Moto2 points leader Manu Gonzalez knocking on Trackhouse's door for 2027 MotoGP seat",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/moto2-points-leader-manu-gonzalez-knocks-on-trackhouses-door/10825983/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 1, 2026"
-    },
-    {
-      "id": "alex-rins-there-are-still-a-few-seats-available-in-motogp-im-waiting-for-an-answer-3",
-      "title": "Alex Rins: \"There are still a few seats available in MotoGP; I’m waiting for an answer\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/alex-rins-there-are-still-a-few-seats-available-in-motogp-im-waiting-for-an-answer-/10825973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "May 31, 2026"
     },
     {
-      "id": "the-2026-le-mans-24-hours-entry-list-in-full-0",
+      "id": "stephane-ratel-on-wecs-bop-secrecy-there-is-no-conspiracy-0",
+      "title": "Stephane Ratel on WEC’s BoP secrecy: “There is no conspiracy\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/stephane-ratel-on-wecs-bop-secrecy-there-is-no-conspiracy/10826159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 2, 2026"
+    },
+    {
+      "id": "the-2026-le-mans-24-hours-entry-list-in-full-1",
       "title": "The 2026 Le Mans 24 Hours entry list in full",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/the-2026-le-mans-24-hours-entry-list-in-full/10798927/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "every-hypercar-and-gtp-driver-racing-in-le-mans-24-hours-lmp2-class-1",
+      "id": "every-hypercar-and-gtp-driver-racing-in-le-mans-24-hours-lmp2-class-2",
       "title": "Every Hypercar and GTP driver racing in Le Mans 24 Hours’ LMP2 class",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/every-hypercar-and-gtp-driver-racing-in-le-mans-24-hours-lmp2-class/10825685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "May 31, 2026"
     },
     {
-      "id": "ferrari-to-stay-in-wec-only-if-it-can-build-entire-car-in-house-under-new-regs-2",
+      "id": "ferrari-to-stay-in-wec-only-if-it-can-build-entire-car-in-house-under-new-regs-3",
       "title": "Ferrari to stay in WEC only if it can build entire car in-house under new regs",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/coletta-exclusive-ferrari-future-hypercar-new-regulations/10825052/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "May 29, 2026"
-    },
-    {
-      "id": "a-clash-of-eras-jacky-ickx-gets-behind-the-wheel-of-the-genesis-hypercar-3",
-      "title": "A clash of eras: Jacky Ickx gets behind the wheel of the Genesis Hypercar",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/a-clash-of-eras-jacky-ickx-gets-behind-the-wheel-of-the-genesis-hypercar/10824115/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "May 25, 2026"
     }
   ]
 }
