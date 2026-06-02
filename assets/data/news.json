@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:09:25.776Z",
+  "generatedAt": "2026-06-02T20:38:46.822Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "did-f1-lose-a-decade-of-pure-racing-with-hybrid-switch-or-is-fernando-alonso-just-feeling-nostalgic-0",
-      "title": "Did F1 lose a “decade of pure racing” with hybrid switch, or is Fernando Alonso just feeling nostalgic?",
+      "id": "no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027-0",
+      "title": "No breakthrough on F1 engine rule changes yet, extra day of winter testing in 2027",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/with-hybrid-engines-weve-lost-a-decade-of-real-f1-is-alonsos-argument-valid-or-is-it-just-nostalgia/10826269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027/10826314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,8 +88,19 @@
   ],
   "articles": [
     {
-      "id": "did-f1-lose-a-decade-of-pure-racing-with-hybrid-switch-or-is-fernando-alonso-just-feeling-nostalgic-0",
-      "title": "Did F1 lose a “decade of pure racing” with hybrid switch, or is Fernando Alonso just feeling nostalgic?",
+      "id": "no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027-0",
+      "title": "No breakthrough on F1 engine rule changes yet, extra day of winter testing in 2027",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027/10826314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 2, 2026"
+    },
+    {
+      "id": "is-fernando-alonso-right-to-say-f1-lost-a-decade-of-pure-racing-with-hybrid-switch-1",
+      "title": "Is Fernando Alonso right to say F1 lost a “decade of pure racing” with hybrid switch?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/with-hybrid-engines-weve-lost-a-decade-of-real-f1-is-alonsos-argument-valid-or-is-it-just-nostalgia/10826269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "lando-norris-ferrari-will-be-on-pole-for-f1-monaco-gp-1",
+      "id": "lando-norris-ferrari-will-be-on-pole-for-f1-monaco-gp-2",
       "title": "Lando Norris: Ferrari will be on pole for F1 Monaco GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/norris-ferrari-will-be-on-pole-for-f1-monaco-gp/10826021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "on-this-day-the-unbelievable-drive-that-earned-michael-schumacher-his-first-ferrari-win-2",
+      "id": "on-this-day-the-unbelievable-drive-that-earned-michael-schumacher-his-first-ferrari-win-3",
       "title": "On This Day: The \"unbelievable\" drive that earned Michael Schumacher his first Ferrari win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/on-this-day-schumachers-greatest-achievement-in-formula-1-ever/10826192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 2, 2026"
-    },
-    {
-      "id": "mercedes-unique-diffuser-design-and-why-it-stands-out-from-the-rest-of-the-grid-3",
-      "title": "Mercedes' unique diffuser design and why it stands out from the rest of the grid",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-new-mercedes-design-the-upper-edge-of-the-diffuser-is-jagged-and-there-is-a-deflector-on-the-cas/10826173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "graham-rahal-rebounds-from-early-hit-and-spin-to-take-detroit-podium-0",
+      "id": "winners-and-losers-from-indycars-detroit-gp-0",
+      "title": "Winners and losers from IndyCar's Detroit GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-indycars-detroit-gp/10826322/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 2, 2026"
+    },
+    {
+      "id": "graham-rahal-rebounds-from-early-hit-and-spin-to-take-detroit-podium-1",
       "title": "Graham Rahal rebounds from early hit-and-spin to take Detroit podium",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/graham-rahal-rebounds-from-early-spin-to-take-detroit-podium/10826074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "scott-mclaughlin-says-will-power-gave-me-no-option-after-contact-ends-detroit-podium-chances-1",
+      "id": "scott-mclaughlin-says-will-power-gave-me-no-option-after-contact-ends-detroit-podium-chances-2",
       "title": "Scott McLaughlin says Will Power “gave me no option” after contact ends Detroit podium chances",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-says-will-power-gave-me-no-option-after-contact-ends-detroit-podium-chances/10825863/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "May 31, 2026"
     },
     {
-      "id": "complete-indycar-championship-standings-after-2026-detroit-gp-2",
+      "id": "complete-indycar-championship-standings-after-2026-detroit-gp-3",
       "title": "Complete IndyCar championship standings after 2026 Detroit GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-detroit-gp/10825842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 31, 2026"
-    },
-    {
-      "id": "kyle-kirkwood-says-indycar-title-fight-not-done-after-detroit-runner-up-finish-3",
-      "title": "Kyle Kirkwood says IndyCar title fight “not done” after Detroit runner-up finish",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/kyle-kirkwood-says-indycar-title-fight-not-done-after-detroit-runner-up-finish/10825859/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
