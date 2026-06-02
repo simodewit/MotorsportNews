@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T20:12:00.044Z",
+  "generatedAt": "2026-06-02T11:58:02.077Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Chevrolet Detroit Grand Prix",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "f5YzsaqgG7Q",
-      "url": "https://www.youtube.com/watch?v=f5YzsaqgG7Q",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
