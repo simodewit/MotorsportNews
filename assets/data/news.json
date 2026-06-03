@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T20:38:46.822Z",
+  "generatedAt": "2026-06-03T03:30:53.022Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027-0",
-      "title": "No breakthrough on F1 engine rule changes yet, extra day of winter testing in 2027",
+      "id": "nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership-0",
+      "title": "Nico Rosberg exposes Michael Schumacher's mind games during Mercedes F1 partnership",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027/10826314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership/10826129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027-0",
+      "id": "nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership-0",
+      "title": "Nico Rosberg exposes Michael Schumacher's mind games during Mercedes F1 partnership",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership/10826129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 2, 2026"
+    },
+    {
+      "id": "no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027-1",
       "title": "No breakthrough on F1 engine rule changes yet, extra day of winter testing in 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027/10826314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "is-fernando-alonso-right-to-say-f1-lost-a-decade-of-pure-racing-with-hybrid-switch-1",
+      "id": "is-fernando-alonso-right-to-say-f1-lost-a-decade-of-pure-racing-with-hybrid-switch-2",
       "title": "Is Fernando Alonso right to say F1 lost a “decade of pure racing” with hybrid switch?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/with-hybrid-engines-weve-lost-a-decade-of-real-f1-is-alonsos-argument-valid-or-is-it-just-nostalgia/10826269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "lando-norris-ferrari-will-be-on-pole-for-f1-monaco-gp-2",
+      "id": "lando-norris-ferrari-will-be-on-pole-for-f1-monaco-gp-3",
       "title": "Lando Norris: Ferrari will be on pole for F1 Monaco GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/norris-ferrari-will-be-on-pole-for-f1-monaco-gp/10826021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 2, 2026"
-    },
-    {
-      "id": "on-this-day-the-unbelievable-drive-that-earned-michael-schumacher-his-first-ferrari-win-3",
-      "title": "On This Day: The \"unbelievable\" drive that earned Michael Schumacher his first Ferrari win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/on-this-day-schumachers-greatest-achievement-in-formula-1-ever/10826192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
