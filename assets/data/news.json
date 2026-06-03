@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T16:24:18.093Z",
+  "generatedAt": "2026-06-03T20:49:24.931Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "the-10-things-you-should-know-about-the-f1-monaco-grand-prix-0",
-      "title": "The 10 things you should know about the F1 Monaco Grand Prix",
+      "id": "is-charles-leclercs-ferrari-leap-of-faith-the-right-choice-0",
+      "title": "Is Charles Leclerc's Ferrari leap of faith the right choice? ",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/Ten-things-you-should-know-about-the-F1-Monaco-GP/10826435/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/did-charles-leclerc-make-the-right-choice-with-new-ferrari-deal-writers-verdict/10826513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "the-10-things-you-should-know-about-the-f1-monaco-grand-prix-0",
+      "id": "is-charles-leclercs-ferrari-leap-of-faith-the-right-choice-0",
+      "title": "Is Charles Leclerc's Ferrari leap of faith the right choice? ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/did-charles-leclerc-make-the-right-choice-with-new-ferrari-deal-writers-verdict/10826513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 3, 2026"
+    },
+    {
+      "id": "the-10-things-you-should-know-about-the-f1-monaco-grand-prix-1",
       "title": "The 10 things you should know about the F1 Monaco Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/Ten-things-you-should-know-about-the-F1-Monaco-GP/10826435/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 3, 2026"
     },
     {
-      "id": "audi-has-the-fourth-best-chassis-and-will-close-engine-gap-in-2028-says-mattia-binotto-1",
+      "id": "audi-has-the-fourth-best-chassis-and-will-close-engine-gap-in-2028-says-mattia-binotto-2",
       "title": "Audi has the fourth best chassis and will close engine gap in 2028, says Mattia Binotto",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-binotto-audi-has-the-4th-best-chassis-the-goal-is-to-close-the-engine-gap-in-2028-/10826438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 3, 2026"
     },
     {
-      "id": "five-things-to-look-out-for-at-the-f1-monaco-gp-2",
+      "id": "five-things-to-look-out-for-at-the-f1-monaco-gp-3",
       "title": "Five things to look out for at the F1 Monaco GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-monaco-gp/10826298/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 3, 2026"
-    },
-    {
-      "id": "aston-martin-unveils-special-colour-shifting-monaco-gp-livery-3",
-      "title": "Aston Martin unveils special colour-shifting Monaco GP livery",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/Aston-Martin-reveals-Monaco-GP-livery/10826403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "winners-and-losers-from-indycars-detroit-gp-0",
+      "id": "pato-oward-finding-consistency-amid-arrow-mclaren-transformation-0",
+      "title": "Pato O’Ward finding consistency amid Arrow McLaren “transformation” ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/pato-oward-finding-consistency-amid-arrow-mclaren-transformation-/10826534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 3, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-indycars-detroit-gp-1",
       "title": "Winners and losers from IndyCar's Detroit GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-indycars-detroit-gp/10826322/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "graham-rahal-rebounds-from-early-hit-and-spin-to-take-detroit-podium-1",
+      "id": "graham-rahal-rebounds-from-early-hit-and-spin-to-take-detroit-podium-2",
       "title": "Graham Rahal rebounds from early hit-and-spin to take Detroit podium",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/graham-rahal-rebounds-from-early-spin-to-take-detroit-podium/10826074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "scott-mclaughlin-says-will-power-gave-me-no-option-after-contact-ends-detroit-podium-chances-2",
+      "id": "scott-mclaughlin-says-will-power-gave-me-no-option-after-contact-ends-detroit-podium-chances-3",
       "title": "Scott McLaughlin says Will Power “gave me no option” after contact ends Detroit podium chances",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-says-will-power-gave-me-no-option-after-contact-ends-detroit-podium-chances/10825863/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "May 31, 2026"
-    },
-    {
-      "id": "complete-indycar-championship-standings-after-2026-detroit-gp-3",
-      "title": "Complete IndyCar championship standings after 2026 Detroit GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-detroit-gp/10825842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
