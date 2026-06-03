@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T03:30:53.022Z",
+  "generatedAt": "2026-06-03T10:47:43.702Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership-0",
-      "title": "Nico Rosberg exposes Michael Schumacher's mind games during Mercedes F1 partnership",
+      "id": "five-things-to-look-out-for-at-the-f1-monaco-gp-0",
+      "title": "Five things to look out for at the F1 Monaco GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership/10826129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-monaco-gp/10826298/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 2, 2026"
+      "publishedLabel": "Jun 3, 2026"
     },
     {
       "id": "formula-2-and-formula-3-reveal-new-logos-mid-season-0",
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership-0",
+      "id": "five-things-to-look-out-for-at-the-f1-monaco-gp-0",
+      "title": "Five things to look out for at the F1 Monaco GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-monaco-gp/10826298/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 3, 2026"
+    },
+    {
+      "id": "aston-martin-unveils-special-colour-shifting-monaco-gp-livery-1",
+      "title": "Aston Martin unveils special colour-shifting Monaco GP livery",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/Aston-Martin-reveals-Monaco-GP-livery/10826403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 3, 2026"
+    },
+    {
+      "id": "charles-leclerc-reiterates-ferrari-f1-title-desire-as-he-extends-contract-2",
+      "title": "Charles Leclerc reiterates Ferrari F1 title desire as he extends contract",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reiterates-ferrari-f1-title-desire-as-he-extends-contract/10826370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 3, 2026"
+    },
+    {
+      "id": "nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership-3",
       "title": "Nico Rosberg exposes Michael Schumacher's mind games during Mercedes F1 partnership",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/nico-rosberg-exposes-michael-schumachers-mind-games-during-mercedes-f1-partnership/10826129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 2, 2026"
-    },
-    {
-      "id": "no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027-1",
-      "title": "No breakthrough on F1 engine rule changes yet, extra day of winter testing in 2027",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/no-breakthrough-on-f1-engine-rule-changes-yet-extra-day-of-winter-testing-in-2027/10826314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 2, 2026"
-    },
-    {
-      "id": "is-fernando-alonso-right-to-say-f1-lost-a-decade-of-pure-racing-with-hybrid-switch-2",
-      "title": "Is Fernando Alonso right to say F1 lost a “decade of pure racing” with hybrid switch?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/with-hybrid-engines-weve-lost-a-decade-of-real-f1-is-alonsos-argument-valid-or-is-it-just-nostalgia/10826269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 2, 2026"
-    },
-    {
-      "id": "lando-norris-ferrari-will-be-on-pole-for-f1-monaco-gp-3",
-      "title": "Lando Norris: Ferrari will be on pole for F1 Monaco GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/norris-ferrari-will-be-on-pole-for-f1-monaco-gp/10826021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "May 31, 2026"
     },
     {
-      "id": "stephane-ratel-on-wecs-bop-secrecy-there-is-no-conspiracy-0",
+      "id": "le-mans-bop-secrecy-we-spend-far-too-much-time-talking-about-it-0",
+      "title": "Le Mans' BoP secrecy: 'We spend far too much time talking about it'",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/at-le-mans-the-open-secret-we-spend-too-much-time-talking-about-this-bop/10826300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 3, 2026"
+    },
+    {
+      "id": "stephane-ratel-on-wecs-bop-secrecy-there-is-no-conspiracy-1",
       "title": "Stephane Ratel on WEC’s BoP secrecy: “There is no conspiracy\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/stephane-ratel-on-wecs-bop-secrecy-there-is-no-conspiracy/10826159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jun 2, 2026"
     },
     {
-      "id": "the-2026-le-mans-24-hours-entry-list-in-full-1",
+      "id": "the-2026-le-mans-24-hours-entry-list-in-full-2",
       "title": "The 2026 Le Mans 24 Hours entry list in full",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/the-2026-le-mans-24-hours-entry-list-in-full/10798927/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Jun 1, 2026"
     },
     {
-      "id": "every-hypercar-and-gtp-driver-racing-in-le-mans-24-hours-lmp2-class-2",
+      "id": "every-hypercar-and-gtp-driver-racing-in-le-mans-24-hours-lmp2-class-3",
       "title": "Every Hypercar and GTP driver racing in Le Mans 24 Hours’ LMP2 class",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/every-hypercar-and-gtp-driver-racing-in-le-mans-24-hours-lmp2-class/10825685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "May 31, 2026"
-    },
-    {
-      "id": "ferrari-to-stay-in-wec-only-if-it-can-build-entire-car-in-house-under-new-regs-3",
-      "title": "Ferrari to stay in WEC only if it can build entire car in-house under new regs",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/coletta-exclusive-ferrari-future-hypercar-new-regulations/10825052/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "May 29, 2026"
     }
   ]
 }
