@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T10:56:52.626Z",
+  "generatedAt": "2026-06-04T18:10:00.179Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -98,21 +98,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "hz04QEDKi8E",
       "url": "https://www.youtube.com/watch?v=hz04QEDKi8E",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Assen: Race 7",
-      "channel": "Red Bull Motorsports",
-      "videoId": "5exxEUU0Pmc",
-      "url": "https://www.youtube.com/watch?v=5exxEUU0Pmc",
       "series": [
         "other"
       ],
