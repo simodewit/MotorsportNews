@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T19:42:15.557Z",
+  "generatedAt": "2026-06-04T10:56:52.626Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,51 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 LIVE: St. Louis Race Marathon | Classic Full INDYCAR SERIES Races",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "7Et_kd_QeqU",
+      "url": "https://www.youtube.com/watch?v=7Et_kd_QeqU",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Raw Live POV of the Hardest Race in the World",
+      "channel": "Red Bull Motorsports",
+      "videoId": "mzuRZf_QQgU",
+      "url": "https://www.youtube.com/watch?v=mzuRZf_QQgU",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🇩🇪 German | Red Bull Erzbergrodeo 2026",
+      "channel": "Red Bull Motorsports",
+      "videoId": "S5z7Y9Pk4HM",
+      "url": "https://www.youtube.com/watch?v=S5z7Y9Pk4HM",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
