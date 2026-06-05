@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T02:47:48.568Z",
+  "generatedAt": "2026-06-05T09:35:53.264Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "george-russell-tipped-to-beat-kimi-antonelli-at-monaco-gp-as-mercedes-battle-heats-up-0",
-      "title": "George Russell tipped to beat Kimi Antonelli at Monaco GP as Mercedes battle heats up",
+      "id": "lewis-hamilton-found-his-italian-bono-at-ferrari-in-f1-2026-0",
+      "title": "Lewis Hamilton found his \"Italian Bono\" at Ferrari in F1 2026",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-tipped-to-beat-kimi-antonelli-at-monaco-gp-as-mercedes-battle-heats-up/10826711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-has-found-his-italian-bono-at-ferrari-in-f1-2026/10826914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 4, 2026"
+      "publishedLabel": "Jun 5, 2026"
     },
     {
       "id": "formula-2-and-formula-3-reveal-new-logos-mid-season-0",
@@ -75,20 +75,42 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "cal-crutchlow-to-ride-through-shoulder-injury-in-challenging-balaton-park-weekend-0",
-      "title": "Cal Crutchlow to ride through shoulder injury in “challenging” Balaton Park weekend",
+      "id": "maverick-vinales-on-motogp-future-and-injury-recovery-i-dont-have-to-convince-anyone-0",
+      "title": "Maverick Vinales on MotoGP future and injury recovery: “I don’t have to convince anyone”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/cal-crutchlow-to-ride-through-shoulder-injury-in-challenging-balaton-park-weekend/10826783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/maverick-vinales-on-motogp-future-and-injury-recovery-i-dont-have-to-convince-anyone/10826934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 4, 2026"
+      "publishedLabel": "Jun 5, 2026"
     }
   ],
   "articles": [
     {
-      "id": "george-russell-tipped-to-beat-kimi-antonelli-at-monaco-gp-as-mercedes-battle-heats-up-0",
+      "id": "lewis-hamilton-found-his-italian-bono-at-ferrari-in-f1-2026-0",
+      "title": "Lewis Hamilton found his \"Italian Bono\" at Ferrari in F1 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-has-found-his-italian-bono-at-ferrari-in-f1-2026/10826914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 5, 2026"
+    },
+    {
+      "id": "lesson-learned-the-real-reason-max-verstappen-criticised-red-bull-in-canada-1",
+      "title": "\"Lesson learned” – The real reason Max Verstappen criticised Red Bull in Canada",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lesson-learned-the-real-reason-max-verstappen-criticised-red-bull-in-canada/10826869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 5, 2026"
+    },
+    {
+      "id": "george-russell-tipped-to-beat-kimi-antonelli-at-monaco-gp-as-mercedes-battle-heats-up-2",
       "title": "George Russell tipped to beat Kimi Antonelli at Monaco GP as Mercedes battle heats up",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-tipped-to-beat-kimi-antonelli-at-monaco-gp-as-mercedes-battle-heats-up/10826711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 4, 2026"
     },
     {
-      "id": "f1-to-stay-in-las-vegas-until-2037-after-signing-10-year-extension-1",
+      "id": "f1-to-stay-in-las-vegas-until-2037-after-signing-10-year-extension-3",
       "title": "F1 to stay in Las Vegas until 2037 after signing 10-year extension",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-to-stay-in-las-vegas-until-2037-after-signing-10-year-extension/10826828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 4, 2026"
-    },
-    {
-      "id": "ralf-schumacher-marries-partner-etienne-bousquet-cassagne-in-st-tropez-ceremony-2",
-      "title": "Ralf Schumacher marries partner Étienne Bousquet-Cassagne in St Tropez ceremony",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-marries-partner-etienne-bousquet-cassagne-in-st-tropez-ceremony/10826862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 4, 2026"
-    },
-    {
-      "id": "arvid-lindblad-explains-why-lavish-monaco-stereotype-holds-no-appeal-3",
-      "title": "Arvid Lindblad explains why \"lavish Monaco stereotype\" holds no appeal",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-explains-why-lavish-monaco-stereotype-holds-no-appeal/10826855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "cal-crutchlow-to-ride-through-shoulder-injury-in-challenging-balaton-park-weekend-0",
+      "id": "maverick-vinales-on-motogp-future-and-injury-recovery-i-dont-have-to-convince-anyone-0",
+      "title": "Maverick Vinales on MotoGP future and injury recovery: “I don’t have to convince anyone”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/maverick-vinales-on-motogp-future-and-injury-recovery-i-dont-have-to-convince-anyone/10826934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 5, 2026"
+    },
+    {
+      "id": "2026-motogp-hungarian-grand-prix-how-to-watch-session-times-more-1",
+      "title": "2026 MotoGP Hungarian Grand Prix – How to watch, session times & more",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/2026-motogp-hungarian-grand-prix-how-to-watch-session-times/10826907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 5, 2026"
+    },
+    {
+      "id": "cal-crutchlow-to-ride-through-shoulder-injury-in-challenging-balaton-park-weekend-2",
       "title": "Cal Crutchlow to ride through shoulder injury in “challenging” Balaton Park weekend",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/cal-crutchlow-to-ride-through-shoulder-injury-in-challenging-balaton-park-weekend/10826783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,32 +253,10 @@
       "publishedLabel": "Jun 4, 2026"
     },
     {
-      "id": "how-iker-lecuona-got-surprise-call-up-for-gresini-motogp-seat-in-hungary-1",
+      "id": "how-iker-lecuona-got-surprise-call-up-for-gresini-motogp-seat-in-hungary-3",
       "title": "How Iker Lecuona got “surprise” call-up for Gresini MotoGP seat in Hungary",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/how-iker-lecuona-got-surprise-call-up-for-gresini-motogp-seat-in-hungary/10826768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 4, 2026"
-    },
-    {
-      "id": "marc-marquez-thinks-he-can-forget-about-hungarian-gp-podium-2",
-      "title": "Marc Marquez thinks he can \"forget\" about Hungarian GP podium",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marc-marquez-hungarian-gp-podium-chances/10826747/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 4, 2026"
-    },
-    {
-      "id": "fabio-quartararo-not-expecting-any-reaction-from-yamaha-despite-lack-of-progress-3",
-      "title": "Fabio Quartararo not expecting any “reaction” from Yamaha despite lack of progress",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-not-expecting-any-reaction-from-yamaha-despite-lack-of-progress/10826720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
