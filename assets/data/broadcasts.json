@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T02:42:36.558Z",
+  "generatedAt": "2026-06-05T11:19:42.610Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -68,21 +68,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "S5z7Y9Pk4HM",
       "url": "https://www.youtube.com/watch?v=S5z7Y9Pk4HM",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup - Assen: Race 8",
-      "channel": "Red Bull Motorsports",
-      "videoId": "hz04QEDKi8E",
-      "url": "https://www.youtube.com/watch?v=hz04QEDKi8E",
       "series": [
         "other"
       ],
