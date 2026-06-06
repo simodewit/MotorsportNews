@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T02:34:56.162Z",
+  "generatedAt": "2026-06-06T08:27:14.447Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "fernando-alonso-shares-touching-mclaren-message-during-major-f1-milestone-0",
-      "title": "Fernando Alonso shares touching McLaren message during major F1 milestone",
+      "id": "ferraris-fred-vasseur-to-skip-saturday-at-f1-monaco-gp-0",
+      "title": "Ferrari's Fred Vasseur to skip Saturday at F1 Monaco GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-shares-touching-mclaren-message-during-major-f1-milestone/10827310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/ferraris-fred-vasseur-to-skip-saturday-at-f1-monaco-gp/10827355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 5, 2026"
+      "publishedLabel": "Jun 6, 2026"
     },
     {
       "id": "cadillac-on-colton-hertas-tricky-f2-debut-he-wasnt-going-to-blow-everyone-away-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "fernando-alonso-shares-touching-mclaren-message-during-major-f1-milestone-0",
+      "id": "ferraris-fred-vasseur-to-skip-saturday-at-f1-monaco-gp-0",
+      "title": "Ferrari's Fred Vasseur to skip Saturday at F1 Monaco GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/ferraris-fred-vasseur-to-skip-saturday-at-f1-monaco-gp/10827355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 6, 2026"
+    },
+    {
+      "id": "why-audi-does-not-want-major-f1-engine-changes-for-2027-1",
+      "title": "Why Audi does not want major F1 engine changes for 2027",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/why-audi-is-opposing-major-f1-engine-changes-for-2027/10827342/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 6, 2026"
+    },
+    {
+      "id": "fernando-alonso-shares-touching-mclaren-message-during-major-f1-milestone-2",
       "title": "Fernando Alonso shares touching McLaren message during major F1 milestone",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fernando-alonso-shares-touching-mclaren-message-during-major-f1-milestone/10827310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 5, 2026"
     },
     {
-      "id": "juan-pablo-montoya-lewis-hamilton-could-deal-charles-leclerc-big-blow-mentally-at-monaco-gp-1",
+      "id": "juan-pablo-montoya-lewis-hamilton-could-deal-charles-leclerc-big-blow-mentally-at-monaco-gp-3",
       "title": "Juan Pablo Montoya: Lewis Hamilton could deal Charles Leclerc \"big blow mentally\" at Monaco GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-lewis-hamilton-could-deal-charles-leclerc-big-blow-mentally-at-monaco-gp/10827308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 5, 2026"
-    },
-    {
-      "id": "lewis-hamilton-leaves-f1-fans-emotional-with-monaco-gp-accessory-2",
-      "title": "Lewis Hamilton leaves F1 fans emotional with Monaco GP accessory",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-leaves-f1-fans-emotional-with-monaco-gp-accessory/10827261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 5, 2026"
-    },
-    {
-      "id": "lewis-hamilton-divides-f1-fans-with-sparkly-pink-ferrari-helmet-at-monaco-gp-3",
-      "title": "Lewis Hamilton divides F1 fans with sparkly pink Ferrari helmet at Monaco GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-divides-f1-fans-with-sparkly-pink-ferrari-helmet-at-monaco-gp/10827304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
