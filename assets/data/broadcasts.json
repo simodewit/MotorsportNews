@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T10:23:22.672Z",
+  "generatedAt": "2026-06-07T17:07:04.848Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🇩🇪 German | Red Bull Erzbergrodeo 2026",
-      "channel": "Red Bull Motorsports",
-      "videoId": "S5z7Y9Pk4HM",
-      "url": "https://www.youtube.com/watch?v=S5z7Y9Pk4HM",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
