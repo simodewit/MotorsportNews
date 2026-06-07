@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T19:10:30.427Z",
+  "generatedAt": "2026-06-07T02:53:33.746Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "f1-2026-qualifying-head-to-head-monaco-gp-0",
-      "title": "F1 2026 qualifying head-to-head: Monaco GP",
+      "id": "two-worrying-trends-for-george-russell-as-kimi-antonelli-keeps-starring-in-f1-2026-0",
+      "title": "Two worrying trends for George Russell as Kimi Antonelli keeps starring in F1 2026",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-monaco-gp/10827685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/two-worrying-trends-for-george-russell-as-kimi-antonelli-keeps-starring-in-f1-2026/10827734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "f1-2026-qualifying-head-to-head-monaco-gp-0",
+      "id": "two-worrying-trends-for-george-russell-as-kimi-antonelli-keeps-starring-in-f1-2026-0",
+      "title": "Two worrying trends for George Russell as Kimi Antonelli keeps starring in F1 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/two-worrying-trends-for-george-russell-as-kimi-antonelli-keeps-starring-in-f1-2026/10827734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 6, 2026"
+    },
+    {
+      "id": "f1-2026-qualifying-head-to-head-monaco-gp-1",
       "title": "F1 2026 qualifying head-to-head: Monaco GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-monaco-gp/10827685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 6, 2026"
     },
     {
-      "id": "a-reality-check-why-lando-norris-was-expecting-poor-monaco-qualifying-1",
+      "id": "a-reality-check-why-lando-norris-was-expecting-poor-monaco-qualifying-2",
       "title": "“A reality check” – why Lando Norris was expecting poor Monaco qualifying ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/a-reality-check-why-lando-norris-was-expecting-poor-monaco-qualifying-/10827689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 6, 2026"
     },
     {
-      "id": "charles-leclerc-explains-crash-that-cost-shot-at-monaco-f1-pole-position-2",
+      "id": "charles-leclerc-explains-crash-that-cost-shot-at-monaco-f1-pole-position-3",
       "title": "Charles Leclerc explains crash that cost shot at Monaco F1 pole position",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/charles-leclerc-explains-crash-that-cost-shot-at-monaco-f1-pole-position/10827673/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 6, 2026"
-    },
-    {
-      "id": "lewis-hamilton-and-max-verstappen-steal-show-after-kimi-antonelli-monaco-gp-pole-with-viral-moment-3",
-      "title": "Lewis Hamilton and Max Verstappen steal show after Kimi Antonelli Monaco GP pole with viral moment",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-steal-show-after-kimi-antonelli-monaco-gp-pole-with-viral-moment/10827682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "Jun 6, 2026"
     },
     {
-      "id": "arrow-mclaren-appoints-ryan-hunter-reay-as-new-sporting-director-0",
+      "id": "david-malukas-not-disappointed-despite-missing-out-on-indycar-pole-at-wwtr-0",
+      "title": "David Malukas “not disappointed” despite missing out on IndyCar pole at WWTR",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/david-malukas-not-disappointed-despite-missing-out-on-indycar-pole-at-wwtr/10827760/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 6, 2026"
+    },
+    {
+      "id": "indycar-at-wwt-raceway-starting-lineup-alex-palou-claims-fourth-straight-pole-1",
+      "title": "IndyCar at WWT Raceway starting lineup: Alex Palou claims fourth straight pole",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-at-wwt-raceway-starting-lineup-alex-palou-claims-pole/10827752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 6, 2026"
+    },
+    {
+      "id": "arrow-mclaren-appoints-ryan-hunter-reay-as-new-sporting-director-2",
       "title": "Arrow McLaren appoints Ryan Hunter-Reay as new Sporting Director",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/arrow-mclaren-appoints-ryan-hunter-reay-as-new-sporting-director/10827604/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Jun 6, 2026"
     },
     {
-      "id": "how-to-watch-indycar-2026-at-wwt-raceway-weekend-schedule-start-time-tv-1",
+      "id": "how-to-watch-indycar-2026-at-wwt-raceway-weekend-schedule-start-time-tv-3",
       "title": "How to watch IndyCar 2026 at WWT Raceway: Weekend schedule, start time, TV",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-wwt-raceway-weekend-schedule-start-time-tv/10826777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jun 5, 2026"
-    },
-    {
-      "id": "indycar-officiating-goes-public-with-new-post-event-reports-2",
-      "title": "IndyCar Officiating goes public with new post-event reports",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-officiating-goes-public-with-new-post-event-reports/10826839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 4, 2026"
-    },
-    {
-      "id": "romain-grosjean-confirms-surgery-on-right-hand-after-detroit-gp-3",
-      "title": "Romain Grosjean confirms surgery on right hand after Detroit GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/romain-grosjean-confirms-surgery-on-right-hand-after-detroit-gp/10826822/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 4, 2026"
     },
     {
       "id": "the-2026-le-mans-24-hours-entry-list-in-full-0",
