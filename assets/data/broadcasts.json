@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T10:54:11.394Z",
+  "generatedAt": "2026-06-09T17:54:38.161Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,51 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Bommarito Automotive Group 500 from WWT Raceway",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "FotTL-8mL38",
+      "url": "https://www.youtube.com/watch?v=FotTL-8mL38",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull Drift Masters Ireland Round 3 - Top 16",
+      "channel": "Red Bull Motorsports",
+      "videoId": "7Wy5vtIsA4U",
+      "url": "https://www.youtube.com/watch?v=7Wy5vtIsA4U",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull Drift Masters Ireland Round 3 - Top32",
+      "channel": "Red Bull Motorsports",
+      "videoId": "y9k1PPZiC1c",
+      "url": "https://www.youtube.com/watch?v=y9k1PPZiC1c",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
