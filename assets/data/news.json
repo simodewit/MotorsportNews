@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:05:37.269Z",
+  "generatedAt": "2026-06-09T02:33:58.582Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "why-monaco-magic-is-still-alive-and-well-in-f1-2026-0",
-      "title": "Why Monaco magic is still alive and well in F1 2026",
+      "id": "naomi-schiff-spots-major-charles-leclerc-change-after-monaco-gp-frustration-0",
+      "title": "Naomi Schiff spots major Charles Leclerc change after Monaco GP frustration",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-monaco-magic-is-still-alive-and-well-in-f1-2026/10828407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/naomi-schiff-spots-major-charles-leclerc-change-after-monaco-gp-frustration/10828494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "why-monaco-magic-is-still-alive-and-well-in-f1-2026-0",
+      "id": "naomi-schiff-spots-major-charles-leclerc-change-after-monaco-gp-frustration-0",
+      "title": "Naomi Schiff spots major Charles Leclerc change after Monaco GP frustration",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/naomi-schiff-spots-major-charles-leclerc-change-after-monaco-gp-frustration/10828494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 8, 2026"
+    },
+    {
+      "id": "george-russell-must-beat-kimi-antonelli-in-barcelona-to-save-f1-title-hopes-says-david-coulthard-1",
+      "title": "George Russell must beat Kimi Antonelli in Barcelona to save F1 title hopes, says David Coulthard",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/george-russell-must-beat-kimi-antonelli-in-barcelona-to-save-f1-title-hopes-says-david-coulthard/10828471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 8, 2026"
+    },
+    {
+      "id": "why-monaco-magic-is-still-alive-and-well-in-f1-2026-2",
       "title": "Why Monaco magic is still alive and well in F1 2026",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/why-monaco-magic-is-still-alive-and-well-in-f1-2026/10828407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "lewis-hamilton-lifts-lid-on-kim-kardashians-support-after-f1-monaco-gp-1",
+      "id": "lewis-hamilton-lifts-lid-on-kim-kardashians-support-after-f1-monaco-gp-3",
       "title": "Lewis Hamilton lifts lid on Kim Kardashian's support after F1 Monaco GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lifts-lid-on-kim-kardashians-support-after-f1-monaco-gp/10828411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 8, 2026"
-    },
-    {
-      "id": "red-bull-finds-cause-of-max-verstappens-dnf-planned-engine-change-after-monaco-2",
-      "title": "Red Bull finds cause of Max Verstappen’s DNF, planned engine change after Monaco",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bull-finds-cause-of-max-verstappens-dnf-planned-engine-change-after-monaco/10828370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 8, 2026"
-    },
-    {
-      "id": "toto-wolff-on-george-russells-penalty-bonanza-clearly-our-mistake-3",
-      "title": "Toto Wolff on George Russell’s penalty bonanza: “Clearly our mistake”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-on-george-russells-drive-through-penalty-clearly-our-mistake/10828318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
