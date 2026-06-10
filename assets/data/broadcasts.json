@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:54:38.161Z",
+  "generatedAt": "2026-06-10T11:32:34.030Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Bommarito Automotive Group 500 from WWT Raceway",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "FotTL-8mL38",
-      "url": "https://www.youtube.com/watch?v=FotTL-8mL38",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
