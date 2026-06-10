@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T15:19:04.274Z",
+  "generatedAt": "2026-06-10T20:21:06.779Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "aston-martin-our-f1-chassis-is-fifth-fastest-at-some-tracks-0",
-      "title": "Aston Martin: Our F1 chassis is “fifth-fastest” at some tracks",
+      "id": "f1-power-unit-changes-announced-for-2027-and-2028-seasons-0",
+      "title": "F1 power unit changes announced for 2027 and 2028 seasons",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-our-f1-chassis-is-fifth-fastest-at-some-tracks/10828533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-agrees-on-extra-combustion-power-for-2027-and-2028/10828934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "aston-martin-our-f1-chassis-is-fifth-fastest-at-some-tracks-0",
-      "title": "Aston Martin: Our F1 chassis is “fifth-fastest” at some tracks",
+      "id": "f1-power-unit-changes-announced-for-2027-and-2028-seasons-0",
+      "title": "F1 power unit changes announced for 2027 and 2028 seasons",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-agrees-on-extra-combustion-power-for-2027-and-2028/10828934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "red-bull-surprised-by-kimi-antonellis-serious-pace-in-monaco-gp-he-disappeared-1",
+      "title": "Red Bull “surprised” by Kimi Antonelli’s “serious pace” in Monaco GP: 'He disappeared'",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-surprised-by-kimi-antonellis-serious-pace-in-monaco-gp-he-disappeared/10828803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "five-things-to-look-out-for-at-the-f1-barcelona-gp-2",
+      "title": "Five things to look out for at the F1 Barcelona GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-barcelona-gp/10828871/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "aston-martin-claims-f1-chassis-is-fifth-fastest-at-some-tracks-3",
+      "title": "Aston Martin claims F1 chassis is “fifth-fastest” at some tracks",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/aston-martin-our-f1-chassis-is-fifth-fastest-at-some-tracks/10828533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "we-have-not-been-fast-enough-why-mclaren-sees-monaco-as-a-reality-check-1",
-      "title": "“We have not been fast enough” – Why McLaren sees Monaco as a reality check",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/we-have-not-been-fast-enough-why-mclaren-sees-monaco-as-a-reality-check/10828561/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "alex-albon-to-run-nigel-mansell-tribute-at-f1-barcelona-gp-2",
-      "title": "Alex Albon to run Nigel Mansell tribute at F1 Barcelona GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/alex-albon-to-run-nigel-mansell-tribute-at-f1-barcelona-gp/10828786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "williams-blockade-should-f1-team-tactics-be-banned-in-monaco-3",
-      "title": "Williams blockade: Should F1 team tactics be banned in Monaco?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/williams-blockade-should-team-tactics-be-banned-in-monaco/10828752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway-0",
+      "id": "myles-rowe-historic-indy-nxt-win-proves-i-have-the-skill-to-run-in-indycar-0",
+      "title": "Myles Rowe: Historic Indy NXT win proves ‘I have the skill to run in IndyCar’",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/myles-rowe-historic-indy-nxt-win-at-wwtr-proves-i-have-the-skill-to-run-in-indycar/10828953/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway-1",
       "title": "Winners and losers from the IndyCar race at World Wide Technology Raceway",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway/10828672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 9, 2026"
     },
     {
-      "id": "christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis-1",
+      "id": "christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis-2",
       "title": "Christian Rasmussen pushing to resurrect “tough year” with third-place finish in St. Louis",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis/10828474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "josef-newgarden-continues-to-ascend-in-indycars-record-books-after-crazy-race-at-wwtr-2",
+      "id": "josef-newgarden-continues-to-ascend-in-indycars-record-books-after-crazy-race-at-wwtr-3",
       "title": "Josef Newgarden continues to ascend in IndyCar’s record books after “crazy” race at WWTR",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/josef-newgarden-continues-to-ascend-in-indycars-record-books-after-crazy-race-at-wwtr/10828465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -297,54 +308,43 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "complete-indycar-championship-standings-after-2026-wwt-raceway-3",
-      "title": "Complete IndyCar championship standings after 2026 WWT Raceway",
+      "id": "le-mans-24h-alpine-fastest-in-qualifying-le-mans-winning-ferrari-is-out-0",
+      "title": "Le Mans 24h: Alpine fastest in qualifying, Le Mans-winning Ferrari is out",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-wwt-raceway/10828427/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/wec/news/le-mans-24h-qualifying-report/10828904/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
-        "indycar"
+        "wec"
       ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 8, 2026"
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 10, 2026"
     },
     {
-      "id": "le-mans-24h-cadillac-tops-fp1-by-a-mile-with-rivals-17s-down-0",
+      "id": "ben-keating-admits-to-fitness-concerns-on-le-mans-return-after-elbow-surgery-1",
+      "title": "Ben Keating admits to fitness concerns on Le Mans return after elbow surgery",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/ben-keating-admits-to-fitness-concerns-on-le-mans-return-after-elbow-surgery/10828893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "why-cadillac-has-a-better-chance-of-winning-le-mans-this-year-2",
+      "title": "Why Cadillac has a better chance of winning Le Mans this year",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/why-cadillac-has-a-better-chance-of-winning-le-mans-this-year/10828889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "le-mans-24h-cadillac-tops-fp1-by-a-mile-with-rivals-17s-down-3",
       "title": "Le Mans 24h: Cadillac tops FP1 by a mile, with rivals 1.7s down",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-fp1-report/10828801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "ferrari-expecting-difficult-race-at-le-mans-we-are-not-the-favourites-1",
-      "title": "Ferrari expecting “difficult” race at Le Mans: “We are not the favourites”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/ferrari-expecting-difficult-race-at-le-mans-we-are-not-the-favourites/10828844/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "alpines-hypercar-future-the-fight-to-keep-the-programme-alive-beyond-2026-2",
-      "title": "Alpine's Hypercar future: The fight to keep the programme alive beyond 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/alpines-hypercar-future-the-fight-to-keep-the-programme-alive-beyond-2026/10828823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "every-former-formula-1-driver-on-the-2026-le-mans-24-hours-grid-3",
-      "title": "Every former Formula 1 driver on the 2026 Le Mans 24 Hours grid",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/all-former-formula-1-drivers-on-the-2026-le-mans-24-hours-grid/10828816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
