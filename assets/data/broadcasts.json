@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T12:04:12.311Z",
+  "generatedAt": "2026-06-11T18:42:00.469Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 LIVE: 2026 INDYCAR Race Marathon | Watch the Full First Half of the Season",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "8U2suCavKuQ",
-      "url": "https://www.youtube.com/watch?v=8U2suCavKuQ",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
