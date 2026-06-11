@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T20:21:06.779Z",
+  "generatedAt": "2026-06-11T02:57:06.286Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -308,7 +308,29 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "le-mans-24h-alpine-fastest-in-qualifying-le-mans-winning-ferrari-is-out-0",
+      "id": "le-mans-24h-toyota-spins-and-then-goes-fastest-in-fp2-0",
+      "title": "Le Mans 24h: Toyota spins and then goes fastest in FP2",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/le-mans-24h-toyota-kobayashi-fastest-ferrari/10828975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "the-2026-le-mans-24-hours-entry-list-in-full-1",
+      "title": "The 2026 Le Mans 24 Hours entry list in full",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/the-2026-le-mans-24-hours-entry-list-in-full/10798927/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 10, 2026"
+    },
+    {
+      "id": "le-mans-24h-alpine-fastest-in-qualifying-le-mans-winning-ferrari-is-out-2",
       "title": "Le Mans 24h: Alpine fastest in qualifying, Le Mans-winning Ferrari is out",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-qualifying-report/10828904/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,32 +341,10 @@
       "publishedLabel": "Jun 10, 2026"
     },
     {
-      "id": "ben-keating-admits-to-fitness-concerns-on-le-mans-return-after-elbow-surgery-1",
+      "id": "ben-keating-admits-to-fitness-concerns-on-le-mans-return-after-elbow-surgery-3",
       "title": "Ben Keating admits to fitness concerns on Le Mans return after elbow surgery",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ben-keating-admits-to-fitness-concerns-on-le-mans-return-after-elbow-surgery/10828893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "why-cadillac-has-a-better-chance-of-winning-le-mans-this-year-2",
-      "title": "Why Cadillac has a better chance of winning Le Mans this year",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/why-cadillac-has-a-better-chance-of-winning-le-mans-this-year/10828889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "le-mans-24h-cadillac-tops-fp1-by-a-mile-with-rivals-17s-down-3",
-      "title": "Le Mans 24h: Cadillac tops FP1 by a mile, with rivals 1.7s down",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/le-mans-24h-fp1-report/10828801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
