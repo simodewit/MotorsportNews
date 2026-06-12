@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T03:32:21.921Z",
+  "generatedAt": "2026-06-12T11:40:37.992Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "7-JlLjBnKNM",
+      "title": "Talking firsts with Marco Bezzecchi 👀",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "Cnpb8PpYwGU",
       "title": "POV: You're back with a bonus! 🤑",
       "channel": "MotoGP",
@@ -141,14 +152,14 @@
       ]
     },
     {
-      "videoId": "CKrzSajvT_o",
-      "title": "Julia's emotions watching Marc returning to winning ways 266 days later! 👀🏆",
-      "channel": "MotoGP",
+      "videoId": "RfqHom97OIU",
+      "title": "Silverstone RETURNS to WEC 🇬🇧 Its Most Dramatic Moments Ever | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -176,17 +187,6 @@
     {
       "videoId": "EgfFj3GZCdA",
       "title": "Aitken Loses Pole After 0.005s THRILLER 😳",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "8vwhEtKHD4k",
-      "title": "Hyperpole Highlights | 24 Hours of Le Mans 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
