@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T02:57:51.021Z",
+  "generatedAt": "2026-06-14T09:23:08.116Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "the-trick-behind-lewis-hamiltons-best-qualifying-result-for-ferrari-0",
-      "title": "The trick behind Lewis Hamilton's best qualifying result for Ferrari",
+      "id": "two-hidden-factors-that-could-decide-the-f1-barcelona-gp-0",
+      "title": "Two hidden factors that could decide the F1 Barcelona GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-trick-behind-lewis-hamiltons-best-qualifying-result-for-ferrari/10830071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/two-hidden-factors-that-could-decide-the-f1-barcelona-gp/10830179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 13, 2026"
+      "publishedLabel": "Jun 14, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "the-trick-behind-lewis-hamiltons-best-qualifying-result-for-ferrari-0",
+      "id": "two-hidden-factors-that-could-decide-the-f1-barcelona-gp-0",
+      "title": "Two hidden factors that could decide the F1 Barcelona GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/two-hidden-factors-that-could-decide-the-f1-barcelona-gp/10830179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 14, 2026"
+    },
+    {
+      "id": "oscar-piastri-could-not-believe-pierre-gaslys-monaco-reinstatement-1",
+      "title": "Oscar Piastri \"could not believe\" Pierre Gasly’s Monaco reinstatement",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-perplexed-by-pierre-gaslys-monaco-reinstatement-i-could-not-believe-my-eyes/10830083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 14, 2026"
+    },
+    {
+      "id": "the-trick-behind-lewis-hamiltons-best-qualifying-result-for-ferrari-2",
       "title": "The trick behind Lewis Hamilton's best qualifying result for Ferrari",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-trick-behind-lewis-hamiltons-best-qualifying-result-for-ferrari/10830071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 13, 2026"
     },
     {
-      "id": "max-verstappen-surprised-as-red-bull-halves-gap-to-mercedes-in-barcelona-1",
+      "id": "max-verstappen-surprised-as-red-bull-halves-gap-to-mercedes-in-barcelona-3",
       "title": "Max Verstappen surprised as Red Bull halves gap to Mercedes in Barcelona",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-surprised-as-red-bull-halves-gap-to-mercedes-in-barcelona/10830057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 13, 2026"
-    },
-    {
-      "id": "at-least-a-two-stop-george-russell-and-lewis-hamilton-expect-barcelona-gp-to-be-hard-on-tyres-2",
-      "title": "\"At least a two-stop\": George Russell and Lewis Hamilton expect Barcelona GP to be hard on tyres",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/at-least-a-two-stop-russell-and-hamilton-expect-barcelona-gp-to-be-hard-on-tyres/10830002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 13, 2026"
-    },
-    {
-      "id": "fernando-alonso-exhausted-by-aston-martin-woes-we-knew-we-have-the-worst-car-and-worst-engine-3",
-      "title": "Fernando Alonso 'exhausted' by Aston Martin woes: \"We knew we have the worst car and worst engine\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-exhausted-by-aston-martin-woes-we-knew-we-have-the-worst-car-and-worst-engine/10830021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -308,7 +308,29 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "le-mans-24h-h8-safety-car-blows-race-wide-open-0",
+      "id": "le-mans-24h-h18-bmw-in-lead-as-porsche-crash-triggers-safety-car-0",
+      "title": "Le Mans 24h, H18: BMW in lead as Porsche crash triggers safety car",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/le-mans-24h-h18-bmw-in-lead-as-safety-car-neutralises-field/10830174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 14, 2026"
+    },
+    {
+      "id": "le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second-1",
+      "title": "Le Mans 24h, H16: #12 Cadillac out front as Toyota and BMW battle over second",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/le-mans-24h-h16-12-cadillac-out-front-as-toyota-and-bmw-battle-over-second/10830143/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 14, 2026"
+    },
+    {
+      "id": "le-mans-24h-h8-safety-car-blows-race-wide-open-2",
       "title": "Le Mans 24h, H8: Safety car blows race wide open",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h8-report/10830126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,32 +341,10 @@
       "publishedLabel": "Jun 13, 2026"
     },
     {
-      "id": "le-mans-24h-h4-toyota-extends-advantage-over-bmw-in-the-evening-1",
+      "id": "le-mans-24h-h4-toyota-extends-advantage-over-bmw-in-the-evening-3",
       "title": "Le Mans 24h, H4: Toyota extends advantage over BMW in the evening",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h4-toyota-extends-advantage-over-cadillac-in-the-evening/10830059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 13, 2026"
-    },
-    {
-      "id": "le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid-2",
-      "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/le-mans-24h-h-1-report/10829903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 13, 2026"
-    },
-    {
-      "id": "jack-doohan-on-his-first-le-mans-driving-lmp2-cars-and-life-away-from-f1-3",
-      "title": "Jack Doohan on his first Le Mans, driving LMP2 cars, and life away from F1",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/jack-doohan-on-his-first-le-mans-driving-lmp2-cars-and-life-away-from-f1/10829831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
