@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T02:53:13.462Z",
+  "generatedAt": "2026-06-14T10:44:42.715Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -68,21 +68,6 @@
       "channel": "Red Bull Motorsports",
       "videoId": "7Wy5vtIsA4U",
       "url": "https://www.youtube.com/watch?v=7Wy5vtIsA4U",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull Drift Masters Ireland Round 3 - Top32",
-      "channel": "Red Bull Motorsports",
-      "videoId": "y9k1PPZiC1c",
-      "url": "https://www.youtube.com/watch?v=y9k1PPZiC1c",
       "series": [
         "other"
       ],
