@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T10:44:42.715Z",
+  "generatedAt": "2026-06-14T17:12:23.249Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,36 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "LIVE: Barcelona-Catalunya Grand Prix Build-Up & Drivers Parade",
-      "channel": "FORMULA 1",
-      "videoId": "z_CuyzjQ0-4",
-      "url": "https://www.youtube.com/watch?v=z_CuyzjQ0-4",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull Drift Masters Ireland Round 3 - Top 16",
-      "channel": "Red Bull Motorsports",
-      "videoId": "7Wy5vtIsA4U",
-      "url": "https://www.youtube.com/watch?v=7Wy5vtIsA4U",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
