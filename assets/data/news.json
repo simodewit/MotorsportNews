@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T19:15:14.510Z",
+  "generatedAt": "2026-06-14T02:57:51.021Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -308,7 +308,18 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "le-mans-24h-h4-toyota-extends-advantage-over-bmw-in-the-evening-0",
+      "id": "le-mans-24h-h8-safety-car-blows-race-wide-open-0",
+      "title": "Le Mans 24h, H8: Safety car blows race wide open",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/le-mans-24h-h8-report/10830126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 13, 2026"
+    },
+    {
+      "id": "le-mans-24h-h4-toyota-extends-advantage-over-bmw-in-the-evening-1",
       "title": "Le Mans 24h, H4: Toyota extends advantage over BMW in the evening",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h4-toyota-extends-advantage-over-cadillac-in-the-evening/10830059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jun 13, 2026"
     },
     {
-      "id": "le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid-1",
+      "id": "le-mans-24h-h1-toyota-takes-lead-from-15th-on-the-grid-2",
       "title": "Le Mans 24h, H1: Toyota takes lead from 15th on the grid",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/le-mans-24h-h-1-report/10829903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,21 +341,10 @@
       "publishedLabel": "Jun 13, 2026"
     },
     {
-      "id": "jack-doohan-on-his-first-le-mans-driving-lmp2-cars-and-life-away-from-f1-2",
+      "id": "jack-doohan-on-his-first-le-mans-driving-lmp2-cars-and-life-away-from-f1-3",
       "title": "Jack Doohan on his first Le Mans, driving LMP2 cars, and life away from F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/jack-doohan-on-his-first-le-mans-driving-lmp2-cars-and-life-away-from-f1/10829831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 13, 2026"
-    },
-    {
-      "id": "the-2026-le-mans-24-hours-entry-list-in-full-3",
-      "title": "The 2026 Le Mans 24 Hours entry list in full",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/the-2026-le-mans-24-hours-entry-list-in-full/10798927/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
