@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T17:14:44.455Z",
+  "generatedAt": "2026-06-14T02:53:13.462Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE: Barcelona-Catalunya Grand Prix Build-Up & Drivers Parade",
+      "channel": "FORMULA 1",
+      "videoId": "z_CuyzjQ0-4",
+      "url": "https://www.youtube.com/watch?v=z_CuyzjQ0-4",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
