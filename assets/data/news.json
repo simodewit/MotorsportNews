@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:15:40.193Z",
+  "generatedAt": "2026-06-15T03:31:57.490Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "winners-and-losers-from-a-cathartic-barcelona-f1-grand-prix-0",
-      "title": "Winners and losers from a cathartic Barcelona F1 Grand Prix",
+      "id": "lewis-hamiltons-first-ferrari-win-leaves-f1-fans-in-tears-true-masterclass-0",
+      "title": "Lewis Hamilton's first Ferrari win leaves F1 fans in tears: \"True masterclass\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-a-cathartic-barcelona-f1-grand-prix/10830418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-first-ferrari-win-leaves-f1-fans-in-tears-true-masterclass/10830466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "winners-and-losers-from-a-cathartic-barcelona-f1-grand-prix-0",
+      "id": "lewis-hamiltons-first-ferrari-win-leaves-f1-fans-in-tears-true-masterclass-0",
+      "title": "Lewis Hamilton's first Ferrari win leaves F1 fans in tears: \"True masterclass\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-first-ferrari-win-leaves-f1-fans-in-tears-true-masterclass/10830466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 14, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-a-cathartic-barcelona-f1-grand-prix-1",
       "title": "Winners and losers from a cathartic Barcelona F1 Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-a-cathartic-barcelona-f1-grand-prix/10830418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 14, 2026"
     },
     {
-      "id": "lewis-hamiltons-barcelona-gp-win-a-middle-finger-to-doubters-lando-norris-1",
+      "id": "lewis-hamiltons-barcelona-gp-win-a-middle-finger-to-doubters-lando-norris-2",
       "title": "Lewis Hamilton's Barcelona GP win a \"middle finger\" to doubters - Lando Norris",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-win-a-middle-finger-to-doubters-lando-norris/10830413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 14, 2026"
     },
     {
-      "id": "kimi-antonelli-receives-post-race-penalty-despite-retirement-in-barcelona-2",
+      "id": "kimi-antonelli-receives-post-race-penalty-despite-retirement-in-barcelona-3",
       "title": "Kimi Antonelli receives post-race penalty despite retirement in Barcelona",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-receives-post-race-penalty-despite-retirement-in-barcelona/10830421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 14, 2026"
-    },
-    {
-      "id": "franco-colapinto-demoted-after-10-second-penalty-for-yellow-flag-breach-in-f1-barcelona-gp-3",
-      "title": "Franco Colapinto demoted after 10-second penalty for yellow flag breach in F1 Barcelona GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-demoted-after-yellow-flag-breach-in-f1-barcelona-gp/10830411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jun 9, 2026"
     },
     {
-      "id": "myles-rowe-historic-indy-nxt-win-proves-i-have-the-skill-to-run-in-indycar-0",
+      "id": "longtime-indycar-team-owner-dennis-reinbold-passes-away-0",
+      "title": "Longtime IndyCar team owner Dennis Reinbold passes away",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/longtime-indycar-team-owner-dennis-reinbold-passes-away/10830461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 14, 2026"
+    },
+    {
+      "id": "myles-rowe-historic-indy-nxt-win-proves-i-have-the-skill-to-run-in-indycar-1",
       "title": "Myles Rowe: Historic Indy NXT win proves ‘I have the skill to run in IndyCar’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/myles-rowe-historic-indy-nxt-win-at-wwtr-proves-i-have-the-skill-to-run-in-indycar/10828953/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 10, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway-1",
+      "id": "winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway-2",
       "title": "Winners and losers from the IndyCar race at World Wide Technology Raceway",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway/10828672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jun 9, 2026"
     },
     {
-      "id": "christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis-2",
+      "id": "christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis-3",
       "title": "Christian Rasmussen pushing to resurrect “tough year” with third-place finish in St. Louis",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis/10828474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 8, 2026"
-    },
-    {
-      "id": "josef-newgarden-continues-to-ascend-in-indycars-record-books-after-crazy-race-at-wwtr-3",
-      "title": "Josef Newgarden continues to ascend in IndyCar’s record books after “crazy” race at WWTR",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/josef-newgarden-continues-to-ascend-in-indycars-record-books-after-crazy-race-at-wwtr/10828465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
