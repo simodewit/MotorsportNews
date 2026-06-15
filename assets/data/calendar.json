@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-08T08:54:12.054Z",
+  "generatedAt": "2026-06-15T10:22:58.784Z",
   "window": {
-    "startDate": "2026-06-13"
+    "startDate": "2026-06-21"
   },
   "sources": [
     {
@@ -372,20 +372,20 @@
       ]
     },
     {
-      "id": "6-hours-of-imola-free-3-2026-04-18",
-      "name": "6 Hours of Imola (Free 3)",
+      "id": "imola-prologue-afternoon-session-2026-04-14",
+      "name": "Imola Prologue Afternoon Session",
       "venue": "Imola Circuit",
-      "startDate": "2026-04-18",
+      "startDate": "2026-04-14",
       "endDate": "2026-04-19",
       "series": [
         {
           "id": "wec",
           "name": "WEC",
           "sessions": [
+            "Race",
             "Practice 3",
             "Practice",
-            "Qualifying",
-            "Race"
+            "Qualifying"
           ]
         }
       ]
@@ -425,18 +425,20 @@
       ]
     },
     {
-      "id": "6-hours-of-spa-francorchamps-free-3-2026-05-08",
-      "name": "6 Hours of Spa Francorchamps (Free 3)",
+      "id": "6-hours-of-spa-francorchamps-hyperpole-hypercar-2026-05-07",
+      "name": "6 Hours of Spa Francorchamps Hyperpole - Hypercar",
       "venue": "Circuit de Spa-Francorchamps",
-      "startDate": "2026-05-08",
+      "startDate": "2026-05-07",
       "endDate": "2026-05-09",
       "series": [
         {
           "id": "wec",
           "name": "WEC",
           "sessions": [
-            "Practice 3",
+            "Practice 1",
             "Practice",
+            "Practice 2",
+            "Practice 3",
             "Qualifying",
             "Race"
           ]
@@ -553,6 +555,24 @@
       ]
     },
     {
+      "id": "24-hours-of-le-mans-hyperpole-lmp2-lmgt3-2026-06-10",
+      "name": "24 Hours of Le Mans Hyperpole – LMP2 & LMGT3",
+      "venue": "Circuit de la Sarthe",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-10",
+      "series": [
+        {
+          "id": "wec",
+          "name": "WEC",
+          "sessions": [
+            "Practice 1",
+            "Practice",
+            "Qualifying"
+          ]
+        }
+      ]
+    },
+    {
       "id": "barcelona-2026-06-13",
       "name": "Circuit de Barcelona-Catalunya Weekend",
       "venue": "Circuit de Barcelona-Catalunya",
@@ -575,22 +595,6 @@
             "Sprint",
             "Race",
             "Feature Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "24-hours-of-le-mans-2026-06-13",
-      "name": "24 Hours of Le Mans",
-      "venue": "Circuit de la Sarthe",
-      "startDate": "2026-06-13",
-      "endDate": "2026-06-13",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Race"
           ]
         }
       ]
@@ -674,22 +678,6 @@
         {
           "id": "indycar",
           "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6-hours-of-sao-paulo-2026-07-12",
-      "name": "6 Hours of São Paulo",
-      "venue": "Interlagos Circuit",
-      "startDate": "2026-07-12",
-      "endDate": "2026-07-12",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
           "sessions": [
             "Race"
           ]
@@ -789,70 +777,6 @@
         {
           "id": "indycar",
           "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "lone-star-le-mans-2026-09-06",
-      "name": "Lone Star Le Mans",
-      "venue": "Circuit of the Americas",
-      "startDate": "2026-09-06",
-      "endDate": "2026-09-06",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6-hours-of-fuji-2026-09-27",
-      "name": "6 Hours of Fuji",
-      "venue": "Fuji Speedway",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "qatar-1812-km-2026-10-24",
-      "name": "Qatar 1812 KM",
-      "venue": "Losail International Circuit",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8-hours-of-bahrain-2026-11-07",
-      "name": "8 Hours of Bahrain",
-      "venue": "Bahrain International Circuit",
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-07",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
           "sessions": [
             "Race"
           ]
