@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T17:05:16.360Z",
+  "generatedAt": "2026-06-15T20:48:52.165Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -308,7 +308,18 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "12-cadillac-admits-le-mans-win-was-unlikely-but-rues-costly-fcy-0",
+      "id": "2026-le-mans-24h-analysis-the-fastest-car-didnt-win-0",
+      "title": "2026 Le Mans 24h analysis: The fastest car didn't win",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/2026-le-mans-24h-analysis-the-fastest-car-didnt-win/10830687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 15, 2026"
+    },
+    {
+      "id": "12-cadillac-admits-le-mans-win-was-unlikely-but-rues-costly-fcy-1",
       "title": "#12 Cadillac admits Le Mans win was unlikely but rues costly FCY",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/12-cadillac-admits-le-mans-win-was-unlikely-but-rues-costly-fcy/10830593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jun 15, 2026"
     },
     {
-      "id": "the-technical-scare-the-7-toyota-survived-to-win-le-mans-24-hours-again-1",
+      "id": "the-technical-scare-the-7-toyota-survived-to-win-le-mans-24-hours-again-2",
       "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,21 +341,10 @@
       "publishedLabel": "Jun 15, 2026"
     },
     {
-      "id": "bmw-drivers-admit-painful-2026-le-mans-defeat-hurts-we-were-close-2",
+      "id": "bmw-drivers-admit-painful-2026-le-mans-defeat-hurts-we-were-close-3",
       "title": "BMW drivers admit “painful” 2026 Le Mans defeat “hurts”: “We were close”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/bmw-drivers-say-painful-le-mans-defeat-hurts-we-were-close/10830529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 15, 2026"
-    },
-    {
-      "id": "how-the-8-toyota-lost-the-2026-le-mans-24-hours-3",
-      "title": "How the #8 Toyota lost the 2026 Le Mans 24 Hours",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/how-the-8-toyota-lost-the-2026-le-mans-24-hours/10830494/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
