@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T12:47:17.612Z",
+  "generatedAt": "2026-06-16T19:29:03.019Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2016 Czech GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "Ae76y2UswN8",
+      "url": "https://www.youtube.com/watch?v=Ae76y2UswN8",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
