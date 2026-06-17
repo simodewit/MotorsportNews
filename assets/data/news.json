@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T10:43:22.375Z",
+  "generatedAt": "2026-06-17T14:59:05.084Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "f1-reports-35-co2-reduction-ahead-of-2030-net-zero-target-0",
-      "title": "F1 reports 35% CO2 reduction ahead of 2030 net-zero target",
+      "id": "mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty-0",
+      "title": "Mercedes granted right of review hearing over George Russell's Monaco GP penalty",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-reports-35-co2-reduction-ahead-of-2030-targets/10830960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,40 @@
   ],
   "articles": [
     {
-      "id": "f1-reports-35-co2-reduction-ahead-of-2030-net-zero-target-0",
+      "id": "mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty-0",
+      "title": "Mercedes granted right of review hearing over George Russell's Monaco GP penalty",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "red-bull-explains-fia-engine-review-no-data-sample-indicates-an-advantage-over-mercedes-1",
+      "title": "Red Bull explains FIA engine review: “No data sample indicates an advantage over Mercedes”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-explains-fia-review-no-data-sample-indicates-an-advantage-over-mercedes/10830998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "no-corner-quite-like-it-how-f1-put-the-mad-in-madring-2",
+      "title": "'No corner quite like it' - How F1 put the mad in Madring",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/our-first-impressions-of-the-madring-f1-newest-circuit/10830899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "f1-reports-35-co2-reduction-ahead-of-2030-net-zero-target-3",
       "title": "F1 reports 35% CO2 reduction ahead of 2030 net-zero target",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-reports-35-co2-reduction-ahead-of-2030-targets/10830960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -97,39 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Jun 17, 2026"
-    },
-    {
-      "id": "the-only-fair-or-not-really-way-to-fix-f1s-monaco-gp-mess-1",
-      "title": "The only 'fair' - or not really - way to fix F1's Monaco GP mess",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/is-there-a-fair-way-to-undo-the-monaco-penalties-madness/10830836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 16, 2026"
-    },
-    {
-      "id": "mclaren-and-red-bull-formally-appeal-against-pierre-gaslys-monaco-reinstatement-2",
-      "title": "McLaren and Red Bull formally appeal against Pierre Gasly's Monaco reinstatement",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mclaren-and-red-bull-appeal-decision-to-overturn-pierre-gaslys-monaco-gp-penalty/10830838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 16, 2026"
-    },
-    {
-      "id": "george-russell-put-in-a-tough-spot-by-mercedes-claims-juan-pablo-montoya-3",
-      "title": "George Russell 'put in a tough spot' by Mercedes, claims Juan Pablo Montoya",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-put-in-a-tough-spot-by-mercedes-claims-juan-pablo-montoya/10830685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 16, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -308,7 +308,18 @@
       "publishedLabel": "Jun 8, 2026"
     },
     {
-      "id": "aston-martin-evaluating-first-major-upgrade-for-valkyrie-hypercar-0",
+      "id": "porsche-says-2030-wec-hypercar-rules-mark-significant-step-but-no-decision-on-comeback-0",
+      "title": "Porsche says 2030 WEC Hypercar rules mark “significant step” but no decision on comeback",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/porsche-says-2030-wec-hypercar-rules-mark-significant-step-but-no-decision-on-comeback/10830969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "aston-martin-evaluating-first-major-upgrade-for-valkyrie-hypercar-1",
       "title": "Aston Martin evaluating first major upgrade for Valkyrie hypercar",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/aston-martin-evaluating-first-major-upgrade-for-valkyrie-hypercar/10830807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jun 16, 2026"
     },
     {
-      "id": "2026-le-mans-24h-analysis-the-fastest-car-didnt-win-1",
+      "id": "2026-le-mans-24h-analysis-the-fastest-car-didnt-win-2",
       "title": "2026 Le Mans 24h analysis: The fastest car didn't win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/2026-le-mans-24h-analysis-the-fastest-car-didnt-win/10830687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,21 +341,10 @@
       "publishedLabel": "Jun 15, 2026"
     },
     {
-      "id": "12-cadillac-admits-le-mans-win-was-unlikely-but-rues-costly-fcy-2",
+      "id": "12-cadillac-admits-le-mans-win-was-unlikely-but-rues-costly-fcy-3",
       "title": "#12 Cadillac admits Le Mans win was unlikely but rues costly FCY",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/12-cadillac-admits-le-mans-win-was-unlikely-but-rues-costly-fcy/10830593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 15, 2026"
-    },
-    {
-      "id": "the-technical-scare-the-7-toyota-survived-to-win-le-mans-24-hours-again-3",
-      "title": "The technical scare the #7 Toyota survived to win Le Mans 24 Hours again",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/7-toyota-had-to-survive-technical-scare-to-win-le-mans/10830560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
