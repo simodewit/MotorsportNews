@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T03:25:15.105Z",
+  "generatedAt": "2026-06-17T10:43:22.375Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "the-only-fair-or-not-really-way-to-fix-f1s-monaco-gp-mess-0",
-      "title": "The only 'fair' - or not really - way to fix F1's Monaco GP mess",
+      "id": "f1-reports-35-co2-reduction-ahead-of-2030-net-zero-target-0",
+      "title": "F1 reports 35% CO2 reduction ahead of 2030 net-zero target",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/is-there-a-fair-way-to-undo-the-monaco-penalties-madness/10830836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-reports-35-co2-reduction-ahead-of-2030-targets/10830960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 16, 2026"
+      "publishedLabel": "Jun 17, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -75,20 +75,31 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different-0",
-      "title": "Aprilia team-mates Marco Bezzecchi and Jorge Martin couldn’t be any more different",
+      "id": "how-diogo-moreira-is-working-his-way-towards-a-honda-factory-ride-0",
+      "title": "How Diogo Moreira is working his way towards a Honda factory ride",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/analysis-how-aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different/10830858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/how-diogo-moreira-is-earning-his-way-toward-a-honda-factory-ride/10830975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 16, 2026"
+      "publishedLabel": "Jun 17, 2026"
     }
   ],
   "articles": [
     {
-      "id": "the-only-fair-or-not-really-way-to-fix-f1s-monaco-gp-mess-0",
+      "id": "f1-reports-35-co2-reduction-ahead-of-2030-net-zero-target-0",
+      "title": "F1 reports 35% CO2 reduction ahead of 2030 net-zero target",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-reports-35-co2-reduction-ahead-of-2030-targets/10830960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "the-only-fair-or-not-really-way-to-fix-f1s-monaco-gp-mess-1",
       "title": "The only 'fair' - or not really - way to fix F1's Monaco GP mess",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/is-there-a-fair-way-to-undo-the-monaco-penalties-madness/10830836/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 16, 2026"
     },
     {
-      "id": "mclaren-and-red-bull-formally-appeal-against-pierre-gaslys-monaco-reinstatement-1",
+      "id": "mclaren-and-red-bull-formally-appeal-against-pierre-gaslys-monaco-reinstatement-2",
       "title": "McLaren and Red Bull formally appeal against Pierre Gasly's Monaco reinstatement",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mclaren-and-red-bull-appeal-decision-to-overturn-pierre-gaslys-monaco-gp-penalty/10830838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 16, 2026"
     },
     {
-      "id": "george-russell-put-in-a-tough-spot-by-mercedes-claims-juan-pablo-montoya-2",
+      "id": "george-russell-put-in-a-tough-spot-by-mercedes-claims-juan-pablo-montoya-3",
       "title": "George Russell 'put in a tough spot' by Mercedes, claims Juan Pablo Montoya",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-put-in-a-tough-spot-by-mercedes-claims-juan-pablo-montoya/10830685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 16, 2026"
-    },
-    {
-      "id": "why-one-of-mclarens-world-beating-strengths-didnt-carry-over-from-f1-2025-3",
-      "title": "Why one of McLaren's world-beating strengths didn't carry over from F1 2025",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-one-of-mclarens-world-beating-strengths-hasnt-carried-over-from-2025/10830759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different-0",
+      "id": "how-diogo-moreira-is-working-his-way-towards-a-honda-factory-ride-0",
+      "title": "How Diogo Moreira is working his way towards a Honda factory ride",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/how-diogo-moreira-is-earning-his-way-toward-a-honda-factory-ride/10830975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different-1",
       "title": "Aprilia team-mates Marco Bezzecchi and Jorge Martin couldn’t be any more different",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/analysis-how-aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different/10830858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jun 16, 2026"
     },
     {
-      "id": "where-has-it-gone-wrong-for-franco-morbidelli-in-motogp-2026-1",
+      "id": "where-has-it-gone-wrong-for-franco-morbidelli-in-motogp-2026-2",
       "title": "Where has it gone wrong for Franco Morbidelli in MotoGP 2026?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/where-has-it-gone-wrong-for-franco-morbidelli-in-motogp-2026/10830623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jun 15, 2026"
     },
     {
-      "id": "joan-mir-to-test-hondas-2027-motogp-bike-in-brno-despite-impending-ducati-move-2",
+      "id": "joan-mir-to-test-hondas-2027-motogp-bike-in-brno-despite-impending-ducati-move-3",
       "title": "Joan Mir to test Honda’s 2027 MotoGP bike in Brno despite impending Ducati move",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/joan-mir-to-test-hondas-2027-motogp-bike-in-brno-despite-impending-ducati-move/10830501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Jun 15, 2026"
-    },
-    {
-      "id": "pirelli-doesnt-intend-to-make-a-marquez-tyre-for-motogp-it-is-not-our-style-3",
-      "title": "Pirelli doesn't intend to make a \"Marquez\" tyre for MotoGP: \"It is not our style\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pirellis-intention-is-not-to-make-a-marquez-tyre-for-2027-it-is-not-our-style/10829829/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 13, 2026"
     },
     {
       "id": "longtime-indycar-team-owner-dennis-reinbold-passes-away-0",
