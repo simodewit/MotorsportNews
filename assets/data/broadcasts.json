@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T12:10:37.531Z",
+  "generatedAt": "2026-06-17T18:09:24.071Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Road America Classics | INDYCAR SERIES Full Race Marathon",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "WnryOKGHpkc",
-      "url": "https://www.youtube.com/watch?v=WnryOKGHpkc",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
