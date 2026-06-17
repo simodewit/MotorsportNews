@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T14:59:05.084Z",
+  "generatedAt": "2026-06-17T20:05:02.984Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty-0",
-      "title": "Mercedes granted right of review hearing over George Russell's Monaco GP penalty",
+      "id": "the-10-strangest-and-most-shocking-retirements-in-formula-1-history-0",
+      "title": "The 10 strangest and most shocking retirements in Formula 1 history",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/the-10-most-bizarre-retirements-in-formula-1-history/10830885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,8 +88,19 @@
   ],
   "articles": [
     {
-      "id": "mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty-0",
-      "title": "Mercedes granted right of review hearing over George Russell's Monaco GP penalty",
+      "id": "the-10-strangest-and-most-shocking-retirements-in-formula-1-history-0",
+      "title": "The 10 strangest and most shocking retirements in Formula 1 history",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/the-10-most-bizarre-retirements-in-formula-1-history/10830885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "mercedes-granted-fia-hearing-over-george-russells-monaco-f1-penalty-1",
+      "title": "Mercedes granted FIA hearing over George Russell's Monaco F1 penalty",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 17, 2026"
     },
     {
-      "id": "red-bull-explains-fia-engine-review-no-data-sample-indicates-an-advantage-over-mercedes-1",
+      "id": "red-bull-explains-fia-engine-review-no-data-sample-indicates-an-advantage-over-mercedes-2",
       "title": "Red Bull explains FIA engine review: “No data sample indicates an advantage over Mercedes”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/red-bull-explains-fia-review-no-data-sample-indicates-an-advantage-over-mercedes/10830998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 17, 2026"
     },
     {
-      "id": "no-corner-quite-like-it-how-f1-put-the-mad-in-madring-2",
+      "id": "no-corner-quite-like-it-how-f1-put-the-mad-in-madring-3",
       "title": "'No corner quite like it' - How F1 put the mad in Madring",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/our-first-impressions-of-the-madring-f1-newest-circuit/10830899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 17, 2026"
-    },
-    {
-      "id": "f1-reports-35-co2-reduction-ahead-of-2030-net-zero-target-3",
-      "title": "F1 reports 35% CO2 reduction ahead of 2030 net-zero target",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-reports-35-co2-reduction-ahead-of-2030-targets/10830960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jun 15, 2026"
     },
     {
-      "id": "longtime-indycar-team-owner-dennis-reinbold-passes-away-0",
+      "id": "the-blueprint-of-grit-how-james-roe-is-grinding-toward-his-indycar-dream-0",
+      "title": "The blueprint of grit: How James Roe is grinding toward his IndyCar dream ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/the-blueprint-of-grit-how-james-roe-is-grinding-toward-his-indycar-dream-/10831087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 17, 2026"
+    },
+    {
+      "id": "longtime-indycar-team-owner-dennis-reinbold-passes-away-1",
       "title": "Longtime IndyCar team owner Dennis Reinbold passes away",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/longtime-indycar-team-owner-dennis-reinbold-passes-away/10830461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 14, 2026"
     },
     {
-      "id": "myles-rowe-historic-indy-nxt-win-proves-i-have-the-skill-to-run-in-indycar-1",
+      "id": "myles-rowe-historic-indy-nxt-win-proves-i-have-the-skill-to-run-in-indycar-2",
       "title": "Myles Rowe: Historic Indy NXT win proves ‘I have the skill to run in IndyCar’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/myles-rowe-historic-indy-nxt-win-at-wwtr-proves-i-have-the-skill-to-run-in-indycar/10828953/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jun 10, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway-2",
+      "id": "winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway-3",
       "title": "Winners and losers from the IndyCar race at World Wide Technology Raceway",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway/10828672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jun 9, 2026"
-    },
-    {
-      "id": "christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis-3",
-      "title": "Christian Rasmussen pushing to resurrect “tough year” with third-place finish in St. Louis",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/christian-rasmussen-pushing-to-resurrect-tough-year-with-third-place-finish-in-st-louis/10828474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 8, 2026"
     },
     {
       "id": "porsche-says-2030-wec-hypercar-rules-mark-significant-step-but-no-decision-on-comeback-0",
