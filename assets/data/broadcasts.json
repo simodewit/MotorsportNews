@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T19:29:03.019Z",
+  "generatedAt": "2026-06-17T12:10:37.531Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,15 +49,15 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "2016 Czech GP | MotoGP™ Full Race",
-      "channel": "MotoGP",
-      "videoId": "Ae76y2UswN8",
-      "url": "https://www.youtube.com/watch?v=Ae76y2UswN8",
+      "title": "🔴 Road America Classics | INDYCAR SERIES Full Race Marathon",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "WnryOKGHpkc",
+      "url": "https://www.youtube.com/watch?v=WnryOKGHpkc",
       "series": [
-        "motogp"
+        "indycar"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "IndyCar"
       ]
     },
     {
