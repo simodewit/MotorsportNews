@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T14:53:49.036Z",
+  "generatedAt": "2026-06-18T20:14:33.886Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "monaco-results-overturned-teams-protesting-new-hearings-scheduled-what-is-going-on-0",
-      "title": "Monaco results overturned, teams protesting, new hearings scheduled – what is going on?",
+      "id": "mercedes-withdraws-george-russell-monaco-penalty-review-request-0",
+      "title": "Mercedes withdraws George Russell Monaco penalty review request",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/monaco-results-overturned-teams-protesting-new-hearings-scheduled-whats-going-on/10831232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mercedes-withdraws-its-right-of-review-request/10831386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "fabio-quartararo-still-wants-f1-test-after-abandoned-mercedes-plans-0",
-      "title": "Fabio Quartararo still wants F1 test after abandoned Mercedes plans",
+      "id": "2026-motogp-czech-grand-prix-how-to-watch-session-times-more-0",
+      "title": "2026 MotoGP Czech Grand Prix – How to watch, session times & more",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-still-wants-f1-test-after-abandoned-mercedes-plans/10831312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/2026-motogp-czech-grand-prix-how-to-watch-session-times-more/10831330/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "monaco-results-overturned-teams-protesting-new-hearings-scheduled-what-is-going-on-0",
+      "id": "mercedes-withdraws-george-russell-monaco-penalty-review-request-0",
+      "title": "Mercedes withdraws George Russell Monaco penalty review request",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mercedes-withdraws-its-right-of-review-request/10831386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 18, 2026"
+    },
+    {
+      "id": "monaco-results-overturned-teams-protesting-new-hearings-scheduled-what-is-going-on-1",
       "title": "Monaco results overturned, teams protesting, new hearings scheduled – what is going on?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/monaco-results-overturned-teams-protesting-new-hearings-scheduled-whats-going-on/10831232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 18, 2026"
     },
     {
-      "id": "naomi-schiff-claims-red-bull-demotion-was-best-thing-for-liam-lawsons-f1-career-1",
+      "id": "naomi-schiff-claims-red-bull-demotion-was-best-thing-for-liam-lawsons-f1-career-2",
       "title": "Naomi Schiff claims Red Bull demotion was 'best thing' for Liam Lawson's F1 career",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/liam-lawsons-red-bull-demotion-for-the-better-of-his-f1-career-says-naomi-schiff/10831244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 18, 2026"
     },
     {
-      "id": "david-coulthard-argues-carlos-sainz-is-eyeballing-other-opportunities-amid-williams-struggles-2",
+      "id": "david-coulthard-argues-carlos-sainz-is-eyeballing-other-opportunities-amid-williams-struggles-3",
       "title": "David Coulthard argues Carlos Sainz is \"eyeballing\" other opportunities amid Williams struggles",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/david-coulthard-carlos-sainz-is-eyeballing-other-opportunities-amid-williams-struggles/10831227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 18, 2026"
-    },
-    {
-      "id": "lewis-hamiltons-ferrari-win-gives-charles-leclerc-amazing-opportunity-says-former-f1-driver-3",
-      "title": "Lewis Hamilton's Ferrari win gives Charles Leclerc \"amazing opportunity\", says former F1 driver",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-ferrari-win-gives-charles-leclerc-amazing-opportunity-says-former-f1-driver/10831173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "fabio-quartararo-still-wants-f1-test-after-abandoned-mercedes-plans-0",
+      "id": "2026-motogp-czech-grand-prix-how-to-watch-session-times-more-0",
+      "title": "2026 MotoGP Czech Grand Prix – How to watch, session times & more",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/2026-motogp-czech-grand-prix-how-to-watch-session-times-more/10831330/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 18, 2026"
+    },
+    {
+      "id": "fabio-quartararo-still-wants-f1-test-after-abandoned-mercedes-plans-1",
       "title": "Fabio Quartararo still wants F1 test after abandoned Mercedes plans",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-still-wants-f1-test-after-abandoned-mercedes-plans/10831312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jun 18, 2026"
     },
     {
-      "id": "maverick-vinales-accuses-ktm-of-leaving-him-in-limbo-i-dont-even-know-where-i-stand-1",
+      "id": "maverick-vinales-accuses-ktm-of-leaving-him-in-limbo-i-dont-even-know-where-i-stand-2",
       "title": "Maverick Vinales accuses KTM of leaving him in limbo: “I don’t even know where I stand”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/maverick-vinales-accuses-ktm-of-leaving-him-in-limbo-i-dont-know-where-i-stand/10831309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jun 18, 2026"
     },
     {
-      "id": "alex-marquez-set-to-return-to-motogp-action-a-month-after-horror-barcelona-crash-2",
+      "id": "alex-marquez-set-to-return-to-motogp-action-a-month-after-horror-barcelona-crash-3",
       "title": "Alex Marquez set to return to MotoGP action a month after horror Barcelona crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/alex-marquez-set-to-return-to-motogp-action-a-month-after-horror-barcelona-crash/10831293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Jun 18, 2026"
     },
     {
-      "id": "jorge-martin-responds-to-aprilia-criticism-we-shouldnt-shoot-ourselves-in-the-foot-3",
-      "title": "Jorge Martin responds to Aprilia criticism: ‘We shouldn’t shoot ourselves in the foot’",
+      "id": "scott-mclaughlin-targets-road-america-breakthrough-after-penske-teething-problems-0",
+      "title": "Scott McLaughlin targets Road America breakthrough after Penske “teething problems”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/jorge-martin-responds-to-aprilia-criticism-we-shouldnt-shoot-ourselves-in-the-foot/10831290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-targets-road-america-breakthrough-after-penske-teething-problems/10831369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
+      "seriesLabel": "IndyCar",
       "publishedLabel": "Jun 18, 2026"
     },
     {
-      "id": "the-blueprint-of-grit-how-james-roe-is-grinding-toward-his-indycar-dream-0",
+      "id": "the-blueprint-of-grit-how-james-roe-is-grinding-toward-his-indycar-dream-1",
       "title": "The blueprint of grit: How James Roe is grinding toward his IndyCar dream ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/the-blueprint-of-grit-how-james-roe-is-grinding-toward-his-indycar-dream-/10831087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 17, 2026"
     },
     {
-      "id": "longtime-indycar-team-owner-dennis-reinbold-passes-away-1",
+      "id": "longtime-indycar-team-owner-dennis-reinbold-passes-away-2",
       "title": "Longtime IndyCar team owner Dennis Reinbold passes away",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/longtime-indycar-team-owner-dennis-reinbold-passes-away/10830461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jun 14, 2026"
     },
     {
-      "id": "myles-rowe-historic-indy-nxt-win-proves-i-have-the-skill-to-run-in-indycar-2",
+      "id": "myles-rowe-historic-indy-nxt-win-proves-i-have-the-skill-to-run-in-indycar-3",
       "title": "Myles Rowe: Historic Indy NXT win proves ‘I have the skill to run in IndyCar’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/myles-rowe-historic-indy-nxt-win-at-wwtr-proves-i-have-the-skill-to-run-in-indycar/10828953/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jun 10, 2026"
-    },
-    {
-      "id": "winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway-3",
-      "title": "Winners and losers from the IndyCar race at World Wide Technology Raceway",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-world-wide-technology-raceway/10828672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 9, 2026"
     },
     {
       "id": "peugeot-to-upgrade-9x8-hypercar-for-2027-wec-0",
