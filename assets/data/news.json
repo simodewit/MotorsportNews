@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T02:54:53.756Z",
+  "generatedAt": "2026-06-18T10:11:42.045Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "the-10-strangest-and-most-shocking-retirements-in-formula-1-history-0",
-      "title": "The 10 strangest and most shocking retirements in Formula 1 history",
+      "id": "will-mercedes-stop-its-drivers-fighting-now-with-lewis-hamilton-chasing-0",
+      "title": "Will Mercedes stop its drivers fighting now with Lewis Hamilton chasing?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-10-most-bizarre-retirements-in-formula-1-history/10830885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/will-mercedes-stop-its-drivers-fighting-now-with-lewis-hamilton-chasing/10831158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 17, 2026"
+      "publishedLabel": "Jun 18, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "how-diogo-moreira-is-working-his-way-towards-a-honda-factory-ride-0",
-      "title": "How Diogo Moreira is working his way towards a Honda factory ride",
+      "id": "honda-reveals-new-motogp-team-manager-as-alberto-puig-steps-down-0",
+      "title": "Honda reveals new MotoGP team manager as Alberto Puig steps down",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/how-diogo-moreira-is-earning-his-way-toward-a-honda-factory-ride/10830975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/honda-reveals-new-motogp-team-manager-as-alberto-puig-steps-down/10831151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 17, 2026"
+      "publishedLabel": "Jun 18, 2026"
     }
   ],
   "articles": [
     {
-      "id": "the-10-strangest-and-most-shocking-retirements-in-formula-1-history-0",
+      "id": "will-mercedes-stop-its-drivers-fighting-now-with-lewis-hamilton-chasing-0",
+      "title": "Will Mercedes stop its drivers fighting now with Lewis Hamilton chasing?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/will-mercedes-stop-its-drivers-fighting-now-with-lewis-hamilton-chasing/10831158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 18, 2026"
+    },
+    {
+      "id": "mclaren-honours-mika-hakkinen-with-bronze-statue-amid-1000th-grand-prix-celebrations-1",
+      "title": "McLaren honours Mika Hakkinen with bronze statue amid 1000th grand prix celebrations",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-honours-mika-hakkinen-with-bronze-statue-amid-1000th-grand-prix-celebrations/10831164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 18, 2026"
+    },
+    {
+      "id": "two-weeks-ago-it-was-a-disaster-fred-vasseur-brushes-aside-lewis-hamilton-title-talk-2",
+      "title": "\"Two weeks ago it was a disaster\" - Fred Vasseur brushes aside Lewis Hamilton title talk",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/two-weeks-ago-it-was-a-disaster-fred-vasseur-brushes-aside-lewis-hamilton-title-talk/10831129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 18, 2026"
+    },
+    {
+      "id": "the-10-strangest-and-most-shocking-retirements-in-formula-1-history-3",
       "title": "The 10 strangest and most shocking retirements in Formula 1 history",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/the-10-most-bizarre-retirements-in-formula-1-history/10830885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 17, 2026"
-    },
-    {
-      "id": "mercedes-granted-fia-hearing-over-george-russells-monaco-f1-penalty-1",
-      "title": "Mercedes granted FIA hearing over George Russell's Monaco F1 penalty",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-granted-right-of-review-hearing-over-george-russells-monaco-gp-penalty/10831046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 17, 2026"
-    },
-    {
-      "id": "red-bull-explains-fia-engine-review-no-data-sample-indicates-an-advantage-over-mercedes-2",
-      "title": "Red Bull explains FIA engine review: “No data sample indicates an advantage over Mercedes”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bull-explains-fia-review-no-data-sample-indicates-an-advantage-over-mercedes/10830998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 17, 2026"
-    },
-    {
-      "id": "no-corner-quite-like-it-how-f1-put-the-mad-in-madring-3",
-      "title": "'No corner quite like it' - How F1 put the mad in Madring",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/our-first-impressions-of-the-madring-f1-newest-circuit/10830899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "how-diogo-moreira-is-working-his-way-towards-a-honda-factory-ride-0",
+      "id": "honda-reveals-new-motogp-team-manager-as-alberto-puig-steps-down-0",
+      "title": "Honda reveals new MotoGP team manager as Alberto Puig steps down",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/honda-reveals-new-motogp-team-manager-as-alberto-puig-steps-down/10831151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 18, 2026"
+    },
+    {
+      "id": "francesco-guidotti-joins-trackhouse-as-motogp-team-manager-with-immediate-effect-1",
+      "title": "Francesco Guidotti joins Trackhouse as MotoGP team manager with immediate effect",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/francesco-guidotti-joins-trackhouse-as-motogp-team-manager-with-immediate-effect/10831142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 18, 2026"
+    },
+    {
+      "id": "how-diogo-moreira-is-working-his-way-towards-a-honda-factory-ride-2",
       "title": "How Diogo Moreira is working his way towards a Honda factory ride",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/how-diogo-moreira-is-earning-his-way-toward-a-honda-factory-ride/10830975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +253,7 @@
       "publishedLabel": "Jun 17, 2026"
     },
     {
-      "id": "aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different-1",
+      "id": "aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different-3",
       "title": "Aprilia team-mates Marco Bezzecchi and Jorge Martin couldn’t be any more different",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/analysis-how-aprilia-team-mates-marco-bezzecchi-and-jorge-martin-couldnt-be-any-more-different/10830858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -240,28 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Jun 16, 2026"
-    },
-    {
-      "id": "where-has-it-gone-wrong-for-franco-morbidelli-in-motogp-2026-2",
-      "title": "Where has it gone wrong for Franco Morbidelli in MotoGP 2026?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/where-has-it-gone-wrong-for-franco-morbidelli-in-motogp-2026/10830623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 15, 2026"
-    },
-    {
-      "id": "joan-mir-to-test-hondas-2027-motogp-bike-in-brno-despite-impending-ducati-move-3",
-      "title": "Joan Mir to test Honda’s 2027 MotoGP bike in Brno despite impending Ducati move",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/joan-mir-to-test-hondas-2027-motogp-bike-in-brno-despite-impending-ducati-move/10830501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 15, 2026"
     },
     {
       "id": "the-blueprint-of-grit-how-james-roe-is-grinding-toward-his-indycar-dream-0",
