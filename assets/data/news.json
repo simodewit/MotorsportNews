@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T19:39:59.839Z",
+  "generatedAt": "2026-06-20T02:45:11.159Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "oliver-bearman-credits-ferrari-relocation-for-rapid-f1-maturity-0",
-      "title": "Oliver Bearman credits Ferrari relocation for rapid F1 maturity",
+      "id": "lewis-hamilton-ferrari-win-draws-michael-schumacher-comparison-after-barcelona-f1-victory-0",
+      "title": "Lewis Hamilton Ferrari win draws Michael Schumacher comparison after Barcelona F1 victory",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ollie-bearman-credits-ferrari-relocation-for-rapid-f1-maturity/10831611/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferrari-win-draws-michael-schumacher-comparison-after-barcelona-f1-victory/10831532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "oliver-bearman-credits-ferrari-relocation-for-rapid-f1-maturity-0",
+      "id": "lewis-hamilton-ferrari-win-draws-michael-schumacher-comparison-after-barcelona-f1-victory-0",
+      "title": "Lewis Hamilton Ferrari win draws Michael Schumacher comparison after Barcelona F1 victory",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferrari-win-draws-michael-schumacher-comparison-after-barcelona-f1-victory/10831532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 19, 2026"
+    },
+    {
+      "id": "claire-williams-george-russell-deserves-f1-title-but-bad-luck-may-stick-1",
+      "title": "Claire Williams: George Russell deserves F1 title but bad luck may stick",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/claire-williams-george-russell-deserves-f1-title-but-bad-luck-may-stick/10831645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 19, 2026"
+    },
+    {
+      "id": "oliver-bearman-credits-ferrari-relocation-for-rapid-f1-maturity-2",
       "title": "Oliver Bearman credits Ferrari relocation for rapid F1 maturity",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ollie-bearman-credits-ferrari-relocation-for-rapid-f1-maturity/10831611/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 19, 2026"
     },
     {
-      "id": "guenther-steiner-delivers-brutal-aston-martin-verdict-not-f1-standards-anymore-1",
+      "id": "guenther-steiner-delivers-brutal-aston-martin-verdict-not-f1-standards-anymore-3",
       "title": "Guenther Steiner delivers brutal Aston Martin verdict: \"Not F1 standards anymore\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/guenther-steiner-delivers-brutal-aston-martin-verdict-not-f1-standards-anymore/10831546/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 19, 2026"
-    },
-    {
-      "id": "f1-fans-left-baffled-by-sergio-perez-energy-drink-advert-2",
-      "title": "F1 fans left baffled by Sergio Perez energy drink advert",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-fans-left-baffled-by-sergio-perez-energy-drink-advert/10831563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 19, 2026"
-    },
-    {
-      "id": "ferrari-set-to-introduce-new-f1-fuel-and-engine-updates-in-austria-3",
-      "title": "Ferrari set to introduce new F1 fuel and engine updates in Austria",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ferrari-planning-new-fuel-engine-updates-austrian-gp/10831513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
