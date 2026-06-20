@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T13:46:57.531Z",
+  "generatedAt": "2026-06-20T19:14:57.259Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "as-lewis-hamilton-finally-scores-his-first-ferrari-f1-win-who-took-even-longer-0",
-      "title": "As Lewis Hamilton finally scores his first Ferrari F1 win, who took even longer?",
+      "id": "daniel-ricciardo-shares-heartfelt-message-after-first-indy-500-visit-brought-back-childhood-feelings-0",
+      "title": "Daniel Ricciardo shares heartfelt message after first Indy 500 visit brought back \"childhood feelings\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/stats-as-lewis-hamilton-scores-his-first-ferrari-f1-win-who-took-even-longer/10831773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-shares-heartfelt-message-after-first-indy-500-visit-brought-back-childhood-feelings/10831828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "alex-marquez-pulls-out-of-motogp-czech-grand-prix-0",
-      "title": "Alex Marquez pulls out of MotoGP Czech Grand Prix",
+      "id": "fermin-aldeguer-2025-ducati-a-handicap-factory-riders-always-have-a-little-more-0",
+      "title": "Fermin Aldeguer: '2025 Ducati a handicap, factory riders always have a little more'",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/alex-marquez-pulls-out-of-motogp-czech-grand-prix/10831831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/aldeguer-having-the-2025-bike-is-a-handicap-the-factory-riders-always-have-a-little-more/10831941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "as-lewis-hamilton-finally-scores-his-first-ferrari-f1-win-who-took-even-longer-0",
+      "id": "daniel-ricciardo-shares-heartfelt-message-after-first-indy-500-visit-brought-back-childhood-feelings-0",
+      "title": "Daniel Ricciardo shares heartfelt message after first Indy 500 visit brought back \"childhood feelings\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-shares-heartfelt-message-after-first-indy-500-visit-brought-back-childhood-feelings/10831828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 20, 2026"
+    },
+    {
+      "id": "lewis-hamilton-ferrari-impact-compared-to-michael-schumacher-by-claire-williams-1",
+      "title": "Lewis Hamilton Ferrari impact compared to Michael Schumacher by Claire Williams",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferrari-impact-compared-to-michael-schumacher-by-claire-williams/10831777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 20, 2026"
+    },
+    {
+      "id": "as-lewis-hamilton-finally-scores-his-first-ferrari-f1-win-who-took-even-longer-2",
       "title": "As Lewis Hamilton finally scores his first Ferrari F1 win, who took even longer?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/stats-as-lewis-hamilton-scores-his-first-ferrari-f1-win-who-took-even-longer/10831773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 20, 2026"
     },
     {
-      "id": "lewis-hamilton-makes-milan-fashion-week-appearance-after-ferrari-f1-win-1",
+      "id": "lewis-hamilton-makes-milan-fashion-week-appearance-after-ferrari-f1-win-3",
       "title": "Lewis Hamilton makes Milan Fashion Week appearance after Ferrari F1 win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-milan-fashion-week-appearance-after-ferrari-f1-win/10831845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 20, 2026"
-    },
-    {
-      "id": "oliver-bearman-admits-wrong-mindset-was-behind-difficult-start-to-f1-rookie-season-2",
-      "title": "Oliver Bearman admits \"wrong mindset\" was behind difficult start to F1 rookie season",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-admits-wrong-mindset-was-behind-difficult-start-to-f1-rookie-season/10831618/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 20, 2026"
-    },
-    {
-      "id": "pierre-gasly-monaco-gp-podium-decision-draws-fierce-guenther-steiner-criticism-3",
-      "title": "Pierre Gasly Monaco GP podium decision draws fierce Guenther Steiner criticism",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-monaco-gp-podium-decision-draws-fierce-guenther-steiner-criticism/10831557/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,10 +220,10 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "alex-marquez-pulls-out-of-motogp-czech-grand-prix-0",
-      "title": "Alex Marquez pulls out of MotoGP Czech Grand Prix",
+      "id": "fermin-aldeguer-2025-ducati-a-handicap-factory-riders-always-have-a-little-more-0",
+      "title": "Fermin Aldeguer: '2025 Ducati a handicap, factory riders always have a little more'",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/alex-marquez-pulls-out-of-motogp-czech-grand-prix/10831831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/aldeguer-having-the-2025-bike-is-a-handicap-the-factory-riders-always-have-a-little-more/10831941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -231,10 +231,10 @@
       "publishedLabel": "Jun 20, 2026"
     },
     {
-      "id": "diogo-moreira-if-luca-marini-doesnt-want-to-look-at-my-data-thats-his-problem-1",
-      "title": "Diogo Moreira: 'If Luca Marini doesn't want to look at my data, that's his problem'",
+      "id": "marco-bezzecchi-banned-from-czech-gp-for-hitting-marshal-in-sprint-1",
+      "title": "Marco Bezzecchi banned from Czech GP for hitting marshal in sprint",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/diogo-moreira-if-luca-marini-doesnt-want-to-look-at-my-data-thats-his-problem/10831793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-banned-from-czech-gp-for-hitting-marshal-in-sprint/10831986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -242,10 +242,10 @@
       "publishedLabel": "Jun 20, 2026"
     },
     {
-      "id": "motogp-czech-gp-ai-ogura-scorches-to-first-pole-position-2",
-      "title": "MotoGP Czech GP: Ai Ogura scorches to first pole position",
+      "id": "motogp-czech-gp-full-starting-grid-2",
+      "title": "MotoGP Czech GP: Full starting grid",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-czech-gp-ai-ogura-scorches-to-first-pole-position/10831782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-2026-czech-gp-brno-full-starting-grid/10831843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -253,15 +253,15 @@
       "publishedLabel": "Jun 20, 2026"
     },
     {
-      "id": "ktm-and-tech3-respond-to-maverick-vinales-frustration-over-2027-contract-situation-3",
-      "title": "KTM and Tech3 respond to Maverick Vinales’ frustration over 2027 contract situation",
+      "id": "marc-marquez-2026-ducati-ready-to-win-the-title-riders-need-to-do-better-3",
+      "title": "Marc Marquez: ‘2026 Ducati ready to win the title; riders need to do better'",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ktm-and-tech3-respond-to-maverick-vinales-frustration-over-2027-contract-situation/10831669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-2026-ducati-ready-to-win-the-title-riders-need-to-do-better/10831936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 19, 2026"
+      "publishedLabel": "Jun 20, 2026"
     },
     {
       "id": "guenther-steiner-believes-many-underestimate-indycar-the-bar-is-set-high-0",
