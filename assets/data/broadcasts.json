@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T02:59:21.619Z",
+  "generatedAt": "2026-06-22T13:28:11.207Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 Shakedown LIVE | WRC EKO Acropolis Rally Greece 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "5habnh38FFw",
+      "url": "https://www.youtube.com/watch?v=5habnh38FFw",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 シェイクダウン ライブ！WRC EKO Acropolis Rally Greece 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "O22PhWOIptY",
+      "url": "https://www.youtube.com/watch?v=O22PhWOIptY",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
