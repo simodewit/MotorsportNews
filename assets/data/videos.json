@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T13:31:27.484Z",
+  "generatedAt": "2026-06-22T19:21:48.813Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "jI2g4TKYaic",
+      "title": "Difficult decisions for Ferrari + Mercedes? | Austrian GP Preview | F1 Nation Podcast",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "-wikPeKG0Pw",
+      "title": "When Lando & Max Collided From P1 & P2! 💥",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "jHOSN_YhJpU",
       "title": "Lewis' Iconic Race Day 🤩",
       "channel": "FORMULA 1",
@@ -77,28 +99,6 @@
     {
       "videoId": "6W-wx2PdoMc",
       "title": "That Was Actually Quite Impressive 🤓",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "rnw4UVOsHx0",
-      "title": "Ollie & Esteban vs Charades 🤣",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "kmlyl1eo3JI",
-      "title": "Can The Haas Drivers Conquer Grid Games?! | F1 Grid Games",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "FvoG4bEbFkE",
+      "title": "5 Incredible Le Mans 2026 Overtakes Part 1 ⚔️ 🇫🇷",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "lMCY4InduPA",
       "title": "10 Dramatic Le Mans 2026 Moments | 24 Hours of Le Mans 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
@@ -185,14 +196,25 @@
       ]
     },
     {
-      "videoId": "hvY6EC36iGE",
-      "title": "Ferrari #50 OUT After Stopping on Track at Le Mans | 24 Hours of Le Mans 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "CptKcD5ccBE",
+      "title": "2026 NTT INDYCAR SERIES Full Race | XPEL Grand Prix at Road America",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "HR_8ry8qomw",
+      "title": "What Drivers Said After the Race | 2026 INDYCAR at Road America",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -208,29 +230,7 @@
     },
     {
       "videoId": "ZyYw2yNlZuo",
-      "title": "Race Highlights | 2026 INDYCAR at Road America",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "Fq-msjea5Xs",
-      "title": "A tale of never giving up 👊 #indycar #racing #christianlundgaard",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "LWhUCqRNiZo",
-      "title": "DRAMA to the Finish! | 2026 INDYCAR at Road America",
+      "title": "2026 XPEL Grand Prix at Road America | NTT INDYCAR SERIES Highlights",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
