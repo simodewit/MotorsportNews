@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T16:43:29.547Z",
+  "generatedAt": "2026-06-22T20:37:09.672Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test-0",
-      "title": "Joan Mir lauds Honda's \"smart move\" as he tries out its 2027 MotoGP package at Brno test",
+      "id": "motogp-rolls-out-immediate-front-holeshot-device-ban-tweaks-grid-layout-from-german-gp-0",
+      "title": "MotoGP rolls out immediate front holeshot device ban, tweaks grid layout from German GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test/10832244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-bans-front-holeshot-devices-immediately-tweaks-grid-layout-from-german-gp/10832500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test-0",
+      "id": "motogp-rolls-out-immediate-front-holeshot-device-ban-tweaks-grid-layout-from-german-gp-0",
+      "title": "MotoGP rolls out immediate front holeshot device ban, tweaks grid layout from German GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/motogp-bans-front-holeshot-devices-immediately-tweaks-grid-layout-from-german-gp/10832500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 22, 2026"
+    },
+    {
+      "id": "joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test-1",
       "title": "Joan Mir lauds Honda's \"smart move\" as he tries out its 2027 MotoGP package at Brno test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test/10832244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "aprilia-says-past-incidents-prompted-appeal-against-marco-bezzecchis-czech-gp-ban-1",
+      "id": "aprilia-says-past-incidents-prompted-appeal-against-marco-bezzecchis-czech-gp-ban-2",
       "title": "Aprilia says past incidents prompted appeal against Marco Bezzecchi’s Czech GP ban",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/aprilia-says-past-incidents-prompted-appeal-against-marco-bezzecchis-czech-gp-ban/10832380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "winners-and-losers-from-motogps-frantic-czech-grand-prix-2",
+      "id": "winners-and-losers-from-motogps-frantic-czech-grand-prix-3",
       "title": "Winners and losers from MotoGP's frantic Czech Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/winners-losers-from-the-motogp-czech-grand-prix/10832373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "why-motogp-cannot-afford-to-forget-marco-bezzecchis-slap-3",
-      "title": "Why MotoGP cannot afford to forget Marco Bezzecchi’s slap",
+      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-0",
+      "title": "How Christian Lundgaard went from zero to hero at Road America",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-motogp-cannot-afford-to-forget-maco-bezzecchis-slap/10832361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/how-christian-lundgaard-went-from-zero-to-hero-at-road-america/10832498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
+      "seriesLabel": "IndyCar",
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "power-being-power-says-rahal-after-last-lap-road-america-podium-clash-0",
+      "id": "power-being-power-says-rahal-after-last-lap-road-america-podium-clash-1",
       "title": "“Power being Power” says Rahal after last-lap Road America podium clash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/power-being-power-says-rahal-after-last-lap-road-america-podium-clash/10832279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 21, 2026"
     },
     {
-      "id": "david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up-1",
+      "id": "david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up-2",
       "title": "David Malukas “on the right side of chaos” after Road America runner-up",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up/10832274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jun 21, 2026"
     },
     {
-      "id": "late-mechanical-issue-costs-marcus-armstrong-shot-at-first-indycar-win-2",
+      "id": "late-mechanical-issue-costs-marcus-armstrong-shot-at-first-indycar-win-3",
       "title": "Late mechanical issue costs Marcus Armstrong shot at first IndyCar win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/late-mechanical-issue-costs-marcus-armstrong-shot-at-first-indycar-win/10832268/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 21, 2026"
-    },
-    {
-      "id": "christian-lundgaard-wins-indycar-thriller-at-road-america-3",
-      "title": "Christian Lundgaard wins IndyCar thriller at Road America",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/christian-lundgaard-wins-indycar-thriller-at-road-america/10832261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
