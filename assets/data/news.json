@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:37:09.672Z",
+  "generatedAt": "2026-06-23T02:39:12.352Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "monaco-f1-controversy-goes-to-court-what-happens-next-for-pierre-gaslys-podium-0",
-      "title": "Monaco F1 controversy goes to court: What happens next for Pierre Gasly's podium",
+      "id": "lewis-hamiltons-emotional-ferrari-win-captured-in-behind-the-scenes-video-0",
+      "title": "Lewis Hamilton's emotional Ferrari win captured in behind-the-scenes video",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/what-happens-next-as-appeal-against-pierre-gaslys-f1-monaco-decision-goes-to-court/10832473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-emotional-ferrari-win-captured-in-behind-the-scenes-video/10832551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "motogp-rolls-out-immediate-front-holeshot-device-ban-tweaks-grid-layout-from-german-gp-0",
-      "title": "MotoGP rolls out immediate front holeshot device ban, tweaks grid layout from German GP",
+      "id": "pirellis-brno-test-ends-with-aprilia-on-top-and-minor-crash-for-marc-marquez-0",
+      "title": "Pirelli's Brno test ends with Aprilia on top and minor crash for Marc Marquez",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-bans-front-holeshot-devices-immediately-tweaks-grid-layout-from-german-gp/10832500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/pirellis-test-in-brno-ends-with-aprilia-on-top-and-marquez-suffering-a-minor-crash/10832537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "monaco-f1-controversy-goes-to-court-what-happens-next-for-pierre-gaslys-podium-0",
+      "id": "lewis-hamiltons-emotional-ferrari-win-captured-in-behind-the-scenes-video-0",
+      "title": "Lewis Hamilton's emotional Ferrari win captured in behind-the-scenes video",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-emotional-ferrari-win-captured-in-behind-the-scenes-video/10832551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 22, 2026"
+    },
+    {
+      "id": "williams-f1-facing-delayed-fix-as-james-vowles-outlines-upgrade-plan-1",
+      "title": "Williams F1 facing delayed fix as James Vowles outlines upgrade plan",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/williams-f1-facing-delayed-fix-as-james-vowles-outlines-upgrade-plan/10832356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 22, 2026"
+    },
+    {
+      "id": "monaco-f1-controversy-goes-to-court-what-happens-next-for-pierre-gaslys-podium-2",
       "title": "Monaco F1 controversy goes to court: What happens next for Pierre Gasly's podium",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/what-happens-next-as-appeal-against-pierre-gaslys-f1-monaco-decision-goes-to-court/10832473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "lewis-hamilton-thanks-his-fans-they-rescued-me-last-year-1",
+      "id": "lewis-hamilton-thanks-his-fans-they-rescued-me-last-year-3",
       "title": "Lewis Hamilton thanks his fans: They “rescued me last year\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-thanks-his-fans-they-rescued-me-last-year/10832405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 22, 2026"
-    },
-    {
-      "id": "liam-lawson-rejects-false-red-bull-exit-narrative-argues-china-performance-was-used-against-him-2",
-      "title": "Liam Lawson rejects 'false' Red Bull exit narrative, argues China performance was \"used against\" him",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-rejects-false-red-bull-exit-narrative-argues-china-performance-was-used-against-him/10832465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 22, 2026"
-    },
-    {
-      "id": "damon-hill-ferrari-would-be-silly-not-to-listen-to-lewis-hamilton-3",
-      "title": "Damon Hill: Ferrari would be \"silly\" not to listen to Lewis Hamilton",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/damon-hill-ferrari-would-be-silly-not-to-listen-to-lewis-hamilton/10831815/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "motogp-rolls-out-immediate-front-holeshot-device-ban-tweaks-grid-layout-from-german-gp-0",
+      "id": "pirellis-brno-test-ends-with-aprilia-on-top-and-minor-crash-for-marc-marquez-0",
+      "title": "Pirelli's Brno test ends with Aprilia on top and minor crash for Marc Marquez",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/pirellis-test-in-brno-ends-with-aprilia-on-top-and-marquez-suffering-a-minor-crash/10832537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 22, 2026"
+    },
+    {
+      "id": "motogp-rolls-out-immediate-front-holeshot-device-ban-tweaks-grid-layout-from-german-gp-1",
       "title": "MotoGP rolls out immediate front holeshot device ban, tweaks grid layout from German GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-bans-front-holeshot-devices-immediately-tweaks-grid-layout-from-german-gp/10832500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test-1",
+      "id": "joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test-2",
       "title": "Joan Mir lauds Honda's \"smart move\" as he tries out its 2027 MotoGP package at Brno test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/joan-mir-lauds-hondas-smart-move-as-he-tries-out-its-2027-motogp-package-at-brno-test/10832244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "aprilia-says-past-incidents-prompted-appeal-against-marco-bezzecchis-czech-gp-ban-2",
+      "id": "aprilia-says-past-incidents-prompted-appeal-against-marco-bezzecchis-czech-gp-ban-3",
       "title": "Aprilia says past incidents prompted appeal against Marco Bezzecchi’s Czech GP ban",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/aprilia-says-past-incidents-prompted-appeal-against-marco-bezzecchis-czech-gp-ban/10832380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "winners-and-losers-from-motogps-frantic-czech-grand-prix-3",
-      "title": "Winners and losers from MotoGP's frantic Czech Grand Prix",
+      "id": "hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win-0",
+      "title": "HRC US boss apologizes to Armstrong for “failure” that ended shot at first IndyCar win",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/winners-losers-from-the-motogp-czech-grand-prix/10832373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win/10832539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
+      "seriesLabel": "IndyCar",
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-0",
+      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-1",
       "title": "How Christian Lundgaard went from zero to hero at Road America",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-christian-lundgaard-went-from-zero-to-hero-at-road-america/10832498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "power-being-power-says-rahal-after-last-lap-road-america-podium-clash-1",
+      "id": "power-being-power-says-rahal-after-last-lap-road-america-podium-clash-2",
       "title": "“Power being Power” says Rahal after last-lap Road America podium clash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/power-being-power-says-rahal-after-last-lap-road-america-podium-clash/10832279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jun 21, 2026"
     },
     {
-      "id": "david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up-2",
+      "id": "david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up-3",
       "title": "David Malukas “on the right side of chaos” after Road America runner-up",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up/10832274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 21, 2026"
-    },
-    {
-      "id": "late-mechanical-issue-costs-marcus-armstrong-shot-at-first-indycar-win-3",
-      "title": "Late mechanical issue costs Marcus Armstrong shot at first IndyCar win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/late-mechanical-issue-costs-marcus-armstrong-shot-at-first-indycar-win/10832268/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
