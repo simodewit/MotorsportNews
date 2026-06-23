@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T14:34:42.224Z",
+  "generatedAt": "2026-06-23T19:52:42.188Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "cadillac-reveals-substantial-upgrade-package-for-f1-austrian-gp-0",
-      "title": "Cadillac reveals “substantial upgrade package” for F1 Austrian GP",
+      "id": "mclaren-to-trial-upside-down-rear-wing-at-f1s-austrian-gp-0",
+      "title": "McLaren to trial upside-down rear wing at F1's Austrian GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/cadillac-reveals-substantial-upgrade-package-for-f1-austrian-gp/10832688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mclaren-trial-upside-down-rear-wing-f1-austrian-gp/10832747/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "cadillac-reveals-substantial-upgrade-package-for-f1-austrian-gp-0",
+      "id": "mclaren-to-trial-upside-down-rear-wing-at-f1s-austrian-gp-0",
+      "title": "McLaren to trial upside-down rear wing at F1's Austrian GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-trial-upside-down-rear-wing-f1-austrian-gp/10832747/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 23, 2026"
+    },
+    {
+      "id": "shock-as-audi-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict-1",
+      "title": "Shock as Audi ran upgraded F1 engine at Barcelona GP after ADUO verdict",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/shock-as-audi-ran-upgraded-f1-engine-at-barcelona-gp-after-aduo-verdict/10832720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 23, 2026"
+    },
+    {
+      "id": "from-simulator-to-stopwatch-the-creative-evidence-teams-have-used-to-dispute-f1-race-results-2",
+      "title": "From simulator to stopwatch: the creative evidence teams have used to dispute F1 race results",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/from-simulator-to-stopwatch-the-creative-evidence-teams-use-to-dispute-f1-race-results/10832415/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 23, 2026"
+    },
+    {
+      "id": "cadillac-reveals-substantial-upgrade-package-for-f1-austrian-gp-3",
       "title": "Cadillac reveals “substantial upgrade package” for F1 Austrian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/cadillac-reveals-substantial-upgrade-package-for-f1-austrian-gp/10832688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 23, 2026"
-    },
-    {
-      "id": "fia-confirms-2027-f1-power-unit-changes-1",
-      "title": "FIA confirms 2027 F1 power unit changes",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-revisits-wet-weather-boost-mode-as-fia-ratifies-rule-changes/10832642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 23, 2026"
-    },
-    {
-      "id": "jacques-villeneuve-calls-on-ferrari-to-favour-lewis-hamilton-but-will-it-happen-2",
-      "title": "Jacques Villeneuve calls on Ferrari to favour Lewis Hamilton – but will it happen?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-calls-on-ferrari-to-favour-lewis-hamilton-but-will-it-happen/10832435/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 23, 2026"
-    },
-    {
-      "id": "fernando-alonso-turns-heads-in-monaco-with-nissan-gt-r-black-edition-3",
-      "title": "Fernando Alonso turns heads in Monaco with Nissan GT-R Black Edition",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-turns-heads-in-monaco-with-nissan-gt-r-black-edition/10832410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win-0",
+      "id": "winners-and-losers-from-the-indycar-race-at-road-america-0",
+      "title": "Winners and losers from the IndyCar race at Road America",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-road-america/10832704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 23, 2026"
+    },
+    {
+      "id": "hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win-1",
       "title": "HRC US boss apologizes to Armstrong for “failure” that ended shot at first IndyCar win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win/10832539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-1",
+      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-2",
       "title": "How Christian Lundgaard went from zero to hero at Road America",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-christian-lundgaard-went-from-zero-to-hero-at-road-america/10832498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "power-being-power-says-rahal-after-last-lap-road-america-podium-clash-2",
+      "id": "power-being-power-says-rahal-after-last-lap-road-america-podium-clash-3",
       "title": "“Power being Power” says Rahal after last-lap Road America podium clash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/power-being-power-says-rahal-after-last-lap-road-america-podium-clash/10832279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 21, 2026"
-    },
-    {
-      "id": "david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up-3",
-      "title": "David Malukas “on the right side of chaos” after Road America runner-up",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/david-malukas-on-the-right-side-of-chaos-after-road-america-runner-up/10832274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
