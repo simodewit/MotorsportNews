@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T19:19:03.975Z",
+  "generatedAt": "2026-06-23T02:34:24.759Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | XPEL Grand Prix at Road America",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "CptKcD5ccBE",
-      "url": "https://www.youtube.com/watch?v=CptKcD5ccBE",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
