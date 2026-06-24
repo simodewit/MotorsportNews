@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T14:13:12.983Z",
+  "generatedAt": "2026-06-24T19:28:28.042Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "how-anthoine-huberts-death-changed-sebastian-vettel-0",
-      "title": "How Anthoine Hubert’s death changed Sebastian Vettel",
+      "id": "sky-sports-f1-broadcaster-confirms-exit-0",
+      "title": "Sky Sports F1 broadcaster confirms exit",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/how-anthoine-huberts-death-changed-sebastian-vettel/10832897/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/sky-sports-f1-broadcaster-confirms-exit/10832939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "ducati-signs-pedro-acosta-alongside-marc-marquez-in-motogp-0",
-      "title": "Ducati signs Pedro Acosta alongside Marc Marquez in MotoGP",
+      "id": "aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves-0",
+      "title": "Aprilia on Marc Marquez’s winning form: “First, we need to watch ourselves”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ducati-signs-pedro-acosta-until-2028-motogp-season/10832837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves/10832796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "how-anthoine-huberts-death-changed-sebastian-vettel-0",
+      "id": "sky-sports-f1-broadcaster-confirms-exit-0",
+      "title": "Sky Sports F1 broadcaster confirms exit",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/sky-sports-f1-broadcaster-confirms-exit/10832939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 24, 2026"
+    },
+    {
+      "id": "five-things-to-look-out-for-at-the-f1-austrian-gp-1",
+      "title": "Five things to look out for at the F1 Austrian GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-austrian-gp/10832903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 24, 2026"
+    },
+    {
+      "id": "liam-lawson-opens-up-on-toxic-f1-social-media-after-online-abuse-2",
+      "title": "Liam Lawson opens up on toxic F1 social media after online abuse",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-opens-up-on-toxic-f1-social-media-after-online-abuse/10832601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 24, 2026"
+    },
+    {
+      "id": "how-anthoine-huberts-death-changed-sebastian-vettel-3",
       "title": "How Anthoine Hubert’s death changed Sebastian Vettel",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-anthoine-huberts-death-changed-sebastian-vettel/10832897/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 24, 2026"
-    },
-    {
-      "id": "carlos-sainz-even-without-extra-weight-williams-is-not-where-we-promised-wed-be-1",
-      "title": "Carlos Sainz: Even without extra weight, Williams is “not where we promised we’d be”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-even-without-extra-weight-williams-is-not-where-we-promised-wed-be/10832597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 24, 2026"
-    },
-    {
-      "id": "ferrari-set-to-follow-austria-engine-updates-with-new-turbo-after-f1s-summer-break-2",
-      "title": "Ferrari set to follow Austria engine updates with new turbo after F1's summer break",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ferrari-plots-f1-turbo-update-after-summer/10832819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 24, 2026"
-    },
-    {
-      "id": "red-bull-denied-claims-racing-bulls-is-helping-so-we-analysed-their-on-track-battles-3",
-      "title": "Red Bull denied claims Racing Bulls is helping – so we analysed their on-track battles",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bull-team-boss-asked-to-analyse-racing-bulls-helping-claims-and-we-actually-did/10832698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "ducati-signs-pedro-acosta-alongside-marc-marquez-in-motogp-0",
+      "id": "aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves-0",
+      "title": "Aprilia on Marc Marquez’s winning form: “First, we need to watch ourselves”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves/10832796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 24, 2026"
+    },
+    {
+      "id": "ducati-signs-pedro-acosta-alongside-marc-marquez-in-motogp-1",
       "title": "Ducati signs Pedro Acosta alongside Marc Marquez in MotoGP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ducati-signs-pedro-acosta-until-2028-motogp-season/10832837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "ducati-confirms-francesco-bagnaias-exit-for-motogp-2027-1",
+      "id": "ducati-confirms-francesco-bagnaias-exit-for-motogp-2027-2",
       "title": "Ducati confirms Francesco Bagnaia's exit for MotoGP 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ducati-confirms-francesco-bagnaias-exit-pedro-acosta-set-to-join-for-motogp-2027/10832821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "cal-crutchlow-calls-for-motogp-weather-protocol-after-sweltering-czech-gp-2",
+      "id": "cal-crutchlow-calls-for-motogp-weather-protocol-after-sweltering-czech-gp-3",
       "title": "Cal Crutchlow calls for MotoGP weather protocol after sweltering Czech GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/cal-crutchlow-calls-for-motogp-weather-protocol-after-sweltering-czech-gp/10832801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "jorge-martin-game-on-between-aprilia-and-ducati-after-marc-marquezs-recent-wins-3",
-      "title": "Jorge Martin: “Game on” between Aprilia and Ducati after Marc Marquez’s recent wins",
+      "id": "raj-nair-says-leading-indycar-independent-officiating-a-little-bit-more-work-than-i-thought-0",
+      "title": "Raj Nair says leading IndyCar Independent Officiating ‘a little bit more work than I thought’",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/jorge-martin-game-on-between-aprilia-and-ducati-after-marc-marquezs-recent-wins/10832553/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/a-little-bit-more-work-than-i-thought-raj-nair-reflects-on-leading-indycars-independent-guard/10832950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 23, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-at-road-america-0",
+      "id": "winners-and-losers-from-the-indycar-race-at-road-america-1",
       "title": "Winners and losers from the IndyCar race at Road America",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-road-america/10832704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 23, 2026"
     },
     {
-      "id": "hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win-1",
+      "id": "hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win-2",
       "title": "HRC US boss apologizes to Armstrong for “failure” that ended shot at first IndyCar win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win/10832539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-2",
+      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-3",
       "title": "How Christian Lundgaard went from zero to hero at Road America",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-christian-lundgaard-went-from-zero-to-hero-at-road-america/10832498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -297,18 +308,18 @@
       "publishedLabel": "Jun 22, 2026"
     },
     {
-      "id": "power-being-power-says-rahal-after-last-lap-road-america-podium-clash-3",
-      "title": "“Power being Power” says Rahal after last-lap Road America podium clash",
+      "id": "how-ford-will-fast-track-hypercar-development-with-ex-acura-signing-0",
+      "title": "How Ford will fast-track hypercar development with ex-Acura signing",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/power-being-power-says-rahal-after-last-lap-road-america-podium-clash/10832279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/wec/news/how-ford-will-fast-track-hypercar-development-with-ex-acura-signing/10832876/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
-        "indycar"
+        "wec"
       ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 21, 2026"
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "how-a-gulf-nation-is-working-on-nurturing-homegrown-talent-0",
+      "id": "how-a-gulf-nation-is-working-on-nurturing-homegrown-talent-1",
       "title": "How a gulf nation is working on nurturing homegrown talent",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/how-a-gulf-nation-is-working-on-nurturing-homegrown-talent/10831839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jun 23, 2026"
     },
     {
-      "id": "jack-doohan-no-longer-cares-what-other-people-think-after-f1-hardship-1",
+      "id": "jack-doohan-no-longer-cares-what-other-people-think-after-f1-hardship-2",
       "title": "Jack Doohan no longer cares what other people think after F1 hardship",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/jack-doohan-no-longer-cares-what-other-people-think-after-f1-hardship/10831192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Jun 19, 2026"
     },
     {
-      "id": "peugeot-to-upgrade-9x8-hypercar-for-2027-wec-2",
+      "id": "peugeot-to-upgrade-9x8-hypercar-for-2027-wec-3",
       "title": "Peugeot to upgrade 9X8 Hypercar for 2027 WEC",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/peugeot-to-upgrade-9x8-hypercar-for-2027-wec/10831246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Jun 18, 2026"
-    },
-    {
-      "id": "porsche-says-2030-wec-hypercar-rules-mark-significant-step-but-no-decision-on-comeback-3",
-      "title": "Porsche says 2030 WEC Hypercar rules mark “significant step” but no decision on comeback",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/porsche-says-2030-wec-hypercar-rules-mark-significant-step-but-no-decision-on-comeback/10830969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 17, 2026"
     }
   ]
 }
