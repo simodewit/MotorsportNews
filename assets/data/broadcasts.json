@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T10:42:19.381Z",
+  "generatedAt": "2026-06-24T17:48:21.146Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2018 Dutch GP | MotoGP™ Full Race",
-      "channel": "MotoGP",
-      "videoId": "zgE2dXI1KRA",
-      "url": "https://www.youtube.com/watch?v=zgE2dXI1KRA",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
