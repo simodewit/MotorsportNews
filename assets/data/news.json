@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T02:40:46.861Z",
+  "generatedAt": "2026-06-25T08:51:12.707Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -75,15 +75,15 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves-0",
-      "title": "Aprilia on Marc Marquez’s winning form: “First, we need to watch ourselves”",
+      "id": "francesco-bagnaia-makes-aprilia-motogp-switch-after-ducati-exit-0",
+      "title": "Francesco Bagnaia makes Aprilia MotoGP switch after Ducati exit",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves/10832796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-makes-aprilia-motogp-switch-after-ducati-exit/10833020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 24, 2026"
+      "publishedLabel": "Jun 25, 2026"
     }
   ],
   "articles": [
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves-0",
+      "id": "francesco-bagnaia-makes-aprilia-motogp-switch-after-ducati-exit-0",
+      "title": "Francesco Bagnaia makes Aprilia MotoGP switch after Ducati exit",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-makes-aprilia-motogp-switch-after-ducati-exit/10833020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 25, 2026"
+    },
+    {
+      "id": "aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves-1",
       "title": "Aprilia on Marc Marquez’s winning form: “First, we need to watch ourselves”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/aprilia-on-marc-marquezs-winning-form-first-we-need-to-watch-ourselves/10832796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "ducati-signs-pedro-acosta-alongside-marc-marquez-in-motogp-1",
+      "id": "ducati-signs-pedro-acosta-alongside-marc-marquez-in-motogp-2",
       "title": "Ducati signs Pedro Acosta alongside Marc Marquez in MotoGP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ducati-signs-pedro-acosta-until-2028-motogp-season/10832837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "ducati-confirms-francesco-bagnaias-exit-for-motogp-2027-2",
+      "id": "ducati-confirms-francesco-bagnaias-exit-for-motogp-2027-3",
       "title": "Ducati confirms Francesco Bagnaia's exit for MotoGP 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ducati-confirms-francesco-bagnaias-exit-pedro-acosta-set-to-join-for-motogp-2027/10832821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 24, 2026"
-    },
-    {
-      "id": "cal-crutchlow-calls-for-motogp-weather-protocol-after-sweltering-czech-gp-3",
-      "title": "Cal Crutchlow calls for MotoGP weather protocol after sweltering Czech GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/cal-crutchlow-calls-for-motogp-weather-protocol-after-sweltering-czech-gp/10832801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
