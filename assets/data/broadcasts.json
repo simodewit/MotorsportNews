@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T10:35:57.513Z",
+  "generatedAt": "2026-06-25T18:04:19.821Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Opening Ceremony LIVE | WRC EKO Acropolis Rally Greece 2026 🇬🇷",
-      "channel": "FIA World Rally Championship",
-      "videoId": "jdB69HgLnVM",
-      "url": "https://www.youtube.com/watch?v=jdB69HgLnVM",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
