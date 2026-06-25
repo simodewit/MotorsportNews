@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T17:50:39.429Z",
+  "generatedAt": "2026-06-25T10:38:27.421Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "wIA7NExGy9Q",
+      "title": "Pecco Bagnaia signs with Aprilia 🟣 🤝",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "zgE2dXI1KRA",
       "title": "2018 Dutch GP | MotoGP™ Full Race",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "Q4yu9pKp0OA",
       "title": "MotoGP's most ICONIC moments from Assen 🇳🇱 ✨",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "657RqZ1Klpo",
-      "title": "THE SHARK WILL WEAR RED 🔴 Pedro Acosta signs with Ducati!",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "p5IVABebrFM",
+      "title": "BEST Onboard Moments | 2026 INDYCAR at Road America",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "Li6-IX_iqEQ",
       "title": "How Christian Lundgaard Pulled Off a Miracle! | 2026 INDYCAR",
       "channel": "NTT INDYCAR SERIES",
@@ -229,19 +240,8 @@
       ]
     },
     {
-      "videoId": "HR_8ry8qomw",
-      "title": "What Drivers Said After the Race | 2026 INDYCAR at Road America",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "ZqTJe58IJ-g",
-      "title": "Drivers' Preview | WRC Acropolis Rally Greece 2026",
+      "videoId": "9OXsgqcJLPY",
+      "title": "Back on Gravel 🇬🇷",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -251,8 +251,8 @@
       ]
     },
     {
-      "videoId": "PMauJMq0kUU",
-      "title": "Classic McRae 💪",
+      "videoId": "jdB69HgLnVM",
+      "title": "🔴 Opening Ceremony LIVE | WRC EKO Acropolis Rally Greece 2026 🇬🇷",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -262,8 +262,8 @@
       ]
     },
     {
-      "videoId": "a2ter_rg0jE",
-      "title": "FULL ONBOARD - SS1 Al-Attiyah/Bernacchini | WRC Acropolis Rally Greece 2013",
+      "videoId": "5habnh38FFw",
+      "title": "🔴 Shakedown LIVE | WRC EKO Acropolis Rally Greece 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -273,14 +273,25 @@
       ]
     },
     {
-      "videoId": "g_uvYMGem3Y",
-      "title": "SS15 Stage Highlights | WRC Acropolis Rally Greece 2024",
+      "videoId": "O22PhWOIptY",
+      "title": "🔴 シェイクダウン ライブ！WRC EKO Acropolis Rally Greece 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
       ],
       "seriesLabels": [
         "Rally"
+      ]
+    },
+    {
+      "videoId": "TLE7bxKrTFU",
+      "title": "Keep your eyes on the sky in Austria this week 👀",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "xhvkwXCp15M",
       "title": "easy to watch, hard to ride 😵‍💫",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "zXZ6WBU5qwA",
-      "title": "pinned through the Portugal dust 😤",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
