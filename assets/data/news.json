@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T02:44:08.931Z",
+  "generatedAt": "2026-06-26T08:53:52.696Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "liam-lawson-on-why-it-is-very-hard-to-trust-people-in-f1-0",
-      "title": "Liam Lawson on why it is \"very hard\" to trust people in F1",
+      "id": "whats-vexing-fernando-alonso-about-rival-f1-teams-unlimited-upgrades-0",
+      "title": "What’s vexing Fernando Alonso about rival F1 teams’ “unlimited upgrades”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-on-why-it-is-very-hard-to-trust-people-in-f1/10832617/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/whats-vexing-fernando-alonso-about-rival-f1-teams-unlimited-upgrades/10833395/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 25, 2026"
+      "publishedLabel": "Jun 26, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "liam-lawson-on-why-it-is-very-hard-to-trust-people-in-f1-0",
+      "id": "whats-vexing-fernando-alonso-about-rival-f1-teams-unlimited-upgrades-0",
+      "title": "What’s vexing Fernando Alonso about rival F1 teams’ “unlimited upgrades”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/whats-vexing-fernando-alonso-about-rival-f1-teams-unlimited-upgrades/10833395/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 26, 2026"
+    },
+    {
+      "id": "how-worried-f1-rivals-really-are-about-ferraris-progress-and-engine-upgrade-1",
+      "title": "How worried F1 rivals really are about Ferrari's progress and engine upgrade",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/how-worried-f1-rivals-are-ferrari-progress-engine-upgrade/10833311/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 26, 2026"
+    },
+    {
+      "id": "liam-lawson-on-why-it-is-very-hard-to-trust-people-in-f1-2",
       "title": "Liam Lawson on why it is \"very hard\" to trust people in F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/liam-lawson-on-why-it-is-very-hard-to-trust-people-in-f1/10832617/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 25, 2026"
     },
     {
-      "id": "mercedes-forced-to-tweak-f1-diffuser-after-rival-complaints-1",
+      "id": "mercedes-forced-to-tweak-f1-diffuser-after-rival-complaints-3",
       "title": "Mercedes forced to tweak F1 diffuser after rival complaints",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mercedes-forced-to-tweak-f1-diffuser-after-rival-complaints/10833301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 25, 2026"
-    },
-    {
-      "id": "liam-lawson-shares-heartbreaking-note-from-brother-about-f1-sacrifices-2",
-      "title": "Liam Lawson shares heartbreaking note from brother about F1 sacrifices",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-shares-heartbreaking-note-from-brother-about-f1-sacrifices/10832587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 25, 2026"
-    },
-    {
-      "id": "f1-austrian-gp-at-red-bull-ring-friday-schedule-weather-forecast-and-how-to-watch-3",
-      "title": "F1 Austrian GP at Red Bull Ring: Friday schedule, weather forecast and how to watch",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-austrian-gp-at-red-bull-ring-friday-schedule-weather-forecast-and-how-to-watch/10833263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
