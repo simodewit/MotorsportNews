@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T09:57:56.106Z",
+  "generatedAt": "2026-06-27T17:00:40.394Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Service LIVE | WRC EKO Acropolis Rally Greece 2026 🇬🇷",
-      "channel": "FIA World Rally Championship",
-      "videoId": "l2skNS41nl8",
-      "url": "https://www.youtube.com/watch?v=l2skNS41nl8",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
