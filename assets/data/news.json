@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T19:09:54.045Z",
+  "generatedAt": "2026-06-28T02:49:48.790Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "charles-leclerc-puzzled-by-very-strange-ferrari-step-on-tough-austrian-gp-weekend-0",
-      "title": "Charles Leclerc puzzled by \"very strange\" Ferrari step on tough Austrian GP weekend",
+      "id": "toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans-0",
+      "title": "Toto Wolff's Mercedes driver line-up comments divide F1 fans",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-puzzled-by-very-strange-ferrari-step-on-tough-f1-austria-weekend/10834137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans/10834252/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "charles-leclerc-puzzled-by-very-strange-ferrari-step-on-tough-austrian-gp-weekend-0",
+      "id": "toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans-0",
+      "title": "Toto Wolff's Mercedes driver line-up comments divide F1 fans",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans/10834252/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 27, 2026"
+    },
+    {
+      "id": "jamie-chadwick-addresses-mclaren-podium-hopes-after-difficult-f1-austrian-gp-qualifying-1",
+      "title": "Jamie Chadwick addresses McLaren podium hopes after difficult F1 Austrian GP qualifying",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/jamie-chadwick-addresses-mclaren-podium-hopes-after-difficult-f1-austrian-gp-qualifying/10834246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 27, 2026"
+    },
+    {
+      "id": "red-bull-apologises-to-max-verstappen-after-technical-issue-caused-f1-qualifying-crash-2",
+      "title": "Red Bull apologises to Max Verstappen after technical issue caused F1 qualifying crash",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-takes-blame-for-verstappens-austrian-gp-qualifying-crash/10834237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 27, 2026"
+    },
+    {
+      "id": "charles-leclerc-puzzled-by-very-strange-ferrari-step-on-tough-austrian-gp-weekend-3",
       "title": "Charles Leclerc puzzled by \"very strange\" Ferrari step on tough Austrian GP weekend",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/charles-leclerc-puzzled-by-very-strange-ferrari-step-on-tough-f1-austria-weekend/10834137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 27, 2026"
-    },
-    {
-      "id": "why-kimi-antonelli-aborted-his-fastest-lap-in-austrian-gp-qualifying-1",
-      "title": "Why Kimi Antonelli aborted his fastest lap in Austrian GP qualifying",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-aborted-his-fastest-lap-in-austrian-gp-qualifying/10834141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 27, 2026"
-    },
-    {
-      "id": "thats-crazy-max-verstappen-questions-delay-in-double-yellow-flags-fia-explains-2",
-      "title": "“That’s crazy” – Max Verstappen questions delay in double yellow flags, FIA explains",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/thats-crazy-max-verstappen-questions-delay-in-double-yellow-flags-fia-explains/10834146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 27, 2026"
-    },
-    {
-      "id": "karun-chandhok-sympathises-with-kimi-antonelli-after-austrian-gp-qualifying-error-3",
-      "title": "Karun Chandhok sympathises with Kimi Antonelli after Austrian GP qualifying error",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/karun-chandhok-sympathises-with-kimi-antonelli-after-austrian-gp-qualifying-error/10834131/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
