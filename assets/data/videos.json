@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T03:24:37.829Z",
+  "generatedAt": "2026-06-28T10:24:13.862Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "_oQ7jcFe8eI",
+      "title": "Rider Parade | 2026 Dutch GP",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "3-glUwaVD5Y",
       "title": "The dramatic last 5 minutes of MotoGP Q2 at the 2026 Dutch GP",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "5dDkF3sXJgY",
       "title": "Top 3 Tissot Sprint Moments ⚔️ | 2026 Dutch GP",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "ubg-qRCjXsw",
-      "title": "Marc Marquez puts all the pressure on Bez for tomorrow’s win! 😅",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -240,6 +240,28 @@
       ]
     },
     {
+      "videoId": "SKHSdGUJeVY",
+      "title": "WRC2 Day 3 Highlights | WRC EKO Acropolis Rally Greece 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "5TWNnlzLbNs",
+      "title": "🔴 Post-Event Show LIVE | WRC EKO Acropolis Rally Greece 2026 🇬🇷",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "42K-KuOWMIw",
       "title": "Day 3 Highlights | WRC EKO Acropolis Rally Greece 2026",
       "channel": "FIA World Rally Championship",
@@ -262,25 +284,25 @@
       ]
     },
     {
-      "videoId": "l2skNS41nl8",
-      "title": "🔴 Service LIVE | WRC EKO Acropolis Rally Greece 2026 🇬🇷",
-      "channel": "FIA World Rally Championship",
+      "videoId": "asVYeWismKY",
+      "title": "A guided tour of the cathedral 🏁",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
-      "videoId": "IFkjA9M1jg8",
-      "title": "WRC2 Day 2 Highlights | WRC EKO Acropolis Rally Greece 2026",
-      "channel": "FIA World Rally Championship",
+      "videoId": "hz04QEDKi8E",
+      "title": "Red Bull MotoGP Rookies Cup - Assen: Race 8",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -297,28 +319,6 @@
     {
       "videoId": "xN8Apu1aVVE",
       "title": "certified local now 🤘",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "qX9tSgCJEnU",
-      "title": "left foot secret MVP 😏 #Shorts #WRC #RallyPortugal",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "TLE7bxKrTFU",
-      "title": "Keep your eyes on the sky in Austria this week 👀",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
