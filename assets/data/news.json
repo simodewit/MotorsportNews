@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T02:49:48.790Z",
+  "generatedAt": "2026-06-28T08:43:55.467Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans-0",
-      "title": "Toto Wolff's Mercedes driver line-up comments divide F1 fans",
+      "id": "cadillacs-f1-updates-show-improved-pace-but-hot-austrian-gp-will-be-the-litmus-test-0",
+      "title": "Cadillac's F1 updates show improved pace, but hot Austrian GP will be the litmus test",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans/10834252/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/cadillacs-f1-updates-show-improved-pace-but-hot-austrian-gp-will-be-the-litmus-test/10834192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 27, 2026"
+      "publishedLabel": "Jun 28, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans-0",
+      "id": "cadillacs-f1-updates-show-improved-pace-but-hot-austrian-gp-will-be-the-litmus-test-0",
+      "title": "Cadillac's F1 updates show improved pace, but hot Austrian GP will be the litmus test",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/cadillacs-f1-updates-show-improved-pace-but-hot-austrian-gp-will-be-the-litmus-test/10834192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 28, 2026"
+    },
+    {
+      "id": "fred-vasseur-warns-qualifying-yellow-flag-call-sends-wrong-message-everybody-will-push-1",
+      "title": "Fred Vasseur warns qualifying yellow flag call sends wrong message: \"Everybody will push\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-warns-qualifying-yellow-flag-call-sends-wrong-message-everybody-will-push/10834233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 28, 2026"
+    },
+    {
+      "id": "toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans-2",
       "title": "Toto Wolff's Mercedes driver line-up comments divide F1 fans",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/toto-wolffs-mercedes-driver-line-up-comments-divide-f1-fans/10834252/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jun 27, 2026"
     },
     {
-      "id": "jamie-chadwick-addresses-mclaren-podium-hopes-after-difficult-f1-austrian-gp-qualifying-1",
+      "id": "jamie-chadwick-addresses-mclaren-podium-hopes-after-difficult-f1-austrian-gp-qualifying-3",
       "title": "Jamie Chadwick addresses McLaren podium hopes after difficult F1 Austrian GP qualifying",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/jamie-chadwick-addresses-mclaren-podium-hopes-after-difficult-f1-austrian-gp-qualifying/10834246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 27, 2026"
-    },
-    {
-      "id": "red-bull-apologises-to-max-verstappen-after-technical-issue-caused-f1-qualifying-crash-2",
-      "title": "Red Bull apologises to Max Verstappen after technical issue caused F1 qualifying crash",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bull-takes-blame-for-verstappens-austrian-gp-qualifying-crash/10834237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 27, 2026"
-    },
-    {
-      "id": "charles-leclerc-puzzled-by-very-strange-ferrari-step-on-tough-austrian-gp-weekend-3",
-      "title": "Charles Leclerc puzzled by \"very strange\" Ferrari step on tough Austrian GP weekend",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-puzzled-by-very-strange-ferrari-step-on-tough-f1-austria-weekend/10834137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
