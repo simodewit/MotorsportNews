@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T17:00:40.394Z",
+  "generatedAt": "2026-06-28T02:44:38.127Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE: Austrian Grand Prix Build-Up & Drivers Parade",
+      "channel": "FORMULA 1",
+      "videoId": "0ONyGucQa6Y",
+      "url": "https://www.youtube.com/watch?v=0ONyGucQa6Y",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
