@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T02:44:38.127Z",
+  "generatedAt": "2026-06-28T10:21:51.119Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -58,6 +58,21 @@
       ],
       "seriesLabels": [
         "Formula 1"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 Post-Event Show LIVE | WRC EKO Acropolis Rally Greece 2026 🇬🇷",
+      "channel": "FIA World Rally Championship",
+      "videoId": "5TWNnlzLbNs",
+      "url": "https://www.youtube.com/watch?v=5TWNnlzLbNs",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
       ]
     },
     {
