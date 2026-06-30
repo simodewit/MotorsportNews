@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T14:04:45.921Z",
+  "generatedAt": "2026-06-30T19:45:50.200Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull-0",
-      "title": "Max Verstappen's F1 future: Are McLaren talks serious, or a way to put pressure on Red Bull?",
+      "id": "mclaren-launches-google-gemini-livery-for-f1-british-gp-0",
+      "title": "McLaren launches Google Gemini livery for F1 British GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull/10835109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mclaren-launched-google-gemini-livery-for-f1-british-gp/10835158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull-0",
+      "id": "mclaren-launches-google-gemini-livery-for-f1-british-gp-0",
+      "title": "McLaren launches Google Gemini livery for F1 British GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-launched-google-gemini-livery-for-f1-british-gp/10835158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "valtteri-bottas-calls-for-cadillac-reliability-fixes-we-cant-learn-if-we-dont-finish-1",
+      "title": "Valtteri Bottas calls for Cadillac reliability fixes: 'We can't learn if we don't finish'",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-calls-for-cadillac-reliability-fixes-we-cant-learn-if-we-dont-finish/10835114/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "toto-wolff-kimi-antonellis-mistakes-in-austrian-gp-will-never-happen-again-2",
+      "title": "Toto Wolff: Kimi Antonelli’s mistakes in Austrian GP will never happen again",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonellis-mistakes-in-austrian-gp-will-never-happen-again/10834921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull-3",
       "title": "Max Verstappen's F1 future: Are McLaren talks serious, or a way to put pressure on Red Bull?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull/10835109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 30, 2026"
-    },
-    {
-      "id": "perfectionist-russell-has-a-psychological-edge-over-antonelli-says-his-former-boss-1",
-      "title": "\"Perfectionist\" Russell has a psychological edge over Antonelli, says his former boss",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/perfectionist-russell-has-a-psychological-edge-over-antonelli-says-his-former-boss/10834930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 30, 2026"
-    },
-    {
-      "id": "not-fit-for-purpose-adrian-newey-on-structural-problems-behind-aston-martins-2026-f1-disaster-2",
-      "title": "'Not fit for purpose' – Adrian Newey on structural problems behind Aston Martin's 2026 F1 disaster",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/not-fit-for-purpose-adrian-newey-on-structural-problems-behind-aston-martins-2026-disaster/10835032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 30, 2026"
-    },
-    {
-      "id": "adrian-newey-hopes-aston-martin-upgrades-keep-fernando-alonso-in-the-cockpit-for-another-season-3",
-      "title": "Adrian Newey hopes Aston Martin upgrades keep Fernando Alonso \"in the cockpit for another season\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/adrian-newey-hopes-aston-martin-upgrade-will-keep-fernando-alonso-in-the-cockpit-for-another-season/10835019/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jun 29, 2026"
     },
     {
-      "id": "raj-nair-says-leading-indycar-independent-officiating-a-little-bit-more-work-than-i-thought-0",
+      "id": "dennis-hauger-is-done-playing-the-patient-rookie-i-dont-want-to-fight-midfield-0",
+      "title": "Dennis Hauger is done playing the patient rookie: “I don’t want to fight midfield” ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/dennis-hauger-is-done-playing-the-patient-rookie-i-dont-want-to-fight-midfield-/10835192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "raj-nair-says-leading-indycar-independent-officiating-a-little-bit-more-work-than-i-thought-1",
       "title": "Raj Nair says leading IndyCar Independent Officiating ‘a little bit more work than I thought’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/a-little-bit-more-work-than-i-thought-raj-nair-reflects-on-leading-indycars-independent-guard/10832950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-at-road-america-1",
+      "id": "winners-and-losers-from-the-indycar-race-at-road-america-2",
       "title": "Winners and losers from the IndyCar race at Road America",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-road-america/10832704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jun 23, 2026"
     },
     {
-      "id": "hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win-2",
+      "id": "hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win-3",
       "title": "HRC US boss apologizes to Armstrong for “failure” that ended shot at first IndyCar win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/hrc-us-boss-apologizes-to-armstrong-for-failure-that-ended-shot-at-first-indycar-win/10832539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 22, 2026"
-    },
-    {
-      "id": "how-christian-lundgaard-went-from-zero-to-hero-at-road-america-3",
-      "title": "How Christian Lundgaard went from zero to hero at Road America",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/how-christian-lundgaard-went-from-zero-to-hero-at-road-america/10832498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
