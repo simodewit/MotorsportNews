@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:48:17.938Z",
+  "generatedAt": "2026-06-30T02:44:25.584Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp-0",
-      "title": "Arvid Lindblad reveals emotional hand-drawn helmet for first F1 British GP",
+      "id": "red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic-0",
+      "title": "Red Bull's Austrian GP upgrade package compared to \"B-spec\" F1 car by former mechanic",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp/10834923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic/10834941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp-0",
+      "id": "red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic-0",
+      "title": "Red Bull's Austrian GP upgrade package compared to \"B-spec\" F1 car by former mechanic",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic/10834941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 29, 2026"
+    },
+    {
+      "id": "arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp-1",
       "title": "Arvid Lindblad reveals emotional hand-drawn helmet for first F1 British GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp/10834923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jun 29, 2026"
     },
     {
-      "id": "no-reliability-and-no-pace-carlos-sainz-admits-williams-doesnt-have-a-car-capable-of-scoring-points-1",
+      "id": "no-reliability-and-no-pace-carlos-sainz-admits-williams-doesnt-have-a-car-capable-of-scoring-points-2",
       "title": "No reliability and no pace: Carlos Sainz admits Williams doesn’t “have a car capable of scoring points\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/no-reliability-and-no-pace-carlos-sainz-admits-williams-doesnt-have-a-car-capable-of-scoring-points/10834823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jun 29, 2026"
     },
     {
-      "id": "williams-unveils-special-f1-british-gp-livery-for-silverstone-home-race-2",
+      "id": "williams-unveils-special-f1-british-gp-livery-for-silverstone-home-race-3",
       "title": "Williams unveils special F1 British GP livery for Silverstone home race",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/williams-unveils-special-f1-british-gp-livery-for-silverstone-home-race/10834916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 29, 2026"
-    },
-    {
-      "id": "why-max-verstappen-burst-out-laughing-during-silverstone-f1-simulator-runs-3",
-      "title": "Why Max Verstappen burst out laughing during Silverstone F1 simulator runs",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-max-verstappen-burst-out-laughing-during-silverstone-f1-simulator-runs/10834834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
