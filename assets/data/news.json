@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T09:22:01.170Z",
+  "generatedAt": "2026-06-30T14:04:45.921Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "adrian-newey-hopes-aston-martin-upgrades-keep-fernando-alonso-in-the-cockpit-for-another-season-0",
-      "title": "Adrian Newey hopes Aston Martin upgrades keep Fernando Alonso \"in the cockpit for another season\"",
+      "id": "max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull-0",
+      "title": "Max Verstappen's F1 future: Are McLaren talks serious, or a way to put pressure on Red Bull?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/adrian-newey-hopes-aston-martin-upgrade-will-keep-fernando-alonso-in-the-cockpit-for-another-season/10835019/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull/10835109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "yamaha-confirms-fabio-quartararo-and-alex-rins-will-leave-at-end-of-2026-motogp-season-0",
-      "title": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
+      "id": "jorge-martin-dismisses-points-lead-im-not-feeling-100-physically-or-on-the-bike-0",
+      "title": "Jorge Martin dismisses points lead: I’m not feeling 100% physically or on the bike",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/yamaha-confirms-quartararo-and-rins-departure-at-the-end-of-the-season/10835026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/jorge-martin-on-points-lead-im-not-feeling-100-physically-or-on-the-bike/10834925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,40 @@
   ],
   "articles": [
     {
-      "id": "adrian-newey-hopes-aston-martin-upgrades-keep-fernando-alonso-in-the-cockpit-for-another-season-0",
+      "id": "max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull-0",
+      "title": "Max Verstappen's F1 future: Are McLaren talks serious, or a way to put pressure on Red Bull?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-f1-future-are-mclaren-talks-serious-or-a-way-to-put-pressure-on-red-bull/10835109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "perfectionist-russell-has-a-psychological-edge-over-antonelli-says-his-former-boss-1",
+      "title": "\"Perfectionist\" Russell has a psychological edge over Antonelli, says his former boss",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/perfectionist-russell-has-a-psychological-edge-over-antonelli-says-his-former-boss/10834930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "not-fit-for-purpose-adrian-newey-on-structural-problems-behind-aston-martins-2026-f1-disaster-2",
+      "title": "'Not fit for purpose' – Adrian Newey on structural problems behind Aston Martin's 2026 F1 disaster",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/not-fit-for-purpose-adrian-newey-on-structural-problems-behind-aston-martins-2026-disaster/10835032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "adrian-newey-hopes-aston-martin-upgrades-keep-fernando-alonso-in-the-cockpit-for-another-season-3",
       "title": "Adrian Newey hopes Aston Martin upgrades keep Fernando Alonso \"in the cockpit for another season\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/adrian-newey-hopes-aston-martin-upgrade-will-keep-fernando-alonso-in-the-cockpit-for-another-season/10835019/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -97,39 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Jun 30, 2026"
-    },
-    {
-      "id": "could-max-verstappen-mount-a-title-challenge-we-still-have-too-many-issues-1",
-      "title": "Could Max Verstappen mount a title challenge? \"We still have too many issues\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/could-max-verstappen-mount-f1-title-challenge-2026/10834958/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 30, 2026"
-    },
-    {
-      "id": "red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic-2",
-      "title": "Red Bull's Austrian GP upgrade package compared to \"B-spec\" F1 car by former mechanic",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/red-bulls-austrian-gp-upgrade-package-compared-to-b-spec-f1-car-by-former-mechanic/10834941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 29, 2026"
-    },
-    {
-      "id": "arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp-3",
-      "title": "Arvid Lindblad reveals emotional hand-drawn helmet for first F1 British GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-reveals-emotional-hand-drawn-helmet-for-first-f1-british-gp/10834923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 29, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "yamaha-confirms-fabio-quartararo-and-alex-rins-will-leave-at-end-of-2026-motogp-season-0",
+      "id": "jorge-martin-dismisses-points-lead-im-not-feeling-100-physically-or-on-the-bike-0",
+      "title": "Jorge Martin dismisses points lead: I’m not feeling 100% physically or on the bike",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/jorge-martin-on-points-lead-im-not-feeling-100-physically-or-on-the-bike/10834925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "what-makes-motogps-hottest-team-different-1",
+      "title": "What makes MotoGP's hottest team different?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/trackhouse-motogp-hottest-team-different/10834803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jun 30, 2026"
+    },
+    {
+      "id": "yamaha-confirms-fabio-quartararo-and-alex-rins-will-leave-at-end-of-2026-motogp-season-2",
       "title": "Yamaha confirms Fabio Quartararo and Alex Rins will leave at end of 2026 MotoGP season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/yamaha-confirms-quartararo-and-rins-departure-at-the-end-of-the-season/10835026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,32 +253,10 @@
       "publishedLabel": "Jun 30, 2026"
     },
     {
-      "id": "marc-marquez-confirms-he-held-informal-talks-with-honda-before-committing-to-ducati-1",
+      "id": "marc-marquez-confirms-he-held-informal-talks-with-honda-before-committing-to-ducati-3",
       "title": "Marc Marquez confirms he held “informal talks” with Honda before committing to Ducati",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marquez-confirms-informal-talks-with-honda-before-committing-to-ducati/10834798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 29, 2026"
-    },
-    {
-      "id": "trackhouse-on-beating-factory-aprilias-in-dutch-gp-our-riders-were-better-2",
-      "title": "Trackhouse on beating factory Aprilias in Dutch GP: “Our riders were better”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/trackhouse-on-beating-factory-aprilias-in-dutch-gp-our-riders-were-better/10834796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 29, 2026"
-    },
-    {
-      "id": "how-close-is-the-motogp-title-fight-after-dutch-gp-3",
-      "title": "How close is the MotoGP title fight after Dutch GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/how-close-is-the-motogp-title-fight-after-dutch-gp/10834792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
