@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T14:20:16.749Z",
+  "generatedAt": "2026-07-01T19:43:52.158Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "five-things-to-look-out-for-at-the-f1-british-gp-0",
-      "title": "Five things to look out for at the F1 British GP",
+      "id": "having-max-verstappen-in-the-car-cheaper-than-improving-it-bernie-ecclestone-on-f1-stars-future-0",
+      "title": "‘Having Max Verstappen in the car cheaper than improving it’ - Bernie Ecclestone on F1 star’s future",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-british-gp/10835307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/having-max-verstappen-in-the-car-cheaper-than-improving-it-bernie-ecclestone-on-the-f1-stars-future/10835364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,40 @@
   ],
   "articles": [
     {
-      "id": "five-things-to-look-out-for-at-the-f1-british-gp-0",
+      "id": "having-max-verstappen-in-the-car-cheaper-than-improving-it-bernie-ecclestone-on-f1-stars-future-0",
+      "title": "‘Having Max Verstappen in the car cheaper than improving it’ - Bernie Ecclestone on F1 star’s future",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/having-max-verstappen-in-the-car-cheaper-than-improving-it-bernie-ecclestone-on-the-f1-stars-future/10835364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 1, 2026"
+    },
+    {
+      "id": "mclaren-searching-for-answers-behind-losses-to-mercedes-on-straights-despite-same-f1-power-unit-1",
+      "title": "McLaren searching for answers behind losses to Mercedes on straights, despite same F1 power unit",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-still-to-investigate-why-its-losing-to-mercedes-on-the-straights-despite-same-pu/10835296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 1, 2026"
+    },
+    {
+      "id": "cadillac-marks-250-years-of-american-independence-with-british-gp-livery-2",
+      "title": "Cadillac marks 250 years of American independence with British GP livery",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/cadillac-marks-250-years-of-american-independence-with-british-gp-livery/10835349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 1, 2026"
+    },
+    {
+      "id": "five-things-to-look-out-for-at-the-f1-british-gp-3",
       "title": "Five things to look out for at the F1 British GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-british-gp/10835307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -97,39 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Jul 1, 2026"
-    },
-    {
-      "id": "oliver-bearman-warns-haas-risks-being-outdeveloped-in-f1-2026-1",
-      "title": "Oliver Bearman warns Haas risks being outdeveloped in F1 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-warns-haas-risks-being-outdeveloped-in-f1-2026/10835276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 1, 2026"
-    },
-    {
-      "id": "williams-plans-almost-entirely-new-car-by-azerbaijan-gp-2",
-      "title": "Williams plans “almost entirely new car” by Azerbaijan GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/williams-plans-almost-entirely-new-car-by-azerbaijan-gp/10834950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 1, 2026"
-    },
-    {
-      "id": "mclaren-launches-google-gemini-livery-for-f1-british-gp-3",
-      "title": "McLaren launches Google Gemini livery for F1 British GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mclaren-launched-google-gemini-livery-for-f1-british-gp/10835158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jun 30, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
