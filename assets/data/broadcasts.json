@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T17:47:21.092Z",
+  "generatedAt": "2026-07-01T11:18:17.006Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Upcoming",
+      "title": "Full Race | 24 Hours of Le Mans 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "videoId": "717RAK0T9OM",
+      "url": "https://www.youtube.com/watch?v=717RAK0T9OM",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
