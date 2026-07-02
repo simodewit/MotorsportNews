@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T02:40:07.003Z",
+  "generatedAt": "2026-07-02T08:45:27.972Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -75,15 +75,15 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "aprilia-marco-bezzecchi-needs-a-break-after-recent-motogp-troubles-0",
-      "title": "Aprilia: Marco Bezzecchi “needs a break” after recent MotoGP troubles",
+      "id": "gresini-signs-joan-mir-and-daniel-holgado-on-two-year-motogp-deals-0",
+      "title": "Gresini signs Joan Mir and Daniel Holgado on two-year MotoGP deals",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/aprilia-marco-bezzecchi-needs-a-break-after-recent-motogp-troubles/10835335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/gresini-signs-joan-mir-and-daniel-holgado-for-2027-motogp-season/10835440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 1, 2026"
+      "publishedLabel": "Jul 2, 2026"
     }
   ],
   "articles": [
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "aprilia-marco-bezzecchi-needs-a-break-after-recent-motogp-troubles-0",
+      "id": "gresini-signs-joan-mir-and-daniel-holgado-on-two-year-motogp-deals-0",
+      "title": "Gresini signs Joan Mir and Daniel Holgado on two-year MotoGP deals",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/gresini-signs-joan-mir-and-daniel-holgado-for-2027-motogp-season/10835440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 2, 2026"
+    },
+    {
+      "id": "aprilia-marco-bezzecchi-needs-a-break-after-recent-motogp-troubles-1",
       "title": "Aprilia: Marco Bezzecchi “needs a break” after recent MotoGP troubles",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/aprilia-marco-bezzecchi-needs-a-break-after-recent-motogp-troubles/10835335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 1, 2026"
     },
     {
-      "id": "marc-marquez-i-didnt-want-to-walk-into-the-paddock-because-i-associated-it-with-pain-1",
+      "id": "marc-marquez-i-didnt-want-to-walk-into-the-paddock-because-i-associated-it-with-pain-2",
       "title": "Marc Marquez: \"I didn't want to walk into the paddock because I associated it with pain\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-i-didnt-want-to-walk-into-the-paddock-because-i-associated-it-with-pain/10835290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jul 1, 2026"
     },
     {
-      "id": "yamaha-confirms-jorge-martin-and-ai-ogura-as-2027-factory-motogp-riders-2",
+      "id": "yamaha-confirms-jorge-martin-and-ai-ogura-as-2027-factory-motogp-riders-3",
       "title": "Yamaha confirms Jorge Martin and Ai Ogura as 2027 factory MotoGP riders",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/yamaha-confirms-jorge-martin-and-ai-ogura-as-2027-factory-motogp-riders/10835250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Jul 1, 2026"
-    },
-    {
-      "id": "jorge-martin-dismisses-points-lead-im-not-feeling-100-physically-or-on-the-bike-3",
-      "title": "Jorge Martin dismisses points lead: I’m not feeling 100% physically or on the bike",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/jorge-martin-on-points-lead-im-not-feeling-100-physically-or-on-the-bike/10834925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jun 30, 2026"
     },
     {
       "id": "dennis-hauger-is-done-playing-the-patient-rookie-i-dont-want-to-fight-midfield-0",
