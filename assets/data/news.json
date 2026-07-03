@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:14:39.541Z",
+  "generatedAt": "2026-07-03T02:22:07.665Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 1, 2026"
     },
     {
-      "id": "how-to-watch-indycar-2026-at-mid-ohio-weekend-schedule-start-time-tv-0",
+      "id": "pit-penalty-rule-updated-ahead-of-mid-ohio-indycar-race-0",
+      "title": "Pit penalty rule updated ahead of Mid-Ohio IndyCar race",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-indycar-officiating-update-pit-penalty-rule-ahead-of-mid-ohio/10835653/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 2, 2026"
+    },
+    {
+      "id": "how-to-watch-indycar-2026-at-mid-ohio-weekend-schedule-start-time-tv-1",
       "title": "How to watch IndyCar 2026 at Mid-Ohio: Weekend schedule, start time, TV",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-mid-ohio-weekend-schedule-start-time-tv/10835640/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 2, 2026"
     },
     {
-      "id": "you-should-ask-him-felipe-nasr-keeps-the-pressure-on-roger-penske-for-indycar-seat-1",
+      "id": "you-should-ask-him-felipe-nasr-keeps-the-pressure-on-roger-penske-for-indycar-seat-2",
       "title": "“You should ask him” - Felipe Nasr keeps the pressure on Roger Penske for IndyCar seat",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/you-should-ask-him-felipe-nasr-keeps-the-pressure-on-roger-penske-for-indycar-seat/10835595/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 2, 2026"
     },
     {
-      "id": "chip-ganassi-racing-confirms-scott-dixons-departure-at-end-of-2026-season-2",
+      "id": "chip-ganassi-racing-confirms-scott-dixons-departure-at-end-of-2026-season-3",
       "title": "Chip Ganassi Racing confirms Scott Dixon’s departure at end of 2026 season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/chip-ganassi-racing-confirms-scott-dixons-departure-at-end-of-2026-season/10835554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 2, 2026"
-    },
-    {
-      "id": "dennis-hauger-is-done-playing-the-patient-rookie-i-dont-want-to-fight-midfield-3",
-      "title": "Dennis Hauger is done playing the patient rookie: “I don’t want to fight midfield” ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/dennis-hauger-is-done-playing-the-patient-rookie-i-dont-want-to-fight-midfield-/10835192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jun 30, 2026"
     },
     {
       "id": "how-ford-will-fast-track-hypercar-development-with-ex-acura-signing-0",
