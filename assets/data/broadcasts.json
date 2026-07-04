@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T10:01:10.477Z",
+  "generatedAt": "2026-07-04T16:55:52.044Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "LIVE: British Grand Prix Post-Sprint Show",
-      "channel": "FORMULA 1",
-      "videoId": "DSvX_SZZ-k0",
-      "url": "https://www.youtube.com/watch?v=DSvX_SZZ-k0",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
