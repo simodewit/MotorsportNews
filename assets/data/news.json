@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:00:18.680Z",
+  "generatedAt": "2026-07-05T02:29:53.226Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "george-russell-perplexed-by-top-speed-deficit-at-f1-british-gp-0",
-      "title": "George Russell perplexed by top speed deficit at F1 British GP",
+      "id": "martin-brundle-declares-kimi-antonelli-the-driver-to-beat-after-silverstone-sprint-win-0",
+      "title": "Martin Brundle declares Kimi Antonelli the driver to beat after Silverstone sprint win",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-perplexed-by-speed-trap-struggles-at-f1-british-gp/10836370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-declares-kimi-antonelli-the-driver-to-beat-after-silverstone-sprint-win/10836265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "george-russell-perplexed-by-top-speed-deficit-at-f1-british-gp-0",
+      "id": "martin-brundle-declares-kimi-antonelli-the-driver-to-beat-after-silverstone-sprint-win-0",
+      "title": "Martin Brundle declares Kimi Antonelli the driver to beat after Silverstone sprint win",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-declares-kimi-antonelli-the-driver-to-beat-after-silverstone-sprint-win/10836265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 4, 2026"
+    },
+    {
+      "id": "f1-british-gp-sunday-schedule-weather-forecast-and-how-to-watch-1",
+      "title": "F1 British GP: Sunday schedule, weather forecast and how to watch",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-british-gp-sunday-schedule-weather-forecast-and-how-to-watch/10836329/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 4, 2026"
+    },
+    {
+      "id": "george-russell-perplexed-by-top-speed-deficit-at-f1-british-gp-2",
       "title": "George Russell perplexed by top speed deficit at F1 British GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-perplexed-by-speed-trap-struggles-at-f1-british-gp/10836370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 4, 2026"
     },
     {
-      "id": "heres-the-starting-grid-for-f1-british-gp-with-a-new-penalty-1",
+      "id": "heres-the-starting-grid-for-f1-british-gp-with-a-new-penalty-3",
       "title": "Here's the starting grid for F1 British GP - with a new penalty",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/la-grille-de-depart-du-grand-prix-de-grande-bretagne-f1-2026/10836363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 4, 2026"
-    },
-    {
-      "id": "there-is-no-point-racing-like-this-max-verstappen-reveals-red-bull-power-unit-issue-2",
-      "title": "\"There is no point racing like this\" – Max Verstappen reveals Red Bull power unit issue",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/there-is-no-point-racing-like-this-max-verstappen-reveals-red-bull-power-unit-issue/10836338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 4, 2026"
-    },
-    {
-      "id": "toto-wolff-emotional-fred-vasseur-misunderstood-comments-on-ferrari-3",
-      "title": "Toto Wolff: \"Emotional\" Fred Vasseur misunderstood comments on Ferrari",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-emotional-fred-vasseur-misunderstood-ferrari-comments/10836327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 2, 2026"
     },
     {
-      "id": "amid-silly-season-drama-rinus-veekay-has-pretty-good-idea-of-next-indycar-move-0",
+      "id": "indycar-mid-ohio-starting-lineup-christian-lundgaard-leads-arrow-mclaren-front-row-sweep-0",
+      "title": "IndyCar Mid-Ohio starting lineup: Christian Lundgaard leads Arrow McLaren front-row sweep",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-mid-ohio-starting-lineup-christian-lundgaard-leads-arrow-mclaren-front-row-sweep/10836398/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 4, 2026"
+    },
+    {
+      "id": "amid-silly-season-drama-rinus-veekay-has-pretty-good-idea-of-next-indycar-move-1",
       "title": "Amid ‘silly season’ drama, Rinus VeeKay has \"pretty good idea\" of next IndyCar move",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/amid-silly-season-drama-rinus-veekay-has-pretty-good-idea-of-next-indycar-move/10836031/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 3, 2026"
     },
     {
-      "id": "alex-palou-sad-to-see-scott-dixon-leave-ganassi-i-wouldnt-be-here-without-him-1",
+      "id": "alex-palou-sad-to-see-scott-dixon-leave-ganassi-i-wouldnt-be-here-without-him-2",
       "title": "Alex Palou 'sad' to see Scott Dixon leave Ganassi: “I wouldn't be here without him”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-sad-to-see-scott-dixon-leave-ganassi-i-wouldnt-be-here-without-him/10836024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 3, 2026"
     },
     {
-      "id": "meyer-shank-racing-sign-marcus-armstrong-to-multi-year-extension-2",
+      "id": "meyer-shank-racing-sign-marcus-armstrong-to-multi-year-extension-3",
       "title": "Meyer Shank Racing sign Marcus Armstrong to multi-year extension",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/meyer-shank-racing-sign-marcus-armstrong-to-multi-year-extension/10835830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 3, 2026"
-    },
-    {
-      "id": "pit-penalty-rule-updated-ahead-of-mid-ohio-indycar-race-3",
-      "title": "Pit penalty rule updated ahead of Mid-Ohio IndyCar race",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-indycar-officiating-update-pit-penalty-rule-ahead-of-mid-ohio/10835653/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 2, 2026"
     },
     {
       "id": "prodrive-admits-prototype-return-very-appealing-now-amid-wec-hypercar-boom-0",
