@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T16:55:52.044Z",
+  "generatedAt": "2026-07-05T02:24:32.897Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE: British Grand Prix Drivers’ Parade ft. LEGO Minicars!",
+      "channel": "FORMULA 1",
+      "videoId": "KaawX8wJEIY",
+      "url": "https://www.youtube.com/watch?v=KaawX8wJEIY",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
