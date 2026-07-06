@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:06:01.600Z",
+  "generatedAt": "2026-07-06T02:34:09.978Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty-0",
-      "title": "Mercedes won't contest Kimi Antonelli's British GP track limits penalty",
+      "id": "juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty-0",
+      "title": "Juan Pablo Montoya calls for F1 rule change after Kimi Antonelli penalty",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty/10836727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty/10836799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,10 +88,10 @@
   ],
   "articles": [
     {
-      "id": "mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty-0",
-      "title": "Mercedes won't contest Kimi Antonelli's British GP track limits penalty",
+      "id": "juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty-0",
+      "title": "Juan Pablo Montoya calls for F1 rule change after Kimi Antonelli penalty",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty/10836727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty/10836799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -99,10 +99,10 @@
       "publishedLabel": "Jul 5, 2026"
     },
     {
-      "id": "george-russell-performances-must-improve-to-become-2026-f1-champion-1",
-      "title": "George Russell: Performances must improve to become 2026 F1 champion",
+      "id": "winners-and-losers-from-f1-british-gp-1",
+      "title": "Winners and losers from F1 British GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-performances-must-improve-to-become-2026-f1-champion/10836701/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/winners-and-loser-from-f1s-british-grand-prix/10836777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -110,10 +110,10 @@
       "publishedLabel": "Jul 5, 2026"
     },
     {
-      "id": "why-lewis-hamilton-keeps-british-gp-podium-despite-yellow-flag-sanction-2",
-      "title": "Why Lewis Hamilton keeps British GP podium despite yellow-flag sanction",
+      "id": "carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp-2",
+      "title": "Carlos Sainz handed unprecedented penalty after F1 British GP",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-keeps-british-gp-podium-investigation/10836704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp/10836775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -121,10 +121,10 @@
       "publishedLabel": "Jul 5, 2026"
     },
     {
-      "id": "max-verstappen-fed-up-with-red-bull-issues-as-he-reveals-cause-of-british-gp-crash-3",
-      "title": "Max Verstappen \"fed up\" with Red Bull issues as he reveals cause of British GP crash",
+      "id": "john-elkann-releases-statement-after-ferrari-f1-british-gp-milestone-3",
+      "title": "John Elkann releases statement after Ferrari F1 British GP milestone",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-fed-up-with-red-bull-issues-as-he-reveals-cause-of-british-gp-crash/10836695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/john-elkann-releases-statement-after-ferrari-f1-british-gp-milestone/10836762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,40 @@
       "publishedLabel": "Jul 2, 2026"
     },
     {
-      "id": "official-race-results-indycar-2026-at-mid-ohio-0",
+      "id": "pato-oward-credits-textbook-execution-for-mid-ohio-indycar-win-0",
+      "title": "Pato O’Ward credits “textbook” execution for Mid-Ohio IndyCar win",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/pato-oward-credits-textbook-execution-for-mid-ohio-indycar-win/10836795/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 5, 2026"
+    },
+    {
+      "id": "christian-lundgaard-admits-mistake-of-my-own-cost-him-indycar-mid-ohio-win-1",
+      "title": "Christian Lundgaard admits \"mistake of my own\" cost him IndyCar Mid-Ohio win",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/christian-lundgaard-admits-mistake-of-my-own-cost-him-indycar-mid-ohio-win/10836786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 5, 2026"
+    },
+    {
+      "id": "complete-indycar-championship-standings-after-2026-mid-ohio-2",
+      "title": "Complete IndyCar championship standings after 2026 Mid-Ohio",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-mid-ohio/10836750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 5, 2026"
+    },
+    {
+      "id": "official-race-results-indycar-2026-at-mid-ohio-3",
       "title": "Official race results: IndyCar 2026 at Mid-Ohio",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/official-race-results-indycar-2026-at-mid-ohio/10836748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -273,39 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 5, 2026"
-    },
-    {
-      "id": "pato-oward-turns-arrow-mclaren-duel-into-indycar-mid-ohio-win-1",
-      "title": "Pato O’Ward turns Arrow McLaren duel into IndyCar Mid-Ohio win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/pato-oward-turns-arrow-mclaren-duel-into-indycar-mid-ohio-win/10836743/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 5, 2026"
-    },
-    {
-      "id": "indycar-mid-ohio-starting-lineup-christian-lundgaard-leads-arrow-mclaren-front-row-sweep-2",
-      "title": "IndyCar Mid-Ohio starting lineup: Christian Lundgaard leads Arrow McLaren front-row sweep",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-mid-ohio-starting-lineup-christian-lundgaard-leads-arrow-mclaren-front-row-sweep/10836398/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 4, 2026"
-    },
-    {
-      "id": "amid-silly-season-drama-rinus-veekay-has-pretty-good-idea-of-next-indycar-move-3",
-      "title": "Amid ‘silly season’ drama, Rinus VeeKay has \"pretty good idea\" of next IndyCar move",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/amid-silly-season-drama-rinus-veekay-has-pretty-good-idea-of-next-indycar-move/10836031/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 3, 2026"
     },
     {
       "id": "prodrive-admits-prototype-return-very-appealing-now-amid-wec-hypercar-boom-0",
