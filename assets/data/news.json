@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T02:34:09.978Z",
+  "generatedAt": "2026-07-06T10:03:17.343Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty-0",
-      "title": "Juan Pablo Montoya calls for F1 rule change after Kimi Antonelli penalty",
+      "id": "george-russell-urged-to-change-approach-to-fight-for-2026-f1-title-0",
+      "title": "George Russell urged to change approach to fight for 2026 F1 title",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty/10836799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/george-russell-urged-to-change-approach-to-fight-for-2026-f1-title/10836893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 5, 2026"
+      "publishedLabel": "Jul 6, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid-0",
-      "title": "Ducati renews VR46 and Gresini partnerships to run six bikes on 2027 MotoGP grid",
+      "id": "ktm-signs-alex-marquez-for-the-2027-motogp-season-0",
+      "title": "KTM signs Alex Marquez for the 2027 MotoGP season",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid/10835709/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/ktm-signs-alex-marquez-for-the-2027-motogp-season/10836877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 3, 2026"
+      "publishedLabel": "Jul 6, 2026"
     }
   ],
   "articles": [
     {
-      "id": "juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty-0",
+      "id": "george-russell-urged-to-change-approach-to-fight-for-2026-f1-title-0",
+      "title": "George Russell urged to change approach to fight for 2026 F1 title",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/george-russell-urged-to-change-approach-to-fight-for-2026-f1-title/10836893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 6, 2026"
+    },
+    {
+      "id": "who-slept-worst-after-the-f1-british-gp-max-verstappen-1",
+      "title": "Who slept worst after the F1 British GP: Max Verstappen",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-after-the-f1-british-gp-max-verstappen/10836781/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 6, 2026"
+    },
+    {
+      "id": "who-slept-best-after-the-f1-british-gp-charles-leclerc-2",
+      "title": "Who slept best after the F1 British GP: Charles Leclerc",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-charles-leclerc/10836801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 6, 2026"
+    },
+    {
+      "id": "juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty-3",
       "title": "Juan Pablo Montoya calls for F1 rule change after Kimi Antonelli penalty",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-calls-for-f1-rule-change-after-kimi-antonelli-penalty/10836799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 5, 2026"
-    },
-    {
-      "id": "winners-and-losers-from-f1-british-gp-1",
-      "title": "Winners and losers from F1 British GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/winners-and-loser-from-f1s-british-grand-prix/10836777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 5, 2026"
-    },
-    {
-      "id": "carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp-2",
-      "title": "Carlos Sainz handed unprecedented penalty after F1 British GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp/10836775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 5, 2026"
-    },
-    {
-      "id": "john-elkann-releases-statement-after-ferrari-f1-british-gp-milestone-3",
-      "title": "John Elkann releases statement after Ferrari F1 British GP milestone",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/john-elkann-releases-statement-after-ferrari-f1-british-gp-milestone/10836762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid-0",
+      "id": "ktm-signs-alex-marquez-for-the-2027-motogp-season-0",
+      "title": "KTM signs Alex Marquez for the 2027 MotoGP season",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/ktm-signs-alex-marquez-for-the-2027-motogp-season/10836877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 6, 2026"
+    },
+    {
+      "id": "ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid-1",
       "title": "Ducati renews VR46 and Gresini partnerships to run six bikes on 2027 MotoGP grid",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid/10835709/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 3, 2026"
     },
     {
-      "id": "johann-zarco-avoids-surgery-after-catalan-gp-crash-targets-september-motogp-return-1",
+      "id": "johann-zarco-avoids-surgery-after-catalan-gp-crash-targets-september-motogp-return-2",
       "title": "Johann Zarco avoids surgery after Catalan GP crash, targets September MotoGP return",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/johann-zarco-avoids-surgery-after-catalonia-crash-plans-motogp-return-in-september/10835698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Jul 3, 2026"
     },
     {
-      "id": "joan-mir-baffled-by-recent-motogp-crashes-its-difficult-not-to-repeat-them-2",
+      "id": "joan-mir-baffled-by-recent-motogp-crashes-its-difficult-not-to-repeat-them-3",
       "title": "Joan Mir baffled by recent MotoGP crashes: “It’s difficult not to repeat them”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/joan-mir-baffled-by-recent-motogp-crashes-its-difficult-not-to-repeat-them/10835445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 2, 2026"
-    },
-    {
-      "id": "gresini-signs-joan-mir-and-daniel-holgado-on-two-year-motogp-deals-3",
-      "title": "Gresini signs Joan Mir and Daniel Holgado on two-year MotoGP deals",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/gresini-signs-joan-mir-and-daniel-holgado-for-2027-motogp-season/10835440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
