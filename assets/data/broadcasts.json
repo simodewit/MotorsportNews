@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T11:57:04.031Z",
+  "generatedAt": "2026-07-06T18:05:59.520Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Drift Masters Round 4 - Finland - Top16",
+      "channel": "Red Bull Motorsports",
+      "videoId": "hJXRnljvsjM",
+      "url": "https://www.youtube.com/watch?v=hJXRnljvsjM",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Drift Masters Round 4 - Finland - Top32",
+      "channel": "Red Bull Motorsports",
+      "videoId": "mtVRnBngcEQ",
+      "url": "https://www.youtube.com/watch?v=mtVRnBngcEQ",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
