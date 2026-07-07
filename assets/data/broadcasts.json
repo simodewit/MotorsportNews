@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T10:48:33.662Z",
+  "generatedAt": "2026-07-07T17:53:04.259Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2023 German GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "W-qegqBMf6k",
+      "url": "https://www.youtube.com/watch?v=W-qegqBMf6k",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
