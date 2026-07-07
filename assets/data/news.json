@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:14:19.299Z",
+  "generatedAt": "2026-07-07T19:45:44.270Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules-0",
-      "title": "Should the British GP ending cause a change in F1 safety car rules?",
+      "id": "ferrari-faces-lewis-hamilton-charles-leclerc-decision-after-british-gp-victory-says-rob-smedley-0",
+      "title": "Ferrari faces Lewis Hamilton-Charles Leclerc decision after British GP victory, says Rob Smedley",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules/10837206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/ferrari-faces-lewis-hamilton-charles-leclerc-decision-after-british-gp-victory-says-rob-smedley/10837253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "why-marc-marquezs-and-joan-mirs-moves-to-gresini-are-two-completely-different-stories-0",
-      "title": "Why Marc Marquez's and Joan Mir's moves to Gresini are two completely different stories ",
+      "id": "motogp-2027-grid-all-confirmed-rider-signings-0",
+      "title": "MotoGP 2027 grid: All confirmed rider signings",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-marc-marquezs-and-joan-mirs-moves-to-gresini-are-two-completely-different-stories-/10837142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-2027-grid-all-confirmed-rider-signings/10836955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules-0",
+      "id": "ferrari-faces-lewis-hamilton-charles-leclerc-decision-after-british-gp-victory-says-rob-smedley-0",
+      "title": "Ferrari faces Lewis Hamilton-Charles Leclerc decision after British GP victory, says Rob Smedley",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/ferrari-faces-lewis-hamilton-charles-leclerc-decision-after-british-gp-victory-says-rob-smedley/10837253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 7, 2026"
+    },
+    {
+      "id": "the-pre-race-tweak-that-hampered-lewis-hamiltons-british-gp-1",
+      "title": "The pre-race tweak that hampered Lewis Hamilton's British GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/the-tweak-that-hampered-lewis-hamiltons-british-gp/10837225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 7, 2026"
+    },
+    {
+      "id": "should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules-2",
       "title": "Should the British GP ending cause a change in F1 safety car rules?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules/10837206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 7, 2026"
     },
     {
-      "id": "fred-vasseur-dismisses-ferrari-f1-title-talk-lets-focus-on-spa-1",
+      "id": "fred-vasseur-dismisses-ferrari-f1-title-talk-lets-focus-on-spa-3",
       "title": "Fred Vasseur dismisses Ferrari F1 title talk: \"Let's focus on Spa\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fred-vasseur-dismisses-ferrari-f1-title-talk-lets-focus-on-spa/10837166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 7, 2026"
-    },
-    {
-      "id": "kimi-antonelli-spotted-with-roger-federer-at-wimbledon-after-british-gp-misery-2",
-      "title": "Kimi Antonelli spotted with Roger Federer at Wimbledon after British GP misery",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-spotted-with-roger-federer-at-wimbledon-after-british-gp-misery/10837137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 7, 2026"
-    },
-    {
-      "id": "ayrton-senna-1992-race-worn-f1-helmet-smashes-estimate-at-auction-reaching-six-figure-sum-3",
-      "title": "Ayrton Senna 1992 race-worn F1 helmet smashes estimate at auction reaching six-figure sum",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ayrton-senna-1992-race-worn-f1-helmet-smashes-estimate-at-auction-reaching-six-figure-sum/10837146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "why-marc-marquezs-and-joan-mirs-moves-to-gresini-are-two-completely-different-stories-0",
+      "id": "motogp-2027-grid-all-confirmed-rider-signings-0",
+      "title": "MotoGP 2027 grid: All confirmed rider signings",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/motogp-2027-grid-all-confirmed-rider-signings/10836955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 7, 2026"
+    },
+    {
+      "id": "why-marc-marquezs-and-joan-mirs-moves-to-gresini-are-two-completely-different-stories-1",
       "title": "Why Marc Marquez's and Joan Mir's moves to Gresini are two completely different stories ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/why-marc-marquezs-and-joan-mirs-moves-to-gresini-are-two-completely-different-stories-/10837142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 7, 2026"
     },
     {
-      "id": "ktm-signs-alex-marquez-and-fabio-di-giannantonio-for-the-2027-motogp-season-1",
+      "id": "ktm-signs-alex-marquez-and-fabio-di-giannantonio-for-the-2027-motogp-season-2",
       "title": "KTM signs Alex Marquez and Fabio Di Giannantonio for the 2027 MotoGP season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ktm-signs-alex-marquez-for-the-2027-motogp-season/10836877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jul 6, 2026"
     },
     {
-      "id": "ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid-2",
+      "id": "ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid-3",
       "title": "Ducati renews VR46 and Gresini partnerships to run six bikes on 2027 MotoGP grid",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ducati-renews-vr46-and-gresini-partnerships-to-run-six-bikes-on-2027-motogp-grid/10835709/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,29 @@
       "publishedLabel": "Jul 3, 2026"
     },
     {
-      "id": "johann-zarco-avoids-surgery-after-catalan-gp-crash-targets-september-motogp-return-3",
-      "title": "Johann Zarco avoids surgery after Catalan GP crash, targets September MotoGP return",
+      "id": "winners-and-losers-from-the-indycar-race-at-mid-ohio-0",
+      "title": "Winners and losers from the IndyCar race at Mid-Ohio",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/johann-zarco-avoids-surgery-after-catalonia-crash-plans-motogp-return-in-september/10835698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-mid-ohio/10837242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 3, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 7, 2026"
     },
     {
-      "id": "arrow-mclaren-signs-scott-dixon-and-felix-rosenqvist-for-2027-indycar-season-0",
+      "id": "kyle-kirkwood-vaults-back-to-second-in-championship-standings-with-podium-finish-at-mid-ohio-1",
+      "title": "Kyle Kirkwood vaults back to second in championship standings with podium finish at Mid-Ohio",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/kyle-kirkwood-vaults-back-to-second-in-championship-standings-with-podium-finish-at-mid-ohio/10837227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 7, 2026"
+    },
+    {
+      "id": "arrow-mclaren-signs-scott-dixon-and-felix-rosenqvist-for-2027-indycar-season-2",
       "title": "Arrow McLaren signs Scott Dixon and Felix Rosenqvist for 2027 IndyCar season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/arrow-mclaren-signs-scott-dixon-and-felix-rosenqvist-for-2027-indycar-season/10837033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Jul 6, 2026"
     },
     {
-      "id": "rinus-veekay-continues-underdog-story-with-fourth-place-finish-at-mid-ohio-1",
+      "id": "rinus-veekay-continues-underdog-story-with-fourth-place-finish-at-mid-ohio-3",
       "title": "Rinus VeeKay continues underdog story with fourth-place finish at Mid-Ohio",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/rinus-veekay-continues-underdog-story-with-fourth-place-finish-at-mid-ohio/10837041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 6, 2026"
-    },
-    {
-      "id": "pato-oward-credits-textbook-execution-for-mid-ohio-indycar-win-2",
-      "title": "Pato O’Ward credits “textbook” execution for Mid-Ohio IndyCar win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/pato-oward-credits-textbook-execution-for-mid-ohio-indycar-win/10836795/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 5, 2026"
-    },
-    {
-      "id": "christian-lundgaard-admits-mistake-of-my-own-cost-him-indycar-mid-ohio-win-3",
-      "title": "Christian Lundgaard admits \"mistake of my own\" cost him IndyCar Mid-Ohio win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/christian-lundgaard-admits-mistake-of-my-own-cost-him-indycar-mid-ohio-win/10836786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 5, 2026"
     },
     {
       "id": "prodrive-admits-prototype-return-very-appealing-now-amid-wec-hypercar-boom-0",
