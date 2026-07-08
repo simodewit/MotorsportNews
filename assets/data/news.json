@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:03:49.325Z",
+  "generatedAt": "2026-07-08T08:14:00.505Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "martin-brundle-points-to-kimi-antonelli-lesson-after-heartbreaking-british-gp-0",
-      "title": "Martin Brundle points to Kimi Antonelli lesson after \"heartbreaking\" British GP",
+      "id": "george-russell-reflects-on-emotional-british-gp-podium-in-full-circle-moment-0",
+      "title": "George Russell reflects on emotional British GP podium in full circle moment",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-points-to-kimi-antonelli-lesson-after-heartbreaking-british-gp/10837261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/george-russell-reflects-on-emotional-british-gp-podium-in-full-circle-moment/10837276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 7, 2026"
+      "publishedLabel": "Jul 8, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "martin-brundle-points-to-kimi-antonelli-lesson-after-heartbreaking-british-gp-0",
+      "id": "george-russell-reflects-on-emotional-british-gp-podium-in-full-circle-moment-0",
+      "title": "George Russell reflects on emotional British GP podium in full circle moment",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/george-russell-reflects-on-emotional-british-gp-podium-in-full-circle-moment/10837276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 8, 2026"
+    },
+    {
+      "id": "martin-brundle-proposes-three-fixes-to-avoid-f1-safety-car-finishes-after-british-gp-1",
+      "title": "Martin Brundle proposes three fixes to avoid F1 safety car finishes after British GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-proposes-three-fixes-to-avoid-f1-safety-car-finishes-after-british-gp/10837265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 8, 2026"
+    },
+    {
+      "id": "martin-brundle-points-to-kimi-antonelli-lesson-after-heartbreaking-british-gp-2",
       "title": "Martin Brundle points to Kimi Antonelli lesson after \"heartbreaking\" British GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/martin-brundle-points-to-kimi-antonelli-lesson-after-heartbreaking-british-gp/10837261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 7, 2026"
     },
     {
-      "id": "fia-british-gp-decision-questioned-as-former-alpine-boss-offers-alternative-1",
+      "id": "fia-british-gp-decision-questioned-as-former-alpine-boss-offers-alternative-3",
       "title": "FIA British GP decision questioned as former Alpine boss offers alternative",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fia-british-gp-decision-questioned-as-former-alpine-boss-offers-alternative/10837251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 7, 2026"
-    },
-    {
-      "id": "charles-leclercs-british-gp-win-could-transform-f1-title-fight-says-juan-pablo-montoya-2",
-      "title": "Charles Leclerc's British GP win could transform F1 title fight, says Juan Pablo Montoya",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/charles-leclercs-british-gp-win-could-transform-f1-title-fight-says-juan-pablo-montoya/10837123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 7, 2026"
-    },
-    {
-      "id": "kimi-antonelli-told-key-michael-schumacher-lesson-he-needs-to-learn-in-f1-title-fight-3",
-      "title": "Kimi Antonelli told key Michael Schumacher lesson he needs to learn in F1 title fight",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-told-key-michael-schumacher-lesson-he-needs-to-learn-in-f1-title-fight/10837256/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
