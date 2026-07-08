@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T02:20:49.560Z",
+  "generatedAt": "2026-07-08T10:12:02.816Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "XdoUuVUSNXg",
+      "title": "Cal Crutchlow: \"It's Like An Addiction!\" 🥵 | Helmets Off",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "TsfMFrP9OKo",
       "title": "ICONIC moments of MotoGP's German GP 💎🇩🇪",
       "channel": "MotoGP",
@@ -141,19 +152,8 @@
       ]
     },
     {
-      "videoId": "w97itOtgE2I",
-      "title": "Rossi celebrated his comeback win and the \"Azzurri\"'s World Cup title! 🏆⚽ 🇮🇹",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
       "videoId": "mCFRi1f8Xy4",
-      "title": "Ferrari ERUPTS into Flames in São Paulo 😱 | 6 Hours of São Paulo 2013 | FIA WEC",
+      "title": "Ferrari ERUPTS into Flames in São Paulo | 6 Hours of São Paulo 2013 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
