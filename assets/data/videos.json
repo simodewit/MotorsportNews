@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T17:51:22.775Z",
+  "generatedAt": "2026-07-10T02:36:06.193Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "Q0F3BStXmi4",
+      "title": "MotoGP riders predict the FIFA World Cup Finals ⚽",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "jIG5jQua_Fk",
       "title": "Marc gives a piece of advice to Mir 💡",
       "channel": "MotoGP",
@@ -141,14 +152,14 @@
       ]
     },
     {
-      "videoId": "NCfLWgQrul4",
-      "title": "The Preview of the 2026 German GP",
-      "channel": "MotoGP",
+      "videoId": "ASRThz5-Dpc",
+      "title": "The São Paulo Preview Featuring A Special Guest 👀 | Rolex 6 Hours of Sāo Paulo 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -176,17 +187,6 @@
     {
       "videoId": "mCFRi1f8Xy4",
       "title": "Ferrari ERUPTS into Flames in São Paulo | 6 Hours of São Paulo 2013 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "xt55WkdIdmw",
-      "title": "5 Dramatic São Paulo Moments 🇧🇷",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
