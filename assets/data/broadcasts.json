@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T10:45:42.878Z",
+  "generatedAt": "2026-07-10T17:42:00.890Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Upcoming",
+      "title": "LEGO Minicar Chaos Onboard With The F1 Drivers!",
+      "channel": "FORMULA 1",
+      "videoId": "WsY0DKPn3EY",
+      "url": "https://www.youtube.com/watch?v=WsY0DKPn3EY",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
