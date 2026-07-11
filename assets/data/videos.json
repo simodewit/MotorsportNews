@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T02:11:40.061Z",
+  "generatedAt": "2026-07-11T09:23:28.996Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "bbxRSmYTH6s",
+      "title": "Direct Q2 spots booked in the last 5 minutes of MotoGP Practice 🎟️ | 2026 German GP",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "cOKpV02GcCA",
       "title": "What We Learned on Friday 👊 | 2026 German GP",
       "channel": "MotoGP",
@@ -141,14 +152,25 @@
       ]
     },
     {
-      "videoId": "VFblyqxs_zk",
-      "title": "Quartararo treats the fans to a rolling stoppie! 🤩",
-      "channel": "MotoGP",
+      "videoId": "tG_2FfIX6Jk",
+      "title": "Onboard Harry Tincknell Aston Martin Valyrie Hypercar | Rolex 6 Hours of São Paulo 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
+      ]
+    },
+    {
+      "videoId": "2IPagQTCP2Q",
+      "title": "Onboard Dries Vanthoor BMW M Hypercar | Rolex 6 Hours of São Paulo 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
       ]
     },
     {
@@ -165,28 +187,6 @@
     {
       "videoId": "Lr50YMbA1zc",
       "title": "History made for McLaren 🤩",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "ASRThz5-Dpc",
-      "title": "The São Paulo Preview Featuring A Special Guest 👀 | Rolex 6 Hours of Sāo Paulo 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "6RjHDKmSzLs",
-      "title": "Ferrari ERUPTS into Flames 😱",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
