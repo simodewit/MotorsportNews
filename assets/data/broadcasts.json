@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T09:19:42.895Z",
+  "generatedAt": "2026-07-11T16:45:45.462Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -48,41 +48,11 @@
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
-      "statusLabel": "Upcoming",
-      "title": "LEGO Minicar Chaos Onboard With The F1 Drivers!",
-      "channel": "FORMULA 1",
-      "videoId": "WsY0DKPn3EY",
-      "url": "https://www.youtube.com/watch?v=WsY0DKPn3EY",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
       "statusLabel": "Live now",
       "title": "Drift Masters Round 4 - Finland - Top16",
       "channel": "Red Bull Motorsports",
       "videoId": "hJXRnljvsjM",
       "url": "https://www.youtube.com/watch?v=hJXRnljvsjM",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Drift Masters Round 4 - Finland - Top32",
-      "channel": "Red Bull Motorsports",
-      "videoId": "mtVRnBngcEQ",
-      "url": "https://www.youtube.com/watch?v=mtVRnBngcEQ",
       "series": [
         "other"
       ],
