@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T17:43:57.123Z",
+  "generatedAt": "2026-07-11T02:11:40.061Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -109,7 +109,7 @@
     },
     {
       "videoId": "cOKpV02GcCA",
-      "title": "What We Learned on Friday 👊 | 2026 Dutch GP",
+      "title": "What We Learned on Friday 👊 | 2026 German GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "cXBHjthrWck",
+      "title": "Felix Rosenqvist: Becoming an Indy 500 Champion | 2026 INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "1lP945F2j_I",
       "title": "Best Onboard Moments | 2026 INDYCAR at Mid-Ohio",
       "channel": "NTT INDYCAR SERIES",
@@ -220,17 +231,6 @@
     {
       "videoId": "kWpOxcdZ-4s",
       "title": "2026 NTT INDYCAR SERIES Full Race | Honda Indy 200 at Mid-Ohio",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "JjXPqJ5HPdA",
-      "title": "Pato vs. Lundgaard: Teammates Battle at Mid-Ohio ⚔️ | 2026 INDYCAR",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
