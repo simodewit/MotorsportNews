@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T18:51:24.216Z",
+  "generatedAt": "2026-07-12T02:05:10.740Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -308,7 +308,18 @@
       "publishedLabel": "Jul 6, 2026"
     },
     {
-      "id": "prodrive-admits-prototype-return-very-appealing-now-amid-wec-hypercar-boom-0",
+      "id": "wec-brazil-will-stevens-leads-front-row-lockout-for-cadillac-toyota-struggles-0",
+      "title": "WEC Brazil: Will Stevens leads front-row lockout for Cadillac, Toyota struggles",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/wec-brazil-will-stevens-leads-front-row-lockout-for-cadillac-toyota-struggles/10838185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Jul 11, 2026"
+    },
+    {
+      "id": "prodrive-admits-prototype-return-very-appealing-now-amid-wec-hypercar-boom-1",
       "title": "Prodrive admits prototype return “very appealing now” amid WEC hypercar boom",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/prodrive-admits-prototype-return-very-appealing-now-amid-wec-hypercar-boom/10835779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jul 3, 2026"
     },
     {
-      "id": "how-ford-will-fast-track-hypercar-development-with-ex-acura-signing-1",
+      "id": "how-ford-will-fast-track-hypercar-development-with-ex-acura-signing-2",
       "title": "How Ford will fast-track hypercar development with ex-Acura signing",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/how-ford-will-fast-track-hypercar-development-with-ex-acura-signing/10832876/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Jun 24, 2026"
     },
     {
-      "id": "how-a-gulf-nation-is-working-on-nurturing-homegrown-talent-2",
+      "id": "how-a-gulf-nation-is-working-on-nurturing-homegrown-talent-3",
       "title": "How a gulf nation is working on nurturing homegrown talent",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/how-a-gulf-nation-is-working-on-nurturing-homegrown-talent/10831839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Jun 23, 2026"
-    },
-    {
-      "id": "jack-doohan-no-longer-cares-what-other-people-think-after-f1-hardship-3",
-      "title": "Jack Doohan no longer cares what other people think after F1 hardship",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/jack-doohan-no-longer-cares-what-other-people-think-after-f1-hardship/10831192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jun 19, 2026"
     }
   ]
 }
