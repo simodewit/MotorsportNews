@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T02:05:10.740Z",
+  "generatedAt": "2026-07-12T08:05:54.617Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner-0",
-      "title": "Toto Wolff \"too smart\" to sign Max Verstappen, says Guenther Steiner",
+      "id": "audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto-0",
+      "title": "Audi's \"target\" is to fight for F1 title by 2030, says Mattia Binotto",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner/10838112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto/10837757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 11, 2026"
+      "publishedLabel": "Jul 12, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -75,20 +75,31 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout-0",
-      "title": "'New grid layout makes starts safer,' say MotoGP riders after Sachsenring rollout",
+      "id": "marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury-0",
+      "title": "Marc Marquez dismisses \"karma\" narrative after Marco Bezzecchi injury",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout/10838161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury/10838166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 11, 2026"
+      "publishedLabel": "Jul 12, 2026"
     }
   ],
   "articles": [
     {
-      "id": "toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner-0",
+      "id": "audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto-0",
+      "title": "Audi's \"target\" is to fight for F1 title by 2030, says Mattia Binotto",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto/10837757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 12, 2026"
+    },
+    {
+      "id": "toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner-1",
       "title": "Toto Wolff \"too smart\" to sign Max Verstappen, says Guenther Steiner",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner/10838112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 11, 2026"
     },
     {
-      "id": "lewis-hamilton-calls-for-less-software-reliance-in-f1-as-he-highlights-real-frustration-1",
+      "id": "lewis-hamilton-calls-for-less-software-reliance-in-f1-as-he-highlights-real-frustration-2",
       "title": "Lewis Hamilton calls for less software reliance in F1 as he highlights \"real frustration\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-calls-for-less-software-reliance-in-f1-as-he-highlights-real-frustration/10838163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 11, 2026"
     },
     {
-      "id": "james-vowles-confirms-williams-review-after-f1-development-rate-concerns-2",
+      "id": "james-vowles-confirms-williams-review-after-f1-development-rate-concerns-3",
       "title": "James Vowles confirms Williams review after F1 development rate concerns",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/james-vowles-confirms-williams-review-after-f1-development-rate-concerns/10838079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 11, 2026"
-    },
-    {
-      "id": "f1-drivers-braced-for-more-deployment-pain-at-belgian-gp-3",
-      "title": "F1 drivers braced for more deployment pain at Belgian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-drivers-braced-for-more-deployment-pain-at-belgian-gp/10837874/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout-0",
+      "id": "marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury-0",
+      "title": "Marc Marquez dismisses \"karma\" narrative after Marco Bezzecchi injury",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury/10838166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 12, 2026"
+    },
+    {
+      "id": "new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout-1",
       "title": "'New grid layout makes starts safer,' say MotoGP riders after Sachsenring rollout",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout/10838161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 11, 2026"
     },
     {
-      "id": "why-marc-marquez-thinks-repeating-german-gp-win-will-be-tough-1",
+      "id": "why-marc-marquez-thinks-repeating-german-gp-win-will-be-tough-2",
       "title": "Why Marc Marquez thinks repeating German GP win will be tough",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/why-marc-marquez-thinks-repeating-german-gp-win-will-be-tough/10838147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Jul 11, 2026"
     },
     {
-      "id": "aprilia-gives-marco-bezzecchi-much-needed-encouragement-after-german-gp-withdrawal-2",
+      "id": "aprilia-gives-marco-bezzecchi-much-needed-encouragement-after-german-gp-withdrawal-3",
       "title": "Aprilia gives Marco Bezzecchi much-needed encouragement after German GP withdrawal",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/aprilia-encourage-bezzecchi-after-german-gp-withdrawal/10838137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 11, 2026"
-    },
-    {
-      "id": "sachsensring-procession-why-german-gp-sprint-featured-so-few-overtakes-3",
-      "title": "Sachsensring procession: Why German GP sprint featured so few overtakes",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/sachsenring-procession-alex-marquez-says-new-motogp-grid-rules-made-overtaking-difficult/10838134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
