@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:05:54.617Z",
+  "generatedAt": "2026-07-12T13:04:13.323Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto-0",
-      "title": "Audi's \"target\" is to fight for F1 title by 2030, says Mattia Binotto",
+      "id": "lando-norris-reflects-on-childhood-dream-during-goodwood-festival-of-speed-balcony-celebration-0",
+      "title": "Lando Norris reflects on childhood dream during Goodwood Festival of Speed balcony celebration",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto/10837757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-reflects-on-childhood-dream-during-goodwood-festival-of-speed-balcony-celebration/10838177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury-0",
-      "title": "Marc Marquez dismisses \"karma\" narrative after Marco Bezzecchi injury",
+      "id": "motogp-german-gp-marc-marquez-dominates-jumps-to-third-in-the-standings-0",
+      "title": "MotoGP German GP: Marc Marquez dominates, jumps to third in the standings",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury/10838166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-german-gp-marc-marquez-dominates-to-climb-to-second-in-the-standings/10838338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto-0",
+      "id": "lando-norris-reflects-on-childhood-dream-during-goodwood-festival-of-speed-balcony-celebration-0",
+      "title": "Lando Norris reflects on childhood dream during Goodwood Festival of Speed balcony celebration",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-reflects-on-childhood-dream-during-goodwood-festival-of-speed-balcony-celebration/10838177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 12, 2026"
+    },
+    {
+      "id": "lando-norris-opens-door-to-valentino-rossi-partnership-for-le-mans-campaign-1",
+      "title": "Lando Norris opens door to Valentino Rossi partnership for Le Mans campaign",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-opens-door-to-valentino-rossi-partnership-for-le-mans-campaign/10838285/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 12, 2026"
+    },
+    {
+      "id": "audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto-2",
       "title": "Audi's \"target\" is to fight for F1 title by 2030, says Mattia Binotto",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/audis-target-is-to-fight-for-f1-title-by-2030-says-mattia-binotto/10837757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 12, 2026"
     },
     {
-      "id": "toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner-1",
+      "id": "toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner-3",
       "title": "Toto Wolff \"too smart\" to sign Max Verstappen, says Guenther Steiner",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/toto-wolff-too-smart-to-sign-max-verstappen-says-guenther-steiner/10838112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 11, 2026"
-    },
-    {
-      "id": "lewis-hamilton-calls-for-less-software-reliance-in-f1-as-he-highlights-real-frustration-2",
-      "title": "Lewis Hamilton calls for less software reliance in F1 as he highlights \"real frustration\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-calls-for-less-software-reliance-in-f1-as-he-highlights-real-frustration/10838163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 11, 2026"
-    },
-    {
-      "id": "james-vowles-confirms-williams-review-after-f1-development-rate-concerns-3",
-      "title": "James Vowles confirms Williams review after F1 development rate concerns",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-confirms-williams-review-after-f1-development-rate-concerns/10838079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury-0",
+      "id": "motogp-german-gp-marc-marquez-dominates-jumps-to-third-in-the-standings-0",
+      "title": "MotoGP German GP: Marc Marquez dominates, jumps to third in the standings",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/motogp-german-gp-marc-marquez-dominates-to-climb-to-second-in-the-standings/10838338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 12, 2026"
+    },
+    {
+      "id": "marco-bezzecchi-undergoes-successful-surgery-in-italy-targets-british-gp-return-1",
+      "title": "Marco Bezzecchi undergoes successful surgery in Italy, targets British GP return",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-undergoes-successful-surgery-in-italy-targeting-british-gp-return/10838307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 12, 2026"
+    },
+    {
+      "id": "marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury-2",
       "title": "Marc Marquez dismisses \"karma\" narrative after Marco Bezzecchi injury",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-dismisses-karma-narrative-after-marco-bezzecchi-injury/10838166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,32 +253,10 @@
       "publishedLabel": "Jul 12, 2026"
     },
     {
-      "id": "new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout-1",
+      "id": "new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout-3",
       "title": "'New grid layout makes starts safer,' say MotoGP riders after Sachsenring rollout",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/new-grid-layout-makes-starts-safer-say-motogp-riders-after-sachsenring-rollout/10838161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 11, 2026"
-    },
-    {
-      "id": "why-marc-marquez-thinks-repeating-german-gp-win-will-be-tough-2",
-      "title": "Why Marc Marquez thinks repeating German GP win will be tough",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-marc-marquez-thinks-repeating-german-gp-win-will-be-tough/10838147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 11, 2026"
-    },
-    {
-      "id": "aprilia-gives-marco-bezzecchi-much-needed-encouragement-after-german-gp-withdrawal-3",
-      "title": "Aprilia gives Marco Bezzecchi much-needed encouragement after German GP withdrawal",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/aprilia-encourage-bezzecchi-after-german-gp-withdrawal/10838137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
