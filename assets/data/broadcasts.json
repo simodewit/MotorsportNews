@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T02:01:47.154Z",
+  "generatedAt": "2026-07-13T10:52:01.793Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 シェイクダウン ライブ！WRC Delfi Rally Estonia 2026 🇪🇪",
+      "channel": "FIA World Rally Championship",
+      "videoId": "YIYwPtAYuBc",
+      "url": "https://www.youtube.com/watch?v=YIYwPtAYuBc",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 Shakedown LIVE | WRC Delfi Rally Estonia 2026 🇪🇪",
+      "channel": "FIA World Rally Championship",
+      "videoId": "JlEgRjOl5Sc",
+      "url": "https://www.youtube.com/watch?v=JlEgRjOl5Sc",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
