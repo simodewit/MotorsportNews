@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T02:06:51.134Z",
+  "generatedAt": "2026-07-13T08:55:48.446Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -75,15 +75,15 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "marc-marquez-sets-fitness-target-for-upcoming-motogp-summer-break-0",
-      "title": "Marc Marquez sets fitness target for upcoming MotoGP summer break",
+      "id": "jorge-martin-i-wont-lead-the-championship-for-long-at-this-rate-0",
+      "title": "Jorge Martin: 'I won't lead the championship for long at this rate'",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marc-marquez-targets-full-fitness-after-a-summer-break-in-the-gym/10838396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/jorge-martin-i-wont-lead-the-championship-for-long-at-this-rate/10838417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 12, 2026"
+      "publishedLabel": "Jul 13, 2026"
     }
   ],
   "articles": [
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "marc-marquez-sets-fitness-target-for-upcoming-motogp-summer-break-0",
+      "id": "jorge-martin-i-wont-lead-the-championship-for-long-at-this-rate-0",
+      "title": "Jorge Martin: 'I won't lead the championship for long at this rate'",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/jorge-martin-i-wont-lead-the-championship-for-long-at-this-rate/10838417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 13, 2026"
+    },
+    {
+      "id": "marc-marquez-sets-fitness-target-for-upcoming-motogp-summer-break-1",
       "title": "Marc Marquez sets fitness target for upcoming MotoGP summer break",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-targets-full-fitness-after-a-summer-break-in-the-gym/10838396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 12, 2026"
     },
     {
-      "id": "alex-marquez-explains-german-gp-crash-maybe-i-was-too-confident-1",
+      "id": "alex-marquez-explains-german-gp-crash-maybe-i-was-too-confident-2",
       "title": "Alex Marquez explains German GP crash: “Maybe I was too confident”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/alex-marquez-explains-german-gp-crash-maybe-i-was-too-confident/10838386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Jul 12, 2026"
     },
     {
-      "id": "im-a-real-title-contender-now-declares-ai-ogura-2",
+      "id": "im-a-real-title-contender-now-declares-ai-ogura-3",
       "title": "I'm a real title contender now, declares Ai Ogura ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/im-a-real-title-contender-now-declares-ai-ogura-/10838382/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 12, 2026"
-    },
-    {
-      "id": "motogp-german-gp-marc-marquez-dominates-jumps-to-third-in-the-standings-3",
-      "title": "MotoGP German GP: Marc Marquez dominates, jumps to third in the standings",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-german-gp-marc-marquez-dominates-to-climb-to-second-in-the-standings/10838338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
