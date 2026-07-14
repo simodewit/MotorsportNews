@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T09:49:15.831Z",
+  "generatedAt": "2026-07-14T17:05:41.094Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Upcoming",
-      "title": "Full Race | Rolex 6 Hours of São Paulo 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
-      "videoId": "TmHyWOes_w0",
-      "url": "https://www.youtube.com/watch?v=TmHyWOes_w0",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
