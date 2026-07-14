@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:16:06.119Z",
+  "generatedAt": "2026-07-14T01:52:32.778Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "toto-wolff-i-stand-by-mercedes-performance-focus-but-now-we-must-sort-reliability-0",
-      "title": "Toto Wolff: I stand by Mercedes' performance focus, but now we must sort reliability",
+      "id": "sergio-perez-reveals-personal-goal-behind-cadillac-f1-return-after-tough-red-bull-stint-0",
+      "title": "Sergio Perez reveals personal goal behind Cadillac F1 return after tough Red Bull stint ",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-i-stand-by-mercedes-performance-focus-but-now-we-must-sort-reliability-out/10838643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-personal-goal-behind-cadillac-f1-return-after-tough-red-bull-stint-/10838608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "toto-wolff-i-stand-by-mercedes-performance-focus-but-now-we-must-sort-reliability-0",
+      "id": "sergio-perez-reveals-personal-goal-behind-cadillac-f1-return-after-tough-red-bull-stint-0",
+      "title": "Sergio Perez reveals personal goal behind Cadillac F1 return after tough Red Bull stint ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-personal-goal-behind-cadillac-f1-return-after-tough-red-bull-stint-/10838608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 13, 2026"
+    },
+    {
+      "id": "toto-wolff-i-stand-by-mercedes-performance-focus-but-now-we-must-sort-reliability-1",
       "title": "Toto Wolff: I stand by Mercedes' performance focus, but now we must sort reliability",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/toto-wolff-i-stand-by-mercedes-performance-focus-but-now-we-must-sort-reliability-out/10838643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 13, 2026"
     },
     {
-      "id": "sergio-perez-reveals-brutal-christian-horner-two-car-message-ahead-of-red-bull-stint-1",
+      "id": "sergio-perez-reveals-brutal-christian-horner-two-car-message-ahead-of-red-bull-stint-2",
       "title": "Sergio Perez reveals brutal Christian Horner 'two car' message ahead of Red Bull stint",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-brutal-christian-horner-two-car-message-ahead-of-red-bull-stint/10838596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 13, 2026"
     },
     {
-      "id": "arvid-lindblad-keen-on-rally-future-post-f1-after-amazing-wrc-experience-2",
+      "id": "arvid-lindblad-keen-on-rally-future-post-f1-after-amazing-wrc-experience-3",
       "title": "Arvid Lindblad keen on rally future post-F1 after “amazing” WRC experience",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/arvid-lindblad-keen-on-rally-future-post-f1-after-amazing-wrc-experience/10838603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 13, 2026"
-    },
-    {
-      "id": "james-vowles-admits-williams-f1-british-gp-upgrade-disappointment-3",
-      "title": "James Vowles admits Williams F1 British GP upgrade disappointment",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-admits-williams-f1-british-gp-upgrade-disappointment/10838356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 13, 2026"
     },
     {
-      "id": "iracings-standalone-indycar-game-now-has-a-name-and-launch-window-0",
+      "id": "president-donald-trump-meets-with-indycar-drivers-in-special-white-house-event-0",
+      "title": "President Donald Trump meets with IndyCar drivers in special White House event",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/president-donald-trump-meets-indycar-drivers-in-special-white-house-event/10838670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 13, 2026"
+    },
+    {
+      "id": "iracings-standalone-indycar-game-now-has-a-name-and-launch-window-1",
       "title": "iRacing’s standalone IndyCar game now has a name and launch window",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/iracings-standalone-indycar-game-now-has-a-name-and-launch-window/10837854/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 10, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-at-mid-ohio-1",
+      "id": "winners-and-losers-from-the-indycar-race-at-mid-ohio-2",
       "title": "Winners and losers from the IndyCar race at Mid-Ohio",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-mid-ohio/10837242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 7, 2026"
     },
     {
-      "id": "kyle-kirkwood-vaults-back-to-second-in-championship-standings-with-podium-finish-at-mid-ohio-2",
+      "id": "kyle-kirkwood-vaults-back-to-second-in-championship-standings-with-podium-finish-at-mid-ohio-3",
       "title": "Kyle Kirkwood vaults back to second in championship standings with podium finish at Mid-Ohio",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/kyle-kirkwood-vaults-back-to-second-in-championship-standings-with-podium-finish-at-mid-ohio/10837227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 7, 2026"
-    },
-    {
-      "id": "arrow-mclaren-signs-scott-dixon-and-felix-rosenqvist-for-2027-indycar-season-3",
-      "title": "Arrow McLaren signs Scott Dixon and Felix Rosenqvist for 2027 IndyCar season",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/arrow-mclaren-signs-scott-dixon-and-felix-rosenqvist-for-2027-indycar-season/10837033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 6, 2026"
     },
     {
       "id": "wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026-0",
