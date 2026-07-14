@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T02:03:29.591Z",
+  "generatedAt": "2026-07-14T09:53:52.228Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "4fonP6NCv20",
+      "title": "Drivers' Preview | WRC Delfi Rally Estonia 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "37m1nc9rFL4",
       "title": "FULL ONBOARD - SS13 Breen/Nagle | WRC Rally Estonia 2020",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "YIYwPtAYuBc",
       "title": "🔴 シェイクダウン ライブ！WRC Delfi Rally Estonia 2026 🇪🇪",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "JlEgRjOl5Sc",
-      "title": "🔴 Shakedown LIVE | WRC Delfi Rally Estonia 2026 🇪🇪",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
