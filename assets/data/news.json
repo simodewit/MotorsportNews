@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T13:21:34.275Z",
+  "generatedAt": "2026-07-15T19:00:33.377Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "five-things-to-look-out-for-at-the-f1-belgian-gp-0",
-      "title": "Five things to look out for at the F1 Belgian GP",
+      "id": "franco-colapinto-opens-up-about-the-toughest-moment-of-his-f1-career-0",
+      "title": "Franco Colapinto opens up about the toughest moment of his F1 career",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-belgian-gp/10838936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/franco-colapinto-opens-up-about-the-toughest-moment-of-his-f1-career/10838753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "francesco-bagnaia-wrong-to-say-no-one-wants-to-win-2026-motogp-title-0",
-      "title": "Francesco Bagnaia: Wrong to say ‘no one wants to win 2026 MotoGP title’",
+      "id": "francesco-bagnaia-undergoes-successful-arm-surgery-targets-motogp-return-at-silverstone-0",
+      "title": "Francesco Bagnaia undergoes successful arm surgery, targets MotoGP return at Silverstone",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-wrong-to-say-no-one-wants-to-win-2026-motogp-title/10838711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/pecco-bagnaia-successfully-undergoes-forearm-surgery-and-will-try-to-race-at-silverstone/10839018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "five-things-to-look-out-for-at-the-f1-belgian-gp-0",
+      "id": "franco-colapinto-opens-up-about-the-toughest-moment-of-his-f1-career-0",
+      "title": "Franco Colapinto opens up about the toughest moment of his F1 career",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/franco-colapinto-opens-up-about-the-toughest-moment-of-his-f1-career/10838753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 15, 2026"
+    },
+    {
+      "id": "george-russell-shares-school-exam-mindset-behind-his-f1-success-1",
+      "title": "George Russell shares school exam mindset behind his F1 success",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/george-russell-shares-school-exam-mindset-behind-his-f1-success/10838985/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 15, 2026"
+    },
+    {
+      "id": "five-things-to-look-out-for-at-the-f1-belgian-gp-2",
       "title": "Five things to look out for at the F1 Belgian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-belgian-gp/10838936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +121,7 @@
       "publishedLabel": "Jul 15, 2026"
     },
     {
-      "id": "gabriel-bortoleto-f1-hasnt-lost-its-magic-drivers-need-to-turn-the-page-on-2026-complaints-1",
+      "id": "gabriel-bortoleto-f1-hasnt-lost-its-magic-drivers-need-to-turn-the-page-on-2026-complaints-3",
       "title": "Gabriel Bortoleto: F1 hasn't lost its 'magic'; drivers need to \"turn the page\" on 2026 complaints",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-f1-hasnt-lost-its-magic-drivers-need-to-turn-the-page-on-2026-complaints/10838745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -108,28 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Jul 15, 2026"
-    },
-    {
-      "id": "pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed-2",
-      "title": "Pierre Gasly tests new A110 Future prototype with Duke of Richmond at Goodwood Festival of Speed",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed/10838675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 14, 2026"
-    },
-    {
-      "id": "ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive-3",
-      "title": "Ollie Bearman hailed as \"class act\" after emotional Ayrton Senna Lotus drive",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive/10838625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 14, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "francesco-bagnaia-wrong-to-say-no-one-wants-to-win-2026-motogp-title-0",
+      "id": "francesco-bagnaia-undergoes-successful-arm-surgery-targets-motogp-return-at-silverstone-0",
+      "title": "Francesco Bagnaia undergoes successful arm surgery, targets MotoGP return at Silverstone",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/pecco-bagnaia-successfully-undergoes-forearm-surgery-and-will-try-to-race-at-silverstone/10839018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 15, 2026"
+    },
+    {
+      "id": "francesco-bagnaia-wrong-to-say-no-one-wants-to-win-2026-motogp-title-1",
       "title": "Francesco Bagnaia: Wrong to say ‘no one wants to win 2026 MotoGP title’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-wrong-to-say-no-one-wants-to-win-2026-motogp-title/10838711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 15, 2026"
     },
     {
-      "id": "aprilia-moves-up-one-level-in-motogp-concessions-ducati-and-honda-move-down-1",
+      "id": "aprilia-moves-up-one-level-in-motogp-concessions-ducati-and-honda-move-down-2",
       "title": "Aprilia moves up one level in MotoGP concessions; Ducati and Honda move down",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/aprilia-moves-up-one-level-in-motogp-concessions-ducati-and-honda-move-down/10838767/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jul 15, 2026"
     },
     {
-      "id": "motogps-single-bike-proposal-on-brink-of-collapse-2",
+      "id": "motogps-single-bike-proposal-on-brink-of-collapse-3",
       "title": "MotoGP's single-bike proposal on brink of collapse",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-single-bike-proposal-on-brink-of-collapse/10838751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Jul 14, 2026"
     },
     {
-      "id": "surgery-would-have-ruined-my-season-completely-says-johann-zarco-3",
-      "title": "'Surgery would have ruined my season completely,' says Johann Zarco",
+      "id": "fifa-world-cup-final-drama-and-shifting-start-times-keep-armstrong-guessing-at-nashville-0",
+      "title": "FIFA World Cup Final drama and shifting start times keep Armstrong guessing at Nashville",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/surgery-would-have-ruined-my-season-completely-says-johann-zarco/10838598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/fifa-world-cup-final-drama-and-shifting-start-times-keep-marcus-armstrong-guessing-at-nashville/10839024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 14, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 15, 2026"
     },
     {
-      "id": "kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better-0",
+      "id": "kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better-1",
       "title": "Kyffin Simpson aims to replicate 2025 Nashville showing or \"a couple spots better\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better/10838861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 14, 2026"
     },
     {
-      "id": "president-donald-trump-meets-with-indycar-drivers-in-special-white-house-event-1",
+      "id": "president-donald-trump-meets-with-indycar-drivers-in-special-white-house-event-2",
       "title": "President Donald Trump meets with IndyCar drivers in special White House event",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/president-donald-trump-meets-indycar-drivers-in-special-white-house-event/10838670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 13, 2026"
     },
     {
-      "id": "iracings-standalone-indycar-game-now-has-a-name-and-launch-window-2",
+      "id": "iracings-standalone-indycar-game-now-has-a-name-and-launch-window-3",
       "title": "iRacing’s standalone IndyCar game now has a name and launch window",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/iracings-standalone-indycar-game-now-has-a-name-and-launch-window/10837854/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 10, 2026"
-    },
-    {
-      "id": "winners-and-losers-from-the-indycar-race-at-mid-ohio-3",
-      "title": "Winners and losers from the IndyCar race at Mid-Ohio",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-mid-ohio/10837242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 7, 2026"
     },
     {
       "id": "wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026-0",
