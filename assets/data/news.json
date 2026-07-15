@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:08:15.927Z",
+  "generatedAt": "2026-07-15T01:48:57.903Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive-0",
-      "title": "Ollie Bearman hailed as \"class act\" after emotional Ayrton Senna Lotus drive",
+      "id": "pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed-0",
+      "title": "Pierre Gasly tests new A110 Future prototype with Duke of Richmond at Goodwood Festival of Speed",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive/10838625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed/10838675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive-0",
+      "id": "pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed-0",
+      "title": "Pierre Gasly tests new A110 Future prototype with Duke of Richmond at Goodwood Festival of Speed",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/pierre-gasly-tests-new-a110-future-prototype-with-duke-of-richmond-at-goodwood-festival-of-speed/10838675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 14, 2026"
+    },
+    {
+      "id": "ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive-1",
       "title": "Ollie Bearman hailed as \"class act\" after emotional Ayrton Senna Lotus drive",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ollie-bearman-hailed-as-class-act-after-emotional-ayrton-senna-lotus-drive/10838625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 14, 2026"
     },
     {
-      "id": "exclusive-pirelli-explains-the-role-of-wheelrim-development-and-driving-styles-on-2026-f1-tyres-1",
+      "id": "exclusive-pirelli-explains-the-role-of-wheelrim-development-and-driving-styles-on-2026-f1-tyres-2",
       "title": "Exclusive: Pirelli explains the role of wheel‑rim development and driving styles on 2026 F1 tyres",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-marrafuschi-esclusivo-il-capo-di-pirelli-spiega-il-ruolo-dei-cerchi-liberi-e-dello-stile-di-guid/10838725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 14, 2026"
     },
     {
-      "id": "win-the-dream-ticket-to-attend-every-f1-race-next-season-2",
+      "id": "win-the-dream-ticket-to-attend-every-f1-race-next-season-3",
       "title": "Win the dream ticket to attend every F1 race next season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/win-the-dream-ticket-to-attend-every-f1-race-next-season/10838702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 14, 2026"
-    },
-    {
-      "id": "should-f1-really-get-louder-in-2031-our-verdict-3",
-      "title": "Should F1 really get louder in 2031? Our verdict",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/should-f1-actually-get-loud-in-2031-/10838728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 13, 2026"
     },
     {
-      "id": "president-donald-trump-meets-with-indycar-drivers-in-special-white-house-event-0",
+      "id": "kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better-0",
+      "title": "Kyffin Simpson aims to replicate 2025 Nashville showing or \"a couple spots better\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better/10838861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 14, 2026"
+    },
+    {
+      "id": "president-donald-trump-meets-with-indycar-drivers-in-special-white-house-event-1",
       "title": "President Donald Trump meets with IndyCar drivers in special White House event",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/president-donald-trump-meets-indycar-drivers-in-special-white-house-event/10838670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 13, 2026"
     },
     {
-      "id": "iracings-standalone-indycar-game-now-has-a-name-and-launch-window-1",
+      "id": "iracings-standalone-indycar-game-now-has-a-name-and-launch-window-2",
       "title": "iRacing’s standalone IndyCar game now has a name and launch window",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/iracings-standalone-indycar-game-now-has-a-name-and-launch-window/10837854/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jul 10, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-at-mid-ohio-2",
+      "id": "winners-and-losers-from-the-indycar-race-at-mid-ohio-3",
       "title": "Winners and losers from the IndyCar race at Mid-Ohio",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-at-mid-ohio/10837242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 7, 2026"
-    },
-    {
-      "id": "kyle-kirkwood-vaults-back-to-second-in-championship-standings-with-podium-finish-at-mid-ohio-3",
-      "title": "Kyle Kirkwood vaults back to second in championship standings with podium finish at Mid-Ohio",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/kyle-kirkwood-vaults-back-to-second-in-championship-standings-with-podium-finish-at-mid-ohio/10837227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
