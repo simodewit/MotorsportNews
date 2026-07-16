@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T01:54:38.783Z",
+  "generatedAt": "2026-07-16T09:59:42.599Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,6 +49,21 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
+      "title": "🔴 Opening Ceremony LIVE | WRC Delfi Rally Estonia 2026 🇪🇪",
+      "channel": "FIA World Rally Championship",
+      "videoId": "HZrl5nb9mjc",
+      "url": "https://www.youtube.com/watch?v=HZrl5nb9mjc",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
       "title": "🔴 シェイクダウン ライブ！WRC Delfi Rally Estonia 2026 🇪🇪",
       "channel": "FIA World Rally Championship",
       "videoId": "YIYwPtAYuBc",
@@ -73,6 +88,51 @@
       ],
       "seriesLabels": [
         "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Drift Masters Round 6 - Germany - Top32",
+      "channel": "Red Bull Motorsports",
+      "videoId": "JA9SceYZCpo",
+      "url": "https://www.youtube.com/watch?v=JA9SceYZCpo",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Drift Masters Round 5 - Latvia - Top16",
+      "channel": "Red Bull Motorsports",
+      "videoId": "WlSp8a03mK4",
+      "url": "https://www.youtube.com/watch?v=WlSp8a03mK4",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Drift Masters Round 5 - Latvia - Top32",
+      "channel": "Red Bull Motorsports",
+      "videoId": "TvRYD0TiIro",
+      "url": "https://www.youtube.com/watch?v=TvRYD0TiIro",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
