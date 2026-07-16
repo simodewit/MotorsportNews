@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T09:59:42.599Z",
+  "generatedAt": "2026-07-16T17:06:17.891Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Opening Ceremony LIVE | WRC Delfi Rally Estonia 2026 🇪🇪",
-      "channel": "FIA World Rally Championship",
-      "videoId": "HZrl5nb9mjc",
-      "url": "https://www.youtube.com/watch?v=HZrl5nb9mjc",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
