@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T02:13:06.429Z",
+  "generatedAt": "2026-07-17T09:52:34.018Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -240,6 +240,28 @@
       ]
     },
     {
+      "videoId": "JlEgRjOl5Sc",
+      "title": "🔴 Shakedown LIVE | WRC Delfi Rally Estonia 2026 🇪🇪",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "YIYwPtAYuBc",
+      "title": "🔴 シェイクダウン ライブ！WRC Delfi Rally Estonia 2026 🇪🇪",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "97VLRLk00Rg",
       "title": "Donuts 🍩",
       "channel": "FIA World Rally Championship",
@@ -253,28 +275,6 @@
     {
       "videoId": "HZrl5nb9mjc",
       "title": "🔴 Opening Ceremony LIVE | WRC Delfi Rally Estonia 2026 🇪🇪",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "_Qtl7ERVL8M",
-      "title": "Good memories 🥹",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "4fonP6NCv20",
-      "title": "Drivers' Preview | WRC Delfi Rally Estonia 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
