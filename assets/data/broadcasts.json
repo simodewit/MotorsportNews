@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T01:58:39.260Z",
+  "generatedAt": "2026-07-17T09:49:41.544Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -53,21 +53,6 @@
       "channel": "FIA World Rally Championship",
       "videoId": "YIYwPtAYuBc",
       "url": "https://www.youtube.com/watch?v=YIYwPtAYuBc",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Shakedown LIVE | WRC Delfi Rally Estonia 2026 🇪🇪",
-      "channel": "FIA World Rally Championship",
-      "videoId": "JlEgRjOl5Sc",
-      "url": "https://www.youtube.com/watch?v=JlEgRjOl5Sc",
       "series": [
         "rally"
       ],
