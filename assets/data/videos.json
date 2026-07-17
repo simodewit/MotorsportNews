@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T17:10:35.804Z",
+  "generatedAt": "2026-07-17T02:13:06.429Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "rGB9d0nb8KU",
+      "title": "Drivers Look Ahead To Race Weekend | 2026 Belgian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "-0qhHczGwHw",
+      "title": "Cue Strange F1 Driver Noises 😆",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "pW5yVycPefI",
       "title": "Weekend Warm-Up | 2026 Belgian Grand Prix",
       "channel": "FORMULA 1",
@@ -77,28 +99,6 @@
     {
       "videoId": "qejifACHe0U",
       "title": "Lewis Skates Through The Paddock! 🛹",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "TT1hQc5l-3I",
-      "title": "No Updates From Max Verstappen 🤐",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "hpNCKxTgQZE",
-      "title": "Pure Iceman Aura ✨",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -207,17 +207,6 @@
       ]
     },
     {
-      "videoId": "Uw5SP-tiBsE",
-      "title": "🎸 LIVE: Music City Marathon | Classic INDYCAR Nashville Races",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
       "videoId": "-A38tbrqi4c",
       "title": "INDYCAR Drivers Answer Kids' Wildest Questions",
       "channel": "NTT INDYCAR SERIES",
@@ -237,6 +226,28 @@
       ],
       "seriesLabels": [
         "IndyCar"
+      ]
+    },
+    {
+      "videoId": "1lP945F2j_I",
+      "title": "Best Onboard Moments | 2026 INDYCAR at Mid-Ohio",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "97VLRLk00Rg",
+      "title": "Donuts 🍩",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "4fonP6NCv20",
       "title": "Drivers' Preview | WRC Delfi Rally Estonia 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "37m1nc9rFL4",
-      "title": "FULL ONBOARD - SS13 Breen/Nagle | WRC Rally Estonia 2020",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
