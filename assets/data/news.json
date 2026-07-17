@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:00:15.271Z",
+  "generatedAt": "2026-07-17T02:03:10.100Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026-0",
-      "title": "\"Not the same challenge\" or an \"interesting\" exercise? - Drivers on Spa's appeal in F1 2026",
+      "id": "williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around-0",
+      "title": "Williams under fire as Carlos Sainz is \"getting nowhere\" in bid to turn team around",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026/10839259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around/10839297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026-0",
+      "id": "williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around-0",
+      "title": "Williams under fire as Carlos Sainz is \"getting nowhere\" in bid to turn team around",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around/10839297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 16, 2026"
+    },
+    {
+      "id": "not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026-1",
       "title": "\"Not the same challenge\" or an \"interesting\" exercise? - Drivers on Spa's appeal in F1 2026",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026/10839259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 16, 2026"
     },
     {
-      "id": "f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch-1",
+      "id": "f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch-2",
       "title": "F1 Belgian GP: Friday schedule, weather forecast and how to watch",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch/10839227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 16, 2026"
     },
     {
-      "id": "what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa-2",
+      "id": "what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa-3",
       "title": "What Max Verstappen did – and didn't – say about his F1 future and McLaren at Spa",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 16, 2026"
-    },
-    {
-      "id": "lewis-hamilton-still-avoiding-ferraris-f1-sim-its-helped-me-massively-3",
-      "title": "Lewis Hamilton still avoiding Ferrari’s F1 sim: ‘It’s helped me massively’",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-still-avoiding-ferraris-f1-sim-its-helped-me-massively/10839221/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 15, 2026"
     },
     {
-      "id": "fifa-world-cup-final-drama-and-shifting-start-times-keep-armstrong-guessing-at-nashville-0",
+      "id": "how-to-watch-indycar-2026-at-nashville-weekend-schedule-start-time-tv-0",
+      "title": "How to watch IndyCar 2026 at Nashville: Weekend schedule, start time, TV",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-nashville-weekend-schedule-start-time-tv/10839057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 16, 2026"
+    },
+    {
+      "id": "fifa-world-cup-final-drama-and-shifting-start-times-keep-armstrong-guessing-at-nashville-1",
       "title": "FIFA World Cup Final drama and shifting start times keep Armstrong guessing at Nashville",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/fifa-world-cup-final-drama-and-shifting-start-times-keep-marcus-armstrong-guessing-at-nashville/10839024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 15, 2026"
     },
     {
-      "id": "kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better-1",
+      "id": "kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better-2",
       "title": "Kyffin Simpson aims to replicate 2025 Nashville showing or \"a couple spots better\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better/10838861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 14, 2026"
     },
     {
-      "id": "president-donald-trump-meets-with-indycar-drivers-in-special-white-house-event-2",
+      "id": "president-donald-trump-meets-with-indycar-drivers-in-special-white-house-event-3",
       "title": "President Donald Trump meets with IndyCar drivers in special White House event",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/president-donald-trump-meets-indycar-drivers-in-special-white-house-event/10838670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 13, 2026"
-    },
-    {
-      "id": "iracings-standalone-indycar-game-now-has-a-name-and-launch-window-3",
-      "title": "iRacing’s standalone IndyCar game now has a name and launch window",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/iracings-standalone-indycar-game-now-has-a-name-and-launch-window/10837854/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 10, 2026"
     },
     {
       "id": "wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026-0",
