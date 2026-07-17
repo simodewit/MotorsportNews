@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T02:03:10.100Z",
+  "generatedAt": "2026-07-17T07:58:09.950Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around-0",
-      "title": "Williams under fire as Carlos Sainz is \"getting nowhere\" in bid to turn team around",
+      "id": "like-being-asked-to-draw-the-mona-lisa-how-george-russell-is-struggling-to-match-kimi-antonelli-0",
+      "title": "‘Like being asked to draw the Mona Lisa’ – How George Russell is struggling to match Kimi Antonelli",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around/10839297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/how-george-russell-struggling-match-kimi-antonelli/10839274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 16, 2026"
+      "publishedLabel": "Jul 17, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around-0",
+      "id": "like-being-asked-to-draw-the-mona-lisa-how-george-russell-is-struggling-to-match-kimi-antonelli-0",
+      "title": "‘Like being asked to draw the Mona Lisa’ – How George Russell is struggling to match Kimi Antonelli",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/how-george-russell-struggling-match-kimi-antonelli/10839274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 17, 2026"
+    },
+    {
+      "id": "williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around-1",
       "title": "Williams under fire as Carlos Sainz is \"getting nowhere\" in bid to turn team around",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/williams-under-fire-as-carlos-sainz-is-getting-nowhere-in-bid-to-turn-team-around/10839297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 16, 2026"
     },
     {
-      "id": "not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026-1",
+      "id": "not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026-2",
       "title": "\"Not the same challenge\" or an \"interesting\" exercise? - Drivers on Spa's appeal in F1 2026",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/not-the-same-challenge-or-an-interesting-exercise-drivers-on-spas-appeal-in-f1-2026/10839259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 16, 2026"
     },
     {
-      "id": "f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch-2",
+      "id": "f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch-3",
       "title": "F1 Belgian GP: Friday schedule, weather forecast and how to watch",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-belgian-gp-friday-schedule-weather-forecast-and-how-to-watch/10839227/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 16, 2026"
-    },
-    {
-      "id": "what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa-3",
-      "title": "What Max Verstappen did – and didn't – say about his F1 future and McLaren at Spa",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/what-max-verstappen-did-and-didnt-say-about-his-f1-future-and-mclaren-at-spa/10839233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
