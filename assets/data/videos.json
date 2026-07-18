@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T17:06:54.244Z",
+  "generatedAt": "2026-07-18T02:02:42.436Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "sYttrqMBaWE",
-      "title": "Big Crash For Pierre Gasly 😬",
+      "videoId": "UKY0ELQGHjg",
+      "title": "Uncovering The Secrets For Success At Spa-Francorchamps | F1 TV Tech Talk",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "GDmeB8lxEgg",
-      "title": "Football's Coming... Hamilton? 🤔",
+      "videoId": "GiNg27NqjrA",
+      "title": "Epic Elevation At Eau Rouge 📈",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "igFTPRboc9M",
-      "title": "Feisty In Free Practice - Kimi v Carlos 👊",
+      "videoId": "nyDN8zOuaB4",
+      "title": "Texting From An F1 Cockpit? 🤔📲",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "aqkfTbKFEQc",
-      "title": "FP1 Highlights | 2026 Belgian Grand Prix",
+      "videoId": "8NIeZ-Gd4H8",
+      "title": "FP2 Highlights | 2026 Belgian Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "videoId": "4bjM5SU0R2Q",
-      "title": "Scott Dixon knows something about winning at Nashville Superspeedway 🥶 #indycar #racing",
+      "videoId": "Oy5mjyxvNKk",
+      "title": "Race Preview | 2026 INDYCAR at Nashville",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -207,8 +207,8 @@
       ]
     },
     {
-      "videoId": "9G4OfpQ8CO4",
-      "title": "Billy Bob Thornton Sets the Stage for Nashville | 2026 INDYCAR",
+      "videoId": "4bjM5SU0R2Q",
+      "title": "Scott Dixon knows something about winning at Nashville Superspeedway 🥶 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "Dbh42F-pUSE",
+      "title": "Day 1 Highlights | WRC Delfi Rally Estonia 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "0qjtb1u1d0Q",
       "title": "On the EDGE 😨",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "YIYwPtAYuBc",
       "title": "🔴 シェイクダウン ライブ！WRC Delfi Rally Estonia 2026 🇪🇪",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "97VLRLk00Rg",
-      "title": "Donuts 🍩",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
