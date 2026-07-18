@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T01:52:14.441Z",
+  "generatedAt": "2026-07-18T07:38:31.876Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris-0",
-      "title": "Lewis Hamilton has Michael Jordan mentality, says \"F1\" movie star Damson Idris",
+      "id": "lewis-hamilton-mercedes-still-the-team-to-beat-at-belgian-gp-alongside-mclaren-0",
+      "title": "Lewis Hamilton: Mercedes ‘still the team to beat’ at Belgian GP alongside McLaren",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris/10839641/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-mercedes-still-the-team-to-beat-at-spa-alongside-mclaren/10839657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 17, 2026"
+      "publishedLabel": "Jul 18, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris-0",
+      "id": "lewis-hamilton-mercedes-still-the-team-to-beat-at-belgian-gp-alongside-mclaren-0",
+      "title": "Lewis Hamilton: Mercedes ‘still the team to beat’ at Belgian GP alongside McLaren",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-mercedes-still-the-team-to-beat-at-spa-alongside-mclaren/10839657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 18, 2026"
+    },
+    {
+      "id": "lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris-1",
       "title": "Lewis Hamilton has Michael Jordan mentality, says \"F1\" movie star Damson Idris",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-has-michael-jordan-mentality-says-f1-movie-star-damson-idris/10839641/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 17, 2026"
     },
     {
-      "id": "arvid-lindblad-shares-driving-test-update-ahead-of-f1-belgian-gp-1",
+      "id": "arvid-lindblad-shares-driving-test-update-ahead-of-f1-belgian-gp-2",
       "title": "Arvid Lindblad shares driving test update ahead of F1 Belgian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/arvid-lindblad-shares-driving-test-update-ahead-of-f1-belgian-gp/10839638/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 17, 2026"
     },
     {
-      "id": "long-run-analysis-can-anyone-beat-kimi-antonelli-in-belgium-2",
+      "id": "long-run-analysis-can-anyone-beat-kimi-antonelli-in-belgium-3",
       "title": "Long-run analysis: Can anyone beat Kimi Antonelli in Belgium?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/long-run-analysis-can-anyone-beat-kimi-antonelli-in-belgium/10839636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 17, 2026"
-    },
-    {
-      "id": "were-not-getting-ahead-of-ourselves-why-lando-norris-was-downbeat-despite-belgium-f1-practice-pace-3",
-      "title": "\"We're not getting ahead of ourselves\" - Why Lando Norris was downbeat despite Belgium F1 practice pace",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/were-not-getting-ahead-of-ourselves-why-norris-was-downbeat-despite-practice-pace-in-belgium/10839588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
