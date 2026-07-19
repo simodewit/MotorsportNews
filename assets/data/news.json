@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T18:53:22.788Z",
+  "generatedAt": "2026-07-19T02:03:14.669Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "only-oliver-bearmans-car-works-as-it-should-esteban-ocon-explains-another-q1-knockout-0",
-      "title": "‘Only Oliver Bearman’s car works as it should’ - Esteban Ocon explains another Q1 knockout",
+      "id": "oscar-piastri-has-been-too-clean-for-2026-f1-cars-andrea-stella-0",
+      "title": "Oscar Piastri has been “too clean” for 2026 F1 cars – Andrea Stella",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/eliminated-in-q1-again-ocon-resigned-the-car-thats-performing-normally-is-ollies/10839961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-has-been-too-clean-for-2026-f1-cars-andrea-stella/10839989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 18, 2026"
+      "publishedLabel": "Jul 19, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,10 +88,21 @@
   ],
   "articles": [
     {
-      "id": "only-oliver-bearmans-car-works-as-it-should-esteban-ocon-explains-another-q1-knockout-0",
-      "title": "‘Only Oliver Bearman’s car works as it should’ - Esteban Ocon explains another Q1 knockout",
+      "id": "oscar-piastri-has-been-too-clean-for-2026-f1-cars-andrea-stella-0",
+      "title": "Oscar Piastri has been “too clean” for 2026 F1 cars – Andrea Stella",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/eliminated-in-q1-again-ocon-resigned-the-car-thats-performing-normally-is-ollies/10839961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-has-been-too-clean-for-2026-f1-cars-andrea-stella/10839989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 19, 2026"
+    },
+    {
+      "id": "lewis-hamilton-hailed-as-a-legend-after-emotional-fan-interaction-at-f1-belgian-gp-1",
+      "title": "Lewis Hamilton hailed as a \"legend\" after emotional fan interaction at F1 Belgian GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-hailed-as-a-legend-after-emotional-fan-interaction-at-f1-belgian-gp/10839846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -99,10 +110,10 @@
       "publishedLabel": "Jul 18, 2026"
     },
     {
-      "id": "serious-issue-at-play-why-george-russell-changed-his-mind-about-deficit-to-kimi-antonelli-1",
-      "title": "“Serious issue at play” – Why George Russell changed his mind about deficit to Kimi Antonelli",
+      "id": "james-vowles-details-how-williams-maintains-carlos-sainz-and-alex-albons-trust-2",
+      "title": "James Vowles details how Williams maintains Carlos Sainz and Alex Albon's trust",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/serious-issue-at-play-why-george-russell-changed-his-mind-about-deficit-to-kimi-antonelli/10839947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/james-vowles-details-how-williams-maintains-carlos-sainz-and-alex-albons-trust/10840014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 18, 2026"
     },
     {
-      "id": "f3-car-with-f1-downforce-why-max-verstappen-and-mclaren-say-spa-is-so-different-in-2026-2",
-      "title": "\"F3 car with F1 downforce\" — Why Max Verstappen and McLaren say Spa is so different in 2026",
+      "id": "damson-idris-teases-exciting-conversations-over-f1-the-movie-sequel-3",
+      "title": "Damson Idris teases \"exciting conversations\" over \"F1 The Movie\" sequel",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f3-car-with-f1-downforce-why-max-verstappen-and-mclaren-say-spa-is-so-different-in-2026/10839934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 18, 2026"
-    },
-    {
-      "id": "explained-how-yellow-flag-error-cost-charles-leclerc-in-belgian-f1-qualifying-3",
-      "title": "Explained: How yellow flag error cost Charles Leclerc in Belgian F1 qualifying",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-explains-bizarre-yellow-flag-confusion-belgian-f1-qualifying/10839901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/damson-idris-teases-exciting-conversations-over-f1-sequel/10840000/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "Jul 16, 2026"
     },
     {
-      "id": "david-malukas-taken-to-hospital-after-heavy-nashville-indycar-crash-0",
+      "id": "david-malukas-good-to-go-after-hospital-visit-following-indycar-practice-crash-0",
+      "title": "David Malukas \"good to go\" after hospital visit following IndyCar practice crash",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/david-malukas-good-to-go-after-hospital-visit-following-indycar-practice-crash/10840021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 18, 2026"
+    },
+    {
+      "id": "nashville-indycar-starting-lineup-kyle-kirkwood-beats-josef-newgarden-to-pole-1",
+      "title": "Nashville IndyCar starting lineup: Kyle Kirkwood beats Josef Newgarden to pole",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/nashville-indycar-starting-lineup-kyle-kirkwood-beats-josef-newgarden-to-pole/10840002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 18, 2026"
+    },
+    {
+      "id": "david-malukas-taken-to-hospital-after-heavy-nashville-indycar-crash-2",
       "title": "David Malukas taken to hospital after heavy Nashville IndyCar crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-suffers-hard-crash-during-opening-nashville-indycar-practice/10839829/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Jul 18, 2026"
     },
     {
-      "id": "how-to-watch-indycar-2026-at-nashville-weekend-schedule-start-time-tv-1",
+      "id": "how-to-watch-indycar-2026-at-nashville-weekend-schedule-start-time-tv-3",
       "title": "How to watch IndyCar 2026 at Nashville: Weekend schedule, start time, TV",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-nashville-weekend-schedule-start-time-tv/10839057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 16, 2026"
-    },
-    {
-      "id": "fifa-world-cup-final-drama-and-shifting-start-times-keep-armstrong-guessing-at-nashville-2",
-      "title": "FIFA World Cup Final drama and shifting start times keep Armstrong guessing at Nashville",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/fifa-world-cup-final-drama-and-shifting-start-times-keep-marcus-armstrong-guessing-at-nashville/10839024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 15, 2026"
-    },
-    {
-      "id": "kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better-3",
-      "title": "Kyffin Simpson aims to replicate 2025 Nashville showing or \"a couple spots better\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/kyffin-simpson-aims-to-replicate-2025-nashville-showing-or-a-couple-spots-better/10838861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 14, 2026"
     },
     {
       "id": "wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026-0",
