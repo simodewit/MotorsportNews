@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T09:45:36.897Z",
+  "generatedAt": "2026-07-19T16:48:36.157Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！WRC Delfi Rally Estonia 2026 🇪🇪",
-      "channel": "FIA World Rally Championship",
-      "videoId": "YIYwPtAYuBc",
-      "url": "https://www.youtube.com/watch?v=YIYwPtAYuBc",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
