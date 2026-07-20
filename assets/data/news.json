@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T18:57:26.823Z",
+  "generatedAt": "2026-07-20T02:23:44.406Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp-0",
-      "title": "Isack Hadjar lauded after impressive Red Bull recovery at F1 Belgian GP",
+      "id": "kimi-antonelli-champagne-bottle-message-earns-praise-after-f1-belgian-gp-win-0",
+      "title": "Kimi Antonelli champagne bottle message earns praise after F1 Belgian GP win",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp/10840352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-champagne-bottle-message-goes-viral-after-f1-belgian-gp-win/10840366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp-0",
+      "id": "kimi-antonelli-champagne-bottle-message-earns-praise-after-f1-belgian-gp-win-0",
+      "title": "Kimi Antonelli champagne bottle message earns praise after F1 Belgian GP win",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-champagne-bottle-message-goes-viral-after-f1-belgian-gp-win/10840366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 19, 2026"
+    },
+    {
+      "id": "winners-and-loser-from-f1s-belgian-grand-prix-1",
+      "title": "Winners and loser from F1's Belgian Grand Prix",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/winners-and-loser-from-f1s-belgian-grand-prix/10840357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 19, 2026"
+    },
+    {
+      "id": "isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp-2",
       "title": "Isack Hadjar lauded after impressive Red Bull recovery at F1 Belgian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp/10840352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 19, 2026"
     },
     {
-      "id": "kimi-can-buy-me-dinner-valtteri-bottas-jokes-about-his-part-in-antonellis-belgian-gp-win-1",
+      "id": "kimi-can-buy-me-dinner-valtteri-bottas-jokes-about-his-part-in-antonellis-belgian-gp-win-3",
       "title": "\"Kimi can buy me dinner.\" Valtteri Bottas jokes about his part in Antonelli’s Belgian GP win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-can-buy-me-dinner-valtteri-bottas-jokes-about-his-part-in-antonellis-belgian-gp-win/10840347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 19, 2026"
-    },
-    {
-      "id": "all-mercedes-cars-struggled-with-power-issue-at-belgian-gp-start-reveals-toto-wolff-2",
-      "title": "All Mercedes cars struggled with power issue at Belgian GP start, reveals Toto Wolff",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/all-mercedes-cars-struggled-with-power-issue-at-belgian-gp-start-reveals-toto-wolff/10840329/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 19, 2026"
-    },
-    {
-      "id": "karun-chandhok-urges-george-russell-to-demand-mercedes-answers-amid-new-territory-3",
-      "title": "Karun Chandhok urges George Russell to demand Mercedes answers amid \"new territory\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/karun-chandhok-urges-george-russell-to-demand-mercedes-answers-amid-new-territory/10840325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 16, 2026"
     },
     {
-      "id": "david-malukas-good-to-go-after-hospital-visit-following-indycar-practice-crash-0",
+      "id": "indycar-nashville-race-postponed-to-monday-after-heavy-rain-and-world-cup-delays-0",
+      "title": "IndyCar Nashville race postponed to Monday after heavy rain and World Cup delays",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/start-of-indycar-race-at-nashville-delayed-by-world-cup-finals/10840359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 19, 2026"
+    },
+    {
+      "id": "david-malukas-good-to-go-after-hospital-visit-following-indycar-practice-crash-1",
       "title": "David Malukas \"good to go\" after hospital visit following IndyCar practice crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-good-to-go-after-hospital-visit-following-indycar-practice-crash/10840021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 18, 2026"
     },
     {
-      "id": "nashville-indycar-starting-lineup-kyle-kirkwood-beats-josef-newgarden-to-pole-1",
+      "id": "nashville-indycar-starting-lineup-kyle-kirkwood-beats-josef-newgarden-to-pole-2",
       "title": "Nashville IndyCar starting lineup: Kyle Kirkwood beats Josef Newgarden to pole",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/nashville-indycar-starting-lineup-kyle-kirkwood-beats-josef-newgarden-to-pole/10840002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 18, 2026"
     },
     {
-      "id": "david-malukas-taken-to-hospital-after-heavy-nashville-indycar-crash-2",
+      "id": "david-malukas-taken-to-hospital-after-heavy-nashville-indycar-crash-3",
       "title": "David Malukas taken to hospital after heavy Nashville IndyCar crash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-suffers-hard-crash-during-opening-nashville-indycar-practice/10839829/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 18, 2026"
-    },
-    {
-      "id": "how-to-watch-indycar-2026-at-nashville-weekend-schedule-start-time-tv-3",
-      "title": "How to watch IndyCar 2026 at Nashville: Weekend schedule, start time, TV",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-nashville-weekend-schedule-start-time-tv/10839057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 16, 2026"
     },
     {
       "id": "wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026-0",
