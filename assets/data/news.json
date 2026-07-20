@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:23:44.406Z",
+  "generatedAt": "2026-07-20T08:46:17.459Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "kimi-antonelli-champagne-bottle-message-earns-praise-after-f1-belgian-gp-win-0",
-      "title": "Kimi Antonelli champagne bottle message earns praise after F1 Belgian GP win",
+      "id": "who-slept-worst-last-night-jolyon-palmer-0",
+      "title": "Who slept worst last night: Jolyon Palmer",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-champagne-bottle-message-goes-viral-after-f1-belgian-gp-win/10840366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-jolyon-palmer/10840402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 19, 2026"
+      "publishedLabel": "Jul 20, 2026"
     },
     {
       "id": "the-next-generation-gabriele-mini-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "kimi-antonelli-champagne-bottle-message-earns-praise-after-f1-belgian-gp-win-0",
+      "id": "who-slept-worst-last-night-jolyon-palmer-0",
+      "title": "Who slept worst last night: Jolyon Palmer",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-jolyon-palmer/10840402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 20, 2026"
+    },
+    {
+      "id": "who-slept-best-last-night-kimi-antonelli-1",
+      "title": "Who slept best last night: Kimi Antonelli",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10840378/10840378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 20, 2026"
+    },
+    {
+      "id": "kimi-antonelli-champagne-bottle-message-earns-praise-after-f1-belgian-gp-win-2",
       "title": "Kimi Antonelli champagne bottle message earns praise after F1 Belgian GP win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-champagne-bottle-message-goes-viral-after-f1-belgian-gp-win/10840366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 19, 2026"
     },
     {
-      "id": "winners-and-loser-from-f1s-belgian-grand-prix-1",
-      "title": "Winners and loser from F1's Belgian Grand Prix",
+      "id": "winners-and-losers-from-f1s-belgian-grand-prix-3",
+      "title": "Winners and losers from F1's Belgian Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/winners-and-loser-from-f1s-belgian-grand-prix/10840357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 19, 2026"
-    },
-    {
-      "id": "isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp-2",
-      "title": "Isack Hadjar lauded after impressive Red Bull recovery at F1 Belgian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-lauded-after-impressive-red-bull-recovery-at-f1-belgian-gp/10840352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 19, 2026"
-    },
-    {
-      "id": "kimi-can-buy-me-dinner-valtteri-bottas-jokes-about-his-part-in-antonellis-belgian-gp-win-3",
-      "title": "\"Kimi can buy me dinner.\" Valtteri Bottas jokes about his part in Antonelli’s Belgian GP win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-can-buy-me-dinner-valtteri-bottas-jokes-about-his-part-in-antonellis-belgian-gp-win/10840347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
