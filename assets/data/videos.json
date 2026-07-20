@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T02:34:58.446Z",
+  "generatedAt": "2026-07-20T10:46:50.335Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "bx-MWhZwOf4",
+      "title": "WRC2 Event Highlights | WRC Delfi Rally Estonia 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "RaFzaCUcAM4",
       "title": "Final Day Highlights | WRC Delfi Rally Estonia 2026",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "K-DDhm-Ybag",
       "title": "MAIDEN WRC WIN FOR SAMI AND MARKO! 🤩",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "09nNi5V52IU",
-      "title": "WRC2 win at home! 🤩🇪🇪",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
