@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T13:23:06.263Z",
+  "generatedAt": "2026-07-21T19:08:29.147Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "fernando-alonso-f1-future-decision-hinges-on-rules-not-aston-martins-performance-0",
-      "title": "Fernando Alonso: F1 future decision hinges on rules, not Aston Martin’s performance",
+      "id": "mclaren-brings-long-awaited-hungary-f1-upgrade-trials-macarena-rear-wing-0",
+      "title": "McLaren brings long-awaited Hungary F1 upgrade, trials 'Macarena' rear wing",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-f1-future-decision-hinges-on-rules-not-aston-martins-performance/10840712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mclaren-brings-long-awaited-hungary-f1-upgrade-trials-macarena-rear-wing/10840774/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -53,15 +53,15 @@
       "publishedLabel": "Jul 21, 2026"
     },
     {
-      "id": "the-next-generation-gabriele-mini-0",
-      "title": "The Next Generation: Gabriele Mini",
+      "id": "f2-title-race-takes-shape-as-f1-juniors-shine-at-spa-0",
+      "title": "F2 title race takes shape as F1 juniors shine at Spa",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/fia-f2/news/the-next-generation-gabriele-mini/10827832/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/fia-f2/news/f2-title-race-takes-shape-as-f1-juniors-shine-at-spa/10840739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
       "series": [
         "f2"
       ],
       "seriesLabel": "Formula 2",
-      "publishedLabel": "Jun 9, 2026"
+      "publishedLabel": "Jul 21, 2026"
     },
     {
       "id": "formula-3-announces-1-million-prize-fund-with-immediate-effect-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "fernando-alonso-f1-future-decision-hinges-on-rules-not-aston-martins-performance-0",
+      "id": "mclaren-brings-long-awaited-hungary-f1-upgrade-trials-macarena-rear-wing-0",
+      "title": "McLaren brings long-awaited Hungary F1 upgrade, trials 'Macarena' rear wing",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-brings-long-awaited-hungary-f1-upgrade-trials-macarena-rear-wing/10840774/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 21, 2026"
+    },
+    {
+      "id": "oscar-piastri-among-drivers-skipping-fp1-as-rookies-join-f1-hungary-weekend-1",
+      "title": "Oscar Piastri among drivers skipping FP1 as rookies join F1 Hungary weekend",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/piastri-colapinto-bearman-to-skip-fp1-as-rookie-drivers-join-f1-hungary-weekend/10840763/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 21, 2026"
+    },
+    {
+      "id": "fernando-alonso-f1-future-decision-hinges-on-rules-not-aston-martins-performance-2",
       "title": "Fernando Alonso: F1 future decision hinges on rules, not Aston Martin’s performance",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fernando-alonso-f1-future-decision-hinges-on-rules-not-aston-martins-performance/10840712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +121,7 @@
       "publishedLabel": "Jul 21, 2026"
     },
     {
-      "id": "red-bull-finds-successors-to-gianpiero-lambiase-and-helmut-marko-what-does-it-say-about-the-teams-f1-future-1",
+      "id": "red-bull-finds-successors-to-gianpiero-lambiase-and-helmut-marko-what-does-it-say-about-the-teams-f1-future-3",
       "title": "Red Bull finds successors to Gianpiero Lambiase and Helmut Marko – what does it say about the team's F1 future?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/red-bull-finds-successors-to-gianpiero-lambiase-and-helmut-marko-what-does-it-say-about-the-teams-f/10840697/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,29 +132,18 @@
       "publishedLabel": "Jul 21, 2026"
     },
     {
-      "id": "mercedes-still-struggling-to-understand-george-russells-deployment-issues-2",
-      "title": "Mercedes \"still struggling\" to understand George Russell's deployment issues",
+      "id": "f2-title-race-takes-shape-as-f1-juniors-shine-at-spa-0",
+      "title": "F2 title race takes shape as F1 juniors shine at Spa",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-still-struggling-to-understand-george-russells-deployment-issues-despite-driving-style-cha/10840679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/fia-f2/news/f2-title-race-takes-shape-as-f1-juniors-shine-at-spa/10840739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
       "series": [
-        "f1"
+        "f2"
       ],
-      "seriesLabel": "Formula 1",
+      "seriesLabel": "Formula 2",
       "publishedLabel": "Jul 21, 2026"
     },
     {
-      "id": "mercedes-is-open-to-team-orders-now-but-its-not-what-you-think-3",
-      "title": "Mercedes is open to team orders now – but it’s not what you think",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-team-orders-antonelli-russell/10840549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 21, 2026"
-    },
-    {
-      "id": "the-next-generation-gabriele-mini-0",
+      "id": "the-next-generation-gabriele-mini-1",
       "title": "The Next Generation: Gabriele Mini",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/fia-f2/news/the-next-generation-gabriele-mini/10827832/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
@@ -143,7 +154,7 @@
       "publishedLabel": "Jun 9, 2026"
     },
     {
-      "id": "cadillac-on-colton-hertas-tricky-f2-debut-he-wasnt-going-to-blow-everyone-away-1",
+      "id": "cadillac-on-colton-hertas-tricky-f2-debut-he-wasnt-going-to-blow-everyone-away-2",
       "title": "Cadillac on Colton Herta’s tricky F2 debut: ‘He wasn’t going to blow everyone away’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/fia-f2/news/cadillac-on-colton-hertas-tricky-f2-debut-he-wasnt-going-to-blow-everyone-away/10827163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
@@ -154,7 +165,7 @@
       "publishedLabel": "Jun 5, 2026"
     },
     {
-      "id": "formula-2-and-formula-3-reveal-new-logos-mid-season-2",
+      "id": "formula-2-and-formula-3-reveal-new-logos-mid-season-3",
       "title": "Formula 2 and Formula 3 reveal new logos mid-season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/fia-f2/news/formula-2-and-formula-3-reveal-new-logos-mid-season/10825996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
@@ -163,17 +174,6 @@
       ],
       "seriesLabel": "Formula 2",
       "publishedLabel": "Jun 1, 2026"
-    },
-    {
-      "id": "f2-to-join-f1-bill-in-miami-and-canada-3",
-      "title": "F2 to join F1 bill in Miami and Canada",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/fia-f2/news/f2-and-f3-to-join-f1-bill-in-miami-and-canada/10811683/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-FIA-F2&utm_term=News&utm_content=www",
-      "series": [
-        "f2"
-      ],
-      "seriesLabel": "Formula 2",
-      "publishedLabel": "Apr 9, 2026"
     },
     {
       "id": "formula-3-announces-1-million-prize-fund-with-immediate-effect-0",
@@ -264,7 +264,29 @@
       "publishedLabel": "Jul 18, 2026"
     },
     {
-      "id": "alex-palou-was-not-confident-at-all-in-outlasting-late-pressure-to-win-nashville-0",
+      "id": "winners-and-losers-from-the-indycar-race-in-nashville-0",
+      "title": "Winners and losers from the IndyCar race in Nashville",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-in-nashville/10840787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 21, 2026"
+    },
+    {
+      "id": "mick-schumacher-secures-career-best-indycar-finish-of-eighth-at-nashville-1",
+      "title": "Mick Schumacher secures career-best IndyCar finish of eighth at Nashville",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/mick-schumacher-secures-career-best-indycar-finish-of-eighth-at-nashville/10840753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 21, 2026"
+    },
+    {
+      "id": "alex-palou-was-not-confident-at-all-in-outlasting-late-pressure-to-win-nashville-2",
       "title": "Alex Palou “was not confident at all” in outlasting late pressure to win Nashville",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-was-not-confident-at-all-in-outlasting-late-pressure-to-win-nashville/10840624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,32 +297,10 @@
       "publishedLabel": "Jul 20, 2026"
     },
     {
-      "id": "david-malukas-never-driven-so-hard-in-my-life-going-last-to-third-in-nashville-1",
+      "id": "david-malukas-never-driven-so-hard-in-my-life-going-last-to-third-in-nashville-3",
       "title": "David Malukas “never driven so hard in my life” going last to third in Nashville",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-never-driven-so-hard-in-my-life-going-last-to-third-in-nashville/10840622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 20, 2026"
-    },
-    {
-      "id": "complete-indycar-championship-standings-after-2026-nashville-2",
-      "title": "Complete IndyCar championship standings after 2026 Nashville",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-nashville/10840609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 20, 2026"
-    },
-    {
-      "id": "josef-newgarden-denied-home-repeat-victory-finishes-second-at-nashville-3",
-      "title": "Josef Newgarden denied home repeat victory, finishes second at Nashville",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/josef-newgarden-denied-home-repeat-victory-finishes-second-at-nashville/10840617/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
