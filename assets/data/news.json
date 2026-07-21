@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T02:02:04.175Z",
+  "generatedAt": "2026-07-21T08:13:24.093Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -75,15 +75,15 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "alex-marquez-explains-why-he-couldnt-turn-down-ktm-factory-move-0",
-      "title": "Alex Marquez explains why he couldn't turn down KTM factory move ",
+      "id": "honda-signs-david-alonso-for-2027-without-confirming-which-team-he-will-join-0",
+      "title": "Honda signs David Alonso for 2027 without confirming which team he will join",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/alex-marquez-explains-why-he-couldnt-turn-down-ktm-factory-move-/10840462/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/honda-signs-david-alonso-for-2027-without-confirming-which-team-he-will-join/10840652/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 20, 2026"
+      "publishedLabel": "Jul 21, 2026"
     }
   ],
   "articles": [
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "alex-marquez-explains-why-he-couldnt-turn-down-ktm-factory-move-0",
+      "id": "honda-signs-david-alonso-for-2027-without-confirming-which-team-he-will-join-0",
+      "title": "Honda signs David Alonso for 2027 without confirming which team he will join",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/honda-signs-david-alonso-for-2027-without-confirming-which-team-he-will-join/10840652/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 21, 2026"
+    },
+    {
+      "id": "alex-marquez-explains-why-he-couldnt-turn-down-ktm-factory-move-1",
       "title": "Alex Marquez explains why he couldn't turn down KTM factory move ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/alex-marquez-explains-why-he-couldnt-turn-down-ktm-factory-move-/10840462/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 20, 2026"
     },
     {
-      "id": "who-has-been-motogps-highest-points-scorer-in-the-european-leg-so-far-1",
+      "id": "who-has-been-motogps-highest-points-scorer-in-the-european-leg-so-far-2",
       "title": "Who has been MotoGP’s highest points scorer in the European leg so far?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/who-has-been-motogps-highest-points-scorer-in-the-european-leg-so-far/10839651/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Jul 18, 2026"
     },
     {
-      "id": "honda-chooses-luca-marinis-crew-chief-for-fabio-quartararos-arrival-2",
+      "id": "honda-chooses-luca-marinis-crew-chief-for-fabio-quartararos-arrival-3",
       "title": "Honda chooses Luca Marini's crew chief for Fabio Quartararo's arrival",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/honda-chooses-marinis-crew-chief-to-guide-quartararos-arrival/10839400/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 17, 2026"
-    },
-    {
-      "id": "pedro-acosta-gives-himself-710-rating-after-first-half-of-motogp-2026-3",
-      "title": "Pedro Acosta gives himself 7/10 rating after first half of MotoGP 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-gives-himself-7-10-rating-after-first-half-of-motogp-2026/10839155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
