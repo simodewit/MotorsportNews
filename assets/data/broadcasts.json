@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T10:18:02.478Z",
+  "generatedAt": "2026-07-21T17:07:54.645Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,40 +49,25 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Nashville Superspeedway",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "pT6UiUZu0r4",
+      "url": "https://www.youtube.com/watch?v=pT6UiUZu0r4",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
       "title": "Drift Masters Round 6 - Germany - Top32",
       "channel": "Red Bull Motorsports",
       "videoId": "JA9SceYZCpo",
       "url": "https://www.youtube.com/watch?v=JA9SceYZCpo",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Drift Masters Round 5 - Latvia - Top16",
-      "channel": "Red Bull Motorsports",
-      "videoId": "WlSp8a03mK4",
-      "url": "https://www.youtube.com/watch?v=WlSp8a03mK4",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Drift Masters Round 5 - Latvia - Top32",
-      "channel": "Red Bull Motorsports",
-      "videoId": "TvRYD0TiIro",
-      "url": "https://www.youtube.com/watch?v=TvRYD0TiIro",
       "series": [
         "other"
       ],
