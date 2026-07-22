@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T13:27:37.617Z",
+  "generatedAt": "2026-07-22T19:02:50.931Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "why-aston-martins-updated-f1-car-holds-the-key-to-the-2027-driver-market-0",
-      "title": "Why Aston Martin’s updated F1 car holds the key to the 2027 driver market",
+      "id": "its-been-a-while-since-we-were-truly-racing-aston-martin-pins-f1-hopes-on-hungarian-gp-upgrades-0",
+      "title": "‘It’s been a while since we were truly racing’ - Aston Martin pins F1 hopes on Hungarian GP upgrades",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-the-new-aston-martin-is-the-key-to-the-2027-driver-market/10840875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/its-been-a-while-since-we-were-truly-racing-aston-martin-hopes-upgrades-will-turn-around-its-f1-sea/10840917/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "why-aston-martins-updated-f1-car-holds-the-key-to-the-2027-driver-market-0",
+      "id": "its-been-a-while-since-we-were-truly-racing-aston-martin-pins-f1-hopes-on-hungarian-gp-upgrades-0",
+      "title": "‘It’s been a while since we were truly racing’ - Aston Martin pins F1 hopes on Hungarian GP upgrades",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/its-been-a-while-since-we-were-truly-racing-aston-martin-hopes-upgrades-will-turn-around-its-f1-sea/10840917/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 22, 2026"
+    },
+    {
+      "id": "five-things-to-look-out-for-at-the-f1-hungarian-gp-1",
+      "title": "Five things to look out for at the F1 Hungarian GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-hungarian-gp/10840924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 22, 2026"
+    },
+    {
+      "id": "why-aston-martins-updated-f1-car-holds-the-key-to-the-2027-driver-market-2",
       "title": "Why Aston Martin’s updated F1 car holds the key to the 2027 driver market",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-the-new-aston-martin-is-the-key-to-the-2027-driver-market/10840875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 22, 2026"
     },
     {
-      "id": "explained-are-drivers-really-being-beaten-by-ai-elements-in-f1s-2026-power-units-1",
+      "id": "explained-are-drivers-really-being-beaten-by-ai-elements-in-f1s-2026-power-units-3",
       "title": "Explained: Are drivers really being beaten by AI elements in F1's 2026 power units?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/explained-are-drivers-really-being-beaten-by-ai-elements-in-f1s-2026-power-units/10840877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 22, 2026"
-    },
-    {
-      "id": "why-kimi-antonellis-aggressive-driving-style-works-so-well-in-f1-2026-2",
-      "title": "Why Kimi Antonelli’s aggressive driving style works so well in F1 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-antonelli-inside-the-secrets-of-the-aggressive-driving-style-that-makes-him-so-fast-in-the-2026-/10840852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 22, 2026"
-    },
-    {
-      "id": "lewis-hamilton-takes-full-responsibility-for-disappointing-belgian-gp-result-3",
-      "title": "Lewis Hamilton takes \"full responsibility\" for disappointing Belgian GP result",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/hamilton-takes-full-responsibility-for-not-delivering-on-ferrari-pace-at-belgian-gp/10840771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 20, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-race-in-nashville-0",
+      "id": "dreyer-reinbold-racing-to-return-full-time-to-indycar-in-2027-following-charter-purchase-from-rll-0",
+      "title": "Dreyer & Reinbold Racing to return full-time to IndyCar in 2027 following charter purchase from RLL",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/dreyer-reinbold-racing-to-return-full-time-to-indycar-in-2027-following-charter-purchase-from-rll/10840941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 22, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-the-indycar-race-in-nashville-1",
       "title": "Winners and losers from the IndyCar race in Nashville",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-in-nashville/10840787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 21, 2026"
     },
     {
-      "id": "mick-schumacher-secures-career-best-indycar-finish-of-eighth-at-nashville-1",
+      "id": "mick-schumacher-secures-career-best-indycar-finish-of-eighth-at-nashville-2",
       "title": "Mick Schumacher secures career-best IndyCar finish of eighth at Nashville",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/mick-schumacher-secures-career-best-indycar-finish-of-eighth-at-nashville/10840753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Jul 21, 2026"
     },
     {
-      "id": "alex-palou-was-not-confident-at-all-in-outlasting-late-pressure-to-win-nashville-2",
+      "id": "alex-palou-was-not-confident-at-all-in-outlasting-late-pressure-to-win-nashville-3",
       "title": "Alex Palou “was not confident at all” in outlasting late pressure to win Nashville",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-was-not-confident-at-all-in-outlasting-late-pressure-to-win-nashville/10840624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 20, 2026"
-    },
-    {
-      "id": "david-malukas-never-driven-so-hard-in-my-life-going-last-to-third-in-nashville-3",
-      "title": "David Malukas “never driven so hard in my life” going last to third in Nashville",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/david-malukas-never-driven-so-hard-in-my-life-going-last-to-third-in-nashville/10840622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
