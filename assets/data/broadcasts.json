@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T17:07:54.645Z",
+  "generatedAt": "2026-07-22T01:55:29.065Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Nashville Superspeedway",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "pT6UiUZu0r4",
-      "url": "https://www.youtube.com/watch?v=pT6UiUZu0r4",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
