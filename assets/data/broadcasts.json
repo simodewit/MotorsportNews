@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T10:17:44.986Z",
+  "generatedAt": "2026-07-22T17:08:25.506Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Drift Masters Round 6 - Germany - Top32",
-      "channel": "Red Bull Motorsports",
-      "videoId": "JA9SceYZCpo",
-      "url": "https://www.youtube.com/watch?v=JA9SceYZCpo",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
