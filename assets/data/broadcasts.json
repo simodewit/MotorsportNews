@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T10:12:53.689Z",
+  "generatedAt": "2026-07-23T17:11:20.717Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Upcoming",
+      "title": "Weekend Warm-Up | 2026 Hungarian Grand Prix",
+      "channel": "FORMULA 1",
+      "videoId": "mUd0IvYT4_w",
+      "url": "https://www.youtube.com/watch?v=mUd0IvYT4_w",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
