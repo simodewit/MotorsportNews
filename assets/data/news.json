@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T02:03:09.611Z",
+  "generatedAt": "2026-07-24T08:13:16.969Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "guenther-steiner-ferrari-focus-is-limiting-kimi-antonellis-italian-support-0",
-      "title": "Guenther Steiner: Ferrari focus is limiting Kimi Antonelli's Italian support",
+      "id": "mercedes-faces-ferrari-threat-amid-reliability-woes-says-david-coulthard-0",
+      "title": "Mercedes faces Ferrari threat amid reliability woes, says David Coulthard",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-ferrari-focus-is-limiting-kimi-antonellis-italian-support/10841222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mercedes-faces-ferrari-threat-amid-reliability-woes-says-david-coulthard/10841208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 23, 2026"
+      "publishedLabel": "Jul 24, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -75,20 +75,42 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "yamaha-picks-experienced-david-munoz-to-oversee-jorge-martins-adaptation-0",
-      "title": "Yamaha picks experienced David Munoz to oversee Jorge Martin's adaptation",
+      "id": "pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose-0",
+      "title": "Pedro Acosta on leaving KTM for Ducati: “I have no more time to lose”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/yamaha-picks-veteran-david-munoz-to-oversee-jorge-martins-adaptation/10841014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose/10841129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 23, 2026"
+      "publishedLabel": "Jul 24, 2026"
     }
   ],
   "articles": [
     {
-      "id": "guenther-steiner-ferrari-focus-is-limiting-kimi-antonellis-italian-support-0",
+      "id": "mercedes-faces-ferrari-threat-amid-reliability-woes-says-david-coulthard-0",
+      "title": "Mercedes faces Ferrari threat amid reliability woes, says David Coulthard",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mercedes-faces-ferrari-threat-amid-reliability-woes-says-david-coulthard/10841208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 24, 2026"
+    },
+    {
+      "id": "lewis-hamilton-f1-belgian-gp-penalty-was-completely-justified-says-former-driver-1",
+      "title": "Lewis Hamilton F1 Belgian GP penalty was completely justified, says former driver",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-f1-belgian-gp-penalty-was-completely-justified-says-former-driver/10841255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 24, 2026"
+    },
+    {
+      "id": "guenther-steiner-ferrari-focus-is-limiting-kimi-antonellis-italian-support-2",
       "title": "Guenther Steiner: Ferrari focus is limiting Kimi Antonelli's Italian support",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/guenther-steiner-ferrari-focus-is-limiting-kimi-antonellis-italian-support/10841222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 23, 2026"
     },
     {
-      "id": "max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like-1",
+      "id": "max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like-3",
       "title": "Max Verstappen: \"At first they said I was complaining – now more people see what F1 2026 is like\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-at-first-they-said-i-was-complaining-now-more-people-see-what-f1-2026-is-like/10841197/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 23, 2026"
-    },
-    {
-      "id": "f1-hungarian-gp-friday-schedule-weather-forecast-and-how-to-watch-2",
-      "title": "F1 Hungarian GP: Friday schedule, weather forecast and how to watch",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-friday-schedule-weather-forecast-and-how-to-watch/10841179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 23, 2026"
-    },
-    {
-      "id": "im-gonna-stretch-your-neck-like-a-chicken-kimi-antonelli-explains-tough-love-from-his-father-after-f1-mistakes-3",
-      "title": "“I’m gonna stretch your neck like a chicken” – Kimi Antonelli explains tough love from his father after F1 mistakes",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/im-gonna-stretch-your-neck-like-a-chicken-kimi-antonelli-explains-tough-love-from-his-father-after-/10841195/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "yamaha-picks-experienced-david-munoz-to-oversee-jorge-martins-adaptation-0",
+      "id": "pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose-0",
+      "title": "Pedro Acosta on leaving KTM for Ducati: “I have no more time to lose”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose/10841129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 24, 2026"
+    },
+    {
+      "id": "yamaha-picks-experienced-david-munoz-to-oversee-jorge-martins-adaptation-1",
       "title": "Yamaha picks experienced David Munoz to oversee Jorge Martin's adaptation",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/yamaha-picks-veteran-david-munoz-to-oversee-jorge-martins-adaptation/10841014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 23, 2026"
     },
     {
-      "id": "how-much-do-motogp-tyres-cost-and-who-pays-for-them-1",
+      "id": "how-much-do-motogp-tyres-cost-and-who-pays-for-them-2",
       "title": "How much do MotoGP tyres cost and who pays for them?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/how-much-do-motogp-tyres-cost-and-who-pays-for-them/10841011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jul 23, 2026"
     },
     {
-      "id": "the-issue-that-is-holding-francesco-bagnaia-back-in-motogp-2026-2",
+      "id": "the-issue-that-is-holding-francesco-bagnaia-back-in-motogp-2026-3",
       "title": "The issue that is holding Francesco Bagnaia back in MotoGP 2026",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/the-issue-that-has-been-holding-back-francesco-bagnaia-since-motogp-season-opener/10840558/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Jul 22, 2026"
-    },
-    {
-      "id": "fabio-quartararo-officially-switches-to-honda-for-2027-motogp-season-3",
-      "title": "Fabio Quartararo officially switches to Honda for 2027 MotoGP season",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/honda-confirms-fabio-quartararo-signing-on-a-two-year-motogp-deal/10840665/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 21, 2026"
     },
     {
       "id": "road-to-2027-inside-dreyer-reinbolds-return-to-full-time-indycar-0",
