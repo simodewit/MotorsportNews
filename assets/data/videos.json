@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T02:24:27.981Z",
+  "generatedAt": "2026-07-26T09:54:26.678Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "4BUkPIwkB5Q",
+      "title": "F3 Feature Race Highlights | 2026 Hungarian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "0aDXQq_JB2w",
       "title": "Lando Norris & Lewis Hamilton's Ghost Car Comparison Lap | 2026 Hungarian Grand Prix",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "ClYZjwjS0hs",
       "title": "Lando Norris' Pole Lap | 2026 Hungarian Grand Prix | Pirelli",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "psCoSNEZS1Q",
-      "title": "Du Du Du Duuu! 🗣️🎶",
       "channel": "FORMULA 1",
       "series": [
         "f1"
