@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T16:52:12.535Z",
+  "generatedAt": "2026-07-26T02:24:27.981Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,39 @@
       ]
     },
     {
+      "videoId": "0aDXQq_JB2w",
+      "title": "Lando Norris & Lewis Hamilton's Ghost Car Comparison Lap | 2026 Hungarian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "VmIhRVJt5ac",
+      "title": "Drivers React To Qualifying | 2026 Hungarian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "ClYZjwjS0hs",
+      "title": "Lando Norris' Pole Lap | 2026 Hungarian Grand Prix | Pirelli",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "psCoSNEZS1Q",
       "title": "Du Du Du Duuu! 🗣️🎶",
       "channel": "FORMULA 1",
@@ -75,36 +108,14 @@
       ]
     },
     {
-      "videoId": "rqTTczYv93A",
-      "title": "Qualifying Highlights | 2026 Hungarian Grand Prix",
-      "channel": "FORMULA 1",
+      "videoId": "UQUh35C_e3U",
+      "title": "The MotoGP Lucky Fan Experience!",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "L-IT3H99k8A",
-      "title": "F2 Sprint Race Highlights | 2026 Hungarian Grand Prix",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "1rk3CKD5DGQ",
-      "title": "FP3 Highlights | 2026 Hungarian Grand Prix",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
@@ -132,17 +143,6 @@
     {
       "videoId": "wxnDfRqMxa4",
       "title": "Jorge Martin's return to the top step!🦾",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "-Uwz18sjRGA",
-      "title": "MotoGP HIGHLIGHTS 🦾 2026 French GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
