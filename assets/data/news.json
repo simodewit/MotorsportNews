@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T18:57:23.117Z",
+  "generatedAt": "2026-07-26T02:07:27.043Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "carlos-sainz-makes-sobering-williams-prediction-before-arrival-of-major-upgrades-0",
-      "title": "Carlos Sainz makes sobering Williams prediction before arrival of major upgrades",
+      "id": "f1-fans-argue-lewis-hamilton-cant-catch-a-break-after-hungarian-gp-penalty-0",
+      "title": "F1 fans argue Lewis Hamilton \"can't catch a break\" after Hungarian GP penalty",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-makes-sobering-williams-prediction-before-arrival-of-major-upgrades/10841903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-fans-argue-lewis-hamilton-cant-catch-a-break-after-hungarian-gp-penalty/10841933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "carlos-sainz-makes-sobering-williams-prediction-before-arrival-of-major-upgrades-0",
+      "id": "f1-fans-argue-lewis-hamilton-cant-catch-a-break-after-hungarian-gp-penalty-0",
+      "title": "F1 fans argue Lewis Hamilton \"can't catch a break\" after Hungarian GP penalty",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-fans-argue-lewis-hamilton-cant-catch-a-break-after-hungarian-gp-penalty/10841933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 25, 2026"
+    },
+    {
+      "id": "bernd-maylander-reveals-upgrades-to-f1s-new-mercedes-safety-car-1",
+      "title": "Bernd Mayländer reveals upgrades to F1's new Mercedes safety car",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/bernd-maylander-reveals-upgrades-to-f1s-new-mercedes-safety-car/10841925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 25, 2026"
+    },
+    {
+      "id": "carlos-sainz-makes-sobering-williams-prediction-before-arrival-of-major-upgrades-2",
       "title": "Carlos Sainz makes sobering Williams prediction before arrival of major upgrades",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/carlos-sainz-makes-sobering-williams-prediction-before-arrival-of-major-upgrades/10841903/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Jul 25, 2026"
     },
     {
-      "id": "kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying-1",
+      "id": "kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying-3",
       "title": "Kimi Antonelli handed grid drop for yellow flag infringement in F1 Hungarian GP qualifying",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-handed-grid-drop-for-yellow-flag-infringement-in-f1-hungarian-gp-qualifying/10841895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 25, 2026"
-    },
-    {
-      "id": "its-our-mistake-ferrari-takes-blame-for-lewis-hamilton-penalty-in-f1-hungarian-gp-qualifying-2",
-      "title": "\"It's our mistake\" Ferrari takes blame for Lewis Hamilton penalty in F1 Hungarian GP qualifying",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/its-our-mistake-ferrari-takes-blame-for-lewis-hamilton-penalty-in-f1-hungarian-gp-qualifying/10841872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 25, 2026"
-    },
-    {
-      "id": "f1-hungarian-gp-sunday-schedule-weather-forecast-and-how-to-watch-3",
-      "title": "F1 Hungarian GP: Sunday schedule, weather forecast and how to watch",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-hungarian-gp-sunday-schedule-weather-forecast-and-how-to-watch/10841811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
