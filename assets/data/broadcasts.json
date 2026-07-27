@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T02:09:58.325Z",
+  "generatedAt": "2026-07-27T11:11:50.527Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 シェイクダウン ライブ！ WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
+      "videoId": "lnKlmLRY1Lk",
+      "url": "https://www.youtube.com/watch?v=lnKlmLRY1Lk",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 Shakedown LIVE | WRC Secto Rally Finland 2026 🇫🇮",
+      "channel": "FIA World Rally Championship",
+      "videoId": "yNXHY3lR794",
+      "url": "https://www.youtube.com/watch?v=yNXHY3lR794",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
