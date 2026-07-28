@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T02:06:52.346Z",
+  "generatedAt": "2026-07-28T10:29:56.231Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "ZCDZ1-Pllqo",
+      "title": "FULL SEND Rally Moments in Finland!",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "7Ag5CWAk2bU",
       "title": "FULL ONBOARD - SS17 Latvala/Anttila | WRC Rally Finland 2015",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "lnKlmLRY1Lk",
       "title": "🔴 シェイクダウン ライブ！ WRC Secto Rally Finland 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "yNXHY3lR794",
-      "title": "🔴 Shakedown LIVE | WRC Secto Rally Finland 2026 🇫🇮",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
