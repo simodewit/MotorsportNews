@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T17:38:39.311Z",
+  "generatedAt": "2026-07-28T02:06:52.346Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "6tsoMKXND8o",
+      "title": "This Heli Cam Of Wheel-to-Wheel Action 🚁🔥",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "LTha9K87eYM",
       "title": "‘Sublime’ Lando, The ‘Max factor’ + Fernando’s ‘Fire’ | Hungarian GP Review | F1 Nation Podcast",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "TB46jnnYgpA",
       "title": "Radio Rewind | 2026 Hungarian Grand Prix",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "pz0_tmOHYf4",
-      "title": "What It's Like To Drive An F1 Race 😮‍💨😮‍💨",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "EtgStaJCOLE",
+      "title": "Two sports at one iconic venue 🏁 Who wins? @ipthepostman #indycar #golf #mclaren",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "y3Cmhw8r9qA",
       "title": "🔴 LIVE: INDYCAR Race Marathon | Full Race Replays",
       "channel": "NTT INDYCAR SERIES",
@@ -220,17 +231,6 @@
     {
       "videoId": "w0_x-cEmgdE",
       "title": "Best Onboard Moments | 2026 INDYCAR at Nashville",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "pT6UiUZu0r4",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Nashville Superspeedway",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
