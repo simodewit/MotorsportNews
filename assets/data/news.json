@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T13:48:21.652Z",
+  "generatedAt": "2026-07-28T19:13:39.285Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name-0",
-      "title": "Bahrain GP in Malaysia: Every time F1 raced under another country's name",
+      "id": "even-ai-would-have-predicted-mclarens-hungary-gp-win-why-mercedes-isnt-worried-0",
+      "title": "‘Even AI would have predicted McLaren's Hungary GP win’ - why Mercedes isn’t worried",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name/10842066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/even-ai-would-have-predicted-mclaren-hungary-gp-win-mercedes-isnt-worried-about-rivals-f1-pace/10842626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider-0",
-      "title": "The qualities that make Marc Marquez different from every other MotoGP rider",
+      "id": "how-maverick-vinales-conflict-shows-ktms-biggest-weakness-0",
+      "title": "How Maverick Vinales' conflict shows KTM's biggest weakness",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider/10842581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/why-maverick-vinales-conflict-shows-ktms-biggest-weakness/10842673/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name-0",
+      "id": "even-ai-would-have-predicted-mclarens-hungary-gp-win-why-mercedes-isnt-worried-0",
+      "title": "‘Even AI would have predicted McLaren's Hungary GP win’ - why Mercedes isn’t worried",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/even-ai-would-have-predicted-mclaren-hungary-gp-win-mercedes-isnt-worried-about-rivals-f1-pace/10842626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 28, 2026"
+    },
+    {
+      "id": "bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name-1",
       "title": "Bahrain GP in Malaysia: Every time F1 raced under another country's name",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name/10842066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "former-red-bull-insider-warns-f1-calendar-risks-professional-burnout-1",
+      "id": "former-red-bull-insider-warns-f1-calendar-risks-professional-burnout-2",
       "title": "Former Red Bull insider warns F1 calendar risks \"professional burnout\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/former-red-bull-insider-warns-f1-calendar-risks-professional-burnout/10842631/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "ferrari-surprised-by-spicy-red-bull-strategy-that-yielded-max-verstappen-second-in-hungary-2",
+      "id": "ferrari-surprised-by-spicy-red-bull-strategy-that-yielded-max-verstappen-second-in-hungary-3",
       "title": "Ferrari surprised by \"spicy\" Red Bull strategy that yielded Max Verstappen second in Hungary",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ferrari-surprised-red-bull-spicy-strategy-max-verstappen-hungary/10842601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 28, 2026"
-    },
-    {
-      "id": "carlos-sainz-reveals-f1-summer-break-plans-and-30-year-tradition-3",
-      "title": "Carlos Sainz reveals F1 summer break plans and 30-year tradition",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-reveals-f1-summer-break-plans-and-30-year-tradition/10842603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider-0",
+      "id": "how-maverick-vinales-conflict-shows-ktms-biggest-weakness-0",
+      "title": "How Maverick Vinales' conflict shows KTM's biggest weakness",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/why-maverick-vinales-conflict-shows-ktms-biggest-weakness/10842673/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 28, 2026"
+    },
+    {
+      "id": "the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider-1",
       "title": "The qualities that make Marc Marquez different from every other MotoGP rider",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider/10842581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "joan-mir-honda-has-stopped-updating-2026-motogp-bike-1",
+      "id": "joan-mir-honda-has-stopped-updating-2026-motogp-bike-2",
       "title": "Joan Mir: Honda has stopped updating 2026 MotoGP bike",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/joan-mir-honda-has-stopped-updating-2026-motogp-bike/10842372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jul 27, 2026"
     },
     {
-      "id": "pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose-2",
+      "id": "pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose-3",
       "title": "Pedro Acosta on leaving KTM for Ducati: “I have no more time to lose”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose/10841129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,29 @@
       "publishedLabel": "Jul 24, 2026"
     },
     {
-      "id": "yamaha-picks-experienced-david-munoz-to-oversee-jorge-martins-adaptation-3",
-      "title": "Yamaha picks experienced David Munoz to oversee Jorge Martin's adaptation",
+      "id": "the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis-0",
+      "title": "The IndyCar paddock reacts to unveiling of next-gen IR-28 chassis",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/yamaha-picks-veteran-david-munoz-to-oversee-jorge-martins-adaptation/10841014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis/10842732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 23, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "road-to-2027-inside-dreyer-reinbolds-return-to-full-time-indycar-0",
+      "id": "indycar-unveils-faster-lighter-2028-race-car-built-to-shatter-records-1",
+      "title": "IndyCar unveils faster, lighter 2028 race car built to shatter records",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-unveils-faster-lighter-2028-race-car-built-to-shatter-records/10842705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 28, 2026"
+    },
+    {
+      "id": "road-to-2027-inside-dreyer-reinbolds-return-to-full-time-indycar-2",
       "title": "Road to 2027: Inside Dreyer & Reinbold's return to full-time IndyCar",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/road-to-2027-inside-dreyer-reinbold-racings-indycar-rebuild/10841232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Jul 23, 2026"
     },
     {
-      "id": "indycar-nascar-trucks-returning-to-st-pete-grand-prix-in-2027-1",
+      "id": "indycar-nascar-trucks-returning-to-st-pete-grand-prix-in-2027-3",
       "title": "IndyCar, NASCAR Trucks returning to St. Pete Grand Prix in 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-nascar-trucks-returning-to-st-pete-grand-prix-in-2027/10841127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 23, 2026"
-    },
-    {
-      "id": "dreyer-reinbold-racing-to-return-full-time-to-indycar-in-2027-following-charter-purchase-from-rll-2",
-      "title": "Dreyer & Reinbold Racing to return full-time to IndyCar in 2027 following charter purchase from RLL",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/dreyer-reinbold-racing-to-return-full-time-to-indycar-in-2027-following-charter-purchase-from-rll/10840941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 22, 2026"
-    },
-    {
-      "id": "winners-and-losers-from-the-indycar-race-in-nashville-3",
-      "title": "Winners and losers from the IndyCar race in Nashville",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-in-nashville/10840787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 21, 2026"
     },
     {
       "id": "ferrari-and-peugeot-begin-work-on-updated-hypercars-for-2027-wec-0",
