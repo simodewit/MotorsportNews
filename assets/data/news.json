@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T08:27:48.705Z",
+  "generatedAt": "2026-07-29T13:53:28.507Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "how-f1-2026-has-been-a-season-of-two-halves-for-ferrari-0",
-      "title": "How F1 2026 has been a season of two halves for Ferrari",
+      "id": "red-bull-admits-budget-cap-will-slow-its-f1-development-in-remainder-of-2026-0",
+      "title": "Red Bull admits budget cap will slow its F1 development in remainder of 2026",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/how-f1-2026-has-been-a-season-of-two-halves-for-ferrari/10842511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-budget-cap-will-slow-its-f1-development-in-remainder-of-2026/10842788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,20 +75,53 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "how-maverick-vinales-conflict-shows-ktms-biggest-weakness-0",
-      "title": "How Maverick Vinales' conflict shows KTM's biggest weakness",
+      "id": "alex-marquez-2026-motogp-title-fight-so-open-due-to-more-mistakes-0",
+      "title": "Alex Marquez: 2026 MotoGP title fight so open due to “more mistakes”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/why-maverick-vinales-conflict-shows-ktms-biggest-weakness/10842673/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/alex-marquez-2026-motogp-title-fight-so-open-due-to-more-mistakes/10842792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 28, 2026"
+      "publishedLabel": "Jul 29, 2026"
     }
   ],
   "articles": [
     {
-      "id": "how-f1-2026-has-been-a-season-of-two-halves-for-ferrari-0",
+      "id": "red-bull-admits-budget-cap-will-slow-its-f1-development-in-remainder-of-2026-0",
+      "title": "Red Bull admits budget cap will slow its F1 development in remainder of 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-budget-cap-will-slow-its-f1-development-in-remainder-of-2026/10842788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 29, 2026"
+    },
+    {
+      "id": "we-dont-want-to-put-tape-on-anyones-mouth-f1-boss-reacts-to-driver-criticism-of-2026-rules-1",
+      "title": "\"We don't want to put tape on anyone's mouth\" – F1 boss reacts to driver criticism of 2026 rules",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/we-dont-want-to-put-tape-on-anyones-mouth-f1-boss-reacts-to-driver-criticism-of-2026-rules/10842817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 29, 2026"
+    },
+    {
+      "id": "2026-season-wont-end-in-las-vegas-f1-boss-confirms-2",
+      "title": "2026 season won't end in Las Vegas, F1 boss confirms",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/season-wont-end-in-las-vegas-f1-boss-confirms/10842807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 29, 2026"
+    },
+    {
+      "id": "how-f1-2026-has-been-a-season-of-two-halves-for-ferrari-3",
       "title": "How F1 2026 has been a season of two halves for Ferrari",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-f1-2026-has-been-a-season-of-two-halves-for-ferrari/10842511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -97,39 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Jul 29, 2026"
-    },
-    {
-      "id": "even-ai-would-have-predicted-mclarens-hungary-gp-win-why-mercedes-isnt-worried-1",
-      "title": "‘Even AI would have predicted McLaren's Hungary GP win’ - why Mercedes isn’t worried",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/even-ai-would-have-predicted-mclaren-hungary-gp-win-mercedes-isnt-worried-about-rivals-f1-pace/10842626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 28, 2026"
-    },
-    {
-      "id": "bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name-2",
-      "title": "Bahrain GP in Malaysia: Every time F1 raced under another country's name",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name/10842066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 28, 2026"
-    },
-    {
-      "id": "former-red-bull-insider-warns-f1-calendar-risks-professional-burnout-3",
-      "title": "Former Red Bull insider warns F1 calendar risks \"professional burnout\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/former-red-bull-insider-warns-f1-calendar-risks-professional-burnout/10842631/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 28, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "how-maverick-vinales-conflict-shows-ktms-biggest-weakness-0",
+      "id": "alex-marquez-2026-motogp-title-fight-so-open-due-to-more-mistakes-0",
+      "title": "Alex Marquez: 2026 MotoGP title fight so open due to “more mistakes”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/alex-marquez-2026-motogp-title-fight-so-open-due-to-more-mistakes/10842792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Jul 29, 2026"
+    },
+    {
+      "id": "how-maverick-vinales-conflict-shows-ktms-biggest-weakness-1",
       "title": "How Maverick Vinales' conflict shows KTM's biggest weakness",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/why-maverick-vinales-conflict-shows-ktms-biggest-weakness/10842673/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider-1",
+      "id": "the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider-2",
       "title": "The qualities that make Marc Marquez different from every other MotoGP rider",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/the-qualities-that-make-marc-marquez-different-from-every-other-motogp-rider/10842581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "joan-mir-honda-has-stopped-updating-2026-motogp-bike-2",
+      "id": "joan-mir-honda-has-stopped-updating-2026-motogp-bike-3",
       "title": "Joan Mir: Honda has stopped updating 2026 MotoGP bike",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/joan-mir-honda-has-stopped-updating-2026-motogp-bike/10842372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Jul 27, 2026"
-    },
-    {
-      "id": "pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose-3",
-      "title": "Pedro Acosta on leaving KTM for Ducati: “I have no more time to lose”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-on-leaving-ktm-for-ducati-i-have-no-more-time-to-lose/10841129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Jul 24, 2026"
     },
     {
       "id": "the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis-0",
