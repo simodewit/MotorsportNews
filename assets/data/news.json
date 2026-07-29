@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T01:58:50.024Z",
+  "generatedAt": "2026-07-29T08:27:48.705Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "even-ai-would-have-predicted-mclarens-hungary-gp-win-why-mercedes-isnt-worried-0",
-      "title": "‘Even AI would have predicted McLaren's Hungary GP win’ - why Mercedes isn’t worried",
+      "id": "how-f1-2026-has-been-a-season-of-two-halves-for-ferrari-0",
+      "title": "How F1 2026 has been a season of two halves for Ferrari",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/even-ai-would-have-predicted-mclaren-hungary-gp-win-mercedes-isnt-worried-about-rivals-f1-pace/10842626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/how-f1-2026-has-been-a-season-of-two-halves-for-ferrari/10842511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 28, 2026"
+      "publishedLabel": "Jul 29, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "even-ai-would-have-predicted-mclarens-hungary-gp-win-why-mercedes-isnt-worried-0",
+      "id": "how-f1-2026-has-been-a-season-of-two-halves-for-ferrari-0",
+      "title": "How F1 2026 has been a season of two halves for Ferrari",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/how-f1-2026-has-been-a-season-of-two-halves-for-ferrari/10842511/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 29, 2026"
+    },
+    {
+      "id": "even-ai-would-have-predicted-mclarens-hungary-gp-win-why-mercedes-isnt-worried-1",
       "title": "‘Even AI would have predicted McLaren's Hungary GP win’ - why Mercedes isn’t worried",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/even-ai-would-have-predicted-mclaren-hungary-gp-win-mercedes-isnt-worried-about-rivals-f1-pace/10842626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name-1",
+      "id": "bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name-2",
       "title": "Bahrain GP in Malaysia: Every time F1 raced under another country's name",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/bahrain-gp-in-malaysia-every-time-f1-raced-under-another-countrys-name/10842066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "former-red-bull-insider-warns-f1-calendar-risks-professional-burnout-2",
+      "id": "former-red-bull-insider-warns-f1-calendar-risks-professional-burnout-3",
       "title": "Former Red Bull insider warns F1 calendar risks \"professional burnout\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/former-red-bull-insider-warns-f1-calendar-risks-professional-burnout/10842631/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 28, 2026"
-    },
-    {
-      "id": "ferrari-surprised-by-spicy-red-bull-strategy-that-yielded-max-verstappen-second-in-hungary-3",
-      "title": "Ferrari surprised by \"spicy\" Red Bull strategy that yielded Max Verstappen second in Hungary",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ferrari-surprised-red-bull-spicy-strategy-max-verstappen-hungary/10842601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
