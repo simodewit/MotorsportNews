@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T17:22:37.799Z",
+  "generatedAt": "2026-07-29T02:09:54.929Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "VQwqLA2YX_M",
+      "title": "The Mixed Fortunes Of The McLarens In Hungary | F1 TV Palmer's Analysis",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "JFOkpk96PRs",
+      "title": "What Time Did The Drivers Arrive For The National Anthem? 🤔",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "5qSfrZFhVpU",
       "title": "Top 10 Onboards | 2026 Hungarian Grand Prix | Qatar Airways",
       "channel": "FORMULA 1",
@@ -77,28 +99,6 @@
     {
       "videoId": "6tsoMKXND8o",
       "title": "This Heli Cam Of Wheel-to-Wheel Action 🚁🔥",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "LTha9K87eYM",
-      "title": "‘Sublime’ Lando, The ‘Max factor’ + Fernando’s ‘Fire’ | Hungarian GP Review | F1 Nation Podcast",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "Oc90mojj6Qs",
-      "title": "Lewis Takes On Arvid 💨👏",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -197,7 +197,7 @@
     },
     {
       "videoId": "7B785AxJ8z8",
-      "title": "Inside the IR-28: Innovation, Speed and Performance | INDYCAR",
+      "title": "Meet the IR-28: Inside INDYCAR’s New Race Car",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
