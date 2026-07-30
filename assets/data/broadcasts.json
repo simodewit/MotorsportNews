@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T10:15:39.939Z",
+  "generatedAt": "2026-07-30T17:17:31.143Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴  Pre-Show LIVE |  WRC Secto Rally Finland 2026 🇫🇮",
-      "channel": "FIA World Rally Championship",
-      "videoId": "mOsUI3pUHE8",
-      "url": "https://www.youtube.com/watch?v=mOsUI3pUHE8",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
