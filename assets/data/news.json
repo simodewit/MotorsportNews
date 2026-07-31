@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:48:29.623Z",
+  "generatedAt": "2026-07-31T19:14:14.794Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "sergio-perez-reveals-how-max-verstappens-pure-leadership-made-him-a-faster-f1-driver-0",
-      "title": "Sergio Perez reveals how Max Verstappen's \"pure\" leadership made him a faster F1 driver",
+      "id": "lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break-0",
+      "title": "Lewis Hamilton welcomes new puppy Halo during F1 summer break",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-how-max-verstappens-pure-leadership-made-him-a-faster-f1-driver/10843343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break/10843395/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "sergio-perez-reveals-how-max-verstappens-pure-leadership-made-him-a-faster-f1-driver-0",
+      "id": "lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break-0",
+      "title": "Lewis Hamilton welcomes new puppy Halo during F1 summer break",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break/10843395/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 31, 2026"
+    },
+    {
+      "id": "haas-fighting-with-both-hands-tied-as-it-fails-to-match-budget-cap-1",
+      "title": "Haas “fighting with both hands tied” as it fails to match budget cap",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/haas-fighting-with-both-hands-tied-as-it-fails-to-match-budget-cap/10842889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 31, 2026"
+    },
+    {
+      "id": "rachel-brookes-opens-up-on-emotional-lewis-hamilton-farewell-after-sky-sports-f1-exit-2",
+      "title": "Rachel Brookes opens up on emotional Lewis Hamilton farewell after Sky Sports F1 exit",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/rachel-brookes-opens-up-on-emotional-lewis-hamilton-farewell-after-sky-sports-f1-exit/10843373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 31, 2026"
+    },
+    {
+      "id": "sergio-perez-reveals-how-max-verstappens-pure-leadership-made-him-a-faster-f1-driver-3",
       "title": "Sergio Perez reveals how Max Verstappen's \"pure\" leadership made him a faster F1 driver",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-how-max-verstappens-pure-leadership-made-him-a-faster-f1-driver/10843343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 31, 2026"
-    },
-    {
-      "id": "behind-the-scenes-of-arvid-lindblads-special-first-f1-british-grand-prix-1",
-      "title": "Behind the scenes of Arvid Lindblad's special first F1 British Grand Prix",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/behind-the-scenes-of-arvid-lindblads-special-first-f1-british-grand-prix/10843332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 31, 2026"
-    },
-    {
-      "id": "lando-norris-reveals-how-fierce-oscar-piastri-rivalry-has-driven-his-f1-development-2",
-      "title": "Lando Norris reveals how fierce Oscar Piastri rivalry has driven his F1 development",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-fierce-oscar-piastri-rivalry-has-driven-his-f1-development/10843323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 31, 2026"
-    },
-    {
-      "id": "david-croft-calls-out-lewis-hamilton-over-careless-mistakes-and-costly-f1-penalties-3",
-      "title": "David Croft calls out Lewis Hamilton over \"careless mistakes\" and costly F1 penalties",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/david-croft-calls-out-lewis-hamilton-over-careless-mistakes-and-costly-f1-penalties/10843314/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
