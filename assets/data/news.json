@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:14:45.980Z",
+  "generatedAt": "2026-07-31T02:07:57.354Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation-0",
-      "title": "Max Verstappen and Toto Wolff holiday photos fuel fresh Mercedes speculation",
+      "id": "george-russell-linked-to-potential-2028-audi-f1-switch-0",
+      "title": "George Russell linked to potential 2028 Audi F1 switch",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation/10843161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/george-russell-linked-to-potential-2028-audi-f1-switch/10843198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation-0",
+      "id": "george-russell-linked-to-potential-2028-audi-f1-switch-0",
+      "title": "George Russell linked to potential 2028 Audi F1 switch",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/george-russell-linked-to-potential-2028-audi-f1-switch/10843198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 30, 2026"
+    },
+    {
+      "id": "max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation-1",
       "title": "Max Verstappen and Toto Wolff holiday photos fuel fresh Mercedes speculation",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation/10843161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 30, 2026"
     },
     {
-      "id": "kimi-antonelli-mercedes-picked-me-for-2025-f1-season-before-id-even-raced-in-f2-1",
+      "id": "kimi-antonelli-mercedes-picked-me-for-2025-f1-season-before-id-even-raced-in-f2-2",
       "title": "Kimi Antonelli: ‘Mercedes picked me for 2025 F1 season before I’d even raced in F2’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-mercedes-picked-me-for-2025-f1-season-before-id-even-raced-in-f2/10843108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 30, 2026"
     },
     {
-      "id": "esteban-ocon-attends-spider-man-brand-new-day-premiere-after-special-f1-helmet-collaboration-2",
+      "id": "esteban-ocon-attends-spider-man-brand-new-day-premiere-after-special-f1-helmet-collaboration-3",
       "title": "Esteban Ocon attends \"Spider-Man: Brand New Day\" premiere after special F1 helmet collaboration",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/esteban-ocon-attends-spider-man-premiere-after-special-f1-helmet-collaboration/10843126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 30, 2026"
-    },
-    {
-      "id": "it-reminds-me-of-the-old-days-drivers-cherish-flat-out-f1-hungary-gp-3",
-      "title": "\"It reminds me of the old days\" - Drivers cherish flat out F1 Hungary GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/it-reminds-me-of-the-old-days-drivers-cherish-flat-out-f1-hungary-gp/10843031/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
