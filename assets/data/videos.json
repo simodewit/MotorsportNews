@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:21:36.735Z",
+  "generatedAt": "2026-07-31T02:24:28.728Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "9pjlQiFD1Vo",
+      "title": "Max & Lewis' Epic Battles So Far 😮‍💨",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "zr3BpDTgsdY",
       "title": "They All Forgot This Driver 😅",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "zTzpbN2kYNM",
       "title": "Spilling The Tea On his Mate 🧉🇦🇷",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "QCSqEeNF4wY",
-      "title": "Chasing The Dream | 2026 Hungarian Grand Prix | F2 Behind The Scenes",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,6 +196,39 @@
       ]
     },
     {
+      "videoId": "CWuacC5CF6E",
+      "title": "Dennis Hauger: Chasing Top Rookie Honors | INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "7mK4Te7Z3-Q",
+      "title": "Save your best piece of candy for last 🍬 #indycar #tires #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "MURfGJ0V5CA",
+      "title": "🔴 LIVE: Classic INDYCAR Race Replays | Full Race Marathon",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "7B785AxJ8z8",
       "title": "Meet the IR-28: Inside INDYCAR’s New Race Car",
       "channel": "NTT INDYCAR SERIES",
@@ -207,36 +240,25 @@
       ]
     },
     {
-      "videoId": "L39zUEJGC1o",
-      "title": "IR-28: The Next Generation of Speed | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "q_GRHPLK5FY",
+      "title": "Day 1 Highlights | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
-      "videoId": "ofExLAbgbj4",
-      "title": "🔴 LIVE: Full INDYCAR Race Replays | 2026 Season Marathon",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "3cvCrj6yN9w",
+      "title": "FULL SHAKEDOWN ONBOARD - Katsuta/Johnston | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "EtgStaJCOLE",
-      "title": "Two sports at one iconic venue 🏁 Who wins? @ipthepostman #indycar #golf #mclaren",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -253,28 +275,6 @@
     {
       "videoId": "TBei2EclbY0",
       "title": "Lift-off in Finland 🚀",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "yNXHY3lR794",
-      "title": "🔴 Shakedown LIVE | WRC Secto Rally Finland 2026 🇫🇮",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "lnKlmLRY1Lk",
-      "title": "🔴 シェイクダウン ライブ！ WRC Secto Rally Finland 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
