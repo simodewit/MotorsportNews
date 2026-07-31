@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T10:29:47.915Z",
+  "generatedAt": "2026-07-31T17:21:30.998Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 LIVE: Classic INDYCAR Race Replays | Full Race Marathon",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "MURfGJ0V5CA",
-      "url": "https://www.youtube.com/watch?v=MURfGJ0V5CA",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
