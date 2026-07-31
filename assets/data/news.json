@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T02:07:57.354Z",
+  "generatedAt": "2026-07-31T08:39:08.003Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "george-russell-linked-to-potential-2028-audi-f1-switch-0",
-      "title": "George Russell linked to potential 2028 Audi F1 switch",
+      "id": "a-race-of-upgrades-how-development-will-decide-the-2026-f1-title-0",
+      "title": "\"A race of upgrades\" - How development will decide the 2026 F1 title",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-linked-to-potential-2028-audi-f1-switch/10843198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-teams-need-up-to-half-a-second-to-be-fighting-for-wins-come-2026-finale-andrea-stella/10842813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 30, 2026"
+      "publishedLabel": "Jul 31, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "george-russell-linked-to-potential-2028-audi-f1-switch-0",
+      "id": "a-race-of-upgrades-how-development-will-decide-the-2026-f1-title-0",
+      "title": "\"A race of upgrades\" - How development will decide the 2026 F1 title",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-teams-need-up-to-half-a-second-to-be-fighting-for-wins-come-2026-finale-andrea-stella/10842813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Jul 31, 2026"
+    },
+    {
+      "id": "george-russell-linked-to-potential-2028-audi-f1-switch-1",
       "title": "George Russell linked to potential 2028 Audi F1 switch",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-linked-to-potential-2028-audi-f1-switch/10843198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 30, 2026"
     },
     {
-      "id": "max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation-1",
+      "id": "max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation-2",
       "title": "Max Verstappen and Toto Wolff holiday photos fuel fresh Mercedes speculation",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-and-toto-wolff-holiday-photos-fuel-fresh-mercedes-speculation/10843161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 30, 2026"
     },
     {
-      "id": "kimi-antonelli-mercedes-picked-me-for-2025-f1-season-before-id-even-raced-in-f2-2",
-      "title": "Kimi Antonelli: ‘Mercedes picked me for 2025 F1 season before I’d even raced in F2’",
+      "id": "kimi-antonelli-toto-wolff-picked-me-for-2025-mercedes-f1-seat-before-id-even-raced-f2-3",
+      "title": "Kimi Antonelli: ‘Toto Wolff picked me for 2025 Mercedes F1 seat before I’d even raced F2’",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-mercedes-picked-me-for-2025-f1-season-before-id-even-raced-in-f2/10843108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 30, 2026"
-    },
-    {
-      "id": "esteban-ocon-attends-spider-man-brand-new-day-premiere-after-special-f1-helmet-collaboration-3",
-      "title": "Esteban Ocon attends \"Spider-Man: Brand New Day\" premiere after special F1 helmet collaboration",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/esteban-ocon-attends-spider-man-premiere-after-special-f1-helmet-collaboration/10843126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
