@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:14:14.794Z",
+  "generatedAt": "2026-08-01T02:09:22.581Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,29 @@
       "publishedLabel": "Jul 30, 2026"
     },
     {
-      "id": "alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test-0",
+      "id": "inside-indycars-ir-28-new-images-of-2028-chassis-0",
+      "title": "Inside IndyCar's IR-28: New images of 2028 chassis ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/closer-look-new-images-of-indycars-ir-28-chassis-/10843432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 31, 2026"
+    },
+    {
+      "id": "what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution-1",
+      "title": "What we learned inside a first look of IndyCar’s clean-sheet IR-28 revolution",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution/10843452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Jul 31, 2026"
+    },
+    {
+      "id": "alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test-2",
       "title": "Alex Palou, Alexander Rossi to give IndyCar’s IR-28 its first track test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test/10843169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Jul 30, 2026"
     },
     {
-      "id": "the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis-1",
+      "id": "the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis-3",
       "title": "The IndyCar paddock reacts to unveiling of next-gen IR-28 chassis",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis/10842732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 28, 2026"
-    },
-    {
-      "id": "indycar-unveils-faster-lighter-2028-race-car-built-to-shatter-records-2",
-      "title": "IndyCar unveils faster, lighter 2028 race car built to shatter records",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-unveils-faster-lighter-2028-race-car-built-to-shatter-records/10842705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 28, 2026"
-    },
-    {
-      "id": "road-to-2027-inside-dreyer-reinbolds-return-to-full-time-indycar-3",
-      "title": "Road to 2027: Inside Dreyer & Reinbold's return to full-time IndyCar",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/road-to-2027-inside-dreyer-reinbold-racings-indycar-rebuild/10841232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 23, 2026"
     },
     {
       "id": "ferrari-and-peugeot-begin-work-on-updated-hypercars-for-2027-wec-0",
