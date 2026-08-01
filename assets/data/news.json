@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T02:09:22.581Z",
+  "generatedAt": "2026-08-01T08:08:56.540Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break-0",
-      "title": "Lewis Hamilton welcomes new puppy Halo during F1 summer break",
+      "id": "max-verstappens-red-bull-radio-complaints-prompt-mclaren-move-question-from-david-croft-0",
+      "title": "Max Verstappen's Red Bull radio complaints prompt McLaren move question from David Croft",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break/10843395/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-radio-complaints-prompt-mclaren-move-question-from-david-croft/10843399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 31, 2026"
+      "publishedLabel": "Aug 1, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break-0",
+      "id": "max-verstappens-red-bull-radio-complaints-prompt-mclaren-move-question-from-david-croft-0",
+      "title": "Max Verstappen's Red Bull radio complaints prompt McLaren move question from David Croft",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-radio-complaints-prompt-mclaren-move-question-from-david-croft/10843399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 1, 2026"
+    },
+    {
+      "id": "lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break-1",
       "title": "Lewis Hamilton welcomes new puppy Halo during F1 summer break",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-welcomes-new-puppy-halo-during-f1-summer-break/10843395/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Jul 31, 2026"
     },
     {
-      "id": "haas-fighting-with-both-hands-tied-as-it-fails-to-match-budget-cap-1",
+      "id": "haas-fighting-with-both-hands-tied-as-it-fails-to-match-budget-cap-2",
       "title": "Haas “fighting with both hands tied” as it fails to match budget cap",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/haas-fighting-with-both-hands-tied-as-it-fails-to-match-budget-cap/10842889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Jul 31, 2026"
     },
     {
-      "id": "rachel-brookes-opens-up-on-emotional-lewis-hamilton-farewell-after-sky-sports-f1-exit-2",
+      "id": "rachel-brookes-opens-up-on-emotional-lewis-hamilton-farewell-after-sky-sports-f1-exit-3",
       "title": "Rachel Brookes opens up on emotional Lewis Hamilton farewell after Sky Sports F1 exit",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/rachel-brookes-opens-up-on-emotional-lewis-hamilton-farewell-after-sky-sports-f1-exit/10843373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Jul 31, 2026"
-    },
-    {
-      "id": "sergio-perez-reveals-how-max-verstappens-pure-leadership-made-him-a-faster-f1-driver-3",
-      "title": "Sergio Perez reveals how Max Verstappen's \"pure\" leadership made him a faster F1 driver",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/sergio-perez-reveals-how-max-verstappens-pure-leadership-made-him-a-faster-f1-driver/10843343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
