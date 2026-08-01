@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T13:03:40.500Z",
+  "generatedAt": "2026-08-01T18:58:53.977Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "carlos-sainz-reveals-le-mans-ambition-for-life-after-f1-0",
-      "title": "Carlos Sainz reveals Le Mans ambition for life after F1",
+      "id": "aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver-0",
+      "title": "Aston Martin backed to transform F1 fortunes over next two years by former driver",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-reveals-le-mans-ambition-for-life-after-f1/10843535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver/10843454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "carlos-sainz-reveals-le-mans-ambition-for-life-after-f1-0",
+      "id": "aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver-0",
+      "title": "Aston Martin backed to transform F1 fortunes over next two years by former driver",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver/10843454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 1, 2026"
+    },
+    {
+      "id": "racing-bulls-boss-advice-to-his-f1-drivers-learn-from-max-verstappens-radio-1",
+      "title": "Racing Bulls boss’ advice to his F1 drivers: Learn from Max Verstappen’s radio",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-advice-to-his-drivers-learn-from-max-verstappens-radio/10843339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 1, 2026"
+    },
+    {
+      "id": "carlos-sainz-reveals-le-mans-ambition-for-life-after-f1-2",
       "title": "Carlos Sainz reveals Le Mans ambition for life after F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/carlos-sainz-reveals-le-mans-ambition-for-life-after-f1/10843535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Aug 1, 2026"
     },
     {
-      "id": "carlos-sainz-and-alex-albon-admit-williams-is-unlikely-to-meet-2026-targets-despite-recovery-plan-1",
+      "id": "carlos-sainz-and-alex-albon-admit-williams-is-unlikely-to-meet-2026-targets-despite-recovery-plan-3",
       "title": "Carlos Sainz and Alex Albon admit Williams is unlikely to meet 2026 targets despite recovery plan",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/carlos-sainz-and-alex-albon-admit-williams-is-unlikely-to-meet-2026-targets-despite-recovery-plan/10843517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 1, 2026"
-    },
-    {
-      "id": "audi-wont-upgrade-f1-power-unit-again-until-2027-2",
-      "title": "Audi won’t upgrade F1 power unit again until 2027",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/audi-wont-upgrade-f1-power-unit-again-until-2027/10843122/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 1, 2026"
-    },
-    {
-      "id": "max-verstappens-red-bull-radio-complaints-prompt-mclaren-move-question-from-david-croft-3",
-      "title": "Max Verstappen's Red Bull radio complaints prompt McLaren move question from David Croft",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-red-bull-radio-complaints-prompt-mclaren-move-question-from-david-croft/10843399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "ferrari-and-peugeot-begin-work-on-updated-hypercars-for-2027-wec-0",
+      "id": "tech-analysis-inside-ferraris-updated-499p-for-the-2027-wec-season-0",
+      "title": "Tech analysis: Inside Ferrari's updated 499P for the 2027 WEC season",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/tech-analysis-inside-ferraris-updated-499p-for-the-2027-wec-season/10843360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Aug 1, 2026"
+    },
+    {
+      "id": "ferrari-and-peugeot-begin-work-on-updated-hypercars-for-2027-wec-1",
       "title": "Ferrari and Peugeot begin work on updated hypercars for 2027 WEC",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ferrari-and-peugeot-begin-work-on-updated-hypercars-for-2027-wec/10842668/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "wec-replaces-middle-east-rounds-with-new-races-in-barcelona-and-monza-1",
+      "id": "wec-replaces-middle-east-rounds-with-new-races-in-barcelona-and-monza-2",
       "title": "WEC replaces Middle East rounds with new races in Barcelona and Monza",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-replaces-middle-east-rounds-with-new-races-in-barcelona-and-monza/10841031/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Jul 28, 2026"
     },
     {
-      "id": "the-latest-on-ford-and-mclarens-hypercar-developments-2",
+      "id": "the-latest-on-ford-and-mclarens-hypercar-developments-3",
       "title": "The latest on Ford and McLaren’s hypercar developments",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/the-latest-on-ford-and-mclarens-hypercar-developments/10840758/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Jul 22, 2026"
-    },
-    {
-      "id": "wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026-3",
-      "title": "WEC Brazil: BMW pips Ferrari to second Hypercar win of 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/wec-brazil-bmw-pips-ferrari-to-second-hypercar-win-of-2026/10838449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jul 12, 2026"
     }
   ]
 }
