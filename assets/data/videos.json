@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T02:25:29.888Z",
+  "generatedAt": "2026-08-01T09:53:36.856Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,28 @@
       ]
     },
     {
+      "videoId": "hYC_pFnTMrE",
+      "title": "From A to Z with the Ducati duo!",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "Y_JYu8alF1A",
+      "title": "Join us at Silverstone! 🇬🇧",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "QbbIYS5tEpc",
       "title": "Alex Marquez: \"I felt like I was stepping out from Marc's shadow\" 💪 | Helmets Off",
       "channel": "MotoGP",
@@ -121,28 +143,6 @@
     {
       "videoId": "HsXkU7tzrpU",
       "title": "Jinx Challenge with Tech3!",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "cNSMGTF0iG8",
-      "title": "Ai Ogura 🆚 Raul Fernandez in the @michelinmotorsport Cooking Challenge! 🥪⚔️",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "ON-k9eZ9Bzw",
-      "title": "Pit Lane Exit Rituals 😮‍💨",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "videoId": "_9BwLc79e1E",
+      "videoId": "bF9eZHRB1r0",
       "title": "The next chapter takes shape 🧩 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
@@ -240,41 +240,41 @@
       ]
     },
     {
+      "videoId": "C4LZxxCYPyQ",
+      "title": "Junior WRC Day 1+2 Highlights | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "Rc7dWIdB-2k",
+      "title": "WRC2 Day 2 Highlights | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "q5cyXRuqRrU",
+      "title": "Lappi off 👀",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "IxyeVpIej6Y",
       "title": "Day 2 Highlights | WRC Secto Rally Finland 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "nV76w31kktw",
-      "title": "Armstrong & Lappi Crashes | WRC Secto Rally Finland 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "mVbUY-D0bVk",
-      "title": "Armstrong Off 👀",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "q_GRHPLK5FY",
-      "title": "Day 1 Highlights | WRC Secto Rally Finland 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
