@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T17:25:05.415Z",
+  "generatedAt": "2026-08-01T02:25:29.888Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "videoId": "MURfGJ0V5CA",
-      "title": "🔴 LIVE: Classic INDYCAR Race Replays | Full Race Marathon",
+      "videoId": "_9BwLc79e1E",
+      "title": "The next chapter takes shape 🧩 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -207,8 +207,8 @@
       ]
     },
     {
-      "videoId": "CWuacC5CF6E",
-      "title": "Dennis Hauger: Chasing Top Rookie Honors | INDYCAR",
+      "videoId": "fssJRETu7Aw",
+      "title": "The road to 2028 is underway 👊 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -218,8 +218,8 @@
       ]
     },
     {
-      "videoId": "7mK4Te7Z3-Q",
-      "title": "Save your best piece of candy for last 🍬 #indycar #tires #racing",
+      "videoId": "Az0Yei-U9pE",
+      "title": "Road to 2028: Testing INDYCAR's New Race Car",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -229,14 +229,25 @@
       ]
     },
     {
-      "videoId": "7B785AxJ8z8",
-      "title": "Meet the IR-28: Inside INDYCAR’s New Race Car",
+      "videoId": "jilXYz0Alr0",
+      "title": "Their first reactions say everything 😍 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
       ],
       "seriesLabels": [
         "IndyCar"
+      ]
+    },
+    {
+      "videoId": "IxyeVpIej6Y",
+      "title": "Day 2 Highlights | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "q_GRHPLK5FY",
       "title": "Day 1 Highlights | WRC Secto Rally Finland 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "3cvCrj6yN9w",
-      "title": "FULL SHAKEDOWN ONBOARD - Katsuta/Johnston | WRC Secto Rally Finland 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
