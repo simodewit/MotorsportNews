@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:05:45.137Z",
+  "generatedAt": "2026-08-02T19:00:02.186Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream-0",
-      "title": "Oliver Bearman admits Lewis Hamilton resurgence complicates Ferrari F1 dream",
+      "id": "i-went-back-to-the-car-and-cried-esteban-ocon-opens-up-about-his-unexpected-year-on-f1-sidelines-0",
+      "title": "“I went back to the car and cried” – Esteban Ocon opens up about his unexpected year on F1 sidelines",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream/10843706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/i-went-back-to-the-car-and-cried-esteban-ocon-opens-up-about-his-unexpected-year-on-f1-sidelines/10842997/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream-0",
+      "id": "i-went-back-to-the-car-and-cried-esteban-ocon-opens-up-about-his-unexpected-year-on-f1-sidelines-0",
+      "title": "“I went back to the car and cried” – Esteban Ocon opens up about his unexpected year on F1 sidelines",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/i-went-back-to-the-car-and-cried-esteban-ocon-opens-up-about-his-unexpected-year-on-f1-sidelines/10842997/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 2, 2026"
+    },
+    {
+      "id": "oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream-1",
       "title": "Oliver Bearman admits Lewis Hamilton resurgence complicates Ferrari F1 dream",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/oliver-bearman-admits-lewis-hamilton-resurgence-complicates-ferrari-f1-dream/10843706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 2, 2026"
     },
     {
-      "id": "mclaren-ready-to-challenge-mercedes-after-upgrade-says-sky-f1-commentator-1",
+      "id": "mclaren-ready-to-challenge-mercedes-after-upgrade-says-sky-f1-commentator-2",
       "title": "McLaren \"ready to challenge\" Mercedes after upgrade, says Sky F1 commentator",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mclaren-ready-to-challenge-mercedes-after-upgrade-says-sky-f1-commentator/10843408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 2, 2026"
     },
     {
-      "id": "former-haas-f1-boss-calls-out-fia-over-lenient-carlos-sainz-hungarian-gp-penalty-2",
+      "id": "former-haas-f1-boss-calls-out-fia-over-lenient-carlos-sainz-hungarian-gp-penalty-3",
       "title": "Former Haas F1 boss calls out FIA over 'lenient' Carlos Sainz Hungarian GP penalty",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/former-haas-f1-boss-calls-out-fia-over-lenient-carlos-sainz-hungarian-gp-penalty/10843692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 2, 2026"
-    },
-    {
-      "id": "lando-norris-praised-for-true-world-champions-drive-at-f1-hungarian-gp-3",
-      "title": "Lando Norris praised for \"true world champion's\" drive at F1 Hungarian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-praised-for-true-world-champions-drive-at-f1-hungarian-gp/10843683/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
