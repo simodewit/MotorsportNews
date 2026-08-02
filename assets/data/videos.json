@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T16:54:49.704Z",
+  "generatedAt": "2026-08-02T02:22:52.293Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "GGRk9_WzgvA",
+      "title": "Alexander Rossi Reacts to the Historic First IR-28 Test | INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "OAzd8qkSM44",
       "title": "They are ready to hop in 😉 #INDYCAR",
       "channel": "NTT INDYCAR SERIES",
@@ -229,14 +240,14 @@
       ]
     },
     {
-      "videoId": "bF9eZHRB1r0",
-      "title": "The next chapter takes shape 🧩 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "lLlZKrHf3DY",
+      "title": "Day 3 Highlights | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "C4LZxxCYPyQ",
       "title": "Junior WRC Day 1+2 Highlights | WRC Secto Rally Finland 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "Rc7dWIdB-2k",
-      "title": "WRC2 Day 2 Highlights | WRC Secto Rally Finland 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
