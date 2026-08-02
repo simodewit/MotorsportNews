@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T02:06:34.100Z",
+  "generatedAt": "2026-08-02T08:10:36.828Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver-0",
-      "title": "Aston Martin backed to transform F1 fortunes over next two years by former driver",
+      "id": "max-verstappen-gives-future-update-going-into-f1-summer-break-of-course-i-can-easily-stop-but-i-love-racing-0",
+      "title": "Max Verstappen gives future update going into F1 summer break: \"Of course I can easily stop, but I love racing\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver/10843454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-gives-future-update-going-into-the-f1-summer-break-of-course-i-can-easily-stop-but-i/10843532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 1, 2026"
+      "publishedLabel": "Aug 2, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver-0",
+      "id": "max-verstappen-gives-future-update-going-into-f1-summer-break-of-course-i-can-easily-stop-but-i-love-racing-0",
+      "title": "Max Verstappen gives future update going into F1 summer break: \"Of course I can easily stop, but I love racing\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-gives-future-update-going-into-the-f1-summer-break-of-course-i-can-easily-stop-but-i/10843532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 2, 2026"
+    },
+    {
+      "id": "aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver-1",
       "title": "Aston Martin backed to transform F1 fortunes over next two years by former driver",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/aston-martin-backed-to-transform-f1-fortunes-over-next-two-years-by-former-driver/10843454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 1, 2026"
     },
     {
-      "id": "racing-bulls-boss-advice-to-his-f1-drivers-learn-from-max-verstappens-radio-1",
+      "id": "racing-bulls-boss-advice-to-his-f1-drivers-learn-from-max-verstappens-radio-2",
       "title": "Racing Bulls boss’ advice to his F1 drivers: Learn from Max Verstappen’s radio",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-advice-to-his-drivers-learn-from-max-verstappens-radio/10843339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 1, 2026"
     },
     {
-      "id": "carlos-sainz-reveals-le-mans-ambition-for-life-after-f1-2",
+      "id": "carlos-sainz-reveals-le-mans-ambition-for-life-after-f1-3",
       "title": "Carlos Sainz reveals Le Mans ambition for life after F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/carlos-sainz-reveals-le-mans-ambition-for-life-after-f1/10843535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 1, 2026"
-    },
-    {
-      "id": "carlos-sainz-and-alex-albon-admit-williams-is-unlikely-to-meet-2026-targets-despite-recovery-plan-3",
-      "title": "Carlos Sainz and Alex Albon admit Williams is unlikely to meet 2026 targets despite recovery plan",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-and-alex-albon-admit-williams-is-unlikely-to-meet-2026-targets-despite-recovery-plan/10843517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
