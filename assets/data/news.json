@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:23:48.965Z",
+  "generatedAt": "2026-08-03T19:22:20.135Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances-0",
-      "title": "Pierre Gasly: Alpine's Dutch GP upgrades \"critical\" for F1 2026 chances",
+      "id": "f1-2026-qualifying-head-to-head-at-summer-break-0",
+      "title": "F1 2026 qualifying head-to-head at summer break",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances/10843276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-at-summer-break/10841661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,32 +88,43 @@
   ],
   "articles": [
     {
-      "id": "pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances-0",
+      "id": "f1-2026-qualifying-head-to-head-at-summer-break-0",
+      "title": "F1 2026 qualifying head-to-head at summer break",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-at-summer-break/10841661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 3, 2026"
+    },
+    {
+      "id": "mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle-1",
+      "title": "McLaren victory leaves 2026 F1 title race \"far from over\", says Martin Brundle",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle/10843926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 3, 2026"
+    },
+    {
+      "id": "f1-legends-weigh-in-on-max-verstappens-red-bull-future-2",
+      "title": "F1 legends weigh in on Max Verstappen's Red Bull future",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-legends-weigh-in-on-max-verstappens-red-bull-future/10843918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 3, 2026"
+    },
+    {
+      "id": "pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances-3",
       "title": "Pierre Gasly: Alpine's Dutch GP upgrades \"critical\" for F1 2026 chances",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances/10843276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 3, 2026"
-    },
-    {
-      "id": "damon-hill-compares-george-russell-kimi-antonelli-battle-to-1996-f1-rivalry-1",
-      "title": "Damon Hill compares George Russell-Kimi Antonelli battle to 1996 F1 rivalry",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/damon-hill-compares-george-russell-kimi-antonelli-battle-to-1996-f1-rivalry/10843865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 3, 2026"
-    },
-    {
-      "id": "guenther-steiner-praises-red-bull-after-major-mercedes-f1-hire-3",
-      "title": "Guenther Steiner praises Red Bull after major Mercedes F1 hire",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-praises-red-bull-after-major-mercedes-f1-hire/10843840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Jul 28, 2026"
-    },
-    {
-      "id": "why-the-fia-couldnt-intervene-sooner-over-f1s-2026-rules-0",
-      "title": "Why the FIA couldn't intervene sooner over F1's 2026 rules",
-      "source": "Autosport RSS",
-      "url": "https://www.autosport.com/f1/news/why-the-fia-couldnt-intervene-sooner-over-f1s-2026-rules/10843814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 3, 2026"
     }
   ]
 }
