@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T16:53:43.780Z",
+  "generatedAt": "2026-08-03T02:25:14.110Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,28 @@
       ]
     },
     {
+      "videoId": "mYoa0wwFUWI",
+      "title": "Alex Palou's First Laps in INDYCAR's New IR-28",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "0m3ys72ui98",
+      "title": "Just you and the sound of the IR-28 🎻 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "gs8pXhr3bHw",
       "title": "Shift change: Alex Palou is handling business in the IR-28 🫡 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
@@ -218,25 +240,14 @@
       ]
     },
     {
-      "videoId": "GGRk9_WzgvA",
-      "title": "Alexander Rossi Reacts to the Historic First IR-28 Test | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "ow6QiWcDYvU",
+      "title": "Final Day Highlights | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "OAzd8qkSM44",
-      "title": "They are ready to hop in 😉 #INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -263,18 +274,7 @@
     },
     {
       "videoId": "erXgpPN8-CA",
-      "title": "Junior WRC Day 3 Highlights | WRC Secto Rally Finland",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "xtsH1tGjlp4",
-      "title": "WRC2 Day 3 Highlights | WRC Secto Rally Finland",
+      "title": "Junior WRC Day 3 Highlights | WRC Secto Rally Finland 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
