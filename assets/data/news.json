@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T01:54:10.588Z",
+  "generatedAt": "2026-08-04T08:26:04.728Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "f1-2026-qualifying-head-to-head-at-summer-break-0",
-      "title": "F1 2026 qualifying head-to-head at summer break",
+      "id": "why-mclaren-has-been-coy-about-introducing-its-rotating-f1-rear-wing-0",
+      "title": "Why McLaren has been coy about introducing its rotating F1 rear wing",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-at-summer-break/10841661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/why-mclaren-has-been-coy-about-introducing-its-rotating-f1-rear-wing/10843935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 3, 2026"
+      "publishedLabel": "Aug 4, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "f1-2026-qualifying-head-to-head-at-summer-break-0",
+      "id": "why-mclaren-has-been-coy-about-introducing-its-rotating-f1-rear-wing-0",
+      "title": "Why McLaren has been coy about introducing its rotating F1 rear wing",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/why-mclaren-has-been-coy-about-introducing-its-rotating-f1-rear-wing/10843935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 4, 2026"
+    },
+    {
+      "id": "f1-2026-qualifying-head-to-head-at-summer-break-1",
       "title": "F1 2026 qualifying head-to-head at summer break",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-at-summer-break/10841661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 3, 2026"
     },
     {
-      "id": "mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle-1",
+      "id": "mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle-2",
       "title": "McLaren victory leaves 2026 F1 title race \"far from over\", says Martin Brundle",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mclaren-victory-leaves-2026-f1-title-race-far-from-over-says-martin-brundle/10843926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 3, 2026"
     },
     {
-      "id": "f1-legends-weigh-in-on-max-verstappens-red-bull-future-2",
+      "id": "f1-legends-weigh-in-on-max-verstappens-red-bull-future-3",
       "title": "F1 legends weigh in on Max Verstappen's Red Bull future",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-legends-weigh-in-on-max-verstappens-red-bull-future/10843918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 3, 2026"
-    },
-    {
-      "id": "pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances-3",
-      "title": "Pierre Gasly: Alpine's Dutch GP upgrades \"critical\" for F1 2026 chances",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-alpines-dutch-gp-upgrades-critical-for-f1-2026-chances/10843276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
