@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T17:46:49.397Z",
+  "generatedAt": "2026-08-04T02:05:26.143Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "90O_Dbn_DbI",
+      "title": "Behind the Scenes | The First IR-28 Test | INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "mYoa0wwFUWI",
       "title": "Alex Palou's First Laps in INDYCAR's New IR-28",
       "channel": "NTT INDYCAR SERIES",
@@ -220,17 +231,6 @@
     {
       "videoId": "gs8pXhr3bHw",
       "title": "Shift change: Alex Palou is handling business in the IR-28 🫡 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "r3TdxV87xyU",
-      "title": "🔴 LIVE: Classic INDYCAR Race Replays | Full Race Marathon",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
