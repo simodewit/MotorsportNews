@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:22:20.135Z",
+  "generatedAt": "2026-08-04T01:54:10.588Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,18 @@
       "publishedLabel": "Jul 31, 2026"
     },
     {
-      "id": "inside-indycars-ir-28-new-images-of-2028-chassis-0",
+      "id": "freedom-250-grand-prix-extended-to-full-250-mile-race-distance-0",
+      "title": "Freedom 250 Grand Prix extended to full 250-mile race distance",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/freedom-250-grand-prix-extended-to-full-250-mile-race-distance/10843970/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 3, 2026"
+    },
+    {
+      "id": "inside-indycars-ir-28-new-images-of-2028-chassis-1",
       "title": "Inside IndyCar's IR-28: New images of 2028 chassis ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/closer-look-new-images-of-indycars-ir-28-chassis-/10843432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Jul 31, 2026"
     },
     {
-      "id": "what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution-1",
+      "id": "what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution-2",
       "title": "What we learned inside a first look of IndyCar’s clean-sheet IR-28 revolution",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution/10843452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 31, 2026"
     },
     {
-      "id": "alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test-2",
+      "id": "alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test-3",
       "title": "Alex Palou, Alexander Rossi to give IndyCar’s IR-28 its first track test",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test/10843169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 30, 2026"
-    },
-    {
-      "id": "the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis-3",
-      "title": "The IndyCar paddock reacts to unveiling of next-gen IR-28 chassis",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/the-indycar-paddock-reacts-to-unveiling-of-next-gen-ir-28-chassis/10842732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 28, 2026"
     },
     {
       "id": "every-circuit-to-have-hosted-a-wec-round-since-2012-0",
