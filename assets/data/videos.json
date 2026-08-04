@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T02:05:26.143Z",
+  "generatedAt": "2026-08-04T10:32:49.762Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "wmX6c8AKnxc",
+      "title": "Best of RAW Action | WRC Secto Rally Finland 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "eC76Fn9f3MI",
       "title": "Junior WRC Final Day Highlights | WRC Secto Rally Finland",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "ow6QiWcDYvU",
       "title": "Final Day Highlights | WRC Secto Rally Finland 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "-rSZ7X2IPLE",
-      "title": "🔴 Post-Event Show LIVE | WRC Secto Rally Finland 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
