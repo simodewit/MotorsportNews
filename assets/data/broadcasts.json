@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T10:29:01.076Z",
+  "generatedAt": "2026-08-04T17:36:59.795Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🚨 LIVE: 2026 INDYCAR Full Race Marathon | Every Race of the Season",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "fBFb8T84lWc",
+      "url": "https://www.youtube.com/watch?v=fBFb8T84lWc",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
