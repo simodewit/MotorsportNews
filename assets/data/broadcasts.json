@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T01:50:34.067Z",
+  "generatedAt": "2026-08-05T10:27:41.909Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2023 British GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "sBOeGS5KqPE",
+      "url": "https://www.youtube.com/watch?v=sBOeGS5KqPE",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
