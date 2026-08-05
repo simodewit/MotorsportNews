@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T13:51:10.473Z",
+  "generatedAt": "2026-08-05T19:19:39.156Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "baku-upgrade-will-not-fix-williams-2026-f1-struggles-alex-albon-0",
-      "title": "Baku upgrade will not fix Williams' 2026 F1 struggles - Alex Albon",
+      "id": "mercedes-closely-monitoring-when-to-bring-upgrades-for-the-rest-of-f1-2026-0",
+      "title": "Mercedes \"closely monitoring\" when to bring upgrades for the rest of F1 2026",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/baku-upgrade-to-not-fix-williams-struggles-in-f1-2026-alex-albon/10844033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mercedes-closely-monitoring-when-to-bring-upgrades-for-rest-of-f1-2026/10844337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "baku-upgrade-will-not-fix-williams-2026-f1-struggles-alex-albon-0",
+      "id": "mercedes-closely-monitoring-when-to-bring-upgrades-for-the-rest-of-f1-2026-0",
+      "title": "Mercedes \"closely monitoring\" when to bring upgrades for the rest of F1 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mercedes-closely-monitoring-when-to-bring-upgrades-for-rest-of-f1-2026/10844337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 5, 2026"
+    },
+    {
+      "id": "baku-upgrade-will-not-fix-williams-2026-f1-struggles-alex-albon-1",
       "title": "Baku upgrade will not fix Williams' 2026 F1 struggles - Alex Albon",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/baku-upgrade-to-not-fix-williams-struggles-in-f1-2026-alex-albon/10844033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 5, 2026"
     },
     {
-      "id": "honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january-1",
+      "id": "honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january-2",
       "title": "Honda admits it only realised the scale of its F1 problems in January",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january/10844233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 5, 2026"
     },
     {
-      "id": "george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard-2",
+      "id": "george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard-3",
       "title": "George Russell's 2026 F1 bad luck is beyond a \"Rocky\" story, says David Coulthard",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard/10843187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 4, 2026"
-    },
-    {
-      "id": "fernando-alonso-spotted-driving-his-59-million-lamborghini-hypercar-through-monaco-3",
-      "title": "Fernando Alonso Spotted Driving His $5.9 Million Lamborghini Hypercar Through Monaco",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-spotted-driving-his-59-million-lamborghini-hypercar-through-monaco/10844030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Aug 4, 2026"
     },
     {
-      "id": "freedom-250-grand-prix-extended-to-full-250-mile-race-distance-0",
+      "id": "silly-seasons-forgotten-man-callum-ilott-pushing-for-one-more-shot-in-indycar-for-2027-0",
+      "title": "Silly season’s forgotten man, Callum Ilott pushing for “one more shot” in IndyCar for 2027",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/silly-seasons-forgotten-man-callum-ilott-pushing-for-one-more-shot-in-indycar-for-2027/10844364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 5, 2026"
+    },
+    {
+      "id": "freedom-250-grand-prix-extended-to-full-250-mile-race-distance-1",
       "title": "Freedom 250 Grand Prix extended to full 250-mile race distance",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/freedom-250-grand-prix-extended-to-full-250-mile-race-distance/10843970/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 3, 2026"
     },
     {
-      "id": "inside-indycars-ir-28-new-images-of-2028-chassis-1",
+      "id": "inside-indycars-ir-28-new-images-of-2028-chassis-2",
       "title": "Inside IndyCar's IR-28: New images of 2028 chassis ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/closer-look-new-images-of-indycars-ir-28-chassis-/10843432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Jul 31, 2026"
     },
     {
-      "id": "what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution-2",
+      "id": "what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution-3",
       "title": "What we learned inside a first look of IndyCar’s clean-sheet IR-28 revolution",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/what-we-learned-inside-a-first-look-of-indycars-clean-sheet-ir-28-revolution/10843452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Jul 31, 2026"
-    },
-    {
-      "id": "alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test-3",
-      "title": "Alex Palou, Alexander Rossi to give IndyCar’s IR-28 its first track test",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/alex-palou-alexander-rossi-to-give-indycars-ir-28-its-first-track-test/10843169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Jul 30, 2026"
     },
     {
       "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-0",
