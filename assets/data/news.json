@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T08:24:50.839Z",
+  "generatedAt": "2026-08-05T13:51:10.473Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january-0",
-      "title": "Honda admits it only realised the scale of its F1 problems in January",
+      "id": "baku-upgrade-will-not-fix-williams-2026-f1-struggles-alex-albon-0",
+      "title": "Baku upgrade will not fix Williams' 2026 F1 struggles - Alex Albon",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january/10844233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/baku-upgrade-to-not-fix-williams-struggles-in-f1-2026-alex-albon/10844033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "trackhouse-announces-raul-fernandezs-contract-renewal-for-motogp-2027-28-0",
-      "title": "Trackhouse announces Raul Fernandez's contract renewal for MotoGP 2027-28",
+      "id": "francesco-bagnaia-got-the-short-straw-after-motogp-titles-says-casey-stoner-0",
+      "title": "Francesco Bagnaia “got the short straw” after MotoGP titles, says Casey Stoner",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/trackhouse-announces-raul-fernandezs-contract-renewal-for-motogp-2027/10844223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-got-the-short-straw-after-motogp-titles-says-casey-stoner/10844255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january-0",
+      "id": "baku-upgrade-will-not-fix-williams-2026-f1-struggles-alex-albon-0",
+      "title": "Baku upgrade will not fix Williams' 2026 F1 struggles - Alex Albon",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/baku-upgrade-to-not-fix-williams-struggles-in-f1-2026-alex-albon/10844033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 5, 2026"
+    },
+    {
+      "id": "honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january-1",
       "title": "Honda admits it only realised the scale of its F1 problems in January",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/honda-admits-it-only-realised-the-scale-of-its-f1-problems-in-january/10844233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 5, 2026"
     },
     {
-      "id": "george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard-1",
+      "id": "george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard-2",
       "title": "George Russell's 2026 F1 bad luck is beyond a \"Rocky\" story, says David Coulthard",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russells-2026-f1-bad-luck-is-beyond-a-rocky-story-says-david-coulthard/10843187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 4, 2026"
     },
     {
-      "id": "fernando-alonso-spotted-driving-his-59-million-lamborghini-hypercar-through-monaco-2",
+      "id": "fernando-alonso-spotted-driving-his-59-million-lamborghini-hypercar-through-monaco-3",
       "title": "Fernando Alonso Spotted Driving His $5.9 Million Lamborghini Hypercar Through Monaco",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fernando-alonso-spotted-driving-his-59-million-lamborghini-hypercar-through-monaco/10844030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 4, 2026"
-    },
-    {
-      "id": "sergio-perez-explains-what-is-holding-cadillac-back-in-f1-2026-3",
-      "title": "Sergio Perez explains what is holding Cadillac back in F1 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/sergio-perez-explains-what-is-holding-cadillac-back-in-f1-2026/10844080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "trackhouse-announces-raul-fernandezs-contract-renewal-for-motogp-2027-28-0",
+      "id": "francesco-bagnaia-got-the-short-straw-after-motogp-titles-says-casey-stoner-0",
+      "title": "Francesco Bagnaia “got the short straw” after MotoGP titles, says Casey Stoner",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-got-the-short-straw-after-motogp-titles-says-casey-stoner/10844255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 5, 2026"
+    },
+    {
+      "id": "trackhouse-announces-raul-fernandezs-contract-renewal-for-motogp-2027-28-1",
       "title": "Trackhouse announces Raul Fernandez's contract renewal for MotoGP 2027-28",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/trackhouse-announces-raul-fernandezs-contract-renewal-for-motogp-2027/10844223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 5, 2026"
     },
     {
-      "id": "ktm-replaces-maverick-vinales-with-pol-espargaro-for-british-gp-1",
+      "id": "ktm-replaces-maverick-vinales-with-pol-espargaro-for-british-gp-2",
       "title": "KTM replaces Maverick Vinales with Pol Espargaro for British GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ktm-replaces-maverick-vinales-pol-espargaro-for-british-gp/10844138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Aug 4, 2026"
     },
     {
-      "id": "casey-stoner-urges-pedro-acosta-to-be-more-patient-in-motogp-2",
+      "id": "casey-stoner-urges-pedro-acosta-to-be-more-patient-in-motogp-3",
       "title": "Casey Stoner urges Pedro Acosta to be more patient in MotoGP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/casey-stoner-urges-pedro-acosta-to-be-more-patient-in-motogp/10844027/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 4, 2026"
-    },
-    {
-      "id": "wed-both-be-world-champions-how-alex-marquez-likens-himself-to-sete-gibernau-3",
-      "title": "\"We’d both be world champions\" - How Alex Marquez likens himself to Sete Gibernau",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/alex-marquez-likens-himself-to-sete-gibernau-we-both-raced-behind-greats/10838592/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "Jul 30, 2026"
     },
     {
-      "id": "gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-both-championships-do-0",
+      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-0",
+      "title": "Why GT3 may need a ‘rethink’ in line with WEC’s 2030 Hypercar refresh  ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/ratel-we-need-to-rethink-gt3-just-as-the-wec-has-done-with-the-2030-hypercars/10844239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Aug 5, 2026"
+    },
+    {
+      "id": "gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-both-championships-do-1",
       "title": "GT World Challenge and WEC clash: What will teams and drivers racing both championships do?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-in-both-championships-do/10844106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Aug 4, 2026"
     },
     {
-      "id": "every-circuit-to-have-hosted-a-wec-round-since-2012-1",
+      "id": "every-circuit-to-have-hosted-a-wec-round-since-2012-2",
       "title": "Every circuit to have hosted a WEC round since 2012",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/all-circuits-to-have-hosted-a-wec-round-since-2012/10843370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Aug 3, 2026"
     },
     {
-      "id": "tech-analysis-inside-ferraris-updated-499p-for-the-2027-wec-season-2",
+      "id": "tech-analysis-inside-ferraris-updated-499p-for-the-2027-wec-season-3",
       "title": "Tech analysis: Inside Ferrari's updated 499P for the 2027 WEC season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/tech-analysis-inside-ferraris-updated-499p-for-the-2027-wec-season/10843360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Aug 1, 2026"
-    },
-    {
-      "id": "ferrari-and-peugeot-begin-work-on-updated-hypercars-for-2027-wec-3",
-      "title": "Ferrari and Peugeot begin work on updated hypercars for 2027 WEC",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/ferrari-and-peugeot-begin-work-on-updated-hypercars-for-2027-wec/10842668/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Jul 28, 2026"
     }
   ]
 }
