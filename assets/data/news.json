@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T23:52:14.239Z",
+  "generatedAt": "2026-08-07T02:20:16.513Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -75,15 +75,15 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life-0",
-      "title": "Marc Marquez on championship hopes: “Another MotoGP title will not change my life”",
+      "id": "jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours-0",
+      "title": "Jack Miller says post-MotoGP decision is nearing amid Yamaha WSBK rumours",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life/10844513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours/10844554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 6, 2026"
+      "publishedLabel": "Aug 7, 2026"
     }
   ],
   "articles": [
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life-0",
+      "id": "jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours-0",
+      "title": "Jack Miller says post-MotoGP decision is nearing amid Yamaha WSBK rumours",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours/10844554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life-1",
       "title": "Marc Marquez on championship hopes: “Another MotoGP title will not change my life”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life/10844513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 6, 2026"
     },
     {
-      "id": "pedro-acosta-not-giving-up-hope-of-first-motogp-win-with-ktm-1",
+      "id": "pedro-acosta-not-giving-up-hope-of-first-motogp-win-with-ktm-2",
       "title": "Pedro Acosta not giving up hope of first MotoGP win with KTM",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/pedro-acosta-not-giving-up-hope-of-first-motogp-win-with-ktm/10844497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Aug 6, 2026"
     },
     {
-      "id": "marco-bezzecchi-concedes-british-gp-chances-im-not-feeling-100-after-injury-2",
+      "id": "marco-bezzecchi-concedes-british-gp-chances-im-not-feeling-100-after-injury-3",
       "title": "Marco Bezzecchi concedes British GP chances: I’m not feeling 100% after injury",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-concedes-british-gp-chances-im-not-feeling-100-after-injury/10844483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "motogp-agrees-new-two-year-deal-with-silverstone-for-british-gp-3",
-      "title": "MotoGP agrees new two-year deal with Silverstone for British GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-agrees-new-two-year-deal-with-silverstone-for-british-gp/10844418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
