@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T07:03:37.857Z",
+  "generatedAt": "2026-08-07T12:46:21.364Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi-0",
-      "title": "Lewis Hamilton backed for Ferrari F1 championship push by Emerson Fittipaldi",
+      "id": "mika-hakkinen-reveals-doubts-over-f1-return-after-life-threatening-crash-in-1995-0",
+      "title": "Mika Hakkinen reveals doubts over F1 return after life-threatening crash in 1995",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi/10844491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/mika-hakkinen-reveals-doubts-over-f1-return-after-life-threatening-crash-in-1995/10844730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 6, 2026"
+      "publishedLabel": "Aug 7, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours-0",
-      "title": "Jack Miller says post-MotoGP decision is nearing amid Yamaha WSBK rumours",
+      "id": "ktm-given-green-light-to-fix-faulty-motogp-engine-0",
+      "title": "KTM given green light to fix faulty MotoGP engine",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours/10844554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/ktm-will-be-able-to-replace-the-faulty-part-in-its-engines-before-the-aragon-gp/10844714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi-0",
+      "id": "mika-hakkinen-reveals-doubts-over-f1-return-after-life-threatening-crash-in-1995-0",
+      "title": "Mika Hakkinen reveals doubts over F1 return after life-threatening crash in 1995",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mika-hakkinen-reveals-doubts-over-f1-return-after-life-threatening-crash-in-1995/10844730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "the-next-generation-jak-crawford-1",
+      "title": "The Next Generation: Jak Crawford",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/the-next-generation-jak-crawford/10843349/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "f1-2026-mid-season-grades-aston-martin-seeks-redemption-after-shocking-start-2",
+      "title": "F1 2026 mid-season grades: Aston Martin seeks redemption after shocking start",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-aston-martin-seeks-redemption-after-shocking-start/10844630/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi-3",
       "title": "Lewis Hamilton backed for Ferrari F1 championship push by Emerson Fittipaldi",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backed-for-ferrari-f1-championship-push-by-emerson-fittipaldi/10844491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "what-is-the-f1-summer-break-and-why-does-it-happen-every-year-1",
-      "title": "What is the F1 summer break and why does it happen every year?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/what-is-the-f1-summer-break-why-does-it-happen-how-long/10346924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "what-life-is-like-as-a-williams-f1-simulator-driver-2",
-      "title": "What life is like as a Williams F1 simulator driver",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/what-life-is-like-as-a-williams-f1-simulator-driver/10843241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "valtteri-bottas-celebrates-major-off-road-cycling-success-during-f1-summer-break-3",
-      "title": "Valtteri Bottas celebrates major off-road cycling success during F1 summer break",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-celebrates-major-off-road-cycling-success-during-f1-summer-break/10844506/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,29 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours-0",
+      "id": "ktm-given-green-light-to-fix-faulty-motogp-engine-0",
+      "title": "KTM given green light to fix faulty MotoGP engine",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/ktm-will-be-able-to-replace-the-faulty-part-in-its-engines-before-the-aragon-gp/10844714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "2026-motogp-british-grand-prix-how-to-watch-session-times-more-1",
+      "title": "2026 MotoGP British Grand Prix – How to watch, session times & more",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/2026-motogp-british-grand-prix-how-to-watch-session-times-more/10844645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours-2",
       "title": "Jack Miller says post-MotoGP decision is nearing amid Yamaha WSBK rumours",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/jack-miller-says-post-motogp-decision-is-nearing-amid-yamaha-wsbk-rumours/10844554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,32 +253,10 @@
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life-1",
+      "id": "marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life-3",
       "title": "Marc Marquez on championship hopes: “Another MotoGP title will not change my life”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-on-championship-hopes-another-motogp-title-will-not-change-my-life/10844513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "pedro-acosta-not-giving-up-hope-of-first-motogp-win-with-ktm-2",
-      "title": "Pedro Acosta not giving up hope of first MotoGP win with KTM",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/pedro-acosta-not-giving-up-hope-of-first-motogp-win-with-ktm/10844497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "marco-bezzecchi-concedes-british-gp-chances-im-not-feeling-100-after-injury-3",
-      "title": "Marco Bezzecchi concedes British GP chances: I’m not feeling 100% after injury",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-concedes-british-gp-chances-im-not-feeling-100-after-injury/10844483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "Aug 3, 2026"
     },
     {
-      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-0",
+      "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-0",
+      "title": "How WEC's Hypercar title fight is shaping up with revised 2026 calendar",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar/10844657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-1",
       "title": "Why GT3 may need a ‘rethink’ in line with WEC’s 2030 Hypercar refresh  ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ratel-we-need-to-rethink-gt3-just-as-the-wec-has-done-with-the-2030-hypercars/10844239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Aug 5, 2026"
     },
     {
-      "id": "gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-both-championships-do-1",
+      "id": "gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-both-championships-do-2",
       "title": "GT World Challenge and WEC clash: What will teams and drivers racing both championships do?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-in-both-championships-do/10844106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Aug 4, 2026"
     },
     {
-      "id": "every-circuit-to-have-hosted-a-wec-round-since-2012-2",
+      "id": "every-circuit-to-have-hosted-a-wec-round-since-2012-3",
       "title": "Every circuit to have hosted a WEC round since 2012",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/all-circuits-to-have-hosted-a-wec-round-since-2012/10843370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Aug 3, 2026"
-    },
-    {
-      "id": "tech-analysis-inside-ferraris-updated-499p-for-the-2027-wec-season-3",
-      "title": "Tech analysis: Inside Ferrari's updated 499P for the 2027 WEC season",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/tech-analysis-inside-ferraris-updated-499p-for-the-2027-wec-season/10843360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Aug 1, 2026"
     }
   ]
 }
