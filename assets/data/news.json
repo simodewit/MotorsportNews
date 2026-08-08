@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T12:33:09.396Z",
+  "generatedAt": "2026-08-08T18:26:45.617Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "everyone-was-happy-except-him-franco-colapinto-shares-telling-flavio-briatore-anecdote-0",
-      "title": "\"Everyone was happy except him\" – Franco Colapinto shares telling Flavio Briatore anecdote",
+      "id": "lewis-hamilton-shares-first-photos-with-new-puppy-halo-0",
+      "title": "Lewis Hamilton shares first photos with new puppy Halo",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/everyone-was-happy-except-him-franco-colapinto-shares-telling-flavio-briatore-anecdote/10844939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-shares-first-photos-with-new-puppy-halo/10845015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "motogp-british-gp-jorge-martin-leads-aprilia-front-row-lockout-in-qualifying-0",
-      "title": "MotoGP British GP: Jorge Martin leads Aprilia front-row lockout in qualifying",
+      "id": "marc-marquez-baffled-by-massive-tyre-drop-in-british-gp-sprint-0",
+      "title": "Marc Marquez baffled by “massive” tyre drop in British GP sprint",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-british-gp-martin-pole-aprilia-fernandez/10844945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-baffled-by-massive-tyre-drop-in-british-gp-sprint/10845074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "everyone-was-happy-except-him-franco-colapinto-shares-telling-flavio-briatore-anecdote-0",
+      "id": "lewis-hamilton-shares-first-photos-with-new-puppy-halo-0",
+      "title": "Lewis Hamilton shares first photos with new puppy Halo",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-shares-first-photos-with-new-puppy-halo/10845015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 8, 2026"
+    },
+    {
+      "id": "isack-hadjar-explains-red-bull-culture-shock-after-racing-bulls-move-1",
+      "title": "Isack Hadjar explains Red Bull \"culture shock\" after Racing Bulls move",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-explains-red-bull-culture-shock-after-racing-bulls-move/10845005/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 8, 2026"
+    },
+    {
+      "id": "ollie-bearman-opens-up-on-emotional-ayrton-senna-lotus-f1-drive-very-powerful-moment-2",
+      "title": "Ollie Bearman opens up on emotional Ayrton Senna Lotus F1 drive: \"Very powerful moment\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/ollie-bearman-opens-up-on-emotional-ayrton-senna-lotus-f1-drive-very-powerful-moment/10844978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 8, 2026"
+    },
+    {
+      "id": "everyone-was-happy-except-him-franco-colapinto-shares-telling-flavio-briatore-anecdote-3",
       "title": "\"Everyone was happy except him\" – Franco Colapinto shares telling Flavio Briatore anecdote",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/everyone-was-happy-except-him-franco-colapinto-shares-telling-flavio-briatore-anecdote/10844939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 8, 2026"
-    },
-    {
-      "id": "james-vowles-reveals-williams-f1-cost-cap-struggle-amid-facility-overhaul-1",
-      "title": "James Vowles reveals Williams F1 cost cap struggle amid facility overhaul",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-williams-f1-cost-cap-struggle-amid-facility-overhaul/10844934/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 8, 2026"
-    },
-    {
-      "id": "otmar-szafnauer-reveals-how-toto-wolff-helped-create-force-indias-famous-pink-f1-era-2",
-      "title": "Otmar Szafnauer reveals how Toto Wolff helped create Force India's famous pink F1 era",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-reveals-how-toto-wolff-helped-create-force-indias-famous-pink-f1-era/10844929/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 8, 2026"
-    },
-    {
-      "id": "ferrari-staff-see-michael-schumacher-similarities-in-lewis-hamilton-says-former-engineer-3",
-      "title": "Ferrari staff see Michael Schumacher similarities in Lewis Hamilton, says former engineer",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ferrari-staff-see-michael-schumacher-similarities-in-lewis-hamilton-says-former-engineer/10844921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,40 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "motogp-british-gp-jorge-martin-leads-aprilia-front-row-lockout-in-qualifying-0",
+      "id": "marc-marquez-baffled-by-massive-tyre-drop-in-british-gp-sprint-0",
+      "title": "Marc Marquez baffled by “massive” tyre drop in British GP sprint",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-baffled-by-massive-tyre-drop-in-british-gp-sprint/10845074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 8, 2026"
+    },
+    {
+      "id": "jorge-martin-out-of-the-hole-he-was-in-after-commanding-silverstone-sprint-win-1",
+      "title": "Jorge Martin “out of the hole he was in” after commanding Silverstone sprint win",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/jorge-martin-out-of-the-hole-he-was-in-after-commanding-silverstone-sprint-win/10845057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 8, 2026"
+    },
+    {
+      "id": "motogp-british-gp-jorge-martin-leads-aprilia-1-2-3-in-sprint-as-marc-marquez-struggles-2",
+      "title": "MotoGP British GP: Jorge Martin leads Aprilia 1-2-3 in sprint as Marc Marquez struggles",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/motogp-british-gp-jorge-martin-leads-aprilia-1-2-3-in-sprint-as-marc-marquez-struggles/10845033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 8, 2026"
+    },
+    {
+      "id": "motogp-british-gp-jorge-martin-leads-aprilia-front-row-lockout-in-qualifying-3",
       "title": "MotoGP British GP: Jorge Martin leads Aprilia front-row lockout in qualifying",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-british-gp-martin-pole-aprilia-fernandez/10844945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,40 +264,29 @@
       "publishedLabel": "Aug 8, 2026"
     },
     {
-      "id": "marc-marquez-im-slower-in-corners-that-used-to-be-my-strength-at-silverstone-1",
-      "title": "Marc Marquez: “I’m slower” in corners that used to be my strength at Silverstone ",
+      "id": "scott-mclaughlin-urges-patience-as-david-malukas-chases-indycar-title-0",
+      "title": "Scott McLaughlin urges patience as David Malukas chases IndyCar title",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marc-marquez-im-slower-in-corners-that-used-to-be-my-strength-at-silverstone-/10844838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-urges-patience-as-david-malukas-chases-indycar-title/10845080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 7, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 8, 2026"
     },
     {
-      "id": "johann-zarco-gets-back-on-a-bike-three-months-after-serious-barcelona-injury-2",
-      "title": "Johann Zarco gets back on a bike three months after serious Barcelona injury",
+      "id": "will-power-praises-andretti-team-chemistry-as-2027-lineup-locks-in-1",
+      "title": "Will Power praises Andretti team chemistry as 2027 lineup locks in",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/johann-zarco-gets-back-on-a-bike-three-months-after-serious-barcelona-injury/10844834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/will-power-praises-andretti-team-chemistry-as-2027-lineup-locks-in/10845071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 7, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 8, 2026"
     },
     {
-      "id": "marco-bezzecchi-reveals-disaster-injury-ordeal-after-smashing-silverstone-lap-record-3",
-      "title": "Marco  Bezzecchi reveals “disaster” injury ordeal after smashing Silverstone lap record",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-reveals-disaster-injury-ordeal-after-smashing-silverstone-lap-record/10844831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 7, 2026"
-    },
-    {
-      "id": "david-malukas-and-caio-collet-hit-with-grid-penalty-for-portland-indycar-race-0",
+      "id": "david-malukas-and-caio-collet-hit-with-grid-penalty-for-portland-indycar-race-2",
       "title": "David Malukas and Caio Collet hit with grid penalty for Portland IndyCar race",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-and-caio-collet-hit-with-grid-penalty-for-portland-indycar-race/10844846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season-1",
+      "id": "marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season-3",
       "title": "Marcus Ericsson will remain with Andretti for 2027 IndyCar season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season/10844598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "how-to-watch-indycar-2026-at-portland-weekend-schedule-start-time-tv-2",
-      "title": "How to watch IndyCar 2026 at Portland: Weekend schedule, start time, TV",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-portland-weekend-schedule-start-time-tv/10844594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 6, 2026"
-    },
-    {
-      "id": "silly-seasons-forgotten-man-callum-ilott-pushing-for-one-more-shot-in-indycar-for-2027-3",
-      "title": "Silly season’s forgotten man, Callum Ilott pushing for “one more shot” in IndyCar for 2027",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/silly-seasons-forgotten-man-callum-ilott-pushing-for-one-more-shot-in-indycar-for-2027/10844364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 5, 2026"
     },
     {
       "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-0",
