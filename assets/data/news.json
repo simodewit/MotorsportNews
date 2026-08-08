@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:43:54.949Z",
+  "generatedAt": "2026-08-08T01:05:46.063Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter-0",
-      "title": "FIA reveals ambitious target to make F1 cars another 80kg lighter",
+      "id": "report-red-bull-finds-gianpiero-lambiase-f1-replacement-0",
+      "title": "Report: Red Bull finds Gianpiero Lambiase F1 replacement",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter/10844708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/red-bull-reportedly-finds-gianpiero-lambiase-f1-replacement/10844808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "johann-zarco-gets-back-on-a-bike-three-months-after-serious-barcelona-injury-0",
-      "title": "Johann Zarco gets back on a bike three months after serious Barcelona injury",
+      "id": "marc-marquez-im-slower-in-corners-that-used-to-be-my-strength-at-silverstone-0",
+      "title": "Marc Marquez: “I’m slower” in corners that used to be my strength at Silverstone ",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/johann-zarco-gets-back-on-a-bike-three-months-after-serious-barcelona-injury/10844834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-im-slower-in-corners-that-used-to-be-my-strength-at-silverstone-/10844838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter-0",
+      "id": "report-red-bull-finds-gianpiero-lambiase-f1-replacement-0",
+      "title": "Report: Red Bull finds Gianpiero Lambiase F1 replacement",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/red-bull-reportedly-finds-gianpiero-lambiase-f1-replacement/10844808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "report-sergio-perezs-management-in-williams-talks-as-carlos-sainzs-future-remains-unclear-1",
+      "title": "Report: Sergio Perez's management in Williams talks as Carlos Sainz's future remains unclear",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/sergio-perezs-management-in-williams-talks-as-carlos-sainzs-future-remains-unclear-report/10844804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "mattia-binotto-addresses-carlos-sainz-and-oscar-piastri-audi-f1-rumours-2",
+      "title": "Mattia Binotto addresses Carlos Sainz and Oscar Piastri Audi F1 rumours",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mattia-binotto-addresses-carlos-sainz-and-oscar-piastri-audi-f1-rumours/10844792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter-3",
       "title": "FIA reveals ambitious target to make F1 cars another 80kg lighter",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/fia-reveals-ambitious-target-to-make-f1-cars-another-80kg-lighter/10844708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 7, 2026"
-    },
-    {
-      "id": "oscar-piastris-new-merchandise-collection-earns-positive-fan-reaction-1",
-      "title": "Oscar Piastri's new merchandise collection earns positive fan reaction",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastris-new-merchandise-collection-earns-positive-fan-reaction/10844770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 7, 2026"
-    },
-    {
-      "id": "f2-star-rafael-camara-responds-to-2027-haas-f1-rumours-2",
-      "title": "F2 star Rafael Camara responds to 2027 Haas F1 rumours",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f2-star-rafael-camara-responds-to-2027-haas-f1-rumours/10844762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 7, 2026"
-    },
-    {
-      "id": "f1-helmet-signed-by-20-drivers-raises-record-six-figure-sum-for-charity-3",
-      "title": "F1 helmet signed by 20 drivers raises record six-figure sum for charity",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-helmet-signed-by-20-drivers-raises-record-six-figure-sum-for-charity/10844751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "johann-zarco-gets-back-on-a-bike-three-months-after-serious-barcelona-injury-0",
+      "id": "marc-marquez-im-slower-in-corners-that-used-to-be-my-strength-at-silverstone-0",
+      "title": "Marc Marquez: “I’m slower” in corners that used to be my strength at Silverstone ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-im-slower-in-corners-that-used-to-be-my-strength-at-silverstone-/10844838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 7, 2026"
+    },
+    {
+      "id": "johann-zarco-gets-back-on-a-bike-three-months-after-serious-barcelona-injury-1",
       "title": "Johann Zarco gets back on a bike three months after serious Barcelona injury",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/johann-zarco-gets-back-on-a-bike-three-months-after-serious-barcelona-injury/10844834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "marco-bezzecchi-reveals-disaster-injury-ordeal-after-smashing-silverstone-lap-record-1",
+      "id": "marco-bezzecchi-reveals-disaster-injury-ordeal-after-smashing-silverstone-lap-record-2",
       "title": "Marco  Bezzecchi reveals “disaster” injury ordeal after smashing Silverstone lap record",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-reveals-disaster-injury-ordeal-after-smashing-silverstone-lap-record/10844831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "motogp-british-gp-returning-marco-bezzecchi-tops-friday-practice-as-aprilia-dominates-2",
+      "id": "motogp-british-gp-returning-marco-bezzecchi-tops-friday-practice-as-aprilia-dominates-3",
       "title": "MotoGP British GP: Returning Marco Bezzecchi tops Friday practice as Aprilia dominates",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-british-gp-returning-marco-bezzecchi-tops-friday-practice-as-aprilia-dominates/10844790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "ktm-given-green-light-to-fix-faulty-motogp-engine-3",
-      "title": "KTM given green light to fix faulty MotoGP engine",
+      "id": "david-malukas-and-caio-collet-hit-with-grid-penalty-for-portland-indycar-race-0",
+      "title": "David Malukas and Caio Collet hit with grid penalty for Portland IndyCar race",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ktm-will-be-able-to-replace-the-faulty-part-in-its-engines-before-the-aragon-gp/10844714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/david-malukas-and-caio-collet-hit-with-grid-penalty-for-portland-indycar-race/10844846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
+      "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season-0",
+      "id": "marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season-1",
       "title": "Marcus Ericsson will remain with Andretti for 2027 IndyCar season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/marcus-ericsson-will-remain-with-andretti-for-2027-indycar-season/10844598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 6, 2026"
     },
     {
-      "id": "how-to-watch-indycar-2026-at-portland-weekend-schedule-start-time-tv-1",
+      "id": "how-to-watch-indycar-2026-at-portland-weekend-schedule-start-time-tv-2",
       "title": "How to watch IndyCar 2026 at Portland: Weekend schedule, start time, TV",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-portland-weekend-schedule-start-time-tv/10844594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Aug 6, 2026"
     },
     {
-      "id": "silly-seasons-forgotten-man-callum-ilott-pushing-for-one-more-shot-in-indycar-for-2027-2",
+      "id": "silly-seasons-forgotten-man-callum-ilott-pushing-for-one-more-shot-in-indycar-for-2027-3",
       "title": "Silly season’s forgotten man, Callum Ilott pushing for “one more shot” in IndyCar for 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/silly-seasons-forgotten-man-callum-ilott-pushing-for-one-more-shot-in-indycar-for-2027/10844364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 5, 2026"
-    },
-    {
-      "id": "freedom-250-grand-prix-extended-to-full-250-mile-race-distance-3",
-      "title": "Freedom 250 Grand Prix extended to full 250-mile race distance",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/freedom-250-grand-prix-extended-to-full-250-mile-race-distance/10843970/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 3, 2026"
     },
     {
       "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-0",
