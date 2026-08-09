@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:35:38.384Z",
+  "generatedAt": "2026-08-09T18:29:15.028Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move-0",
-      "title": "Mika Hakkinen urges McLaren not to \"rock the boat\" with Max Verstappen move",
+      "id": "george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt-0",
+      "title": "George Russell announces engagement to long-term partner Carmen Montero Mundt",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move/10845218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt/10845327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,20 +75,42 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "how-a-destroyed-marco-bezzecchi-battled-to-british-gp-sprint-podium-0",
-      "title": "How a “destroyed” Marco Bezzecchi battled to British GP sprint podium",
+      "id": "raul-fernandez-channelled-anger-into-british-gp-victory-after-sprint-idiot-moment-0",
+      "title": "Raul Fernandez channelled “anger” into British GP victory after sprint “idiot” moment",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/how-super-tired-marco-bezzecchi-secured-sprint-podium-after-feeling-destroyed/10845094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/raul-fernandez-channelled-anger-to-british-gp-win-after-feeling-like-an-idiot/10845323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 8, 2026"
+      "publishedLabel": "Aug 9, 2026"
     }
   ],
   "articles": [
     {
-      "id": "mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move-0",
+      "id": "george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt-0",
+      "title": "George Russell announces engagement to long-term partner Carmen Montero Mundt",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt/10845327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 9, 2026"
+    },
+    {
+      "id": "otmar-szafnauer-tells-ferrari-to-leave-charles-leclerc-alone-amid-lewis-hamilton-battle-1",
+      "title": "Otmar Szafnauer tells Ferrari to 'leave Charles Leclerc alone' amid Lewis Hamilton battle",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-tells-ferrari-to-leave-charles-leclerc-alone-amid-lewis-hamilton-battle/10845241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 9, 2026"
+    },
+    {
+      "id": "mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move-2",
       "title": "Mika Hakkinen urges McLaren not to \"rock the boat\" with Max Verstappen move",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move/10845218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship-1",
+      "id": "toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship-3",
       "title": "Toto Wolff reveals parenting challenge as son Jack leads karting championship",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship/10845205/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 9, 2026"
-    },
-    {
-      "id": "f1-2026-mid-season-grades-audi-gets-off-to-solid-start-on-works-debut-2",
-      "title": "F1 2026 mid-season grades: Audi gets off to solid start on works debut",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-audi-gets-off-to-solid-start-on-works-debut/10845164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 9, 2026"
-    },
-    {
-      "id": "oliver-bearman-reveals-new-business-venture-away-from-f1-3",
-      "title": "Oliver Bearman reveals new business venture away from F1",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-reveals-new-business-venture-away-from-f1/10845198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,48 +220,48 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "how-a-destroyed-marco-bezzecchi-battled-to-british-gp-sprint-podium-0",
-      "title": "How a “destroyed” Marco Bezzecchi battled to British GP sprint podium",
+      "id": "raul-fernandez-channelled-anger-into-british-gp-victory-after-sprint-idiot-moment-0",
+      "title": "Raul Fernandez channelled “anger” into British GP victory after sprint “idiot” moment",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/how-super-tired-marco-bezzecchi-secured-sprint-podium-after-feeling-destroyed/10845094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/raul-fernandez-channelled-anger-to-british-gp-win-after-feeling-like-an-idiot/10845323/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 8, 2026"
+      "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "marc-marquez-baffled-by-massive-tyre-drop-in-british-gp-sprint-1",
-      "title": "Marc Marquez baffled by “massive” tyre drop in British GP sprint",
+      "id": "why-jorge-martin-ai-ogura-had-ride-height-device-issues-despite-motogp-holeshot-ban-1",
+      "title": "Why Jorge Martin, Ai Ogura had ride-height device issues despite MotoGP holeshot ban",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marc-marquez-baffled-by-massive-tyre-drop-in-british-gp-sprint/10845074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/why-jorge-martin-and-ai-ogura-suffered-ride-height-device-issues-despite-motogps-holeshot-ban-/10845297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 8, 2026"
+      "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "jorge-martin-out-of-the-hole-he-was-in-after-commanding-silverstone-sprint-win-2",
-      "title": "Jorge Martin “out of the hole he was in” after commanding Silverstone sprint win",
+      "id": "marc-marquez-owns-up-to-british-gp-struggles-but-refuses-to-panic-2",
+      "title": "Marc Marquez owns up to British GP struggles but refuses to panic",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/jorge-martin-out-of-the-hole-he-was-in-after-commanding-silverstone-sprint-win/10845057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/marc-marquez-takes-full-responsibility-for-british-gp-struggles-but-refuses-to-panic/10845271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 8, 2026"
+      "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "motogp-british-gp-jorge-martin-leads-aprilia-1-2-3-in-sprint-as-marc-marquez-struggles-3",
-      "title": "MotoGP British GP: Jorge Martin leads Aprilia 1-2-3 in sprint as Marc Marquez struggles",
+      "id": "motogp-british-gp-raul-fernandez-dominates-as-jorge-martin-extends-points-lead-3",
+      "title": "MotoGP British GP: Raul Fernandez dominates as Jorge Martin extends points lead",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-british-gp-jorge-martin-leads-aprilia-1-2-3-in-sprint-as-marc-marquez-struggles/10845033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-british-gp-fernandez-win-martin-points-lead/10845228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 8, 2026"
+      "publishedLabel": "Aug 9, 2026"
     },
     {
       "id": "christian-lundgaard-facing-back-of-the-grid-charge-in-portland-after-multiple-issues-derail-qualifying-0",
