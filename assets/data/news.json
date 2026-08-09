@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:10:37.610Z",
+  "generatedAt": "2026-08-09T06:42:40.504Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,18 @@
       "publishedLabel": "Aug 8, 2026"
     },
     {
-      "id": "felix-rosenqvist-snatches-portland-indycar-pole-from-alex-palou-by-0018s-0",
+      "id": "lundgaard-facing-back-of-the-grid-charge-in-portland-after-multiple-issues-derail-qualifying-0",
+      "title": "Lundgaard facing back-of-the-grid charge in Portland after multiple issues derail qualifying",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/lundgaard-facing-back-of-the-grid-charge-in-portland-after-multiple-issues-derail-qualifying/10845127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 9, 2026"
+    },
+    {
+      "id": "felix-rosenqvist-snatches-portland-indycar-pole-from-alex-palou-by-0018s-1",
       "title": "Felix Rosenqvist snatches Portland IndyCar pole from Alex Palou by 0.018s",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-snatches-portland-indycar-pole-from-alex-palou-by-0018s/10845120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "scott-mclaughlin-urges-patience-as-david-malukas-chases-indycar-title-1",
+      "id": "scott-mclaughlin-urges-patience-as-david-malukas-chases-indycar-title-2",
       "title": "Scott McLaughlin urges patience as David Malukas chases IndyCar title",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-urges-patience-as-david-malukas-chases-indycar-title/10845080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Aug 8, 2026"
     },
     {
-      "id": "will-power-praises-andretti-team-chemistry-as-2027-lineup-locks-in-2",
+      "id": "will-power-praises-andretti-team-chemistry-as-2027-lineup-locks-in-3",
       "title": "Will Power praises Andretti team chemistry as 2027 lineup locks in",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/will-power-praises-andretti-team-chemistry-as-2027-lineup-locks-in/10845071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 8, 2026"
-    },
-    {
-      "id": "david-malukas-and-caio-collet-hit-with-grid-penalty-for-portland-indycar-race-3",
-      "title": "David Malukas and Caio Collet hit with grid penalty for Portland IndyCar race",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/david-malukas-and-caio-collet-hit-with-grid-penalty-for-portland-indycar-race/10844846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 7, 2026"
     },
     {
       "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-0",
