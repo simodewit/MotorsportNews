@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:09:32.771Z",
+  "generatedAt": "2026-08-10T16:44:18.989Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2026 NTT INDYCAR SERIES Full Race | OnlyBulls Grand Prix of Portland",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "9NuTZ1yoc0g",
+      "url": "https://www.youtube.com/watch?v=9NuTZ1yoc0g",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
