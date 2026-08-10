@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T18:29:15.028Z",
+  "generatedAt": "2026-08-10T01:12:27.028Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt-0",
-      "title": "George Russell announces engagement to long-term partner Carmen Montero Mundt",
+      "id": "former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal-0",
+      "title": "Former F1 driver reveals he offered London pub to Jeremy Clarkson in unusual deal",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt/10845327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt-0",
+      "id": "former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal-0",
+      "title": "Former F1 driver reveals he offered London pub to Jeremy Clarkson in unusual deal",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/former-f1-driver-reveals-he-offered-london-pub-to-jeremy-clarkson-in-unusual-deal/10845369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 9, 2026"
+    },
+    {
+      "id": "george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt-1",
       "title": "George Russell announces engagement to long-term partner Carmen Montero Mundt",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-announces-engagement-to-long-term-partner-carmen-montero-mundt/10845327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "otmar-szafnauer-tells-ferrari-to-leave-charles-leclerc-alone-amid-lewis-hamilton-battle-1",
+      "id": "otmar-szafnauer-tells-ferrari-to-leave-charles-leclerc-alone-amid-lewis-hamilton-battle-2",
       "title": "Otmar Szafnauer tells Ferrari to 'leave Charles Leclerc alone' amid Lewis Hamilton battle",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-tells-ferrari-to-leave-charles-leclerc-alone-amid-lewis-hamilton-battle/10845241/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move-2",
+      "id": "mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move-3",
       "title": "Mika Hakkinen urges McLaren not to \"rock the boat\" with Max Verstappen move",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mika-hakkinen-urges-mclaren-not-to-rock-the-boat-with-max-verstappen-move/10845218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 9, 2026"
-    },
-    {
-      "id": "toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship-3",
-      "title": "Toto Wolff reveals parenting challenge as son Jack leads karting championship",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-parenting-challenge-as-son-jack-leads-karting-championship/10845205/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,10 +264,21 @@
       "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "christian-lundgaard-facing-back-of-the-grid-charge-in-portland-after-multiple-issues-derail-qualifying-0",
-      "title": "Christian Lundgaard facing back-of-the-grid charge in Portland after multiple issues derail qualifying",
+      "id": "felix-rosenqvist-and-will-power-slam-indycar-traffic-rules-after-portland-podium-finishes-0",
+      "title": "Felix Rosenqvist and Will Power slam IndyCar traffic rules after Portland podium finishes",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/lundgaard-facing-back-of-the-grid-charge-in-portland-after-multiple-issues-derail-qualifying/10845127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-and-will-power-slam-indycar-traffic-rules-after-portland-podium-finishes/10845378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 10, 2026"
+    },
+    {
+      "id": "complete-indycar-championship-standings-after-2026-portland-1",
+      "title": "Complete IndyCar championship standings after 2026 Portland",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-portland/10845358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
@@ -275,10 +286,10 @@
       "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "felix-rosenqvist-snatches-portland-indycar-pole-from-alex-palou-by-0018s-1",
-      "title": "Felix Rosenqvist snatches Portland IndyCar pole from Alex Palou by 0.018s",
+      "id": "official-race-results-2026-indycar-at-portland-2",
+      "title": "Official race results: 2026 IndyCar at Portland",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-snatches-portland-indycar-pole-from-alex-palou-by-0018s/10845120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/official-race-results-2026-indycar-at-portland/10845354/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
@@ -286,26 +297,15 @@
       "publishedLabel": "Aug 9, 2026"
     },
     {
-      "id": "scott-mclaughlin-urges-patience-as-david-malukas-chases-indycar-title-2",
-      "title": "Scott McLaughlin urges patience as David Malukas chases IndyCar title",
+      "id": "rinus-veekay-continues-indycar-surge-with-fourth-at-portland-3",
+      "title": "Rinus VeeKay continues IndyCar surge with fourth at Portland",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-urges-patience-as-david-malukas-chases-indycar-title/10845080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/rinus-veekay-continues-indycar-surge-with-fourth-at-portland/10845376/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 8, 2026"
-    },
-    {
-      "id": "will-power-praises-andretti-team-chemistry-as-2027-lineup-locks-in-3",
-      "title": "Will Power praises Andretti team chemistry as 2027 lineup locks in",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/will-power-praises-andretti-team-chemistry-as-2027-lineup-locks-in/10845071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 8, 2026"
+      "publishedLabel": "Aug 9, 2026"
     },
     {
       "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-0",
