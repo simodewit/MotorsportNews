@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-03T06:58:18.143Z",
+  "generatedAt": "2026-08-10T05:24:39.245Z",
   "window": {
-    "startDate": "2026-08-09"
+    "startDate": "2026-08-16"
   },
   "sources": [
     {
@@ -146,19 +146,22 @@
       ]
     },
     {
-      "id": "thailand-gp-2026-02-28",
-      "name": "Thailand GP",
+      "id": "thailand-free-1-2026-02-27",
+      "name": "Thailand Free 1",
       "venue": "Chang International Circuit",
-      "startDate": "2026-02-28",
-      "endDate": "2026-03-01",
+      "startDate": "2026-02-27",
+      "endDate": "2026-02-28",
       "series": [
         {
           "id": "motogp",
           "name": "MotoGP",
           "sessions": [
+            "Practice 1",
+            "Practice",
             "Sprint",
             "Race",
-            "Qualifying"
+            "Qualifying",
+            "Practice 2"
           ]
         }
       ]
@@ -318,39 +321,6 @@
           "name": "IndyCar",
           "sessions": [
             "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "autdromo-internacional-ayrton-senna-weekend-2026-03-21",
-      "name": "Autdromo Internacional Ayrton Senna Weekend",
-      "venue": "Autdromo Internacional Ayrton Senna",
-      "startDate": "2026-03-21",
-      "endDate": "2026-03-21",
-      "series": [
-        {
-          "id": "motogp",
-          "name": "MotoGP",
-          "sessions": [
-            "Sprint",
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "brazil-1-2026-03-21",
-      "name": "Brazil 1",
-      "venue": "Brazil Qualifying 1",
-      "startDate": "2026-03-21",
-      "endDate": "2026-03-21",
-      "series": [
-        {
-          "id": "motogp",
-          "name": "MotoGP",
-          "sessions": [
-            "Qualifying"
           ]
         }
       ]
