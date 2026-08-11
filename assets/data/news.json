@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T12:47:39.326Z",
+  "generatedAt": "2026-08-11T18:52:43.589Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum-0",
-      "title": "F1 2026 mid-season grades: Alpine makes great strides but struggles to maintain momentum",
+      "id": "mercedes-explains-key-attributes-behind-kimi-antonellis-new-2026-f1-level-0",
+      "title": "Mercedes explains key attributes behind Kimi Antonelli’s new 2026 F1 level",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum/10845239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/maturity-experience-self-belief-the-keys-to-kimi-antonellis-new-f1-level/10845649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "motogp-to-hold-2027-season-launch-event-in-brazil-0",
-      "title": "MotoGP to hold 2027 season launch event in Brazil",
+      "id": "what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year-0",
+      "title": "What was behind Francesco Bagnaia’s worst MotoGP weekend of the year?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-to-hold-2027-season-launch-event-in-brazil/10845716/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year/10845692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum-0",
+      "id": "mercedes-explains-key-attributes-behind-kimi-antonellis-new-2026-f1-level-0",
+      "title": "Mercedes explains key attributes behind Kimi Antonelli’s new 2026 F1 level",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/maturity-experience-self-belief-the-keys-to-kimi-antonellis-new-f1-level/10845649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 11, 2026"
+    },
+    {
+      "id": "f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum-1",
       "title": "F1 2026 mid-season grades: Alpine makes great strides but struggles to maintain momentum",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum/10845239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "mclaren-trying-to-understand-ferraris-inspirational-upgrade-volume-1",
+      "id": "mclaren-trying-to-understand-ferraris-inspirational-upgrade-volume-2",
       "title": "McLaren trying to understand Ferrari's 'inspirational' upgrade volume",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mclaren-trying-to-understand-ferraris-inspirational-upgrade-volume/10845662/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,7 +121,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "what-to-expect-from-hondas-long-awaited-f1-power-unit-upgrade-at-zandvoort-2",
+      "id": "what-to-expect-from-hondas-long-awaited-f1-power-unit-upgrade-at-zandvoort-3",
       "title": "What to expect from Honda's long-awaited F1 power unit upgrade at Zandvoort",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/what-to-expect-from-hondas-long-awaited-f1-power-unit-upgrade-at-zandvoort/10845642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -119,17 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Aug 11, 2026"
-    },
-    {
-      "id": "alex-albon-leaves-fans-in-stitches-with-red-bull-joke-in-f1-grill-the-grid-video-3",
-      "title": "Alex Albon leaves fans in stitches with Red Bull joke in F1 \"Grill The Grid\" video",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/alex-albon-leaves-fans-in-stitches-with-red-bull-joke-in-f1-grill-the-grid-video/10845574/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 10, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "motogp-to-hold-2027-season-launch-event-in-brazil-0",
+      "id": "what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year-0",
+      "title": "What was behind Francesco Bagnaia’s worst MotoGP weekend of the year?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year/10845692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 11, 2026"
+    },
+    {
+      "id": "motogp-to-hold-2027-season-launch-event-in-brazil-1",
       "title": "MotoGP to hold 2027 season launch event in Brazil",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-to-hold-2027-season-launch-event-in-brazil/10845716/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "motogp-will-not-rule-out-moving-qatar-grand-prix-to-another-venue-1",
+      "id": "motogp-will-not-rule-out-moving-qatar-grand-prix-to-another-venue-2",
       "title": "MotoGP will not rule out moving Qatar Grand Prix to another venue",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-does-not-rule-out-moving-qatar-grand-prix-to-another-venue/10845652/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "marco-bezzecchi-admits-he-struggled-to-stop-overthinking-during-difficult-motogp-spell-2",
+      "id": "marco-bezzecchi-admits-he-struggled-to-stop-overthinking-during-difficult-motogp-spell-3",
       "title": "Marco Bezzecchi admits he struggled to “stop overthinking” during difficult MotoGP spell",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-admits-he-struggled-to-stop-overthinking-during-difficult-motogp-spell/10845520/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Aug 10, 2026"
     },
     {
-      "id": "motogp-discussing-the-introduction-of-a-rider-transfer-window-3",
-      "title": "MotoGP discussing the introduction of a rider transfer window",
+      "id": "winners-and-losers-from-the-indycar-race-in-portland-0",
+      "title": "Winners and losers from the IndyCar race in Portland",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/3pm-bst-motogp-working-on-introduction-of-rider-transfer-windows/10845497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-in-portland/10845765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 10, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "palou-and-wanser-push-back-on-backmarker-traffic-complaints-following-portland-victory-0",
+      "id": "palou-and-wanser-push-back-on-backmarker-traffic-complaints-following-portland-victory-1",
       "title": "Palou and Wanser push back on backmarker traffic complaints following Portland victory",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/palou-and-wanser-push-back-on-backmarker-traffic-complaints-following-portland-victory/10845598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 10, 2026"
     },
     {
-      "id": "alex-palou-more-comfortable-after-portland-win-stretches-indycar-lead-to-110-points-1",
+      "id": "alex-palou-more-comfortable-after-portland-win-stretches-indycar-lead-to-110-points-2",
       "title": "Alex Palou “more comfortable” after Portland win stretches IndyCar lead to 110 points",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-more-comfortable-after-portland-win-stretches-indycar-lead-to-110-points/10845391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Aug 10, 2026"
     },
     {
-      "id": "felix-rosenqvist-and-will-power-slam-indycar-traffic-rules-after-portland-podium-finishes-2",
+      "id": "felix-rosenqvist-and-will-power-slam-indycar-traffic-rules-after-portland-podium-finishes-3",
       "title": "Felix Rosenqvist and Will Power slam IndyCar traffic rules after Portland podium finishes",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/felix-rosenqvist-and-will-power-slam-indycar-traffic-rules-after-portland-podium-finishes/10845378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -297,18 +308,18 @@
       "publishedLabel": "Aug 10, 2026"
     },
     {
-      "id": "complete-indycar-championship-standings-after-2026-portland-3",
-      "title": "Complete IndyCar championship standings after 2026 Portland",
+      "id": "theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future-0",
+      "title": "Theo Pourchaire focused on new Opel Formula E programme amid doubts over WEC future",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-portland/10845358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/wec/news/theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future/10845733/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
-        "indycar"
+        "wec"
       ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 9, 2026"
+      "seriesLabel": "WEC",
+      "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-0",
+      "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-1",
       "title": "How WEC's Hypercar title fight is shaping up with revised 2026 calendar",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar/10844657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-1",
+      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-2",
       "title": "Why GT3 may need a ‘rethink’ in line with WEC’s 2030 Hypercar refresh  ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ratel-we-need-to-rethink-gt3-just-as-the-wec-has-done-with-the-2030-hypercars/10844239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Aug 5, 2026"
     },
     {
-      "id": "gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-both-championships-do-2",
+      "id": "gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-both-championships-do-3",
       "title": "GT World Challenge and WEC clash: What will teams and drivers racing both championships do?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-in-both-championships-do/10844106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Aug 4, 2026"
-    },
-    {
-      "id": "every-circuit-to-have-hosted-a-wec-round-since-2012-3",
-      "title": "Every circuit to have hosted a WEC round since 2012",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/all-circuits-to-have-hosted-a-wec-round-since-2012/10843370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Aug 3, 2026"
     }
   ]
 }
