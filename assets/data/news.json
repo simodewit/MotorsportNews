@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:13:46.569Z",
+  "generatedAt": "2026-08-12T12:52:57.954Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "mercedes-explains-key-attributes-behind-kimi-antonellis-new-2026-f1-level-0",
-      "title": "Mercedes explains key attributes behind Kimi Antonelli’s new 2026 F1 level",
+      "id": "f1-2026-mid-season-grades-racing-bulls-stuns-midfield-pack-0",
+      "title": "F1 2026 mid-season grades: Racing Bulls stuns midfield pack ",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/maturity-experience-self-belief-the-keys-to-kimi-antonellis-new-f1-level/10845649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-racing-bulls-stuns-midfield-pack-/10845309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 11, 2026"
+      "publishedLabel": "Aug 12, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year-0",
-      "title": "What was behind Francesco Bagnaia’s worst MotoGP weekend of the year?",
+      "id": "motogp-plans-to-introduce-f1-style-budget-cap-0",
+      "title": "MotoGP plans to introduce F1-style budget cap",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year/10845692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-f1-style-budget-cap-plans-ezpeleta/10845805/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 11, 2026"
+      "publishedLabel": "Aug 12, 2026"
     }
   ],
   "articles": [
     {
-      "id": "mercedes-explains-key-attributes-behind-kimi-antonellis-new-2026-f1-level-0",
+      "id": "f1-2026-mid-season-grades-racing-bulls-stuns-midfield-pack-0",
+      "title": "F1 2026 mid-season grades: Racing Bulls stuns midfield pack ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-racing-bulls-stuns-midfield-pack-/10845309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 12, 2026"
+    },
+    {
+      "id": "jessica-hawkins-dismisses-f1-strength-concerns-but-flags-junior-series-barrier-for-female-drivers-1",
+      "title": "Jessica Hawkins dismisses F1 strength concerns but flags junior series barrier for female drivers",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/jessica-hawkins-dismisses-f1-strength-concerns-but-flags-junior-series-barrier-for-female-drivers/10845538/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 12, 2026"
+    },
+    {
+      "id": "does-f1s-aduo-system-need-a-rethink-fia-admits-to-weaknesses-2",
+      "title": "Does F1's ADUO system need a rethink? FIA admits to \"weaknesses\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/fia-admits-f1s-aduo-system-has-weaknesses-but-defends-its-measurements/10845808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 12, 2026"
+    },
+    {
+      "id": "mercedes-explains-key-attributes-behind-kimi-antonellis-new-2026-f1-level-3",
       "title": "Mercedes explains key attributes behind Kimi Antonelli’s new 2026 F1 level",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/maturity-experience-self-belief-the-keys-to-kimi-antonellis-new-f1-level/10845649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 11, 2026"
-    },
-    {
-      "id": "f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum-1",
-      "title": "F1 2026 mid-season grades: Alpine makes great strides but struggles to maintain momentum",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-alpine-makes-great-strides-but-struggles-to-maintain-momentum/10845239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 11, 2026"
-    },
-    {
-      "id": "mclaren-trying-to-understand-ferraris-inspirational-upgrade-volume-2",
-      "title": "McLaren trying to understand Ferrari's 'inspirational' upgrade volume",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mclaren-trying-to-understand-ferraris-inspirational-upgrade-volume/10845662/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 11, 2026"
-    },
-    {
-      "id": "what-to-expect-from-hondas-long-awaited-f1-power-unit-upgrade-at-zandvoort-3",
-      "title": "What to expect from Honda's long-awaited F1 power unit upgrade at Zandvoort",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/what-to-expect-from-hondas-long-awaited-f1-power-unit-upgrade-at-zandvoort/10845642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year-0",
+      "id": "motogp-plans-to-introduce-f1-style-budget-cap-0",
+      "title": "MotoGP plans to introduce F1-style budget cap",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/motogp-f1-style-budget-cap-plans-ezpeleta/10845805/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 12, 2026"
+    },
+    {
+      "id": "what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year-1",
       "title": "What was behind Francesco Bagnaia’s worst MotoGP weekend of the year?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year/10845692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "motogp-to-hold-2027-season-launch-event-in-brazil-1",
+      "id": "motogp-to-hold-2027-season-launch-event-in-brazil-2",
       "title": "MotoGP to hold 2027 season launch event in Brazil",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-to-hold-2027-season-launch-event-in-brazil/10845716/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "motogp-will-not-rule-out-moving-qatar-grand-prix-to-another-venue-2",
+      "id": "motogp-will-not-rule-out-moving-qatar-grand-prix-to-another-venue-3",
       "title": "MotoGP will not rule out moving Qatar Grand Prix to another venue",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-does-not-rule-out-moving-qatar-grand-prix-to-another-venue/10845652/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Aug 11, 2026"
-    },
-    {
-      "id": "marco-bezzecchi-admits-he-struggled-to-stop-overthinking-during-difficult-motogp-spell-3",
-      "title": "Marco Bezzecchi admits he struggled to “stop overthinking” during difficult MotoGP spell",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-admits-he-struggled-to-stop-overthinking-during-difficult-motogp-spell/10845520/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 10, 2026"
     },
     {
       "id": "faa-to-halt-flights-at-major-dc-airport-ahead-of-indycar-race-0",
