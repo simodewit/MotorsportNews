@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T16:53:18.003Z",
+  "generatedAt": "2026-08-12T01:27:34.629Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "ku3rRSrIplQ",
+      "title": "Best Onboard Moments | 2026 INDYCAR at Portland",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "9NuTZ1yoc0g",
       "title": "2026 NTT INDYCAR SERIES Full Race | OnlyBulls Grand Prix of Portland",
       "channel": "NTT INDYCAR SERIES",
@@ -220,17 +231,6 @@
     {
       "videoId": "W5tnGCcCpwI",
       "title": "Extended Race Highlights | 2026 INDYCAR at Portland",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "Zv7vEO64WVQ",
-      "title": "Race Highlights | 2026 INDYCAR at Portland",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
