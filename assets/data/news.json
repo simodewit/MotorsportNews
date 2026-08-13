@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T18:52:57.453Z",
+  "generatedAt": "2026-08-13T01:20:24.314Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "marcin-budkowski-spoke-to-over-half-the-f1-grid-before-choosing-cadillac-0",
-      "title": "Marcin Budkowski spoke to 'over half' the F1 grid before choosing Cadillac",
+      "id": "cadillac-f1-team-not-distracted-by-sergio-perez-to-williams-rumours-0",
+      "title": "Cadillac F1 team \"not distracted\" by Sergio Perez to Williams rumours",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/marcin-budkowski-spoke-to-over-half-the-f1-grid-before-choosing-cadillac/10845980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/cadillac-f1-team-not-distracted-by-sergio-perez-to-williams-rumours/10845961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "marcin-budkowski-spoke-to-over-half-the-f1-grid-before-choosing-cadillac-0",
+      "id": "cadillac-f1-team-not-distracted-by-sergio-perez-to-williams-rumours-0",
+      "title": "Cadillac F1 team \"not distracted\" by Sergio Perez to Williams rumours",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/cadillac-f1-team-not-distracted-by-sergio-perez-to-williams-rumours/10845961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 12, 2026"
+    },
+    {
+      "id": "marcin-budkowski-spoke-to-over-half-the-f1-grid-before-choosing-cadillac-1",
       "title": "Marcin Budkowski spoke to 'over half' the F1 grid before choosing Cadillac",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/marcin-budkowski-spoke-to-over-half-the-f1-grid-before-choosing-cadillac/10845980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 12, 2026"
     },
     {
-      "id": "graeme-lowdons-shock-cadillac-exit-wasnt-a-mutual-decision-dan-towriss-1",
+      "id": "graeme-lowdons-shock-cadillac-exit-wasnt-a-mutual-decision-dan-towriss-2",
       "title": "Graeme Lowdon's shock Cadillac exit wasn't a \"mutual decision\" - Dan Towriss",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/graeme-lowdons-cadillac-exit-wasnt-a-mutual-decision-dan-towriss/10845971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 12, 2026"
     },
     {
-      "id": "cadillac-hires-new-f1-team-boss-graeme-lowdon-leaves-2",
+      "id": "cadillac-hires-new-f1-team-boss-graeme-lowdon-leaves-3",
       "title": "Cadillac hires new F1 team boss, Graeme Lowdon leaves",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/cadillac-appoints-new-f1-team-boss-as-graeme-lowdon-leaves/10845933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 12, 2026"
-    },
-    {
-      "id": "why-mclaren-feels-the-best-drivers-can-still-make-a-difference-under-f1-2026-rules-3",
-      "title": "Why McLaren feels the best drivers can still make a difference under F1 2026 rules",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/why-mclaren-feels-the-best-drivers-can-still-make-a-difference-under-f1-2026-rules/10845727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
