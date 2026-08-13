@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T09:04:18.441Z",
+  "generatedAt": "2026-08-13T16:47:09.952Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🇨🇦 LIVE: INDYCAR Canada Classics | Full Race Marathon",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "Pu5A41BwPks",
-      "url": "https://www.youtube.com/watch?v=Pu5A41BwPks",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
