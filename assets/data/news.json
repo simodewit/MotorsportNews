@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:14:31.657Z",
+  "generatedAt": "2026-08-14T12:50:32.644Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations-0",
-      "title": "Arvid Lindblad admits F1 rookie season has exceeded expectations",
+      "id": "max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix-0",
+      "title": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations/10845614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 13, 2026"
+      "publishedLabel": "Aug 14, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "this-is-not-f1-on-two-wheels-carlos-ezpeleta-on-investment-and-evolution-in-motogp-0",
-      "title": "“This is not F1 on two wheels” - Carlos Ezpeleta on investment and evolution in MotoGP",
+      "id": "explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty-0",
+      "title": "Explained: the error that led to Fabio Quartararo’s British GP penalty",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/this-is-not-f1-on-two-wheels-carlos-ezpeleta-on-investment-and-evolution-in-motogp/10846167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty/10846281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 13, 2026"
+      "publishedLabel": "Aug 14, 2026"
     }
   ],
   "articles": [
     {
-      "id": "arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations-0",
+      "id": "max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix-0",
+      "title": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine-1",
+      "title": "What exactly was behind Franco Colapinto's Miami breakthrough at Alpine?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine/10846004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "interview-the-life-and-racing-lessons-allan-mcnish-learned-from-ayrton-senna-and-audi-2",
+      "title": "Interview - The life and racing lessons Allan McNish learned from Ayrton Senna and Audi",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/the-life-and-racing-lessons-allan-mcnish-learned-from-ayrton-senna-and-audi/10846242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations-3",
       "title": "Arvid Lindblad admits F1 rookie season has exceeded expectations",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations/10845614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 13, 2026"
-    },
-    {
-      "id": "lance-stroll-spotted-driving-ultra-rare-3million-aston-martin-in-monaco-1",
-      "title": "Lance Stroll spotted driving ultra-rare £3million Aston Martin in Monaco",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lance-stroll-spotted-driving-ultra-rare-3million-aston-martin-in-monaco/10846154/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 13, 2026"
-    },
-    {
-      "id": "guenther-steiner-sets-condition-for-potential-f1-return-2",
-      "title": "Guenther Steiner sets condition for potential F1 return",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-sets-condition-for-potential-f1-return/10846138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 13, 2026"
-    },
-    {
-      "id": "isack-hadjar-identifies-key-area-he-must-improve-compared-to-max-verstappen-3",
-      "title": "Isack Hadjar identifies key area he must improve compared to Max Verstappen",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-identifies-key-area-he-must-improve-compared-to-max-verstappen/10846118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "this-is-not-f1-on-two-wheels-carlos-ezpeleta-on-investment-and-evolution-in-motogp-0",
+      "id": "explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty-0",
+      "title": "Explained: the error that led to Fabio Quartararo’s British GP penalty",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty/10846281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "this-is-not-f1-on-two-wheels-carlos-ezpeleta-on-investment-and-evolution-in-motogp-1",
       "title": "“This is not F1 on two wheels” - Carlos Ezpeleta on investment and evolution in MotoGP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/this-is-not-f1-on-two-wheels-carlos-ezpeleta-on-investment-and-evolution-in-motogp/10846167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 13, 2026"
     },
     {
-      "id": "jorge-martin-no-longer-obsessed-with-winning-motogp-races-like-in-2024-1",
+      "id": "jorge-martin-no-longer-obsessed-with-winning-motogp-races-like-in-2024-2",
       "title": "Jorge Martin no longer obsessed with winning MotoGP races like in 2024",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/jorge-martin-no-longer-obsessed-with-winning-motogp-races-like-in-2024/10846058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 13, 2026"
     },
     {
-      "id": "motogp-plans-to-introduce-f1-style-budget-cap-2",
+      "id": "motogp-plans-to-introduce-f1-style-budget-cap-3",
       "title": "MotoGP plans to introduce F1-style budget cap",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-f1-style-budget-cap-plans-ezpeleta/10845805/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Aug 12, 2026"
-    },
-    {
-      "id": "what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year-3",
-      "title": "What was behind Francesco Bagnaia’s worst MotoGP weekend of the year?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/what-was-behind-francesco-bagnaias-worst-motogp-weekend-of-the-year/10845692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 11, 2026"
     },
     {
       "id": "how-to-watch-indycar-2026-at-markham-weekend-schedule-start-time-tv-0",
