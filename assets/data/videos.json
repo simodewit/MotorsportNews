@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T01:28:18.433Z",
+  "generatedAt": "2026-08-14T09:02:51.786Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "RF9CmNX002E",
+      "title": "10 Years On: Iannone's first MotoGP win that revived Ducati 🏆",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "qSGsc5RzoU4",
       "title": "Salac's journey to his first Moto2 win 🚀🇨🇿",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "Z28cM_8UNmQ",
       "title": "Trackhouse and Aprilia's UNSEEN celebrations from Silverstone 🍾 | 2026 British GP",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "bu2leYFEu1o",
-      "title": "COMPARISON: Abraham & Salac maiden Moto2 wins! 🏆",
       "channel": "MotoGP",
       "series": [
         "motogp"
