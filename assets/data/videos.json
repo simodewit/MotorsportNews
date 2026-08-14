@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:51:58.725Z",
+  "generatedAt": "2026-08-14T01:28:18.433Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "g_Y2KLHiTAw",
+      "title": "Spot The Australian 🔍👀",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "lSYd6FR7tRA",
       "title": "We Accidentally Confused all the Drivers 😕",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "RfuFhx6Ykkk",
       "title": "Will We See Gabi Skydiving With Amelia Dimoldenberg? 🪂😅",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "mJCb_AE4Fsw",
-      "title": "F2 vs F3: The Geography Challenge!",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "5mBTWHYzk48",
+      "title": "Race Preview | 2026 INDYCAR at Markham",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "Pu5A41BwPks",
       "title": "🇨🇦 LIVE: INDYCAR Canada Classics | Full Race Marathon",
       "channel": "NTT INDYCAR SERIES",
@@ -220,17 +231,6 @@
     {
       "videoId": "9NuTZ1yoc0g",
       "title": "2026 NTT INDYCAR SERIES Full Race | OnlyBulls Grand Prix of Portland",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "P3yGj3U8WYY",
-      "title": "Drivers React After the Race | 2026 INDYCAR at Portland",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
