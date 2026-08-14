@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T12:50:32.644Z",
+  "generatedAt": "2026-08-14T18:43:23.874Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix-0",
-      "title": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
+      "id": "f1-2026-mid-season-grades-mclaren-starts-on-back-foot-but-makes-rapid-progress-0",
+      "title": "F1 2026 mid-season grades: McLaren starts on back foot but makes rapid progress",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mclaren-starts-on-the-back-foot-but-makes-rapid-progress/10846244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix-0",
+      "id": "f1-2026-mid-season-grades-mclaren-starts-on-back-foot-but-makes-rapid-progress-0",
+      "title": "F1 2026 mid-season grades: McLaren starts on back foot but makes rapid progress",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mclaren-starts-on-the-back-foot-but-makes-rapid-progress/10846244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "why-mercedes-finds-other-f1-teams-upgrades-scary-with-its-out-of-phase-plan-1",
+      "title": "Why Mercedes finds other F1 teams' upgrades \"scary\" with its out-of-phase plan",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/mercedes-explains-out-of-phase-developments-with-other-f1-teams/10846275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix-2",
       "title": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +121,7 @@
       "publishedLabel": "Aug 14, 2026"
     },
     {
-      "id": "what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine-1",
+      "id": "what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine-3",
       "title": "What exactly was behind Franco Colapinto's Miami breakthrough at Alpine?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine/10846004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -108,28 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Aug 14, 2026"
-    },
-    {
-      "id": "interview-the-life-and-racing-lessons-allan-mcnish-learned-from-ayrton-senna-and-audi-2",
-      "title": "Interview - The life and racing lessons Allan McNish learned from Ayrton Senna and Audi",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/the-life-and-racing-lessons-allan-mcnish-learned-from-ayrton-senna-and-audi/10846242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 14, 2026"
-    },
-    {
-      "id": "arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations-3",
-      "title": "Arvid Lindblad admits F1 rookie season has exceeded expectations",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-admits-f1-rookie-season-has-exceeded-expectations/10845614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 13, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -264,7 +264,18 @@
       "publishedLabel": "Aug 12, 2026"
     },
     {
-      "id": "how-to-watch-indycar-2026-at-markham-weekend-schedule-start-time-tv-0",
+      "id": "road-america-announces-indycar-date-for-2027-0",
+      "title": "Road America announces IndyCar date for 2027",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/road-america-announces-indycar-date-for-2027/10846368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "how-to-watch-indycar-2026-at-markham-weekend-schedule-start-time-tv-1",
       "title": "How to watch IndyCar 2026 at Markham: Weekend schedule, start time, TV",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-markham-weekend-schedule-start-time-tv/10846024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 13, 2026"
     },
     {
-      "id": "foyt-homes-for-our-troops-and-white-house-historical-association-team-up-for-freedom-250-1",
+      "id": "foyt-homes-for-our-troops-and-white-house-historical-association-team-up-for-freedom-250-2",
       "title": "Foyt, Homes for Our Troops, and White House Historical Association team up for Freedom 250",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/foyt-homes-for-our-troops-and-white-house-historical-association-team-up-for-freedom-250/10845986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Aug 12, 2026"
     },
     {
-      "id": "indycar-unveils-phase-one-of-2027-schedule-2",
+      "id": "indycar-unveils-phase-one-of-2027-schedule-3",
       "title": "IndyCar unveils Phase One of 2027 schedule ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-unveils-phase-one-of-2027-schedule-/10845947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -297,18 +308,18 @@
       "publishedLabel": "Aug 12, 2026"
     },
     {
-      "id": "faa-to-halt-flights-at-major-dc-airport-ahead-of-indycar-race-3",
-      "title": "FAA to halt flights at major D.C. airport ahead of IndyCar race",
+      "id": "porsche-backs-stephane-ratel-over-gt3s-direction-we-dont-want-prototypes-0",
+      "title": "Porsche backs Stephane Ratel over GT3's direction: \"We don't want prototypes\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/faa-to-halt-flights-at-major-dc-airport-for-indycar-race/10845810/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/wec/news/porsche-gt3-future-direction-ratel-warning/10846261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
-        "indycar"
+        "wec"
       ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 11, 2026"
+      "seriesLabel": "WEC",
+      "publishedLabel": "Aug 14, 2026"
     },
     {
-      "id": "theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future-0",
+      "id": "theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future-1",
       "title": "Theo Pourchaire focused on new Opel Formula E programme amid doubts over WEC future",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future/10845733/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-1",
+      "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-2",
       "title": "How WEC's Hypercar title fight is shaping up with revised 2026 calendar",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar/10844657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Aug 7, 2026"
     },
     {
-      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-2",
+      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-3",
       "title": "Why GT3 may need a ‘rethink’ in line with WEC’s 2030 Hypercar refresh  ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ratel-we-need-to-rethink-gt3-just-as-the-wec-has-done-with-the-2030-hypercars/10844239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Aug 5, 2026"
-    },
-    {
-      "id": "gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-both-championships-do-3",
-      "title": "GT World Challenge and WEC clash: What will teams and drivers racing both championships do?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/gt-world-challenge-and-wec-clash-what-will-teams-and-drivers-racing-in-both-championships-do/10844106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Aug 4, 2026"
     }
   ]
 }
