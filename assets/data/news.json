@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:43:23.874Z",
+  "generatedAt": "2026-08-15T00:51:30.662Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "f1-2026-mid-season-grades-mclaren-starts-on-back-foot-but-makes-rapid-progress-0",
-      "title": "F1 2026 mid-season grades: McLaren starts on back foot but makes rapid progress",
+      "id": "king-willem-alexander-to-present-f1-dutch-gp-winners-trophy-at-zandvoort-0",
+      "title": "King Willem-Alexander to present F1 Dutch GP winner's trophy at Zandvoort",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mclaren-starts-on-the-back-foot-but-makes-rapid-progress/10846244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/king-willem-alexander-to-present-f1-dutch-gp-winners-trophy-at-zandvoort/10846416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "f1-2026-mid-season-grades-mclaren-starts-on-back-foot-but-makes-rapid-progress-0",
+      "id": "king-willem-alexander-to-present-f1-dutch-gp-winners-trophy-at-zandvoort-0",
+      "title": "King Willem-Alexander to present F1 Dutch GP winner's trophy at Zandvoort",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/king-willem-alexander-to-present-f1-dutch-gp-winners-trophy-at-zandvoort/10846416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "f1-2026-mid-season-grades-mclaren-starts-on-back-foot-but-makes-rapid-progress-1",
       "title": "F1 2026 mid-season grades: McLaren starts on back foot but makes rapid progress",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mclaren-starts-on-the-back-foot-but-makes-rapid-progress/10846244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 14, 2026"
     },
     {
-      "id": "why-mercedes-finds-other-f1-teams-upgrades-scary-with-its-out-of-phase-plan-1",
+      "id": "why-mercedes-finds-other-f1-teams-upgrades-scary-with-its-out-of-phase-plan-2",
       "title": "Why Mercedes finds other F1 teams' upgrades \"scary\" with its out-of-phase plan",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mercedes-explains-out-of-phase-developments-with-other-f1-teams/10846275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 14, 2026"
     },
     {
-      "id": "max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix-2",
+      "id": "max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix-3",
       "title": "Max Verstappen unveils special helmet for final F1 Dutch Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-helmet-for-final-f1-dutch-grand-prix/10846299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 14, 2026"
-    },
-    {
-      "id": "what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine-3",
-      "title": "What exactly was behind Franco Colapinto's Miami breakthrough at Alpine?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/what-exactly-was-behind-franco-colapintos-miami-breakthrough-at-alpine/10846004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,40 @@
       "publishedLabel": "Aug 12, 2026"
     },
     {
-      "id": "road-america-announces-indycar-date-for-2027-0",
+      "id": "frustration-in-markham-indycar-president-boles-calls-out-green-savoree-promotions-over-delayed-track-build-0",
+      "title": "Frustration in Markham: IndyCar President Boles calls out Green Savoree Promotions over delayed track build",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/frustration-in-markham-indycar-president-boles-calls-out-green-savoree-promotions-over-delayed-trac/10846424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "fox-sports-reveals-broadcast-team-for-inaugural-washington-dc-indycar-race-1",
+      "title": "FOX Sports reveals broadcast team for inaugural Washington, D.C. IndyCar race",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/fox-sports-reveals-broadcast-team-for-inaugural-washington-indycar-race/10846408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "track-construction-woes-delay-markham-indycar-activities-to-saturday-2",
+      "title": "Track construction woes delay Markham IndyCar activities to Saturday",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/markham-indycar-debut-delayed-by-unfinished-track-construction/10846396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 14, 2026"
+    },
+    {
+      "id": "road-america-announces-indycar-date-for-2027-3",
       "title": "Road America announces IndyCar date for 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/road-america-announces-indycar-date-for-2027/10846368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -273,39 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 14, 2026"
-    },
-    {
-      "id": "how-to-watch-indycar-2026-at-markham-weekend-schedule-start-time-tv-1",
-      "title": "How to watch IndyCar 2026 at Markham: Weekend schedule, start time, TV",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-markham-weekend-schedule-start-time-tv/10846024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 13, 2026"
-    },
-    {
-      "id": "foyt-homes-for-our-troops-and-white-house-historical-association-team-up-for-freedom-250-2",
-      "title": "Foyt, Homes for Our Troops, and White House Historical Association team up for Freedom 250",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/foyt-homes-for-our-troops-and-white-house-historical-association-team-up-for-freedom-250/10845986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 12, 2026"
-    },
-    {
-      "id": "indycar-unveils-phase-one-of-2027-schedule-3",
-      "title": "IndyCar unveils Phase One of 2027 schedule ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-unveils-phase-one-of-2027-schedule-/10845947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 12, 2026"
     },
     {
       "id": "porsche-backs-stephane-ratel-over-gt3s-direction-we-dont-want-prototypes-0",
