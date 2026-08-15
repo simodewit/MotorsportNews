@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T12:23:02.750Z",
+  "generatedAt": "2026-08-15T18:18:40.329Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "gabriel-bortoleto-expects-long-term-stay-at-audis-f1-team-0",
-      "title": "Gabriel Bortoleto expects long-term stay at Audi's F1 team",
+      "id": "f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start-0",
+      "title": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/bortoleto-expects-long-term-stay-at-audis-f1-team/10846331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "gabriel-bortoleto-expects-long-term-stay-at-audis-f1-team-0",
+      "id": "f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start-0",
+      "title": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 15, 2026"
+    },
+    {
+      "id": "gabriel-bortoleto-expects-long-term-stay-at-audis-f1-team-1",
       "title": "Gabriel Bortoleto expects long-term stay at Audi's F1 team",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/bortoleto-expects-long-term-stay-at-audis-f1-team/10846331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 15, 2026"
     },
     {
-      "id": "mercedes-no-longer-needs-max-verstappen-says-guenther-steiner-1",
+      "id": "mercedes-no-longer-needs-max-verstappen-says-guenther-steiner-2",
       "title": "Mercedes no longer needs Max Verstappen, says Guenther Steiner",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/mercedes-no-longer-needs-max-verstappen-says-guenther-steiner/10846482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 15, 2026"
     },
     {
-      "id": "max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026-2",
+      "id": "max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026-3",
       "title": "Max Verstappen pinpoints Red Bull's \"big priority\" for second half of F1 2026",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 15, 2026"
-    },
-    {
-      "id": "george-russell-still-carries-scars-from-2020-mercedes-f1-call-up-3",
-      "title": "George Russell still carries scars from 2020 Mercedes F1 call-up",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-still-carries-scars-from-2020-mercedes-f1-call-up/10846449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Aug 13, 2026"
     },
     {
-      "id": "frustration-in-markham-indycar-president-calls-out-green-savoree-promotions-over-delayed-track-build-0",
+      "id": "david-malukas-hails-new-markham-indycar-circuit-as-a-blast-0",
+      "title": "David Malukas hails new Markham IndyCar circuit as “a blast”",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/david-malukas-hails-new-markham-indycar-circuit-as-a-blast/10846545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 15, 2026"
+    },
+    {
+      "id": "frustration-in-markham-indycar-president-calls-out-green-savoree-promotions-over-delayed-track-build-1",
       "title": "Frustration in Markham: IndyCar president calls out Green Savoree Promotions over delayed track build",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/frustration-in-markham-indycar-president-boles-calls-out-green-savoree-promotions-over-delayed-trac/10846424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 14, 2026"
     },
     {
-      "id": "fox-sports-reveals-broadcast-team-for-inaugural-washington-dc-indycar-race-1",
+      "id": "fox-sports-reveals-broadcast-team-for-inaugural-washington-dc-indycar-race-2",
       "title": "FOX Sports reveals broadcast team for inaugural Washington, D.C. IndyCar race",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/fox-sports-reveals-broadcast-team-for-inaugural-washington-indycar-race/10846408/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Aug 14, 2026"
     },
     {
-      "id": "track-construction-woes-delay-markham-indycar-activities-to-saturday-2",
+      "id": "track-construction-woes-delay-markham-indycar-activities-to-saturday-3",
       "title": "Track construction woes delay Markham IndyCar activities to Saturday",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/markham-indycar-debut-delayed-by-unfinished-track-construction/10846396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 14, 2026"
-    },
-    {
-      "id": "road-america-announces-indycar-date-for-2027-3",
-      "title": "Road America announces IndyCar date for 2027",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/road-america-announces-indycar-date-for-2027/10846368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
