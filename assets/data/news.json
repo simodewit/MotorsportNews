@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T00:54:28.584Z",
+  "generatedAt": "2026-08-16T06:27:59.613Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,29 @@
       "publishedLabel": "Aug 13, 2026"
     },
     {
-      "id": "indycar-markham-starting-lineup-louis-foster-storms-to-pole-as-alex-palou-crashes-0",
+      "id": "louis-foster-drove-with-a-bit-of-rage-in-fast-six-en-route-to-markham-indycar-pole-0",
+      "title": "Louis Foster drove “with a bit of rage” in Fast Six en route to Markham IndyCar pole",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/louis-foster-drove-with-a-bit-of-rage-in-fast-six-en-route-to-markham-indycar-pole/10846590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "alex-palou-crashes-in-markham-qualifying-after-rare-indycar-mistake-1",
+      "title": "Alex Palou crashes in Markham qualifying after rare IndyCar mistake",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/alex-palou-crashes-in-markham-qualifying-after-rare-indycar-mistake/10846587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "indycar-markham-starting-lineup-louis-foster-storms-to-pole-as-alex-palou-crashes-2",
       "title": "IndyCar Markham starting lineup: Louis Foster storms to pole as Alex Palou crashes",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-markham-starting-lineup-louis-foster-storms-to-markham-indycar-pole-as-alex-palou-crashes/10846570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Aug 16, 2026"
     },
     {
-      "id": "will-power-crashes-hard-in-second-indycar-markham-practice-1",
+      "id": "will-power-crashes-hard-in-second-indycar-markham-practice-3",
       "title": "Will Power crashes hard in second IndyCar Markham practice",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/will-power-crashes-hard-in-second-indycar-markham-practice/10846566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 15, 2026"
-    },
-    {
-      "id": "david-malukas-hails-new-markham-indycar-circuit-as-a-blast-2",
-      "title": "David Malukas hails new Markham IndyCar circuit as “a blast”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/david-malukas-hails-new-markham-indycar-circuit-as-a-blast/10846545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 15, 2026"
-    },
-    {
-      "id": "frustration-in-markham-indycar-president-calls-out-green-savoree-promotions-over-delayed-track-build-3",
-      "title": "Frustration in Markham: IndyCar president calls out Green Savoree Promotions over delayed track build",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/frustration-in-markham-indycar-president-boles-calls-out-green-savoree-promotions-over-delayed-trac/10846424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 14, 2026"
     },
     {
       "id": "porsche-backs-stephane-ratel-over-gt3s-direction-we-dont-want-prototypes-0",
