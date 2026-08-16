@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:22:53.989Z",
+  "generatedAt": "2026-08-16T16:18:31.609Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "_fQVQR8Ph5M",
+      "title": "F1 Driver Aura 🥶",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "S8zxbbwQbVY",
+      "title": "Immortality Awaits | F1: All To Drive For",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "0DpEpOSHtwE",
       "title": "2026 F1 Season | The Story So far",
       "channel": "FORMULA 1",
@@ -77,28 +99,6 @@
     {
       "videoId": "ukdqGrLcfOc",
       "title": "Charles Leclerc is a Comedian 😆",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "P5Ck4vfkgwQ",
-      "title": "14 Epic Defensive Drives in F1",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "0TTp3_NoeMI",
-      "title": "We Are So Unserious rn 🤪",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,6 +196,28 @@
       ]
     },
     {
+      "videoId": "fn1EDW5zCzk",
+      "title": "The Dennis Hauger fans are here! #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "sgZrW4ohABc",
+      "title": "🔴 INDYCAR Warmup | 2026 Ontario Honda Dealers Indy at Markham",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "Gs3UrCPdVdI",
       "title": "First street-circuit pole for Louis Foster! 🥇 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
@@ -218,25 +240,14 @@
       ]
     },
     {
-      "videoId": "aQdB6srP2zw",
-      "title": "Drivers React After Qualifying | 2026 INDYCAR at Markham",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "o0-CwkZ9c8c",
+      "title": "SO Close 😳",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "q_JaKlaiTBQ",
-      "title": "Qualifying Highlights | 2026 INDYCAR at Markham",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -273,14 +284,14 @@
       ]
     },
     {
-      "videoId": "DHuvnkgbQ4U",
-      "title": "FULL ONBOARD - SS7 Fourmaux/Coria | WRC Secto Rally Finland 2026",
-      "channel": "FIA World Rally Championship",
+      "videoId": "4bANXz0_eRg",
+      "title": "the small print of the sport 😅",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "HslCP0fHmco",
       "title": "one lap. two angles. no lift 😤",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "0uaD3SuMM_o",
-      "title": "the lap record is muscle memory at this point 😮‍💨",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
