@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T12:24:44.373Z",
+  "generatedAt": "2026-08-16T18:18:26.677Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike-0",
-      "title": "F1 2026 mid-season grades: Mercedes' early dominance evaporates as reliability woes strike",
+      "id": "honda-reveals-timeline-to-become-a-top-competitor-in-f1-again-0",
+      "title": "Honda reveals timeline to become a \"top competitor\" in F1 again",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike/10846644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/honda-reveals-timeline-to-become-a-top-competitor-in-f1-again/10846301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike-0",
+      "id": "honda-reveals-timeline-to-become-a-top-competitor-in-f1-again-0",
+      "title": "Honda reveals timeline to become a \"top competitor\" in F1 again",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/honda-reveals-timeline-to-become-a-top-competitor-in-f1-again/10846301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike-1",
       "title": "F1 2026 mid-season grades: Mercedes' early dominance evaporates as reliability woes strike",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike/10846644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 16, 2026"
     },
     {
-      "id": "the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers-1",
+      "id": "the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers-2",
       "title": "The best drives of the 2026 F1 season so far, according to our writers",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/sun-the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 16, 2026"
     },
     {
-      "id": "f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start-2",
+      "id": "f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start-3",
       "title": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 15, 2026"
-    },
-    {
-      "id": "gabriel-bortoleto-expects-long-term-stay-at-audis-f1-team-3",
-      "title": "Gabriel Bortoleto expects long-term stay at Audi's F1 team",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/bortoleto-expects-long-term-stay-at-audis-f1-team/10846331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,29 @@
       "publishedLabel": "Aug 13, 2026"
     },
     {
-      "id": "louis-foster-drove-with-a-bit-of-rage-in-fast-six-en-route-to-markham-indycar-pole-0",
+      "id": "pole-sitter-louis-foster-crashes-out-of-markham-indycar-race-0",
+      "title": "Pole-sitter Louis Foster crashes out of Markham IndyCar race",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/pole-sitter-louis-foster-crashes-out-of-markham-indycar-race/10846728/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "mick-schumacher-crashes-out-of-markham-indycar-race-after-strong-start-1",
+      "title": "Mick Schumacher crashes out of Markham IndyCar race after strong start",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-markham-2026-mick-schumacher-retires-after-crash/10846719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "louis-foster-drove-with-a-bit-of-rage-in-fast-six-en-route-to-markham-indycar-pole-2",
       "title": "Louis Foster drove “with a bit of rage” in Fast Six en route to Markham IndyCar pole",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/louis-foster-drove-with-a-bit-of-rage-in-fast-six-en-route-to-markham-indycar-pole/10846590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +297,7 @@
       "publishedLabel": "Aug 16, 2026"
     },
     {
-      "id": "alex-palou-crashes-in-markham-qualifying-after-rare-indycar-mistake-1",
+      "id": "alex-palou-crashes-in-markham-qualifying-after-rare-indycar-mistake-3",
       "title": "Alex Palou crashes in Markham qualifying after rare IndyCar mistake",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alex-palou-crashes-in-markham-qualifying-after-rare-indycar-mistake/10846587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -284,28 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 16, 2026"
-    },
-    {
-      "id": "indycar-markham-starting-lineup-louis-foster-storms-to-pole-as-alex-palou-crashes-2",
-      "title": "IndyCar Markham starting lineup: Louis Foster storms to pole as Alex Palou crashes",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-markham-starting-lineup-louis-foster-storms-to-markham-indycar-pole-as-alex-palou-crashes/10846570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 16, 2026"
-    },
-    {
-      "id": "will-power-crashes-hard-in-second-indycar-markham-practice-3",
-      "title": "Will Power crashes hard in second IndyCar Markham practice",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/will-power-crashes-hard-in-second-indycar-markham-practice/10846566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 15, 2026"
     },
     {
       "id": "bmws-ascent-from-an-also-ran-to-wec-title-contender-0",
