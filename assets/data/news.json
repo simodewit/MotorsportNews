@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T06:27:59.613Z",
+  "generatedAt": "2026-08-16T12:24:44.373Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start-0",
-      "title": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
+      "id": "f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike-0",
+      "title": "F1 2026 mid-season grades: Mercedes' early dominance evaporates as reliability woes strike",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike/10846644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 15, 2026"
+      "publishedLabel": "Aug 16, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start-0",
+      "id": "f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike-0",
+      "title": "F1 2026 mid-season grades: Mercedes' early dominance evaporates as reliability woes strike",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-mercedes-early-dominance-evaporates-as-reliability-woes-strike/10846644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers-1",
+      "title": "The best drives of the 2026 F1 season so far, according to our writers",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/sun-the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start-2",
       "title": "F1 2026 mid-season grades: Innovative Ferrari impresses with strong start",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-2026-mid-season-grades-innovative-ferrari-impresses-with-strong-start/10846497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Aug 15, 2026"
     },
     {
-      "id": "gabriel-bortoleto-expects-long-term-stay-at-audis-f1-team-1",
+      "id": "gabriel-bortoleto-expects-long-term-stay-at-audis-f1-team-3",
       "title": "Gabriel Bortoleto expects long-term stay at Audi's F1 team",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/bortoleto-expects-long-term-stay-at-audis-f1-team/10846331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 15, 2026"
-    },
-    {
-      "id": "mercedes-no-longer-needs-max-verstappen-says-guenther-steiner-2",
-      "title": "Mercedes no longer needs Max Verstappen, says Guenther Steiner",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/mercedes-no-longer-needs-max-verstappen-says-guenther-steiner/10846482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 15, 2026"
-    },
-    {
-      "id": "max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026-3",
-      "title": "Max Verstappen pinpoints Red Bull's \"big priority\" for second half of F1 2026",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "Aug 15, 2026"
     },
     {
-      "id": "porsche-backs-stephane-ratel-over-gt3s-direction-we-dont-want-prototypes-0",
+      "id": "bmws-ascent-from-an-also-ran-to-wec-title-contender-0",
+      "title": "BMW’s ascent from an also-ran to WEC title contender",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/bmws-ascent-from-an-also-ran-to-wec-title-contender/10846642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Aug 16, 2026"
+    },
+    {
+      "id": "porsche-backs-stephane-ratel-over-gt3s-direction-we-dont-want-prototypes-1",
       "title": "Porsche backs Stephane Ratel over GT3's direction: \"We don't want prototypes\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/porsche-gt3-future-direction-ratel-warning/10846261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Aug 14, 2026"
     },
     {
-      "id": "theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future-1",
+      "id": "theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future-2",
       "title": "Theo Pourchaire focused on new Opel Formula E programme amid doubts over WEC future",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/theo-pourchaire-focused-on-new-opel-formula-e-programme-amid-doubts-over-wec-future/10845733/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Aug 11, 2026"
     },
     {
-      "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-2",
+      "id": "how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar-3",
       "title": "How WEC's Hypercar title fight is shaping up with revised 2026 calendar",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/how-wecs-hypercar-title-fight-is-shaping-up-with-revised-2026-calendar/10844657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Aug 7, 2026"
-    },
-    {
-      "id": "why-gt3-may-need-a-rethink-in-line-with-wecs-2030-hypercar-refresh-3",
-      "title": "Why GT3 may need a ‘rethink’ in line with WEC’s 2030 Hypercar refresh  ",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/ratel-we-need-to-rethink-gt3-just-as-the-wec-has-done-with-the-2030-hypercars/10844239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Aug 5, 2026"
     }
   ]
 }
