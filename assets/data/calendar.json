@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T05:24:39.245Z",
+  "generatedAt": "2026-08-17T04:39:46.796Z",
   "window": {
-    "startDate": "2026-08-16"
+    "startDate": "2026-08-29"
   },
   "sources": [
     {
@@ -706,8 +706,8 @@
       ]
     },
     {
-      "id": "bitnilecom-grand-prix-of-portland-2026-08-09",
-      "name": "BITNILE.com Grand Prix of Portland",
+      "id": "onlybulls-grand-prix-of-portland-2026-08-09",
+      "name": "OnlyBulls Grand Prix of Portland",
       "venue": "Portland International Raceway",
       "startDate": "2026-08-09",
       "endDate": "2026-08-09",
