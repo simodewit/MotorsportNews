@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T08:36:42.778Z",
+  "generatedAt": "2026-08-17T16:21:13.364Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "YXmuSwA115c",
+      "title": "Extended Highlights | 2025 Dutch Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "QIaSwck40og",
       "title": "On Set With F1 Drivers! 🤩",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "_fQVQR8Ph5M",
       "title": "F1 Driver Aura 🥶",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "S8zxbbwQbVY",
-      "title": "Immortality Awaits | F1: All To Drive For",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "Pn27QkdfdGg",
+      "title": "Best Team Radio Moments of the Season So Far Part 1 🎙️",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "IL6lPwUXSgo",
       "title": "Best Overtakes of the Season So Far | FIA WEC",
       "channel": "FIA World Endurance Championship",
@@ -185,14 +196,14 @@
       ]
     },
     {
-      "videoId": "YEkkzGeZKIM",
-      "title": "Ride Onboard for the Top Speed at Le Mans - 351.8 KPH | 24 Hours of Le Mans 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "JQDtdVRq9ek",
+      "title": "Drivers React After the Race | 2026 INDYCAR at Markham",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
@@ -220,17 +231,6 @@
     {
       "videoId": "WsnHgWdXlT4",
       "title": "Marcus Ericsson pulls off an incredible comeback to win in Canada! #indycar #marcusericsson #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "W5K13kSWYko",
-      "title": "Extended Race Highlights | 2026 INDYCAR at Markham",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "-A8UzBRSdlk",
+      "title": "held up by elbow, arm and pure refusal 🫣",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "4bANXz0_eRg",
       "title": "the small print of the sport 😅",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "JA9SceYZCpo",
       "title": "Drift Masters Round 6 - Germany - Top32",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "HslCP0fHmco",
-      "title": "one lap. two angles. no lift 😤",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
