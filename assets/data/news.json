@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T06:30:34.671Z",
+  "generatedAt": "2026-08-18T12:31:08.193Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance-0",
-      "title": "F1 fans praise Gabriel Bortoleto's brutally honest \"Passenger Princess\" appearance",
+      "id": "we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1-0",
+      "title": "\"We need to put a limit on it\" – Franco Colapinto opens up about online abuse in F1",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance/10846961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 17, 2026"
+      "publishedLabel": "Aug 18, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "davide-brivio-hopes-for-more-street-races-lets-bring-motogp-to-the-people-0",
-      "title": "Davide Brivio hopes for more street races: \"Let’s bring MotoGP to the people\"",
+      "id": "pedro-acosta-marc-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine-0",
+      "title": "Pedro  Acosta: “Marc Marquez is in the final stages of his career and I’m just starting mine\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/brivio-spera-in-piu-gp-cittadini-facciamo-come-la-f1-e-la-fe-portiamo-la-motogp-dalla-gente/10846783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/acosta-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine/10847011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 17, 2026"
+      "publishedLabel": "Aug 18, 2026"
     }
   ],
   "articles": [
     {
-      "id": "f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance-0",
+      "id": "we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1-0",
+      "title": "\"We need to put a limit on it\" – Franco Colapinto opens up about online abuse in F1",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "guenther-steiner-opens-up-on-breakdown-of-relationship-with-gene-haas-1",
+      "title": "Guenther Steiner opens up on breakdown of relationship with Gene Haas",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-opens-up-on-breakdown-of-relationship-with-gene-haas/10846914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "fia-happy-for-f1s-macarena-wings-to-stay-red-bull-had-to-do-more-work-2",
+      "title": "FIA happy for F1's Macarena wings to stay, Red Bull had to do \"more work\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/fia-happy-for-f1s-macarena-wings-to-stay-red-bull-had-to-do-more-work/10847008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance-3",
       "title": "F1 fans praise Gabriel Bortoleto's brutally honest \"Passenger Princess\" appearance",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance/10846961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 17, 2026"
-    },
-    {
-      "id": "christian-horner-announces-uk-book-tour-for-new-memoir-following-red-bull-f1-exit-1",
-      "title": "Christian Horner announces UK book tour for new memoir following Red Bull F1 exit",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-announces-uk-book-tour-for-new-memoir-following-red-bull-f1-exit/10846959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 17, 2026"
-    },
-    {
-      "id": "f1-launches-new-five-lights-campaign-narrated-by-colin-farrell-2",
-      "title": "F1 launches new \"Five Lights\" campaign narrated by Colin Farrell",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-launches-new-five-lights-campaign-narrated-by-colin-farrell/10846957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 17, 2026"
-    },
-    {
-      "id": "former-f1-team-boss-reveals-bizarre-way-he-warned-staff-about-drive-to-survive-microphones-3",
-      "title": "Former F1 team boss reveals bizarre way he warned staff about \"Drive to Survive\" microphones",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/former-f1-team-boss-reveals-bizarre-way-he-warned-staff-about-drive-to-survive-microphones/10846838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "davide-brivio-hopes-for-more-street-races-lets-bring-motogp-to-the-people-0",
+      "id": "pedro-acosta-marc-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine-0",
+      "title": "Pedro  Acosta: “Marc Marquez is in the final stages of his career and I’m just starting mine\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/acosta-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine/10847011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "davide-brivio-hopes-for-more-street-races-lets-bring-motogp-to-the-people-1",
       "title": "Davide Brivio hopes for more street races: \"Let’s bring MotoGP to the people\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/brivio-spera-in-piu-gp-cittadini-facciamo-come-la-f1-e-la-fe-portiamo-la-motogp-dalla-gente/10846783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 17, 2026"
     },
     {
-      "id": "only-four-riders-on-the-current-grid-have-yet-to-win-a-motogp-race-1",
+      "id": "only-four-riders-on-the-current-grid-have-yet-to-win-a-motogp-race-2",
       "title": "Only four riders on the current grid have yet to win a MotoGP race",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/only-4-riders-on-the-current-grid-have-yet-to-win-in-motogp/10846463/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 15, 2026"
     },
     {
-      "id": "explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty-2",
+      "id": "explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty-3",
       "title": "Explained: the error that led to Fabio Quartararo’s British GP penalty",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty/10846281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Aug 14, 2026"
-    },
-    {
-      "id": "this-is-not-f1-on-two-wheels-carlos-ezpeleta-on-investment-and-evolution-in-motogp-3",
-      "title": "“This is not F1 on two wheels” - Carlos Ezpeleta on investment and evolution in MotoGP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/this-is-not-f1-on-two-wheels-carlos-ezpeleta-on-investment-and-evolution-in-motogp/10846167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 13, 2026"
     },
     {
       "id": "f1-veteran-yuki-tsunoda-in-talks-for-2027-indycar-seat-with-meyer-shank-0",
