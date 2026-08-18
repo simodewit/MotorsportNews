@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:31:08.193Z",
+  "generatedAt": "2026-08-18T18:27:06.920Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1-0",
-      "title": "\"We need to put a limit on it\" – Franco Colapinto opens up about online abuse in F1",
+      "id": "no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch-0",
+      "title": "\"No nine to five cruise\" - The rewarding challenge of assembling Cadillac's trackside team from scratch",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Sep 24, 2025"
     },
     {
-      "id": "pedro-acosta-marc-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine-0",
-      "title": "Pedro  Acosta: “Marc Marquez is in the final stages of his career and I’m just starting mine\"",
+      "id": "netflix-taps-fast-and-furious-writer-for-motogp-inspired-film-0",
+      "title": "Netflix taps “Fast and Furious” writer for MotoGP-inspired film ",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/acosta-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine/10847011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/netflix-plans-motogp-inspired-film/10847124/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,40 @@
   ],
   "articles": [
     {
-      "id": "we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1-0",
+      "id": "no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch-0",
+      "title": "\"No nine to five cruise\" - The rewarding challenge of assembling Cadillac's trackside team from scratch",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/no-nine-to-five-cruise-the-rewarding-challenge-of-assembling-cadillacs-trackside-team-from-scratch/10847051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "alex-albon-commits-to-williams-f1-team-for-2027-1",
+      "title": "Alex Albon commits to Williams F1 team for 2027",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "lewis-hamilton-vs-michael-schumacher-you-decide-f1s-greatest-driver-2",
+      "title": "Lewis Hamilton vs Michael Schumacher: You decide F1's greatest driver",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-vs-michael-schumacher-you-decide-f1s-greatest-driver/10846978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1-3",
       "title": "\"We need to put a limit on it\" – Franco Colapinto opens up about online abuse in F1",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/we-need-to-put-a-limit-on-it-franco-colapinto-opens-up-about-online-abuse-in-f1/10847055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -97,39 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Aug 18, 2026"
-    },
-    {
-      "id": "guenther-steiner-opens-up-on-breakdown-of-relationship-with-gene-haas-1",
-      "title": "Guenther Steiner opens up on breakdown of relationship with Gene Haas",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-opens-up-on-breakdown-of-relationship-with-gene-haas/10846914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 18, 2026"
-    },
-    {
-      "id": "fia-happy-for-f1s-macarena-wings-to-stay-red-bull-had-to-do-more-work-2",
-      "title": "FIA happy for F1's Macarena wings to stay, Red Bull had to do \"more work\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fia-happy-for-f1s-macarena-wings-to-stay-red-bull-had-to-do-more-work/10847008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 18, 2026"
-    },
-    {
-      "id": "f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance-3",
-      "title": "F1 fans praise Gabriel Bortoleto's brutally honest \"Passenger Princess\" appearance",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-fans-praise-gabriel-bortoletos-brutally-honest-passenger-princess-appearance/10846961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 17, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -220,7 +220,18 @@
       "publishedLabel": "Nov 13, 2024"
     },
     {
-      "id": "pedro-acosta-marc-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine-0",
+      "id": "netflix-taps-fast-and-furious-writer-for-motogp-inspired-film-0",
+      "title": "Netflix taps “Fast and Furious” writer for MotoGP-inspired film ",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/netflix-plans-motogp-inspired-film/10847124/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 18, 2026"
+    },
+    {
+      "id": "pedro-acosta-marc-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine-1",
       "title": "Pedro  Acosta: “Marc Marquez is in the final stages of his career and I’m just starting mine\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/acosta-marquez-is-in-the-final-stages-of-his-career-and-im-just-starting-mine/10847011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 18, 2026"
     },
     {
-      "id": "davide-brivio-hopes-for-more-street-races-lets-bring-motogp-to-the-people-1",
+      "id": "davide-brivio-hopes-for-more-street-races-lets-bring-motogp-to-the-people-2",
       "title": "Davide Brivio hopes for more street races: \"Let’s bring MotoGP to the people\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/brivio-spera-in-piu-gp-cittadini-facciamo-come-la-f1-e-la-fe-portiamo-la-motogp-dalla-gente/10846783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 17, 2026"
     },
     {
-      "id": "only-four-riders-on-the-current-grid-have-yet-to-win-a-motogp-race-2",
+      "id": "only-four-riders-on-the-current-grid-have-yet-to-win-a-motogp-race-3",
       "title": "Only four riders on the current grid have yet to win a MotoGP race",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/only-4-riders-on-the-current-grid-have-yet-to-win-in-motogp/10846463/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Aug 15, 2026"
     },
     {
-      "id": "explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty-3",
-      "title": "Explained: the error that led to Fabio Quartararo’s British GP penalty",
+      "id": "winners-and-losers-from-the-indycar-race-in-markham-0",
+      "title": "Winners and losers from the IndyCar race in Markham",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/explained-the-error-that-led-to-fabio-quartararos-british-gp-penalty/10846281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-race-in-markham/10847156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 14, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 18, 2026"
     },
     {
-      "id": "f1-veteran-yuki-tsunoda-in-talks-for-2027-indycar-seat-with-meyer-shank-0",
+      "id": "f1-veteran-yuki-tsunoda-in-talks-for-2027-indycar-seat-with-meyer-shank-1",
       "title": "F1 veteran Yuki Tsunoda in talks for 2027 IndyCar seat with Meyer Shank",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/f1-veteran-yuki-tsunoda-in-talks-for-2027-indycar-seat-with-meyer-shank/10846938/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 17, 2026"
     },
     {
-      "id": "will-power-goes-from-dead-last-to-the-podium-in-manic-markham-indycar-race-1",
+      "id": "will-power-goes-from-dead-last-to-the-podium-in-manic-markham-indycar-race-2",
       "title": "Will Power goes from dead last to the podium in manic Markham IndyCar race",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/will-power-goes-from-dead-last-to-the-podium-in-manic-markham-indycar-race/10846923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Aug 17, 2026"
     },
     {
-      "id": "pato-oward-survives-markham-mayhem-to-charge-from-23rd-to-fifth-2",
+      "id": "pato-oward-survives-markham-mayhem-to-charge-from-23rd-to-fifth-3",
       "title": "Pato O’Ward survives Markham mayhem to charge from 23rd to fifth",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/pato-oward-survives-markham-mayhem-charge-from-23rd-to-fifth/10846909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 17, 2026"
-    },
-    {
-      "id": "complete-indycar-championship-standings-after-2026-markham-3",
-      "title": "Complete IndyCar championship standings after 2026 Markham",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-markham/10846741/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 16, 2026"
     },
     {
       "id": "ford-reveals-its-new-lmdh-car-on-track-0",
