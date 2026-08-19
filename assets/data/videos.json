@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:25:00.863Z",
+  "generatedAt": "2026-08-19T00:58:16.898Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "LhbxcsIAtWw",
+      "title": "Best Onboard Moments | 2026 INDYCAR at Markham",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "Z64SEy_Ns_I",
       "title": "What a race 😎 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
@@ -229,14 +240,14 @@
       ]
     },
     {
-      "videoId": "t09QW0fkIhY",
-      "title": "SIX overtakes in the final stint to score the victory 🤯 #indycar #marcusericsson #andretti",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "wc_fHj34EXk",
+      "title": "Why Drivers Picked Their Car Numbers",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "ypTYpEo6ky4",
       "title": "Follow along 😮‍💨",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "gVqia-NTUKw",
-      "title": "Crazy Conditions 🤯",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
