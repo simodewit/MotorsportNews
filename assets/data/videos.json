@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:31:38.680Z",
+  "generatedAt": "2026-08-20T16:28:37.874Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "tFWR9jJNsNw",
-      "title": "Max Verstappen & Red Bull - The Story Continues 😍",
+      "videoId": "dVm-5pt38eY",
+      "title": "World Champions Challenge | Grill The Grid 2026 | Episode 4: The FINALE!",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "rWO4NlkgkJI",
-      "title": "Valtteri Bottas Owns a Reindeer?! 🦌",
+      "videoId": "l7INC3y-he4",
+      "title": "Max Verstappen Signs With Red Bull Until 2030!",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "2FQbIGXMCgk",
-      "title": "In the presence of a record holder🏅Watch Bottas on the latest episode of Passenger Princess out now!",
+      "videoId": "zl4wxIEJImk",
+      "title": "Why Max Verstappen is Staying with Red Bull Racing until 2030",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,14 +97,36 @@
       ]
     },
     {
-      "videoId": "F7Mrs-_mTr8",
-      "title": "Damon Hill: From 'Humiliation' To World Champion | F1 Beyond The Grid Podcast: Legends",
+      "videoId": "cYHyxzn7oPo",
+      "title": "Yuki Tsunoda is BACK in the Paddock!",
       "channel": "FORMULA 1",
       "series": [
         "f1"
       ],
       "seriesLabels": [
         "Formula 1"
+      ]
+    },
+    {
+      "videoId": "xlcq4EPh9wo",
+      "title": "My firsts with Jorge Martin! 🦾",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "xZ3r476gWXI",
+      "title": "Ducati's Reaction Test 🚨",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -130,25 +152,14 @@
       ]
     },
     {
-      "videoId": "nsMFSyNq4lQ",
-      "title": "Jinx Challenge with Ducati!",
-      "channel": "MotoGP",
+      "videoId": "LFGR6GQBe-4",
+      "title": "Best Team Radio Moments of the Season So Far Part 3 🎙️",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "KVC1uhejUWA",
-      "title": "A to Z with Tech3! 😂",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -185,14 +196,14 @@
       ]
     },
     {
-      "videoId": "IL6lPwUXSgo",
-      "title": "Best Overtakes of the Season So Far | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "j36N3ABF1vQ",
+      "title": "Extra! INDYCAR Has Arrived in Washington, D.C.",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
@@ -220,17 +231,6 @@
     {
       "videoId": "Z64SEy_Ns_I",
       "title": "What a race 😎 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "ce-Q70K3eHg",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Ontario Honda Dealers Indy at Markham",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "KZp8xfGCnSE",
+      "title": "spielberg traffic report: flowing nicely 😏",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "bpIW5s86Igc",
       "title": "the tyres would like a word 😅",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "-A8UzBRSdlk",
       "title": "held up by elbow, arm and pure refusal 🫣",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "4bANXz0_eRg",
-      "title": "the small print of the sport 😅",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
