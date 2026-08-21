@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:28:28.402Z",
+  "generatedAt": "2026-08-21T00:54:45.037Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "george-russell-shares-details-of-summer-break-proposal-to-partner-carmen-montero-mundt-0",
-      "title": "George Russell shares details of summer break proposal to partner Carmen Montero Mundt",
+      "id": "max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss-0",
+      "title": "Max Verstappen is yet to reach his peak, says former F1 team boss",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-shares-details-of-summer-break-proposal-to-partner-carmen-montero-mundt/10847718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss/10847757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "george-russell-shares-details-of-summer-break-proposal-to-partner-carmen-montero-mundt-0",
+      "id": "max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss-0",
+      "title": "Max Verstappen is yet to reach his peak, says former F1 team boss",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss/10847757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 20, 2026"
+    },
+    {
+      "id": "karun-chandhok-surprised-by-length-of-max-verstappens-red-bull-contract-1",
+      "title": "Karun Chandhok \"surprised\" by length of Max Verstappen's Red Bull contract",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/karun-chandhok-surprised-by-length-of-max-verstappens-red-bull-contract/10847737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 20, 2026"
+    },
+    {
+      "id": "f1-dutch-gp-friday-schedule-weather-forecast-and-how-to-watch-2",
+      "title": "F1 Dutch GP: Friday schedule, weather forecast and how to watch",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-friday-schedule-weather-forecast-and-how-to-watch/10847729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 20, 2026"
+    },
+    {
+      "id": "george-russell-shares-details-of-summer-break-proposal-to-partner-carmen-montero-mundt-3",
       "title": "George Russell shares details of summer break proposal to partner Carmen Montero Mundt",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-shares-details-of-summer-break-proposal-to-partner-carmen-montero-mundt/10847718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 20, 2026"
-    },
-    {
-      "id": "something-needed-to-change-what-marcin-budkowski-must-fix-at-cadillac-f1-1",
-      "title": "“Something needed to change” – What Marcin Budkowski must fix at Cadillac F1",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/something-needed-to-change-what-marcin-budkowski-must-fix-at-cadillac-f1/10847712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 20, 2026"
-    },
-    {
-      "id": "us-billionaire-woody-johnson-acquires-minor-aston-martin-f1-stake-2",
-      "title": "US billionaire Woody Johnson acquires minor Aston Martin F1 stake",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/us-billionaire-woody-johnson-acquires-minor-aston-martin-f1-stake/10847675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 20, 2026"
-    },
-    {
-      "id": "twg-denies-sale-of-cadillac-f1-team-following-investigation-into-mark-walter-3",
-      "title": "TWG denies sale of Cadillac F1 team following investigation into Mark Walter",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/twg-denies-sale-of-cadillac-f1-team-following-investigation-into-mark-walter/10847645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
