@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:26:52.330Z",
+  "generatedAt": "2026-08-22T00:58:06.392Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "wBiZ8HJHAIA",
-      "title": "Sprint Qualifying Highlights | 2026 Dutch Grand Prix",
+      "videoId": "ydAtK9z90CQ",
+      "title": "A Very Serious F1 Fan Stage 🫧",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "F3YlVpgFilM",
-      "title": "FP1 Highlights | 2026 Dutch Grand Prix",
+      "videoId": "OYeJd3sRHO8",
+      "title": "Who brought major updates after the Summer break? | F1TV Tech Talk",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "AHYXFBHwrxA",
-      "title": "Kimi Using His Photographic Memory 🧠",
+      "videoId": "hJDhN1fNalc",
+      "title": "Drivers React After Sprint Qualifying | 2026 Dutch Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "6OxvNrvQG7c",
-      "title": "Max, Max, Max, Max 🦁 🇳🇱",
+      "videoId": "n8LPoMKto7o",
+      "title": "Yuki Back in the TV Graphics 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,8 +196,19 @@
       ]
     },
     {
+      "videoId": "MakR66_ctyQ",
+      "title": "Race Preview | 2026 INDYCAR at Washington, D.C.",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "NUL8BK6X424",
-      "title": "Empowering the future 👩‍🎓👨‍🎓 #indycar",
+      "title": "Empowering the future 👩‍🎓👨‍🎓 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -220,17 +231,6 @@
     {
       "videoId": "j36N3ABF1vQ",
       "title": "Extra! INDYCAR Has Arrived in Washington, D.C.",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "LhbxcsIAtWw",
-      "title": "Best Onboard Moments | 2026 INDYCAR at Markham",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "8WjeG4AVnMU",
+      "title": "glued to the door 😮‍💨",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "KZp8xfGCnSE",
       "title": "spielberg traffic report: flowing nicely 😏",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "y2Ds5zjYsV4",
       "title": "all-in-one team 😤",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "-A8UzBRSdlk",
-      "title": "held up by elbow, arm and pure refusal 🫣",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
