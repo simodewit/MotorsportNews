@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T04:39:46.796Z",
+  "generatedAt": "2026-08-24T04:41:55.709Z",
   "window": {
-    "startDate": "2026-08-29"
+    "startDate": "2025-11-18"
   },
   "sources": [
     {
@@ -167,16 +167,20 @@
       ]
     },
     {
-      "id": "firestone-grand-prix-of-st-petersburg-2026-03-01",
-      "name": "Firestone Grand Prix of St. Petersburg",
+      "id": "firestone-grand-prix-of-st-petersburg-1-2026-02-27",
+      "name": "Firestone Grand Prix of St. Petersburg 1",
       "venue": "Streets of St. Petersburg",
-      "startDate": "2026-03-01",
+      "startDate": "2026-02-27",
       "endDate": "2026-03-01",
       "series": [
         {
           "id": "indycar",
           "name": "IndyCar",
           "sessions": [
+            "Practice 1",
+            "Practice",
+            "Practice 2",
+            "Qualifying",
             "Race"
           ]
         }
@@ -224,6 +228,25 @@
       ]
     },
     {
+      "id": "good-ranchers-250-high-line-and-final-2026-03-06",
+      "name": "Good Ranchers 250 High Line and Final",
+      "venue": "Phoenix Raceway",
+      "startDate": "2026-03-06",
+      "endDate": "2026-03-07",
+      "series": [
+        {
+          "id": "indycar",
+          "name": "IndyCar",
+          "sessions": [
+            "Practice 1",
+            "Practice",
+            "Qualifying",
+            "Race"
+          ]
+        }
+      ]
+    },
+    {
       "id": "australian-grand-prix-3-2026-03-07",
       "name": "Australian Grand Prix 3",
       "venue": "Australian  Practice 3",
@@ -258,22 +281,6 @@
       ]
     },
     {
-      "id": "good-ranchers-250-2026-03-07",
-      "name": "Good Ranchers 250",
-      "venue": "Phoenix Raceway",
-      "startDate": "2026-03-07",
-      "endDate": "2026-03-07",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
       "id": "chinese-grand-prix-1-2026-03-13",
       "name": "Chinese Grand Prix 1",
       "venue": "Shanghai International Circuit",
@@ -294,6 +301,23 @@
       ]
     },
     {
+      "id": "java-house-grand-prix-of-arlington-1-2026-03-13",
+      "name": "Java House Grand Prix of Arlington 1",
+      "venue": "Java House  of Arlington Practice 1",
+      "startDate": "2026-03-13",
+      "endDate": "2026-03-13",
+      "series": [
+        {
+          "id": "indycar",
+          "name": "IndyCar",
+          "sessions": [
+            "Practice 1",
+            "Practice"
+          ]
+        }
+      ]
+    },
+    {
       "id": "chinese-grand-prix-2026-03-14",
       "name": "Chinese Grand Prix",
       "venue": "Chinese  Qualifying",
@@ -303,6 +327,39 @@
         {
           "id": "f1",
           "name": "Formula 1",
+          "sessions": [
+            "Qualifying"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-house-grand-prix-of-arlington-2-2026-03-14",
+      "name": "Java House Grand Prix of Arlington 2",
+      "venue": "Java House  of Arlington Practice 2",
+      "startDate": "2026-03-14",
+      "endDate": "2026-03-14",
+      "series": [
+        {
+          "id": "indycar",
+          "name": "IndyCar",
+          "sessions": [
+            "Practice 2",
+            "Practice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "java-house-grand-prix-of-arlington-2026-03-14",
+      "name": "Java House Grand Prix of Arlington",
+      "venue": "Java House  of Arlington Qualifying",
+      "startDate": "2026-03-14",
+      "endDate": "2026-03-14",
+      "series": [
+        {
+          "id": "indycar",
+          "name": "IndyCar",
           "sessions": [
             "Qualifying"
           ]
@@ -326,17 +383,20 @@
       ]
     },
     {
-      "id": "childrens-of-alabama-indy-grand-prix-2026-03-29",
-      "name": "Childrens of Alabama Indy Grand Prix",
+      "id": "childrens-of-alabama-indy-grand-prix-1-2026-03-27",
+      "name": "Childrens of Alabama Indy Grand Prix 1",
       "venue": "Barber Motorsports Park",
-      "startDate": "2026-03-29",
-      "endDate": "2026-03-29",
+      "startDate": "2026-03-27",
+      "endDate": "2026-03-28",
       "series": [
         {
           "id": "indycar",
           "name": "IndyCar",
           "sessions": [
-            "Race"
+            "Practice 1",
+            "Practice",
+            "Practice 2",
+            "Qualifying"
           ]
         }
       ]
@@ -356,22 +416,6 @@
             "Practice 3",
             "Practice",
             "Qualifying"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "acura-grand-prix-of-long-beach-2026-04-19",
-      "name": "Acura Grand Prix of Long Beach",
-      "venue": "Acura  of Long Beach",
-      "startDate": "2026-04-19",
-      "endDate": "2026-04-19",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
           ]
         }
       ]
@@ -416,22 +460,6 @@
       ]
     },
     {
-      "id": "sonsio-grand-prix-2026-05-09",
-      "name": "Sonsio Grand Prix",
-      "venue": "Sonsio",
-      "startDate": "2026-05-09",
-      "endDate": "2026-05-09",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
       "id": "montreal-2026-05-23",
       "name": "Montréal",
       "venue": "Circuit Gilles Villeneuve",
@@ -445,38 +473,6 @@
             "Sprint",
             "Race",
             "Feature Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "110th-running-of-the-indianapolis-500-2026-05-24",
-      "name": "110th Running of the Indianapolis 500",
-      "venue": "110th Running of the Indianapolis 500",
-      "startDate": "2026-05-24",
-      "endDate": "2026-05-24",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chevrolet-detroit-grand-prix-2026-05-31",
-      "name": "Chevrolet Detroit Grand Prix",
-      "venue": "Streets of Detroit",
-      "startDate": "2026-05-31",
-      "endDate": "2026-05-31",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
           ]
         }
       ]
@@ -504,22 +500,6 @@
             "Sprint",
             "Race",
             "Feature Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bommarito-automotive-group-500-2026-06-07",
-      "name": "Bommarito Automotive Group 500",
-      "venue": "World Wide Technology Raceway",
-      "startDate": "2026-06-07",
-      "endDate": "2026-06-07",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
           ]
         }
       ]
@@ -565,22 +545,6 @@
             "Sprint",
             "Race",
             "Feature Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "xpel-grand-prix-at-road-america-2026-06-21",
-      "name": "XPEL Grand Prix at Road America",
-      "venue": "Road America",
-      "startDate": "2026-06-21",
-      "endDate": "2026-06-21",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
           ]
         }
       ]
@@ -639,22 +603,6 @@
       ]
     },
     {
-      "id": "honda-indy-200-at-mid-ohio-2026-07-05",
-      "name": "Honda Indy 200 at Mid Ohio",
-      "venue": "Mid-Ohio Sports Car Course",
-      "startDate": "2026-07-05",
-      "endDate": "2026-07-05",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
       "id": "circuit-de-spa-francorchamps-weekend-2026-07-18",
       "name": "Circuit de Spa-Francorchamps Weekend",
       "venue": "Circuit de Spa-Francorchamps",
@@ -673,22 +621,6 @@
       ]
     },
     {
-      "id": "borchetta-bourbon-music-city-grand-prix-2026-07-20",
-      "name": "Borchetta Bourbon Music City Grand Prix",
-      "venue": "Nashville Superspeedway",
-      "startDate": "2026-07-20",
-      "endDate": "2026-07-20",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
       "id": "hungarian-2026-07-25",
       "name": "Hungarian",
       "venue": "Hungaroring",
@@ -700,54 +632,6 @@
           "name": "Formula 3",
           "sessions": [
             "Sprint",
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "onlybulls-grand-prix-of-portland-2026-08-09",
-      "name": "OnlyBulls Grand Prix of Portland",
-      "venue": "Portland International Raceway",
-      "startDate": "2026-08-09",
-      "endDate": "2026-08-09",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ontario-honda-dealers-indy-at-markham-2026-08-16",
-      "name": "Ontario Honda Dealers Indy at Markham",
-      "venue": "Ontario Honda Dealers Indy at Markham",
-      "startDate": "2026-08-16",
-      "endDate": "2026-08-16",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "snap-on-milwaukee-250-1-2026-08-29",
-      "name": "Snap On Milwaukee 250 #1",
-      "venue": "Milwaukee Mile",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
             "Race"
           ]
         }
