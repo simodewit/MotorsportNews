@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T00:53:15.563Z",
+  "generatedAt": "2026-08-24T06:41:46.899Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver-0",
-      "title": "George Russell \"still not there\" as Mercedes pressure builds after Dutch GP, says former F1 driver",
+      "id": "who-slept-worst-last-night-oscar-piastri-0",
+      "title": "Who slept worst last night: Oscar Piastri",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver/10848816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-oscar-piastri-10848860/10848860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 23, 2026"
+      "publishedLabel": "Aug 24, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver-0",
+      "id": "who-slept-worst-last-night-oscar-piastri-0",
+      "title": "Who slept worst last night: Oscar Piastri",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-oscar-piastri-10848860/10848860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 24, 2026"
+    },
+    {
+      "id": "who-slept-best-last-night-liam-lawson-1",
+      "title": "Who slept best last night: Liam Lawson",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-liam-lawson/10848822/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 24, 2026"
+    },
+    {
+      "id": "george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver-2",
       "title": "George Russell \"still not there\" as Mercedes pressure builds after Dutch GP, says former F1 driver",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-still-not-there-as-mercedes-pressure-builds-after-dutch-gp-says-former-f1-driver/10848816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Aug 23, 2026"
     },
     {
-      "id": "winners-and-losers-from-f1s-chaotic-dutch-grand-prix-1",
+      "id": "winners-and-losers-from-f1s-chaotic-dutch-grand-prix-3",
       "title": "Winners and losers from F1's chaotic Dutch Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-chaotic-dutch-grand-prix/10848769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 23, 2026"
-    },
-    {
-      "id": "lando-norris-i-dont-have-a-car-to-fight-for-the-f1-title-2",
-      "title": "Lando Norris: I don't have a car to fight for the F1 title",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-i-dont-have-a-car-to-fight-for-the-f1-title/10848753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 23, 2026"
-    },
-    {
-      "id": "it-made-no-sense-f1-drivers-question-safety-car-formation-lap-after-early-dutch-gp-chaos-3",
-      "title": "\"It made no sense\" – F1 drivers question safety car formation lap after early Dutch GP chaos",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/it-made-no-sense-f1-drivers-question-safety-car-formation-lap-after-early-dutch-gp-chaos/10848751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
