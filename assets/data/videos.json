@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:00:19.912Z",
+  "generatedAt": "2026-08-25T08:36:03.449Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "JIklsdcjwZ0",
+      "title": "2020 Aragon GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "w0YeW46Gjow",
       "title": "The most viral moments of the Aragon GP 📲😄",
       "channel": "MotoGP",
@@ -132,17 +143,6 @@
     {
       "videoId": "2JJtywjBjUQ",
       "title": "It's time for the 2026 Aragon GP 🏁",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "yjHKUe6w0Q4",
-      "title": "How to beat the heat in MotoGP? 🌡️🥵 | MotoGP™ Workshop",
       "channel": "MotoGP",
       "series": [
         "motogp"
