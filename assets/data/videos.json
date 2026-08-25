@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:30:50.995Z",
+  "generatedAt": "2026-08-25T01:00:19.912Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "VU48smwP_q0",
+      "title": "Radio Rewind | 2026 Dutch Grand Prix | Lenovo",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "pyK-n9KRbWo",
       "title": "Cooldown Room Cinema Club 🍿",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "XZ2RQb6mkgI",
       "title": "A Textbook Ferrari Double-stack ✌️",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "IuOEgF4Tqiw",
-      "title": "Sainz and Albon Collide 💥",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,41 +196,41 @@
       ]
     },
     {
+      "videoId": "TKZKvNk63sA",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Freedom 250 Grand Prix of Washington, D.C.",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "gBtvczJ3V0Q",
+      "title": "One and only winner of the Freedom 250 Grand Prix 👏 #indycar #kylekirkwood #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "TF1Qvz8yqTY",
+      "title": "Every MUST-SEE Moment from Washington, D.C. 😮 | 2026 INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "85oWaI98Wr8",
       "title": "Drivers React After the Race | 2026 INDYCAR at Washington, D.C.",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "bHEUXdxaNwo",
-      "title": "Alex Palou's Toughest Day Yet? | 2026 INDYCAR at Washington, D.C.",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "JLRbF43qTbU",
-      "title": "Extended Race Highlights | 2026 INDYCAR at Washington, D.C.",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "8vuhYERNz6s",
-      "title": "Race Highlights | 2026 INDYCAR at Washington, D.C.",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "CNidwTA7XJY",
+      "title": "frequent flyer status unlocked 😏",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "1DCYx_PZbIg",
       "title": "rear grip is a suggestion 😮‍💨",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "KZp8xfGCnSE",
       "title": "spielberg traffic report: flowing nicely 😏",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "bpIW5s86Igc",
-      "title": "the tyres would like a word 😅",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
