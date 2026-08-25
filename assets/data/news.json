@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:29:26.347Z",
+  "generatedAt": "2026-08-25T00:53:21.115Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "netflix-renews-formula-1-drive-to-survive-for-season-9-0",
-      "title": "Netflix renews \"Formula 1: Drive to Survive\" for season 9",
+      "id": "oscar-piastri-confused-by-pace-deficit-to-lando-norris-in-f1-2026-0",
+      "title": "Oscar Piastri confused by pace deficit to Lando Norris in F1 2026",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/netflix-renews-formula-1-drive-to-survive-for-season-9/10849071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-confused-by-pace-deficit-to-lando-norris-in-f1-2026/10849030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "netflix-renews-formula-1-drive-to-survive-for-season-9-0",
+      "id": "oscar-piastri-confused-by-pace-deficit-to-lando-norris-in-f1-2026-0",
+      "title": "Oscar Piastri confused by pace deficit to Lando Norris in F1 2026",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-confused-by-pace-deficit-to-lando-norris-in-f1-2026/10849030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 24, 2026"
+    },
+    {
+      "id": "netflix-renews-formula-1-drive-to-survive-for-season-9-1",
       "title": "Netflix renews \"Formula 1: Drive to Survive\" for season 9",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/netflix-renews-formula-1-drive-to-survive-for-season-9/10849071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 24, 2026"
     },
     {
-      "id": "call-me-please-yuki-tsunoda-makes-cheeky-f1-return-pitch-after-impressive-dutch-gp-1",
+      "id": "call-me-please-yuki-tsunoda-makes-cheeky-f1-return-pitch-after-impressive-dutch-gp-2",
       "title": "\"Call me, please!\" – Yuki Tsunoda makes cheeky F1 return pitch after impressive Dutch GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/call-me-please-yuki-tsunoda-makes-cheeky-f1-return-pitch-after-impressive-dutch-gp/10849047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 24, 2026"
     },
     {
-      "id": "red-bull-impressed-by-liam-lawson-at-dutch-gp-he-did-what-he-could-2",
+      "id": "red-bull-impressed-by-liam-lawson-at-dutch-gp-he-did-what-he-could-3",
       "title": "Red Bull impressed by Liam Lawson at Dutch GP: 'He did what he could'",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/red-bull-impressed-by-liam-lawson-at-dutch-gp-he-did-what-he-could/10848996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 24, 2026"
-    },
-    {
-      "id": "james-vowles-calls-williams-f1-rebuild-his-lifes-journey-3",
-      "title": "James Vowles calls Williams F1 rebuild his \"life's journey\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-calls-williams-f1-rebuild-his-lifes-journey/10849013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
