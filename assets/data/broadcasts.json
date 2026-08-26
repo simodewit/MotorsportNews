@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:33:29.949Z",
+  "generatedAt": "2026-08-26T16:42:12.422Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,51 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "2020 Aragon GP | MotoGP™ Full Race",
-      "channel": "MotoGP",
-      "videoId": "JIklsdcjwZ0",
-      "url": "https://www.youtube.com/watch?v=JIklsdcjwZ0",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！ WRC ueno Rally del Paraguay 2026 🇵🇾",
-      "channel": "FIA World Rally Championship",
-      "videoId": "mxn0ynGInF8",
-      "url": "https://www.youtube.com/watch?v=mxn0ynGInF8",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Shakedown LIVE | WRC ueno Rally del Paraguay 2026 🇵🇾",
-      "channel": "FIA World Rally Championship",
-      "videoId": "2uUIuOGX5io",
-      "url": "https://www.youtube.com/watch?v=2uUIuOGX5io",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
