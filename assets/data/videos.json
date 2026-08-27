@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:44:02.745Z",
+  "generatedAt": "2026-08-27T18:46:02.907Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "LIX4GOjlN3M",
+      "title": "Slightly Suboptimal Pit Lane Entries 😬",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "hbPHl1yCShw",
+      "title": "Kimi's ALWAYS Competitive 👊",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "MmeJnVrmku0",
       "title": "Kimi Antonelli's Championship Superstitions 🏆👀",
       "channel": "FORMULA 1",
@@ -76,7 +98,7 @@
     },
     {
       "videoId": "BbbnVOZ8VMo",
-      "title": "Sergio Perez: bouncing back with Cadillac | F1 Beyond The Grid Podcast",
+      "title": "Sergio Perez: Bouncing Back With Cadillac | F1 Beyond The Grid Podcast",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,30 +108,8 @@
       ]
     },
     {
-      "videoId": "9-Fepx540Bs",
-      "title": "Nico Hulkenberg, Tattoo Artist 👨‍🎨",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "Ssp0oJAnqmI",
-      "title": "It’s Like Yuki Never Left 🥹",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "roXbOdl0HK4",
-      "title": "Rossi ⚔️ Pedrosa in Aragon 2015 🔥",
+      "videoId": "KU3D5j8hZiw",
+      "title": "Let's tie a tie with Professor Alex 👔😉",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "JIklsdcjwZ0",
-      "title": "2020 Aragon GP | MotoGP™ Full Race",
+      "videoId": "QeZ1c4Doj7E",
+      "title": "Same answer = GAME OVER! 😈",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "mvJoNza6jRg",
-      "title": "Fermin Aldeguer joins VR46 from 2027! 🟡",
+      "videoId": "OvXxLiPXmko",
+      "title": "Miller's Fantasy Gold rider picks 🔮",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,14 +141,25 @@
       ]
     },
     {
-      "videoId": "Ro4A5gcSi1Y",
-      "title": "Cal & Aleix's 2014 Aragon GP photofinish 🤩",
+      "videoId": "7j8zOscfOkQ",
+      "title": "The Preview of the 2026 Aragon GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
       ],
       "seriesLabels": [
         "MotoGP"
+      ]
+    },
+    {
+      "videoId": "LV5aDJCi-Yo",
+      "title": "Every LMGT3 Winner of the Season So Far 🏁",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
       ]
     },
     {
@@ -185,14 +196,25 @@
       ]
     },
     {
-      "videoId": "MDKIGsu-n7M",
-      "title": "Every Race Start of the Season So Far | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "c6LIPZXazAQ",
+      "title": "FULL SEND! 😂🚀 #indycar #racing #artemis",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "56-039XTjR4",
+      "title": "Best Onboard Moments | 2026 INDYCAR at Washington, D.C.",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -218,41 +240,8 @@
       ]
     },
     {
-      "videoId": "TF1Qvz8yqTY",
-      "title": "Every MUST-SEE Moment from Washington, D.C. 😮 | 2026 INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "85oWaI98Wr8",
-      "title": "Drivers React After the Race | 2026 INDYCAR at Washington, D.C.",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "OEE142UTHiw",
-      "title": "Drivers' Preview | WRC ueno Rally del Paraguay 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "mxn0ynGInF8",
-      "title": "🔴 シェイクダウン ライブ！ WRC ueno Rally del Paraguay 2026 🇵🇾",
+      "videoId": "1X3rHqcrub4",
+      "title": "Getting down to business 🔥",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -273,14 +262,36 @@
       ]
     },
     {
-      "videoId": "35UoUz-CAtk",
-      "title": "Everything You Need To Know For WRC ueno Rally del Paraguay 2026!",
+      "videoId": "mxn0ynGInF8",
+      "title": "🔴 シェイクダウン ライブ！ WRC ueno Rally del Paraguay 2026 🇵🇾",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
       ],
       "seriesLabels": [
         "Rally"
+      ]
+    },
+    {
+      "videoId": "OEE142UTHiw",
+      "title": "Drivers' Preview | WRC ueno Rally del Paraguay 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "MaZS8eui-KA",
+      "title": "fastest respray in the game 😏",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "CNidwTA7XJY",
       "title": "frequent flyer status unlocked 😏",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "1DCYx_PZbIg",
-      "title": "rear grip is a suggestion 😮‍💨",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
