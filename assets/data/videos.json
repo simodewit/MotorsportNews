@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T18:46:02.907Z",
+  "generatedAt": "2026-08-28T08:46:16.413Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -196,6 +196,39 @@
       ]
     },
     {
+      "videoId": "JGtLG1r1Zgs",
+      "title": "🔴 LIVE: Milwaukee Mile Classics | INDYCAR Full Race Marathon",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "Hsrcl3oBkME",
+      "title": "The hardest question an INDYCAR driver ever faced? 🤨 #indycar #racing #motorsport",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "ViRJ6cmsqqE",
+      "title": "David Malukas Was Not Ready for These Questions 😂 | INDYCAR",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "c6LIPZXazAQ",
       "title": "FULL SEND! 😂🚀 #indycar #racing #artemis",
       "channel": "NTT INDYCAR SERIES",
@@ -207,36 +240,14 @@
       ]
     },
     {
-      "videoId": "56-039XTjR4",
-      "title": "Best Onboard Moments | 2026 INDYCAR at Washington, D.C.",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "Ch8WUsqNN5Q",
+      "title": "🔴 Opening LIVE | WRC ueno Rally del Paraguay 2026 🇵🇾",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "TKZKvNk63sA",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Freedom 250 Grand Prix of Washington, D.C.",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "gBtvczJ3V0Q",
-      "title": "One and only winner of the Freedom 250 Grand Prix 👏 #indycar #kylekirkwood #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "mxn0ynGInF8",
       "title": "🔴 シェイクダウン ライブ！ WRC ueno Rally del Paraguay 2026 🇵🇾",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "OEE142UTHiw",
-      "title": "Drivers' Preview | WRC ueno Rally del Paraguay 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
