@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:30:11.988Z",
+  "generatedAt": "2026-08-29T19:02:46.507Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！ WRC ueno Rally del Paraguay 2026 🇵🇾",
-      "channel": "FIA World Rally Championship",
-      "videoId": "mxn0ynGInF8",
-      "url": "https://www.youtube.com/watch?v=mxn0ynGInF8",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
