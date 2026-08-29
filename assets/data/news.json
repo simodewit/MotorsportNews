@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:38:07.885Z",
+  "generatedAt": "2026-08-29T05:07:22.775Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -76,7 +76,7 @@
     },
     {
       "id": "francesco-bagnaia-stopped-on-track-to-calm-down-after-frustrating-aragon-practice-0",
-      "title": "Francesco Bagnaia stopped on track to “calm down” after frustrating Aragón practice",
+      "title": "Francesco Bagnaia stopped on track to “calm down” after frustrating Aragon practice",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-stopped-on-track-to-calm-down-after-frustrating-aragon-practice/10850243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
@@ -221,7 +221,7 @@
     },
     {
       "id": "francesco-bagnaia-stopped-on-track-to-calm-down-after-frustrating-aragon-practice-0",
-      "title": "Francesco Bagnaia stopped on track to “calm down” after frustrating Aragón practice",
+      "title": "Francesco Bagnaia stopped on track to “calm down” after frustrating Aragon practice",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-stopped-on-track-to-calm-down-after-frustrating-aragon-practice/10850243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
@@ -264,7 +264,18 @@
       "publishedLabel": "Aug 28, 2026"
     },
     {
-      "id": "indycar-dismisses-barranquilla-mayors-confirmation-of-2028-race-in-colombia-0",
+      "id": "kyle-kirkwood-christian-rasmussen-collide-in-opening-indycar-practice-at-milwaukee-0",
+      "title": "Kyle Kirkwood, Christian Rasmussen collide in opening IndyCar practice at Milwaukee",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/kirkwood-rasmussen-collide-in-opening-indycar-practice-at-milwaukee/10850286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 28, 2026"
+    },
+    {
+      "id": "indycar-dismisses-barranquilla-mayors-confirmation-of-2028-race-in-colombia-1",
       "title": "IndyCar dismisses Barranquilla Mayor’s confirmation of 2028 race in Colombia",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-dismisses-barranquilla-mayors-confirmation-of-2028-race-in-colombia/10850248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 28, 2026"
     },
     {
-      "id": "rinus-veekay-blocks-out-indycar-silly-season-noise-in-push-for-milwaukee-breakthrough-1",
+      "id": "rinus-veekay-blocks-out-indycar-silly-season-noise-in-push-for-milwaukee-breakthrough-2",
       "title": "Rinus VeeKay blocks out IndyCar silly-season noise in push for Milwaukee breakthrough",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/rinus-veekay-blocks-out-indycar-silly-season-noise-in-push-for-milwaukee-breakthrough/10850208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Aug 28, 2026"
     },
     {
-      "id": "how-to-watch-indycar-2026-milwaukee-doubleheader-weekend-schedule-start-time-tv-2",
+      "id": "how-to-watch-indycar-2026-milwaukee-doubleheader-weekend-schedule-start-time-tv-3",
       "title": "How to watch IndyCar 2026 Milwaukee doubleheader: Weekend schedule, start time, TV",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-milwaukee-doubleheader-weekend-schedule-start-time-tv/10849670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 27, 2026"
-    },
-    {
-      "id": "snap-on-extends-title-sponsorship-of-milwaukee-mile-indycar-weekend-3",
-      "title": "Snap-on extends title sponsorship of Milwaukee Mile IndyCar weekend",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/snap-on-extends-title-sponsorship-of-milwaukee-mile-indycar-weekend/10849880/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
