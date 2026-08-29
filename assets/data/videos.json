@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T08:46:16.413Z",
+  "generatedAt": "2026-08-29T00:21:15.170Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "BplmVr42B-E",
+      "title": "Can Valtteri & Sergio Complete These Challenges?! | F1 Grid Games",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "LIX4GOjlN3M",
       "title": "Slightly Suboptimal Pit Lane Entries 😬",
       "channel": "FORMULA 1",
@@ -97,19 +108,8 @@
       ]
     },
     {
-      "videoId": "BbbnVOZ8VMo",
-      "title": "Sergio Perez: Bouncing Back With Cadillac | F1 Beyond The Grid Podcast",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "KU3D5j8hZiw",
-      "title": "Let's tie a tie with Professor Alex 👔😉",
+      "videoId": "oKBVcKM7x8E",
+      "title": "Top 10 on the comeback 👀 Safe to say… that one felt GOOD #AragonGP 🏁",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "QeZ1c4Doj7E",
-      "title": "Same answer = GAME OVER! 😈",
+      "videoId": "q-MaOTAMp2s",
+      "title": "What We Learned on Friday 👏 | 2026 Aragon GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "OvXxLiPXmko",
-      "title": "Miller's Fantasy Gold rider picks 🔮",
+      "videoId": "vElmN_leRb0",
+      "title": "The emotions hit hard going straight to Q2 🥹",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,14 +141,25 @@
       ]
     },
     {
-      "videoId": "7j8zOscfOkQ",
-      "title": "The Preview of the 2026 Aragon GP",
+      "videoId": "3r7u6D3j5mA",
+      "title": "Yeah… 🤯 This action deserved the slow-mo treatment! 😮‍💨",
       "channel": "MotoGP",
       "series": [
         "motogp"
       ],
       "seriesLabels": [
         "MotoGP"
+      ]
+    },
+    {
+      "videoId": "V4suPr6TQm4",
+      "title": "Every Race Finish of the Season So Far | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
       ]
     },
     {
@@ -185,19 +196,8 @@
       ]
     },
     {
-      "videoId": "TrJ_4d0vL1A",
-      "title": "Every Hypercar Winner of the Season So Far 🏎️",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "JGtLG1r1Zgs",
-      "title": "🔴 LIVE: Milwaukee Mile Classics | INDYCAR Full Race Marathon",
+      "videoId": "6X0oxuIP9LY",
+      "title": "Practice Highlights | 2026 INDYCAR at Milwaukee",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -207,8 +207,8 @@
       ]
     },
     {
-      "videoId": "Hsrcl3oBkME",
-      "title": "The hardest question an INDYCAR driver ever faced? 🤨 #indycar #racing #motorsport",
+      "videoId": "QwG2qaV-pdE",
+      "title": "It All Goes Wrong for Kyle Kirkwood & Christian Rasmussen in Practice | 2026 INDYCAR at Milwaukee",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -218,8 +218,8 @@
       ]
     },
     {
-      "videoId": "ViRJ6cmsqqE",
-      "title": "David Malukas Was Not Ready for These Questions 😂 | INDYCAR",
+      "videoId": "srjQF8GC7kw",
+      "title": "A difficult start for Nolan Siegel 🫣 #indycar #racing #nolansiegel",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -229,14 +229,36 @@
       ]
     },
     {
-      "videoId": "c6LIPZXazAQ",
-      "title": "FULL SEND! 😂🚀 #indycar #racing #artemis",
+      "videoId": "KfrNIi6dIJY",
+      "title": "INDYCAR Returns to the Milwaukee Mile | 2026 Weekend Preview",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
       ],
       "seriesLabels": [
         "IndyCar"
+      ]
+    },
+    {
+      "videoId": "xJSPWWZTYoQ",
+      "title": "Taking Flight 🤯",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "5GDJD_NOkyM",
+      "title": "HUGE crash for Cachón in Paraguay 😳",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
       ]
     },
     {
@@ -262,25 +284,14 @@
       ]
     },
     {
-      "videoId": "2uUIuOGX5io",
-      "title": "🔴 Shakedown LIVE | WRC ueno Rally del Paraguay 2026 🇵🇾",
-      "channel": "FIA World Rally Championship",
+      "videoId": "Kp1wrVbt4Js",
+      "title": "all that movement, no lift 😤",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "mxn0ynGInF8",
-      "title": "🔴 シェイクダウン ライブ！ WRC ueno Rally del Paraguay 2026 🇵🇾",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "C5Yvzt6zqyg",
       "title": "1 champion, 100 challengers, 1 goal.  stream Max vs 100 live on ESPN on Disney+ on 16 September.",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "CNidwTA7XJY",
-      "title": "frequent flyer status unlocked 😏",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
