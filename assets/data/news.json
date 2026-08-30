@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:15:36.630Z",
+  "generatedAt": "2026-08-30T02:58:02.287Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,18 @@
       "publishedLabel": "Aug 29, 2026"
     },
     {
-      "id": "scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader-0",
+      "id": "indycar-milwaukee-race-1-suspended-by-rain-will-resume-sunday-0",
+      "title": "IndyCar Milwaukee Race 1 suspended by rain, will resume Sunday",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-milwaukee-race-1-suspended-by-rain-will-resume-sunday/10850597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Aug 30, 2026"
+    },
+    {
+      "id": "scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader-1",
       "title": "Scott McLaughlin, Alex Palou take poles for Milwaukee IndyCar doubleheader",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader/10850538/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 29, 2026"
     },
     {
-      "id": "zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp-1",
+      "id": "zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp-2",
       "title": "Zak Brown explains why he chose to attend Washington D.C. IndyCar race over Dutch GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp/10850310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Aug 29, 2026"
     },
     {
-      "id": "kyle-kirkwood-christian-rasmussen-collide-in-opening-indycar-practice-at-milwaukee-2",
+      "id": "kyle-kirkwood-christian-rasmussen-collide-in-opening-indycar-practice-at-milwaukee-3",
       "title": "Kyle Kirkwood, Christian Rasmussen collide in opening IndyCar practice at Milwaukee",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/kirkwood-rasmussen-collide-in-opening-indycar-practice-at-milwaukee/10850286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 28, 2026"
-    },
-    {
-      "id": "indycar-dismisses-barranquilla-mayors-confirmation-of-2028-race-in-colombia-3",
-      "title": "IndyCar dismisses Barranquilla Mayor’s confirmation of 2028 race in Colombia",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-dismisses-barranquilla-mayors-confirmation-of-2028-race-in-colombia/10850248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
