@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T15:50:39.596Z",
+  "generatedAt": "2026-08-30T20:21:59.987Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era-0",
-      "title": "Carlos Sainz: Changes in drivers’ competitiveness could be down to F1 rules era",
+      "id": "lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030-0",
+      "title": "Lando Norris discusses long-term McLaren future after committing to 2030",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era/10850413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030/10850725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Aug 25, 2026"
     },
     {
-      "id": "watch-marc-marquez-and-marco-bezzecchis-slipstream-battle-for-aragon-gp-win-0",
-      "title": "Watch: Marc Marquez and Marco Bezzecchi's slipstream battle for Aragon GP win",
+      "id": "what-pedro-acosta-was-missing-in-aragon-gp-win-fight-with-marc-marquez-0",
+      "title": "What Pedro Acosta was missing in Aragon GP win fight with Marc Marquez",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/watch-marc-marquez-and-marco-bezzecchis-slipstream-battle-for-aragon-gp-win/10850800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/what-pedro-acosta-was-missing-in-aragon-gp-win-fight-with-marc-marquez/10850821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era-0",
+      "id": "lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030-0",
+      "title": "Lando Norris discusses long-term McLaren future after committing to 2030",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030/10850725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 30, 2026"
+    },
+    {
+      "id": "carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era-1",
       "title": "Carlos Sainz: Changes in drivers’ competitiveness could be down to F1 rules era",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era/10850413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "ferrari-faces-lewis-hamilton-charles-leclerc-management-test-after-dutch-gp-says-pundit-1",
+      "id": "ferrari-faces-lewis-hamilton-charles-leclerc-management-test-after-dutch-gp-says-pundit-2",
       "title": "Ferrari faces Lewis Hamilton-Charles Leclerc management test after Dutch GP, says pundit",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ferrari-faces-lewis-hamilton-charles-leclerc-management-test-after-dutch-gp-says-pundit/10850776/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "poor-red-bull-comeback-could-have-ended-liam-lawsons-f1-career-says-former-f1-tv-pundit-2",
+      "id": "poor-red-bull-comeback-could-have-ended-liam-lawsons-f1-career-says-former-f1-tv-pundit-3",
       "title": "Poor Red Bull comeback could have ended Liam Lawson's F1 career, says former F1 TV pundit",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/poor-red-bull-comeback-could-have-ended-liam-lawsons-f1-career-says-former-f1-tv-pundit/10850767/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 30, 2026"
-    },
-    {
-      "id": "bernie-collins-issues-stark-williams-warning-after-alex-albon-carlos-sainz-dutch-gp-crash-3",
-      "title": "Bernie Collins issues stark Williams warning after Alex Albon-Carlos Sainz Dutch GP crash",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/bernie-collins-issues-stark-williams-warning-after-alex-albon-carlos-sainz-dutch-gp-crash/10850753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Dec 15, 2024"
     },
     {
-      "id": "watch-marc-marquez-and-marco-bezzecchis-slipstream-battle-for-aragon-gp-win-0",
+      "id": "what-pedro-acosta-was-missing-in-aragon-gp-win-fight-with-marc-marquez-0",
+      "title": "What Pedro Acosta was missing in Aragon GP win fight with Marc Marquez",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/what-pedro-acosta-was-missing-in-aragon-gp-win-fight-with-marc-marquez/10850821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Aug 30, 2026"
+    },
+    {
+      "id": "watch-marc-marquez-and-marco-bezzecchis-slipstream-battle-for-aragon-gp-win-1",
       "title": "Watch: Marc Marquez and Marco Bezzecchi's slipstream battle for Aragon GP win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/watch-marc-marquez-and-marco-bezzecchis-slipstream-battle-for-aragon-gp-win/10850800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "marc-marquez-reveals-big-mistake-that-made-aragon-gp-win-difficult-1",
+      "id": "marc-marquez-reveals-big-mistake-that-made-aragon-gp-win-difficult-2",
       "title": "Marc Marquez reveals \"big mistake\" that made Aragon GP win \"difficult\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/marc-marquez-reveals-big-mistake-that-made-aragon-gp-win-difficult/10850783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "motogp-aragon-gp-marc-marquez-beats-pedro-acosta-marco-bezzecchi-to-take-crucial-win-2",
+      "id": "motogp-aragon-gp-marc-marquez-beats-pedro-acosta-marco-bezzecchi-to-take-crucial-win-3",
       "title": "MotoGP Aragon GP: Marc Marquez beats Pedro Acosta, Marco Bezzecchi to take crucial win",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-aragon-gp-marc-marquez-beats-pedro-acosta-marco-bezzecchi-to-take-crucial-win/10850736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "motogp-aragon-gp-full-starting-grid-3",
-      "title": "MotoGP Aragon GP: Full starting grid",
+      "id": "pato-oward-wins-milwaukee-indycar-race-2-as-alex-palou-denied-title-clinch-0",
+      "title": "Pato O’Ward wins Milwaukee IndyCar Race 2 as Alex Palou denied title clinch",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-aragon-gp-full-starting-grid/10850639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/pato-oward-wins-milwaukee-indycar-race-2-as-alex-palou-denied-title-clinch/10850860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
+      "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "indycar-milwaukee-race-1-suspended-by-rain-will-resume-sunday-0",
+      "id": "indycar-milwaukee-race-1-suspended-by-rain-will-resume-sunday-1",
       "title": "IndyCar Milwaukee Race 1 suspended by rain, will resume Sunday",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/indycar-milwaukee-race-1-suspended-by-rain-will-resume-sunday/10850597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader-1",
+      "id": "scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader-2",
       "title": "Scott McLaughlin, Alex Palou take poles for Milwaukee IndyCar doubleheader",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader/10850538/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Aug 29, 2026"
     },
     {
-      "id": "zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp-2",
+      "id": "zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp-3",
       "title": "Zak Brown explains why he chose to attend Washington D.C. IndyCar race over Dutch GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp/10850310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -295,17 +306,6 @@
       ],
       "seriesLabel": "IndyCar",
       "publishedLabel": "Aug 29, 2026"
-    },
-    {
-      "id": "kyle-kirkwood-christian-rasmussen-collide-in-opening-indycar-practice-at-milwaukee-3",
-      "title": "Kyle Kirkwood, Christian Rasmussen collide in opening IndyCar practice at Milwaukee",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/kirkwood-rasmussen-collide-in-opening-indycar-practice-at-milwaukee/10850286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 28, 2026"
     },
     {
       "id": "why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap-0",
