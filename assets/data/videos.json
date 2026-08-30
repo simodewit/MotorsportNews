@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T19:06:49.854Z",
+  "generatedAt": "2026-08-30T03:18:21.308Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,28 @@
       ]
     },
     {
+      "videoId": "k-bKRaaTzEA",
+      "title": "FIRST LOOK at the proposed Adelaide circuit!",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "OxLOde8cRUw",
+      "title": "UNHEARD: \"We almost crashed into each other\" 😶‍🌫️",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "cVYVAR0HkIQ",
       "title": "Acosta's strange Sprint start 🤔",
       "channel": "MotoGP",
@@ -121,28 +143,6 @@
     {
       "videoId": "8XACQIkiVgw",
       "title": "Top 3 Tissot Sprint moments 🐜 | 2026 Aragon GP",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "mb5wet7oyV8",
-      "title": "Marc's MotorLand Sprint hat trick 🥇",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "tCOlb3ihDe8",
-      "title": "POV: you’re Marc's tyre at lights out 😮‍💨 #AragonGP 🏁",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,28 @@
       ]
     },
     {
+      "videoId": "2B3iN2dYw6M",
+      "title": "Sting Ray Robb is a mood 😂 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "82JAB5suXXg",
+      "title": "HERE WE GO, WISCONSIN! 💪 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "od-_nIa3tbk",
       "title": "⏱️ Qualifying Rewind | 2026 INDYCAR at Milwaukee",
       "channel": "NTT INDYCAR SERIES",
@@ -218,30 +240,19 @@
       ]
     },
     {
-      "videoId": "j4uJEDnFkHg",
-      "title": "Of course they went a little fast 😂 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "43_NhuNIR7c",
+      "title": "Not your average lakeside drive 👀",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "FxacHOnM0-g",
-      "title": "WHAT HAPPENED?! 🫣 #indycar #racing #kylekirkwood #christianrasmussen",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
       "videoId": "bsDE0j4aKSs",
-      "title": "The Road Ahead for the FIA World Rally Championship",
+      "title": "The Road Ahead for the FIA World Rally Championship - Full Press Conference",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -264,17 +275,6 @@
     {
       "videoId": "LjZesf_XlFg",
       "title": "Day 1 Highlights | WRC ueno Rally del Paraguay 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "xJSPWWZTYoQ",
-      "title": "Taking Flight 🤯",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
