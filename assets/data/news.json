@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T20:21:59.987Z",
+  "generatedAt": "2026-08-31T02:52:06.996Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030-0",
-      "title": "Lando Norris discusses long-term McLaren future after committing to 2030",
+      "id": "fernando-alonso-saved-aston-martin-after-difficult-dutch-gp-weekend-says-guenther-steiner-0",
+      "title": "Fernando Alonso \"saved\" Aston Martin after difficult Dutch GP weekend, says Guenther Steiner",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030/10850725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-saved-aston-martin-after-difficult-dutch-gp-weekend-says-guenther-steiner/10850803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030-0",
+      "id": "fernando-alonso-saved-aston-martin-after-difficult-dutch-gp-weekend-says-guenther-steiner-0",
+      "title": "Fernando Alonso \"saved\" Aston Martin after difficult Dutch GP weekend, says Guenther Steiner",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-saved-aston-martin-after-difficult-dutch-gp-weekend-says-guenther-steiner/10850803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Aug 30, 2026"
+    },
+    {
+      "id": "lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030-1",
       "title": "Lando Norris discusses long-term McLaren future after committing to 2030",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lando-norris-discusses-long-term-mclaren-future-after-committing-to-2030/10850725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era-1",
+      "id": "carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era-2",
       "title": "Carlos Sainz: Changes in drivers’ competitiveness could be down to F1 rules era",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/carlos-sainz-changes-in-drivers-competitiveness-could-be-down-to-f1-rules-era/10850413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "ferrari-faces-lewis-hamilton-charles-leclerc-management-test-after-dutch-gp-says-pundit-2",
+      "id": "ferrari-faces-lewis-hamilton-charles-leclerc-management-test-after-dutch-gp-says-pundit-3",
       "title": "Ferrari faces Lewis Hamilton-Charles Leclerc management test after Dutch GP, says pundit",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ferrari-faces-lewis-hamilton-charles-leclerc-management-test-after-dutch-gp-says-pundit/10850776/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 30, 2026"
-    },
-    {
-      "id": "poor-red-bull-comeback-could-have-ended-liam-lawsons-f1-career-says-former-f1-tv-pundit-3",
-      "title": "Poor Red Bull comeback could have ended Liam Lawson's F1 career, says former F1 TV pundit",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/poor-red-bull-comeback-could-have-ended-liam-lawsons-f1-career-says-former-f1-tv-pundit/10850767/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,48 +264,48 @@
       "publishedLabel": "Aug 30, 2026"
     },
     {
-      "id": "pato-oward-wins-milwaukee-indycar-race-2-as-alex-palou-denied-title-clinch-0",
-      "title": "Pato O’Ward wins Milwaukee IndyCar Race 2 as Alex Palou denied title clinch",
+      "id": "david-malukas-chevy-let-us-down-after-missing-maiden-indycar-win-0",
+      "title": "David Malukas: “Chevy let us down” after missing maiden IndyCar win",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/pato-oward-wins-milwaukee-indycar-race-2-as-alex-palou-denied-title-clinch/10850860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/david-malukas-chevy-let-us-down-after-missing-maiden-indycar-win/10850901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 30, 2026"
+      "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "indycar-milwaukee-race-1-suspended-by-rain-will-resume-sunday-1",
-      "title": "IndyCar Milwaukee Race 1 suspended by rain, will resume Sunday",
+      "id": "from-lost-puppy-to-history-maker-pato-oward-goes-into-indycar-record-books-with-single-day-milwaukee-sweep-1",
+      "title": "From “Lost puppy” to history maker: Pato O’Ward goes into IndyCar record books with single-day Milwaukee sweep",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-milwaukee-race-1-suspended-by-rain-will-resume-sunday/10850597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/from-lost-puppy-to-history-maker-pato-oward-goes-into-indycar-record-books-with-single-day-milwauke/10850896/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 30, 2026"
+      "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader-2",
-      "title": "Scott McLaughlin, Alex Palou take poles for Milwaukee IndyCar doubleheader",
+      "id": "alex-palou-claims-fifth-indycar-title-in-record-time-it-just-feels-like-we-started-yesterday-2",
+      "title": "Alex Palou claims fifth IndyCar title in record time: “It just feels like we started yesterday”",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-alex-palou-take-poles-for-milwaukee-indycar-doubleheader/10850538/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/alex-palou-claims-fifth-indycar-title-in-record-time-it-just-feels-like-we-started-yesterday/10850892/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 29, 2026"
+      "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp-3",
-      "title": "Zak Brown explains why he chose to attend Washington D.C. IndyCar race over Dutch GP",
+      "id": "complete-indycar-championship-standings-after-2026-milwaukee-doubleheader-3",
+      "title": "Complete IndyCar championship standings after 2026 Milwaukee doubleheader",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp/10850310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/complete-indycar-championship-standings-after-2026-milwaukee-doubleheader/10850885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 29, 2026"
+      "publishedLabel": "Aug 31, 2026"
     },
     {
       "id": "why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap-0",
