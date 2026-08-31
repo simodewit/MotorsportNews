@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T02:42:16.016Z",
+  "generatedAt": "2026-08-31T15:42:55.374Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Snap-on Makers and Fixers 250 from Milwaukee",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "BGAtZqsHsZI",
+      "url": "https://www.youtube.com/watch?v=BGAtZqsHsZI",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Snap-on Milwaukee Mile 250",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "aIp5sUcFQas",
+      "url": "https://www.youtube.com/watch?v=aIp5sUcFQas",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
