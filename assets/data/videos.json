@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T15:46:42.921Z",
+  "generatedAt": "2026-08-31T21:16:22.700Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "2fyT6toMOSQ",
+      "title": "This is Monza ❤️🐎🇮🇹",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "-iWuNTKm_3o",
       "title": "Extended Highlights | 2004 Italian Grand Prix",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "5iPWpe-dBn4",
       "title": "What It Looks Like vs What It Feels Like 😮‍💨",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "tT9km1fdPu4",
-      "title": "Lando Norris Ranks His Best F1 Moments! ↕️🙌",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "JksVsh6ic8g",
+      "title": "Torrential Rain Causes COTA CHAOS 🌧️",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "V4suPr6TQm4",
       "title": "Every Race Finish of the Season So Far | FIA WEC",
       "channel": "FIA World Endurance Championship",
@@ -185,14 +196,14 @@
       ]
     },
     {
-      "videoId": "yYXWgRYsUbM",
-      "title": "Onboard as Genesis Comes Back to Life on the Mulsanne Straight | 24 Hours of Le Mans 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "aIp5sUcFQas",
+      "title": "2026 NTT INDYCAR SERIES Full Race | Snap-on Milwaukee Mile 250",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
@@ -218,8 +229,8 @@
       ]
     },
     {
-      "videoId": "aIp5sUcFQas",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Snap-on Milwaukee Mile 250",
+      "videoId": "6QksX7ro-Tw",
+      "title": "Alex Palou Clinches Fourth Straight Title 🏆 | 2026 INDYCAR",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -229,14 +240,14 @@
       ]
     },
     {
-      "videoId": "6QksX7ro-Tw",
-      "title": "Alex Palou Clinches Fourth Straight Title 🏆 | 2026 INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "iGwgbkX11O8",
+      "title": "Paraguay, what a ride 🤩",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "6D6tZSuh2E4",
       "title": "Mega job, Sami! 👏",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "yNaNoKDrA6Y",
-      "title": "🔴 Post-Event Show LIVE | WRC ueno Rally del Paraguay 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
