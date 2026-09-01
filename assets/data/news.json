@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T03:00:35.776Z",
+  "generatedAt": "2026-09-01T10:55:12.928Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight-0",
-      "title": "Kimi Antonelli reveals how he is staying grounded in 2026 F1 title fight",
+      "id": "how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will-0",
+      "title": "How Ferrari can \"push until the end\" with F1 2026 upgrades, and why it will",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight/10851086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/how-ferrari-can-push-f1-2026-upgrades-and-why-it-will/10851258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 31, 2026"
+      "publishedLabel": "Sep 1, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -75,20 +75,42 @@
       "publishedLabel": "Aug 25, 2026"
     },
     {
-      "id": "gigi-dalligna-the-title-will-be-won-by-whoever-keeps-the-coolest-head-0",
-      "title": "Gigi Dall’Igna: “The title will be won by whoever keeps the coolest head\"",
+      "id": "what-was-different-about-jorge-martins-struggles-in-aragon-gp-0",
+      "title": "What was different about Jorge Martin’s struggles in Aragon GP?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/dalligna-the-title-will-go-to-whoever-keeps-their-head-best-from-now-until-the-end/10850989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/what-was-different-about-jorge-martins-struggles-in-aragon-gp/10851271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 31, 2026"
+      "publishedLabel": "Sep 1, 2026"
     }
   ],
   "articles": [
     {
-      "id": "kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight-0",
+      "id": "how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will-0",
+      "title": "How Ferrari can \"push until the end\" with F1 2026 upgrades, and why it will",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/how-ferrari-can-push-f1-2026-upgrades-and-why-it-will/10851258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "ferrari-unveils-michael-schumacher-inspired-f1-livery-for-italian-gp-1",
+      "title": "Ferrari unveils Michael Schumacher-inspired F1 livery for Italian GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/ferrari-unveils-michael-schumacher-inspired-f1-livery-for-italian-gp/10851263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight-2",
       "title": "Kimi Antonelli reveals how he is staying grounded in 2026 F1 title fight",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight/10851086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "george-russell-has-to-win-italian-gp-to-keep-f1-title-hopes-alive-says-former-driver-1",
+      "id": "george-russell-has-to-win-italian-gp-to-keep-f1-title-hopes-alive-says-former-driver-3",
       "title": "George Russell \"has to win\" Italian GP to keep F1 title hopes alive, says former driver",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/george-russell-has-to-win-italian-gp-to-keep-f1-title-hopes-alive-says-former-driver/10851171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 31, 2026"
-    },
-    {
-      "id": "lewis-hamilton-reveals-ferrari-f40-restoration-project-after-selling-entire-car-collection-2",
-      "title": "Lewis Hamilton reveals Ferrari F40 restoration project after selling entire car collection",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-ferrari-f40-restoration-project-after-selling-entire-car-collection/10851153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 31, 2026"
-    },
-    {
-      "id": "lando-norriss-2026-f1-title-hopes-face-crucial-monza-test-says-james-hinchcliffe-3",
-      "title": "Lando Norris's 2026 F1 title hopes face crucial Monza test, says James Hinchcliffe",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norriss-2026-f1-title-hopes-face-crucial-monza-test-says-james-hinchcliffe/10851144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Dec 15, 2024"
     },
     {
-      "id": "gigi-dalligna-the-title-will-be-won-by-whoever-keeps-the-coolest-head-0",
+      "id": "what-was-different-about-jorge-martins-struggles-in-aragon-gp-0",
+      "title": "What was different about Jorge Martin’s struggles in Aragon GP?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/what-was-different-about-jorge-martins-struggles-in-aragon-gp/10851271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "gigi-dalligna-the-title-will-be-won-by-whoever-keeps-the-coolest-head-1",
       "title": "Gigi Dall’Igna: “The title will be won by whoever keeps the coolest head\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/dalligna-the-title-will-go-to-whoever-keeps-their-head-best-from-now-until-the-end/10850989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "fabio-quartararo-refuses-to-be-yamahas-test-rider-as-he-reaches-breaking-point-1",
+      "id": "fabio-quartararo-refuses-to-be-yamahas-test-rider-as-he-reaches-breaking-point-2",
       "title": "Fabio Quartararo refuses to be Yamaha’s “test rider” as he reaches breaking point",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-refuses-to-be-yamaha-test-rider-as-he-reaches-breaking-point/10850985/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "francesco-bagnaia-humiliated-by-latest-motogp-struggles-i-see-no-way-out-2",
+      "id": "francesco-bagnaia-humiliated-by-latest-motogp-struggles-i-see-no-way-out-3",
       "title": "Francesco Bagnaia “humiliated” by latest MotoGP struggles: “I see no way out”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-humiliated-by-latest-motogp-struggles-i-see-no-way-out/10850950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 31, 2026"
-    },
-    {
-      "id": "winners-and-losers-from-motogps-fascinating-aragon-gp-3",
-      "title": "Winners and losers from MotoGP's fascinating Aragon GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/winners-and-losers-from-motogps-fascinating-aragon-gp/10850935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap-0",
+      "id": "mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years-0",
+      "title": "Mario Andretti and Jacky Ickx: A friendship that has endured for almost 60 years",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years/10850421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap-1",
       "title": "Why WEC can’t simply replace BoP with a Formula 1-style cost cap",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap/10850258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Aug 28, 2026"
     },
     {
-      "id": "mclaren-has-already-completed-a-30-hour-endurance-test-with-lmdh-challenger-1",
+      "id": "mclaren-has-already-completed-a-30-hour-endurance-test-with-lmdh-challenger-2",
       "title": "McLaren has already completed a 30-hour endurance test with LMDh challenger",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/mclaren-has-already-completed-a-30-hour-endurance-test-with-lmdh-challenger/10849757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Aug 27, 2026"
     },
     {
-      "id": "ford-completes-first-hypercar-test-ahead-of-wec-debut-2",
+      "id": "ford-completes-first-hypercar-test-ahead-of-wec-debut-3",
       "title": "Ford completes first Hypercar test ahead of WEC debut",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ford-completes-wec-hypercar-shakedown/10849570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Aug 26, 2026"
-    },
-    {
-      "id": "wec-extends-tyre-supply-deals-with-michelin-goodyear-until-2032-3",
-      "title": "WEC extends tyre supply deals with Michelin, Goodyear until 2032",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/michelin-extends-hypercar-tyre-supply-deal-to-2032-goodyear-stays-in-lmgt3/10849311/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Aug 25, 2026"
     }
   ]
 }
