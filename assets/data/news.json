@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:55:12.928Z",
+  "generatedAt": "2026-09-01T15:53:58.933Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will-0",
-      "title": "How Ferrari can \"push until the end\" with F1 2026 upgrades, and why it will",
+      "id": "rivals-copying-ferrari-f1-aero-designs-a-good-reward-for-maranello-0",
+      "title": "Rivals copying Ferrari F1 aero designs \"a good reward\" for Maranello",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/how-ferrari-can-push-f1-2026-upgrades-and-why-it-will/10851258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/rivals-copying-ferrari-f1-aero-designs-a-good-reward-for-maranello/10851332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -75,10 +75,10 @@
       "publishedLabel": "Aug 25, 2026"
     },
     {
-      "id": "what-was-different-about-jorge-martins-struggles-in-aragon-gp-0",
-      "title": "What was different about Jorge Martin’s struggles in Aragon GP?",
+      "id": "yamaha-responds-to-fabio-quartararos-criticism-and-attitude-0",
+      "title": "Yamaha responds to Fabio Quartararo’s criticism and attitude",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/what-was-different-about-jorge-martins-struggles-in-aragon-gp/10851271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/yamaha-responds-to-quartararo-criticism-and-laments-his-attitude/10851303/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will-0",
+      "id": "rivals-copying-ferrari-f1-aero-designs-a-good-reward-for-maranello-0",
+      "title": "Rivals copying Ferrari F1 aero designs \"a good reward\" for Maranello",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/rivals-copying-ferrari-f1-aero-designs-a-good-reward-for-maranello/10851332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "toto-wolff-kimi-antonellis-2026-f1-progress-one-of-the-biggest-surprises-of-my-career-1",
+      "title": "Toto Wolff: Kimi Antonelli's 2026 F1 progress one of the biggest surprises of my career",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-surprised-by-kimi-antonellis-2026-progress-hes-no-longer-a-deer-in-the-headlights/10851325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "how-ferrari-can-push-until-the-end-with-f1-2026-upgrades-and-why-it-will-2",
       "title": "How Ferrari can \"push until the end\" with F1 2026 upgrades, and why it will",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-ferrari-can-push-f1-2026-upgrades-and-why-it-will/10851258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +121,7 @@
       "publishedLabel": "Sep 1, 2026"
     },
     {
-      "id": "ferrari-unveils-michael-schumacher-inspired-f1-livery-for-italian-gp-1",
+      "id": "ferrari-unveils-michael-schumacher-inspired-f1-livery-for-italian-gp-3",
       "title": "Ferrari unveils Michael Schumacher-inspired F1 livery for Italian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ferrari-unveils-michael-schumacher-inspired-f1-livery-for-italian-gp/10851263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -108,28 +130,6 @@
       ],
       "seriesLabel": "Formula 1",
       "publishedLabel": "Sep 1, 2026"
-    },
-    {
-      "id": "kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight-2",
-      "title": "Kimi Antonelli reveals how he is staying grounded in 2026 F1 title fight",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-how-he-is-staying-grounded-in-2026-f1-title-fight/10851086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 31, 2026"
-    },
-    {
-      "id": "george-russell-has-to-win-italian-gp-to-keep-f1-title-hopes-alive-says-former-driver-3",
-      "title": "George Russell \"has to win\" Italian GP to keep F1 title hopes alive, says former driver",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-has-to-win-italian-gp-to-keep-f1-title-hopes-alive-says-former-driver/10851171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Aug 31, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -220,7 +220,18 @@
       "publishedLabel": "Dec 15, 2024"
     },
     {
-      "id": "what-was-different-about-jorge-martins-struggles-in-aragon-gp-0",
+      "id": "yamaha-responds-to-fabio-quartararos-criticism-and-attitude-0",
+      "title": "Yamaha responds to Fabio Quartararo’s criticism and attitude",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/yamaha-responds-to-quartararo-criticism-and-laments-his-attitude/10851303/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "what-was-different-about-jorge-martins-struggles-in-aragon-gp-1",
       "title": "What was different about Jorge Martin’s struggles in Aragon GP?",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/what-was-different-about-jorge-martins-struggles-in-aragon-gp/10851271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Sep 1, 2026"
     },
     {
-      "id": "gigi-dalligna-the-title-will-be-won-by-whoever-keeps-the-coolest-head-1",
+      "id": "gigi-dalligna-the-title-will-be-won-by-whoever-keeps-the-coolest-head-2",
       "title": "Gigi Dall’Igna: “The title will be won by whoever keeps the coolest head\"",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/dalligna-the-title-will-go-to-whoever-keeps-their-head-best-from-now-until-the-end/10850989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "fabio-quartararo-refuses-to-be-yamahas-test-rider-as-he-reaches-breaking-point-2",
+      "id": "fabio-quartararo-refuses-to-be-yamahas-test-rider-as-he-reaches-breaking-point-3",
       "title": "Fabio Quartararo refuses to be Yamaha’s “test rider” as he reaches breaking point",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/fabio-quartararo-refuses-to-be-yamaha-test-rider-as-he-reaches-breaking-point/10850985/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -253,18 +264,18 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "francesco-bagnaia-humiliated-by-latest-motogp-struggles-i-see-no-way-out-3",
-      "title": "Francesco Bagnaia “humiliated” by latest MotoGP struggles: “I see no way out”",
+      "id": "veekay-charges-from-24th-to-podium-at-milwaukee-as-juncos-hollinger-eyes-historic-season-finish-0",
+      "title": "VeeKay charges from 24th to podium at Milwaukee as Juncos Hollinger eyes historic season finish",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-humiliated-by-latest-motogp-struggles-i-see-no-way-out/10850950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/veekay-charges-from-24th-to-podium-at-milwaukee-as-jhr-eyes-historic-season-finish/10851362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
-        "motogp"
+        "indycar"
       ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Aug 31, 2026"
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Sep 1, 2026"
     },
     {
-      "id": "honda-crowned-2026-indycar-manufacturers-champions-0",
+      "id": "honda-crowned-2026-indycar-manufacturers-champions-1",
       "title": "Honda crowned 2026 IndyCar manufacturers' champions",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/honda-crowned-2026-indycar-manufacturers-champions/10851164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "mick-schumacher-and-romain-grosjean-talk-on-pit-road-after-milwaukee-clash-1",
+      "id": "mick-schumacher-and-romain-grosjean-talk-on-pit-road-after-milwaukee-clash-2",
       "title": "Mick Schumacher and Romain Grosjean talk on pit road after Milwaukee clash",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/mick-schumacher-and-grosjean-clash-after-milwaukee-race-then-make-peace/10851127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "david-malukas-apologizes-for-immature-remarks-he-made-criticizing-chevrolet-2",
+      "id": "david-malukas-apologizes-for-immature-remarks-he-made-criticizing-chevrolet-3",
       "title": "David Malukas apologizes for 'immature' remarks he made criticizing Chevrolet ",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/david-malukas-apologizes-for-childish-criticism-he-made-against-chevrolet/10851122/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 31, 2026"
-    },
-    {
-      "id": "david-malukas-chevy-let-us-down-after-missing-maiden-indycar-win-3",
-      "title": "David Malukas: “Chevy let us down” after missing maiden IndyCar win",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/david-malukas-chevy-let-us-down-after-missing-maiden-indycar-win/10850901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
