@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:22:40.764Z",
+  "generatedAt": "2026-09-02T02:21:07.925Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -264,7 +264,18 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "winners-and-losers-from-the-indycar-doubleheader-at-milwaukee-0",
+      "id": "chevrolet-clarifies-engine-issue-after-david-malukass-milwaukee-restart-heartbreak-0",
+      "title": "Chevrolet clarifies engine issue after David Malukas’s Milwaukee restart heartbreak",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/chevrolet-clarifies-engine-issue-after-david-malukass-milwaukee-restart-heartbreak/10851460/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Sep 1, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-the-indycar-doubleheader-at-milwaukee-1",
       "title": "Winners and losers from the IndyCar doubleheader at Milwaukee",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/winners-and-losers-from-the-indycar-doubleheader-at-milwaukee/10851432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Sep 1, 2026"
     },
     {
-      "id": "veekay-charges-from-24th-to-podium-at-milwaukee-as-juncos-hollinger-eyes-historic-season-finish-1",
+      "id": "veekay-charges-from-24th-to-podium-at-milwaukee-as-juncos-hollinger-eyes-historic-season-finish-2",
       "title": "VeeKay charges from 24th to podium at Milwaukee as Juncos Hollinger eyes historic season finish",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/veekay-charges-from-24th-to-podium-at-milwaukee-as-jhr-eyes-historic-season-finish/10851362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Sep 1, 2026"
     },
     {
-      "id": "honda-crowned-2026-indycar-manufacturers-champions-2",
+      "id": "honda-crowned-2026-indycar-manufacturers-champions-3",
       "title": "Honda crowned 2026 IndyCar manufacturers' champions",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/honda-crowned-2026-indycar-manufacturers-champions/10851164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Aug 31, 2026"
-    },
-    {
-      "id": "mick-schumacher-and-romain-grosjean-talk-on-pit-road-after-milwaukee-clash-3",
-      "title": "Mick Schumacher and Romain Grosjean talk on pit road after Milwaukee clash",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/mick-schumacher-and-grosjean-clash-after-milwaukee-race-then-make-peace/10851127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
