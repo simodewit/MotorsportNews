@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T02:28:07.969Z",
+  "generatedAt": "2026-09-03T10:30:33.625Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "lando-norris-launches-race-team-young-driver-programme-0",
-      "title": "Lando Norris launches race team, young driver programme",
+      "id": "penalised-kimi-antonelli-to-go-full-attack-at-monza-f1-home-race-0",
+      "title": "Penalised Kimi Antonelli to go \"full attack\" at Monza F1 home race",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-launches-race-team-young-driver-programme/10851664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/penalised-kimi-antonelli-promises-to-go-full-attack-at-monza-f1-home-race/10851773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 2, 2026"
+      "publishedLabel": "Sep 3, 2026"
     },
     {
       "id": "the-next-generation-nikola-tsolov-0",
@@ -75,56 +75,56 @@
       "publishedLabel": "Aug 25, 2026"
     },
     {
-      "id": "motogp-reveals-pre-season-testing-plans-for-start-of-850cc-era-0",
-      "title": "MotoGP reveals pre-season testing plans for start of 850cc era",
+      "id": "can-diogo-moreira-secure-factory-honda-promotion-for-motogp-2027-0",
+      "title": "Can Diogo Moreira secure factory Honda promotion for MotoGP 2027?",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/motogp-reveals-pre-season-testing-plans-for-start-of-850cc-era/10851555/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/moreira-feels-he-has-earned-a-factory-honda-seat-im-doing-my-job-well/10851729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Sep 2, 2026"
+      "publishedLabel": "Sep 3, 2026"
     }
   ],
   "articles": [
     {
-      "id": "lando-norris-launches-race-team-young-driver-programme-0",
+      "id": "penalised-kimi-antonelli-to-go-full-attack-at-monza-f1-home-race-0",
+      "title": "Penalised Kimi Antonelli to go \"full attack\" at Monza F1 home race",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/penalised-kimi-antonelli-promises-to-go-full-attack-at-monza-f1-home-race/10851773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 3, 2026"
+    },
+    {
+      "id": "lewis-hamilton-turns-heads-with-monza-arrival-in-dream-ferrari-f40-ahead-of-italian-gp-1",
+      "title": "Lewis Hamilton turns heads with Monza arrival in \"dream\" Ferrari F40 ahead of Italian GP",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-turns-heads-with-monza-arrival-in-dream-ferrari-f40-ahead-of-italian-gp/10851762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 3, 2026"
+    },
+    {
+      "id": "fia-declares-heat-hazard-for-f1s-italian-gp-in-monza-2",
+      "title": "FIA declares heat hazard for F1's Italian GP in Monza",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/fia-declares-heat-hazard-for-f1s-italian-gp-in-monza/10851743/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 3, 2026"
+    },
+    {
+      "id": "lando-norris-launches-race-team-young-driver-programme-3",
       "title": "Lando Norris launches race team, young driver programme",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lando-norris-launches-race-team-young-driver-programme/10851664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 2, 2026"
-    },
-    {
-      "id": "they-think-were-against-the-british-fia-president-wades-into-f1-stewards-debate-1",
-      "title": "‘They think we're against the British’ - FIA president wades into F1 stewards debate",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ben-sulayem-on-colapintos-f1-penalty-they-also-think-the-fia-is-against-the-british/10851615/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 2, 2026"
-    },
-    {
-      "id": "five-things-to-look-out-for-at-the-f1-italian-gp-2",
-      "title": "Five things to look out for at the F1 Italian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-italian-gp/10851613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 2, 2026"
-    },
-    {
-      "id": "mercedes-rules-out-aduo-engine-upgrade-at-italian-gp-as-updated-f1-power-unit-due-in-october-3",
-      "title": "Mercedes rules out ADUO engine upgrade at Italian GP as updated F1 power unit due in October",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/f1-mercedes-no-aduo-at-monza-new-pu-due-in-october/10851589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Dec 15, 2024"
     },
     {
-      "id": "motogp-reveals-pre-season-testing-plans-for-start-of-850cc-era-0",
+      "id": "can-diogo-moreira-secure-factory-honda-promotion-for-motogp-2027-0",
+      "title": "Can Diogo Moreira secure factory Honda promotion for MotoGP 2027?",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/moreira-feels-he-has-earned-a-factory-honda-seat-im-doing-my-job-well/10851729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Sep 3, 2026"
+    },
+    {
+      "id": "motogp-reveals-pre-season-testing-plans-for-start-of-850cc-era-1",
       "title": "MotoGP reveals pre-season testing plans for start of 850cc era",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/motogp-reveals-pre-season-testing-plans-for-start-of-850cc-era/10851555/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Sep 2, 2026"
     },
     {
-      "id": "aprilia-we-can-learn-a-lot-from-marc-marquezs-intelligence-and-ability-1",
+      "id": "aprilia-we-can-learn-a-lot-from-marc-marquezs-intelligence-and-ability-2",
       "title": "Aprilia: We can learn a lot from Marc Marquez’s “intelligence and ability”",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/aprilia-we-can-learn-a-lot-from-marc-marquezs-intelligence-and-ability/10851496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,21 +253,10 @@
       "publishedLabel": "Sep 2, 2026"
     },
     {
-      "id": "yamaha-responds-to-fabio-quartararos-criticism-and-attitude-2",
+      "id": "yamaha-responds-to-fabio-quartararos-criticism-and-attitude-3",
       "title": "Yamaha responds to Fabio Quartararo’s criticism and attitude",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/yamaha-responds-to-quartararo-criticism-and-laments-his-attitude/10851303/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Sep 1, 2026"
-    },
-    {
-      "id": "what-was-different-about-jorge-martins-struggles-in-aragon-gp-3",
-      "title": "What was different about Jorge Martin’s struggles in Aragon GP?",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/what-was-different-about-jorge-martins-struggles-in-aragon-gp/10851271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
@@ -308,7 +308,18 @@
       "publishedLabel": "Aug 31, 2026"
     },
     {
-      "id": "jacky-ickx-on-genesis-wec-journey-so-far-and-what-comes-next-0",
+      "id": "wec-lone-star-le-mans-full-schedule-and-tv-times-for-austin-race-0",
+      "title": "WEC Lone Star Le Mans: Full schedule and TV times for Austin race",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/wec-austin-lone-star-le-mans-schedule-and-tv-times/10851611/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Sep 3, 2026"
+    },
+    {
+      "id": "jacky-ickx-on-genesis-wec-journey-so-far-and-what-comes-next-1",
       "title": "Jacky Ickx on Genesis’ WEC journey so far – and what comes next",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/jacky-ickx-on-genesis-wec-journey-so-far-and-what-comes-next/10851498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Sep 2, 2026"
     },
     {
-      "id": "mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years-1",
+      "id": "mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years-2",
       "title": "Mario Andretti and Jacky Ickx: A friendship that has endured for almost 60 years",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/mario-andretti-and-jacky-ickx-a-friendship-that-has-endured-for-almost-60-years/10850421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Sep 1, 2026"
     },
     {
-      "id": "why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap-2",
+      "id": "why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap-3",
       "title": "Why WEC can’t simply replace BoP with a Formula 1-style cost cap",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap/10850258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Aug 28, 2026"
-    },
-    {
-      "id": "mclaren-has-already-completed-a-30-hour-endurance-test-with-lmdh-challenger-3",
-      "title": "McLaren has already completed a 30-hour endurance test with LMDh challenger",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/mclaren-has-already-completed-a-30-hour-endurance-test-with-lmdh-challenger/10849757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Aug 27, 2026"
     }
   ]
 }
