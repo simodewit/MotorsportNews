@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:31:18.724Z",
+  "generatedAt": "2026-09-03T19:02:47.618Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "WdDbPYkAMb0",
-      "title": "UNMATCHED AURAAA 🥶",
+      "videoId": "Go9Lt3-VVww",
+      "title": "KA-CHOW!⚡️It's only seven-time Piston Cup winner, Lightning McQueen, in OUR paddock 🤩 🏆 #F1",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "W5STpbwuT8M",
-      "title": "What Is An F1 Car Made Out Of? | F1 Car vs Road Car | Aramco",
+      "videoId": "h9N-r-1cdCc",
+      "title": "Weekend Warm-Up | 2026 Italian Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "3i9uUxVeeE4",
-      "title": "Charles Leclerc: Full Faith In Ferrari | F1 Beyond The Grid Podcast",
+      "videoId": "wVokln9Yz_A",
+      "title": "Kimi Faces A Grid Penalty At His Home Race 🚨",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "C64DaTYMkQQ",
-      "title": "Absolute Chaos Back In 2011",
+      "videoId": "P-Ppy8nkAuo",
+      "title": "Something Special Is Coming 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "hlkhXKr-v2M",
+      "title": "Ferrari Puncture Sparks Huge Near Miss at COTA 😱",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "tzc0vGQFRGM",
       "title": "Audi #7 CRASHES at COTA 😱",
       "channel": "FIA World Endurance Championship",
@@ -176,17 +187,6 @@
     {
       "videoId": "JksVsh6ic8g",
       "title": "Torrential Rain Causes COTA CHAOS 🌧️",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "V4suPr6TQm4",
-      "title": "Every Race Finish of the Season So Far | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "bBkBJNuQuIA",
+      "title": "50% of the track unlocked... more to come 😉",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "IcZTTI7Jess",
       "title": "delivery with a twist for Monza 🇮🇹",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "hdsEiim-ywY",
       "title": "personal space is optional out here 😏",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "Ii540uD9sBA",
-      "title": "gave the kart the full launch treatment. someone had to 😅",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
