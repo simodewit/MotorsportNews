@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:27:05.115Z",
+  "generatedAt": "2026-09-04T18:46:26.937Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "-zOYq2paw-k",
-      "title": "Sharing is caring in the press conference 🤗🎙️ #F1 #Formula1 #ItalianGP",
+      "videoId": "ZjwdHMEXrVA",
+      "title": "Bringing That Radiator Springs Charm To Monza 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "X_yiqSxpOi0",
-      "title": "Drivers Look Ahead to the Weekend | 2026 Italian Grand Prix",
+      "videoId": "tonz8drjCWk",
+      "title": "FP2 Highlights | 2026 Italian Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "Go9Lt3-VVww",
-      "title": "KA-CHOW!⚡️",
+      "videoId": "mEV9_DwMm-g",
+      "title": "FP1 Highlights | 2026 Italian Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "h9N-r-1cdCc",
-      "title": "Weekend Warm-Up | 2026 Italian Grand Prix",
+      "videoId": "F8GZooEb1rE",
+      "title": "A Launch Like Never Before 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,28 @@
       ]
     },
     {
+      "videoId": "oFCgQVdrU-8",
+      "title": "Time for a Texas Throwdown 🇺🇸 | Race Preview | 6 Hours of COTA 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
+      "videoId": "v6fzZzLAWh8",
+      "title": "COTA’s Most Dramatic WEC Moments | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "hlkhXKr-v2M",
       "title": "Ferrari Puncture Sparks Huge Near Miss at COTA 😱",
       "channel": "FIA World Endurance Championship",
@@ -174,25 +196,14 @@
       ]
     },
     {
-      "videoId": "Ic68wLmwiqU",
-      "title": "COTA’s Most Dramatic End of a Race | 6 Hours of COTA 2017 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "DcALtlm7PBA",
+      "title": "The Pass is the stuff of legend 🤯 #indycar #racing #alexzanardi",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "JksVsh6ic8g",
-      "title": "Torrential Rain Causes COTA CHAOS 🌧️",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
@@ -218,8 +229,8 @@
       ]
     },
     {
-      "videoId": "O45nn_rIPpw",
-      "title": "🚨 LIVE: Laguna Seca Marathon | Full INDYCAR SERIES Races",
+      "videoId": "OdYObj4X7Xo",
+      "title": "Your flight to Monterey boards soon 🤨✈️ #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -229,14 +240,14 @@
       ]
     },
     {
-      "videoId": "OdYObj4X7Xo",
-      "title": "Your flight to Monterey boards soon 🤨✈️ #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "U7eCy4hUcCQ",
+      "title": "PUSH, PUSH, PUSH 📣",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -273,14 +284,14 @@
       ]
     },
     {
-      "videoId": "iGwgbkX11O8",
-      "title": "Paraguay, what a ride 🤩",
-      "channel": "FIA World Rally Championship",
+      "videoId": "CynokD0ZG8g",
+      "title": "september traffic looks heavy 😏",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "GCCSDO9YRN0",
       "title": "This is asking nicely at rally pace 😅",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "hdsEiim-ywY",
-      "title": "personal space is optional out here 😏",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
