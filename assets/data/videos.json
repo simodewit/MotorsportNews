@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:02:47.618Z",
+  "generatedAt": "2026-09-04T12:27:05.115Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,30 @@
       ]
     },
     {
+      "videoId": "-zOYq2paw-k",
+      "title": "Sharing is caring in the press conference 🤗🎙️ #F1 #Formula1 #ItalianGP",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "X_yiqSxpOi0",
+      "title": "Drivers Look Ahead to the Weekend | 2026 Italian Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "Go9Lt3-VVww",
-      "title": "KA-CHOW!⚡️It's only seven-time Piston Cup winner, Lightning McQueen, in OUR paddock 🤩 🏆 #F1",
+      "title": "KA-CHOW!⚡️",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -77,28 +99,6 @@
     {
       "videoId": "h9N-r-1cdCc",
       "title": "Weekend Warm-Up | 2026 Italian Grand Prix",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "wVokln9Yz_A",
-      "title": "Kimi Faces A Grid Penalty At His Home Race 🚨",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "P-Ppy8nkAuo",
-      "title": "Something Special Is Coming 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,41 +196,41 @@
       ]
     },
     {
+      "videoId": "U2d58kNs5zE",
+      "title": "Race Preview | 2026 INDYCAR at Laguna Seca",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "vzcFqnVL3Ag",
+      "title": "dw, Rinus VeeKay has you covered on tire management 📚📝 #indycar #eli5 #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "O45nn_rIPpw",
+      "title": "🚨 LIVE: Laguna Seca Marathon | Full INDYCAR SERIES Races",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "OdYObj4X7Xo",
       "title": "Your flight to Monterey boards soon 🤨✈️ #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "VR0hQlsdQIc",
-      "title": "Why Laguna Seca Is One of INDYCAR's Most Legendary Tracks",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "Q2FZo8OfNIk",
-      "title": "BEST Onboard Moments from Milwaukee | 2026 INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "BGAtZqsHsZI",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Snap-on Makers and Fixers 250 from Milwaukee",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
