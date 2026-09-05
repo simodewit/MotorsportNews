@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T18:46:26.937Z",
+  "generatedAt": "2026-09-05T11:33:52.554Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "JMH-5uGcc-o",
+      "title": "A Paddock Challenge For The Drivers! 📏",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "EPuu09JiVOQ",
+      "title": "Monza Upgrades: Ferrari's Push For The Title | F1 TV Tech Talk",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "ZjwdHMEXrVA",
       "title": "Bringing That Radiator Springs Charm To Monza 🤩",
       "channel": "FORMULA 1",
@@ -86,25 +108,36 @@
       ]
     },
     {
-      "videoId": "mEV9_DwMm-g",
-      "title": "FP1 Highlights | 2026 Italian Grand Prix",
-      "channel": "FORMULA 1",
+      "videoId": "Mmfh0QQsFO0",
+      "title": "Alonso Lopez's career so far! 💫",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
-      "videoId": "F8GZooEb1rE",
-      "title": "A Launch Like Never Before 🤩",
-      "channel": "FORMULA 1",
+      "videoId": "9raMzI0GNGw",
+      "title": "BTS: the new MotoGP era is coming 👀",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "PgUvUNxuSsI",
+      "title": "Mir on Marini's best attribute 💡",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -119,41 +152,8 @@
       ]
     },
     {
-      "videoId": "RFoFfx1UiDU",
-      "title": "We sneaked into Marc's grandstands to live his Aragon win from the fans' perspective! 👀",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "WlPrWInIwIQ",
-      "title": "What does an espresso and MotoGP fuel have in common? ☕",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "Y8Kmg-Yg8oY",
-      "title": "Behind the UNSEEN podium celebrations at the 2026 Aragon GP 👀",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "oFCgQVdrU-8",
-      "title": "Time for a Texas Throwdown 🇺🇸 | Race Preview | 6 Hours of COTA 2026 | FIA WEC",
+      "videoId": "TCqvVMqnn1s",
+      "title": "Onboard Lap Robert Kubica Ferrari Hypercar | 6 Hours of COTA 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "videoId": "v6fzZzLAWh8",
-      "title": "COTA’s Most Dramatic WEC Moments | FIA WEC",
+      "videoId": "ieyW-EGo0e4",
+      "title": "Onboard Lap Tom Gamble Aston Martin Hypercar | 6 Hours of COTA 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -174,8 +174,8 @@
       ]
     },
     {
-      "videoId": "hlkhXKr-v2M",
-      "title": "Ferrari Puncture Sparks Huge Near Miss at COTA 😱",
+      "videoId": "JRjAFeYwsnE",
+      "title": "Onboard Lap Antonio Fuoco Ferrari Hypercar | 6 Hours of COTA 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -185,14 +185,36 @@
       ]
     },
     {
-      "videoId": "tzc0vGQFRGM",
-      "title": "Audi #7 CRASHES at COTA 😱",
+      "videoId": "BHXAss9yFMg",
+      "title": "Onboard Lap Luis Felipe Derani Genesis Hypercar | 6 Hours of COTA 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
       ],
       "seriesLabels": [
         "WEC"
+      ]
+    },
+    {
+      "videoId": "w5wngGQuMtM",
+      "title": "Practice 1 Highlights | 2026 INDYCAR at Laguna Seca",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "zipq-HjiGvI",
+      "title": "Uh oh 😯 #indycar #racing #santinoferrucci",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -218,25 +240,14 @@
       ]
     },
     {
-      "videoId": "vzcFqnVL3Ag",
-      "title": "dw, Rinus VeeKay has you covered on tire management 📚📝 #indycar #eli5 #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "J2t02myIp_A",
+      "title": "Next Stop: WRC Rally Chile Biobío 2026, 10 - 13 September",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "OdYObj4X7Xo",
-      "title": "Your flight to Monterey boards soon 🤨✈️ #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -273,14 +284,14 @@
       ]
     },
     {
-      "videoId": "agWDq3DBE-c",
-      "title": "Best of RAW Action | WRC ueno Rally del Paraguay 2026",
-      "channel": "FIA World Rally Championship",
+      "videoId": "M9DbJSfNxH8",
+      "title": "commentary could barely keep up 😅",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "IcZTTI7Jess",
       "title": "delivery with a twist for Monza 🇮🇹",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "GCCSDO9YRN0",
-      "title": "This is asking nicely at rally pace 😅",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
