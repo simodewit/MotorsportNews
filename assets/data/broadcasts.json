@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T11:30:30.392Z",
+  "generatedAt": "2026-09-05T17:50:00.747Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE: F1 Grid Gigs | 2026 Italian Grand Prix",
+      "channel": "FORMULA 1",
+      "videoId": "x9W9TyA1tWI",
+      "url": "https://www.youtube.com/watch?v=x9W9TyA1tWI",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
