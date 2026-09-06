@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:38:17.705Z",
+  "generatedAt": "2026-09-06T11:53:59.420Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "EITo7M9RKMA",
-      "title": "Pierre Gasly's First F1 Pole Lap | 2026 Italian Grand Prix | Pirelli",
+      "videoId": "xebHEkDLxWQ",
+      "title": "Vettel Drives Schumacher's F2002! 😍",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "5cMWultJDGI",
-      "title": "Drivers React After Qualifying | 2026 Italian Grand Prix",
+      "videoId": "dZjkvbLhVFo",
+      "title": "LIVE: Vettel Drives Schumacher's Ferrari & Drivers' Parade",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "INWiYf0GlhQ",
-      "title": "Kika Celebrates With Pierre! 🥰",
+      "videoId": "l8iuAPd87TA",
+      "title": "Vettel Putting On A Show!! 😍",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,14 +97,25 @@
       ]
     },
     {
-      "videoId": "gXodNannBcc",
-      "title": "Toto Thinks He Spotted Max’s Shenanigans! 👀",
+      "videoId": "uGtzlTMd_Fc",
+      "title": "F3 Feature Race Highlights | 2026 Italian Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
       ],
       "seriesLabels": [
         "Formula 1"
+      ]
+    },
+    {
+      "videoId": "1x9SNIT-Nvs",
+      "title": "Luca Marini's firsts! 👀🎮",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -132,17 +143,6 @@
     {
       "videoId": "9raMzI0GNGw",
       "title": "BTS: the new MotoGP era is coming 👀",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "PgUvUNxuSsI",
-      "title": "Mir on Marini's best attribute 💡",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "ghF9s4stlpU",
+      "title": "get your votes in before the dust settles 👀",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "M9DbJSfNxH8",
       "title": "commentary could barely keep up 😅",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "bBkBJNuQuIA",
       "title": "50% of the track unlocked... more to come 😉",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "IcZTTI7Jess",
-      "title": "delivery with a twist for Monza 🇮🇹",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
