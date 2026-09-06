@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:53:59.420Z",
+  "generatedAt": "2026-09-06T17:57:43.798Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "xebHEkDLxWQ",
-      "title": "Vettel Drives Schumacher's F2002! 😍",
+      "videoId": "uptj3to1l7o",
+      "title": "Race Highlights | 2026 Italian Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "dZjkvbLhVFo",
-      "title": "LIVE: Vettel Drives Schumacher's Ferrari & Drivers' Parade",
+      "videoId": "VRE7yGfUl6Q",
+      "title": "LIVE: Italian Grand Prix Post-Race Show",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "l8iuAPd87TA",
-      "title": "Vettel Putting On A Show!! 😍",
+      "videoId": "eHfWwn9FqdE",
+      "title": "Huge Charles Crash! 😱",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "uGtzlTMd_Fc",
-      "title": "F3 Feature Race Highlights | 2026 Italian Grand Prix",
+      "videoId": "aYAOrmHHdG4",
+      "title": "F2 Feature Race Highlights | 2026 Italian Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "55lzeYpRwJg",
+      "title": "Mick Schumacher’s Next INDYCAR Chapter",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "_VfGpEiZOVk",
       "title": "🔴 INDYCAR Final Practice | 2026 Mission Foods Grand Prix of Monterey",
       "channel": "NTT INDYCAR SERIES",
@@ -220,17 +231,6 @@
     {
       "videoId": "PUQMYyzPVeY",
       "title": "⏱️ Qualifying Rewind | 2026 INDYCAR at Laguna Seca",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "2uuw3t-6l9I",
-      "title": "Qualifying Highlights | 2026 INDYCAR at Laguna Seca",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
