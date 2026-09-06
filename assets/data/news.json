@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T19:47:17.987Z",
+  "generatedAt": "2026-09-06T02:20:56.547Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "i-did-what-the-team-asked-kimi-antonelli-expects-george-russell-to-return-favour-later-in-season-0",
-      "title": "\"I did what the team asked\": Kimi Antonelli expects George Russell to return favour later in season",
+      "id": "f1-italian-gp-sunday-schedule-weather-forecast-and-how-to-watch-0",
+      "title": "F1 Italian GP: Sunday schedule, weather forecast and how to watch",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/i-did-what-the-team-asked-kimi-antonelli-expects-george-russell-to-return-favour-later-in-season/10852769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/f1-italian-gp-sunday-schedule-weather-forecast-and-how-to-watch/10852817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,29 @@
   ],
   "articles": [
     {
-      "id": "i-did-what-the-team-asked-kimi-antonelli-expects-george-russell-to-return-favour-later-in-season-0",
+      "id": "f1-italian-gp-sunday-schedule-weather-forecast-and-how-to-watch-0",
+      "title": "F1 Italian GP: Sunday schedule, weather forecast and how to watch",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/f1-italian-gp-sunday-schedule-weather-forecast-and-how-to-watch/10852817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 5, 2026"
+    },
+    {
+      "id": "oscar-piastri-on-monza-2025-team-orders-i-wouldnt-change-how-i-responded-1",
+      "title": "Oscar Piastri on Monza 2025 team orders: \"I wouldn’t change how I responded\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-monza-2025-team-orders-i-wouldnt-change-how-i-responded/10852790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 5, 2026"
+    },
+    {
+      "id": "i-did-what-the-team-asked-kimi-antonelli-expects-george-russell-to-return-favour-later-in-season-2",
       "title": "\"I did what the team asked\": Kimi Antonelli expects George Russell to return favour later in season",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/i-did-what-the-team-asked-kimi-antonelli-expects-george-russell-to-return-favour-later-in-season/10852769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Sep 5, 2026"
     },
     {
-      "id": "how-oscar-piastris-q3-mistake-denied-lando-norris-half-a-second-in-italian-gp-qualifying-1",
+      "id": "how-oscar-piastris-q3-mistake-denied-lando-norris-half-a-second-in-italian-gp-qualifying-3",
       "title": "How Oscar Piastri's Q3 mistake denied Lando Norris \"half a second\" in Italian GP qualifying",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/how-oscar-piastris-q3-mistake-denied-lando-norris-half-a-second-in-monza-qualifying/10852723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 5, 2026"
-    },
-    {
-      "id": "jeremy-clarkson-makes-alpine-f1-promise-after-pierre-gasly-italian-gp-pole-2",
-      "title": "Jeremy Clarkson makes Alpine F1 promise after Pierre Gasly Italian GP pole",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/jeremy-clarkson-makes-alpine-f1-promise-after-pierre-gasly-italian-gp-pole/10852731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 5, 2026"
-    },
-    {
-      "id": "george-russell-frustrated-with-max-verstappen-qualifying-antics-he-just-slammed-on-the-brakes-3",
-      "title": "George Russell frustrated with Max Verstappen qualifying antics: \"He just slammed on the brakes\"",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/george-russell-frustrated-with-max-verstappen-qualifying-antics-he-just-slammed-on-the-brakes/10852698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Sep 4, 2026"
     },
     {
-      "id": "dreyer-reinbold-racing-returns-full-time-to-indycar-with-conor-daly-honda-for-2027-0",
+      "id": "indycar-laguna-seca-starting-lineup-scott-mclaughlin-takes-pole-from-alex-palou-by-00177s-0",
+      "title": "IndyCar Laguna Seca starting lineup: Scott McLaughlin takes pole from Alex Palou by 0.0177s",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/indycar-laguna-seca-starting-lineup/10852793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Sep 5, 2026"
+    },
+    {
+      "id": "dreyer-reinbold-racing-returns-full-time-to-indycar-with-conor-daly-honda-for-2027-1",
       "title": "Dreyer & Reinbold Racing returns full-time to IndyCar with Conor Daly, Honda for 2027",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/dreyer-reinbold-racing-returns-full-time-to-indycar-with-conor-daly-honda-for-2027/10852762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Sep 5, 2026"
     },
     {
-      "id": "laguna-seca-formally-dedicates-the-zanardi-corkscrew-1",
+      "id": "laguna-seca-formally-dedicates-the-zanardi-corkscrew-2",
       "title": "Laguna Seca formally dedicates 'The Zanardi Corkscrew'",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/laguna-seca-formally-dedicates-the-zanardi-corkscrew/10852628/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,7 +297,7 @@
       "publishedLabel": "Sep 5, 2026"
     },
     {
-      "id": "he-is-full-of-sht-pato-oward-blasts-departing-arrow-mclaren-teammate-christian-lundgaard-2",
+      "id": "he-is-full-of-sht-pato-oward-blasts-departing-arrow-mclaren-teammate-christian-lundgaard-3",
       "title": "\"He is full of sh*t\": Pato O’Ward blasts departing Arrow McLaren teammate Christian Lundgaard",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/he-is-full-of-sht-pato-oward-blasts-departing-arrow-mclaren-teammate-christian-lundgaard/10852363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -297,18 +308,18 @@
       "publishedLabel": "Sep 4, 2026"
     },
     {
-      "id": "mick-schumacher-joins-meyer-shank-racing-for-2027-indycar-season-3",
-      "title": "Mick Schumacher joins Meyer Shank Racing for 2027 IndyCar season",
+      "id": "wec-austin-ferrari-takes-pole-from-cadillac-after-identical-qualifying-times-0",
+      "title": "WEC Austin: Ferrari takes pole from Cadillac after identical qualifying times",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/mick-schumacher-joins-meyer-shank-racing-for-2027-indycar-season/10852295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/wec/news/wec-austin-ferrari-takes-wec-pole-from-cadillac-after-identical-qualifying-times/10852797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
-        "indycar"
+        "wec"
       ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Sep 4, 2026"
+      "seriesLabel": "WEC",
+      "publishedLabel": "Sep 5, 2026"
     },
     {
-      "id": "wec-austin-aston-martin-edges-genesis-and-cadillac-in-fp3-0",
+      "id": "wec-austin-aston-martin-edges-genesis-and-cadillac-in-fp3-1",
       "title": "WEC Austin: Aston Martin edges Genesis and Cadillac in FP3",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-austin-fp3-aston-martin-edges-genesis-and-cadillac/10852708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Sep 5, 2026"
     },
     {
-      "id": "wec-austin-fp2-aston-martin-tops-both-classes-with-tincknell-and-robichon-1",
+      "id": "wec-austin-fp2-aston-martin-tops-both-classes-with-tincknell-and-robichon-2",
       "title": "WEC Austin FP2: Aston Martin tops both classes with Tincknell and Robichon",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-austin-fp2-aston-martin-tops-both-classes-with-tincknell-and-robichon/10852392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,21 +341,10 @@
       "publishedLabel": "Sep 4, 2026"
     },
     {
-      "id": "ferrari-leads-wec-austin-fp1-with-antonio-giovinazzi-ahead-of-antonio-fuoco-2",
+      "id": "ferrari-leads-wec-austin-fp1-with-antonio-giovinazzi-ahead-of-antonio-fuoco-3",
       "title": "Ferrari leads WEC Austin FP1 with Antonio Giovinazzi ahead of Antonio Fuoco",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/ferrari-leads-wec-austin-fp1-with-antonio-giovinazzi-ahead-of-antonio-fuoco/10852351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Sep 4, 2026"
-    },
-    {
-      "id": "five-things-to-look-out-for-in-wecs-lone-star-le-mans-3",
-      "title": "Five things to look out for in WEC’s Lone Star Le Mans",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/five-things-to-look-out-for-in-wecs-lone-star-le-mans/10851923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
       "series": [
         "wec"
       ],
