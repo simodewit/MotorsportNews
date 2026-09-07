@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:36:14.417Z",
+  "generatedAt": "2026-09-07T13:54:35.018Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "Lon8e83gxfg",
+      "title": "Italy Sings For Kimi! 🇮🇹",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "A-9dKAioXvo",
+      "title": "*THE* Dream  😫",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "4E4QNJBgcEI",
       "title": "Lightning McQueen Hits The F1 Track!",
       "channel": "FORMULA 1",
@@ -86,25 +108,14 @@
       ]
     },
     {
-      "videoId": "9mTgGdQK9gs",
-      "title": "Kimi WINS At Home! 🇮🇹",
-      "channel": "FORMULA 1",
+      "videoId": "EuvPvJIwNng",
+      "title": "It's time for the 2026 San Marino GP! 🇸🇲",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "zBACnjRTFU0",
-      "title": "Drivers React After The Race | 2026 Italian Grand Prix",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
@@ -132,17 +143,6 @@
     {
       "videoId": "lJEOXiFFvK4",
       "title": "Marco Bezzecchi in Kimi Antonelli’s F1 car at Monza! 🏍️🏎️",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "Mmfh0QQsFO0",
-      "title": "Alonso Lopez's career so far! 💫",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -240,6 +240,28 @@
       ]
     },
     {
+      "videoId": "aP9zXmQCrbA",
+      "title": "🔴 シェイクダウン ライブ！WRC Rally Chile Biobío 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "VNtwxWRT09E",
+      "title": "🔴 Shakedown LIVE |  WRC Rally Chile Biobío 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "J2t02myIp_A",
       "title": "Next Stop: WRC Rally Chile Biobío 2026, 10 - 13 September",
       "channel": "FIA World Rally Championship",
@@ -253,28 +275,6 @@
     {
       "videoId": "U7eCy4hUcCQ",
       "title": "PUSH, PUSH, PUSH 📣",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "wFwsYA-Ccng",
-      "title": "FULL ONBOARD - SS3 Paddon/Kennard  | WRC ueno Rally del Paraguay 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "30OBqiHBOCg",
-      "title": "Right foot report 👀",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
