@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T13:50:32.576Z",
+  "generatedAt": "2026-09-07T19:30:28.053Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -88,6 +88,36 @@
       ],
       "seriesLabels": [
         "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull Drift Masters Poland Grande Finale - Round 7 - Top16",
+      "channel": "Red Bull Motorsports",
+      "videoId": "iKmZNLDU7c4",
+      "url": "https://www.youtube.com/watch?v=iKmZNLDU7c4",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull Drift Masters Poland - Round 7 - Top32",
+      "channel": "Red Bull Motorsports",
+      "videoId": "4zgRboUKXdE",
+      "url": "https://www.youtube.com/watch?v=4zgRboUKXdE",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
       ]
     },
     {
