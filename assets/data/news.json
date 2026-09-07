@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:51:13.714Z",
+  "generatedAt": "2026-09-07T02:17:51.657Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "winners-and-losers-from-f1s-memorable-italian-grand-prix-0",
-      "title": "Winners and losers from F1's memorable Italian Grand Prix",
+      "id": "max-verstappens-wholesome-monza-moment-with-kimi-antonellis-father-goes-viral-class-act-0",
+      "title": "Max Verstappen's \"wholesome\" Monza moment with Kimi Antonelli's father goes viral: \"Class act\"",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-memorable-italian-grand-prix/10853199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-wholesome-monza-moment-with-kimi-antonellis-father-goes-viral-class-act/10853232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,43 +88,43 @@
   ],
   "articles": [
     {
-      "id": "winners-and-losers-from-f1s-memorable-italian-grand-prix-0",
+      "id": "max-verstappens-wholesome-monza-moment-with-kimi-antonellis-father-goes-viral-class-act-0",
+      "title": "Max Verstappen's \"wholesome\" Monza moment with Kimi Antonelli's father goes viral: \"Class act\"",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-wholesome-monza-moment-with-kimi-antonellis-father-goes-viral-class-act/10853232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 6, 2026"
+    },
+    {
+      "id": "lewis-hamilton-calls-for-clearer-ferrari-team-rules-after-leclerc-monza-clash-1",
+      "title": "Lewis Hamilton calls for clearer Ferrari team rules after Leclerc Monza clash",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-title-fight/10853210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 6, 2026"
+    },
+    {
+      "id": "audi-starts-appeal-process-after-tsunoda-escapes-italian-gp-penalty-2",
+      "title": "Audi starts appeal process after Tsunoda escapes Italian GP penalty",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-f1-verdict/10853208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 6, 2026"
+    },
+    {
+      "id": "winners-and-losers-from-f1s-memorable-italian-grand-prix-3",
       "title": "Winners and losers from F1's memorable Italian Grand Prix",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-memorable-italian-grand-prix/10853199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 6, 2026"
-    },
-    {
-      "id": "fred-vasseur-admits-ferrari-drivers-clash-in-italian-gp-not-good-for-the-team-1",
-      "title": "Fred Vasseur admits Ferrari drivers' clash in Italian GP “not good for the team”",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-admits-ferrari-drivers-clash-not-good-for-the-team/10853193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 6, 2026"
-    },
-    {
-      "id": "yuki-tsunoda-keeps-italian-gp-point-after-escaping-sanction-2",
-      "title": "Yuki Tsunoda keeps Italian GP point after escaping sanction",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-keeps-italian-gp-point-after-escaping-sanction/10853177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 6, 2026"
-    },
-    {
-      "id": "how-max-verstappen-tried-to-compensate-for-feeling-like-a-turtle-against-mercedes-in-italian-gp-3",
-      "title": "How Max Verstappen tried to compensate for feeling \"like a turtle\" against Mercedes in Italian GP",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/how-max-verstappen-tried-to-compensate-for-feeling-like-a-turtle-against-mercedes-in-monza/10853173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,51 +264,62 @@
       "publishedLabel": "Sep 4, 2026"
     },
     {
-      "id": "indycar-laguna-seca-starting-lineup-scott-mclaughlin-takes-pole-from-alex-palou-by-00177s-0",
-      "title": "IndyCar Laguna Seca starting lineup: Scott McLaughlin takes pole from Alex Palou by 0.0177s",
+      "id": "alexander-rossi-ends-terrible-year-with-laguna-seca-indycar-podium-0",
+      "title": "Alexander Rossi ends “terrible year” with Laguna Seca IndyCar podium",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/indycar-laguna-seca-starting-lineup/10852793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/alexander-rossi-ends-terrible-year-with-laguna-seca-indycar-podium/10853239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Sep 5, 2026"
+      "publishedLabel": "Sep 6, 2026"
     },
     {
-      "id": "dreyer-reinbold-racing-returns-full-time-to-indycar-with-conor-daly-honda-for-2027-1",
-      "title": "Dreyer & Reinbold Racing returns full-time to IndyCar with Conor Daly, Honda for 2027",
+      "id": "kyle-kirkwood-seals-career-best-indycar-season-with-laguna-seca-runner-up-1",
+      "title": "Kyle Kirkwood seals career-best IndyCar season with Laguna Seca runner-up",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/dreyer-reinbold-racing-returns-full-time-to-indycar-with-conor-daly-honda-for-2027/10852762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/kyle-kirkwood-seals-career-best-indycar-season-with-laguna-seca-runner-up/10853234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Sep 5, 2026"
+      "publishedLabel": "Sep 6, 2026"
     },
     {
-      "id": "laguna-seca-formally-dedicates-the-zanardi-corkscrew-2",
-      "title": "Laguna Seca formally dedicates 'The Zanardi Corkscrew'",
+      "id": "final-2026-indycar-championship-standings-after-laguna-seca-2",
+      "title": "Final 2026 IndyCar championship standings after Laguna Seca",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/laguna-seca-formally-dedicates-the-zanardi-corkscrew/10852628/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/final-2026-indycar-championship-standings-after-laguna-seca/10853189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Sep 5, 2026"
+      "publishedLabel": "Sep 6, 2026"
     },
     {
-      "id": "he-is-full-of-sht-pato-oward-blasts-departing-arrow-mclaren-teammate-christian-lundgaard-3",
-      "title": "\"He is full of sh*t\": Pato O’Ward blasts departing Arrow McLaren teammate Christian Lundgaard",
+      "id": "official-race-results-2026-indycar-finale-at-laguna-seca-3",
+      "title": "Official race results: 2026 IndyCar finale at Laguna Seca",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/he-is-full-of-sht-pato-oward-blasts-departing-arrow-mclaren-teammate-christian-lundgaard/10852363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/indycar/news/official-race-results-2026-indycar-finale-at-laguna-seca/10853185/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
       "seriesLabel": "IndyCar",
-      "publishedLabel": "Sep 4, 2026"
+      "publishedLabel": "Sep 6, 2026"
     },
     {
-      "id": "ferrari-thinking-race-by-race-about-wec-title-fight-after-scoring-equal-pole-in-austin-0",
+      "id": "ferrari-wins-wec-austin-after-late-toyota-hydraulic-failure-0",
+      "title": "Ferrari wins WEC Austin after late Toyota hydraulic failure",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/wec-austin-ferrari-takes-surprise-win-after-late-heartbreak-for-toyota/10853245/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Sep 7, 2026"
+    },
+    {
+      "id": "ferrari-thinking-race-by-race-about-wec-title-fight-after-scoring-equal-pole-in-austin-1",
       "title": "Ferrari “thinking race by race\" about WEC title fight after scoring ‘equal’ pole in Austin",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-ferrari-on-level-terms-in-hyperpole-comeback-and-overtaking-will-be-race-by-race/10852871/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Sep 6, 2026"
     },
     {
-      "id": "wec-austin-ferrari-takes-pole-from-cadillac-after-identical-qualifying-times-1",
+      "id": "wec-austin-ferrari-takes-pole-from-cadillac-after-identical-qualifying-times-2",
       "title": "WEC Austin: Ferrari takes pole from Cadillac after identical qualifying times",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-austin-ferrari-takes-wec-pole-from-cadillac-after-identical-qualifying-times/10852797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Sep 5, 2026"
     },
     {
-      "id": "wec-austin-aston-martin-edges-genesis-and-cadillac-in-fp3-2",
+      "id": "wec-austin-aston-martin-edges-genesis-and-cadillac-in-fp3-3",
       "title": "WEC Austin: Aston Martin edges Genesis and Cadillac in FP3",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-austin-fp3-aston-martin-edges-genesis-and-cadillac/10852708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Sep 5, 2026"
-    },
-    {
-      "id": "wec-austin-fp2-aston-martin-tops-both-classes-with-tincknell-and-robichon-3",
-      "title": "WEC Austin FP2: Aston Martin tops both classes with Tincknell and Robichon",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/wec-austin-fp2-aston-martin-tops-both-classes-with-tincknell-and-robichon/10852392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Sep 4, 2026"
     }
   ]
 }
