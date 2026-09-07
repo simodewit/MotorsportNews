@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T10:33:55.958Z",
+  "generatedAt": "2026-09-07T08:56:16.257Z",
   "window": {
     "startDate": "2025-11-18"
   },
@@ -70,7 +70,7 @@
       "name": "Shakedown Test 1",
       "venue": "Sepang International Circuit",
       "startDate": "2026-01-29",
-      "endDate": "2026-02-05",
+      "endDate": "2026-02-03",
       "series": [
         {
           "id": "motogp",
@@ -118,50 +118,13 @@
       "name": "Bahrain Testing 2 Day 1",
       "venue": "Bahrain International Circuit",
       "startDate": "2026-02-18",
-      "endDate": "2026-02-20",
+      "endDate": "2026-02-19",
       "series": [
         {
           "id": "f1",
           "name": "Formula 1",
           "sessions": [
             "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "buriram-test-1-2026-02-21",
-      "name": "Buriram Test 1",
-      "venue": "Chang International Circuit",
-      "startDate": "2026-02-21",
-      "endDate": "2026-02-22",
-      "series": [
-        {
-          "id": "motogp",
-          "name": "MotoGP",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "thailand-free-1-2026-02-27",
-      "name": "Thailand Free 1",
-      "venue": "Chang International Circuit",
-      "startDate": "2026-02-27",
-      "endDate": "2026-02-28",
-      "series": [
-        {
-          "id": "motogp",
-          "name": "MotoGP",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Sprint",
-            "Race",
-            "Qualifying",
-            "Practice 2"
           ]
         }
       ]
@@ -187,23 +150,12 @@
       ]
     },
     {
-      "id": "australian-grand-prix-1-2026-03-05",
+      "id": "australian-2026-03-05",
       "name": "Albert Park Circuit Weekend",
       "venue": "Albert Park Circuit",
       "startDate": "2026-03-05",
       "endDate": "2026-03-08",
       "series": [
-        {
-          "id": "f1",
-          "name": "Formula 1",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Practice 2",
-            "Qualifying",
-            "Race"
-          ]
-        },
         {
           "id": "f2",
           "name": "Formula 2",
@@ -228,36 +180,17 @@
       ]
     },
     {
-      "id": "good-ranchers-250-high-line-and-final-2026-03-06",
-      "name": "Good Ranchers 250 High Line and Final",
+      "id": "good-ranchers-250-1-2026-03-06",
+      "name": "Good Ranchers 250 1",
       "venue": "Phoenix Raceway",
       "startDate": "2026-03-06",
-      "endDate": "2026-03-07",
+      "endDate": "2026-03-06",
       "series": [
         {
           "id": "indycar",
           "name": "IndyCar",
           "sessions": [
             "Practice 1",
-            "Practice",
-            "Qualifying",
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "australian-grand-prix-3-2026-03-07",
-      "name": "Australian Grand Prix 3",
-      "venue": "Australian  Practice 3",
-      "startDate": "2026-03-07",
-      "endDate": "2026-03-07",
-      "series": [
-        {
-          "id": "f1",
-          "name": "Formula 1",
-          "sessions": [
-            "Practice 3",
             "Practice"
           ]
         }
@@ -276,127 +209,6 @@
           "sessions": [
             "Feature Race",
             "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chinese-grand-prix-1-2026-03-13",
-      "name": "Chinese Grand Prix 1",
-      "venue": "Shanghai International Circuit",
-      "startDate": "2026-03-13",
-      "endDate": "2026-03-14",
-      "series": [
-        {
-          "id": "f1",
-          "name": "Formula 1",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Qualifying",
-            "Sprint Qualifying",
-            "Sprint"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "java-house-grand-prix-of-arlington-1-2026-03-13",
-      "name": "Java House Grand Prix of Arlington 1",
-      "venue": "Java House  of Arlington Practice 1",
-      "startDate": "2026-03-13",
-      "endDate": "2026-03-13",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Practice 1",
-            "Practice"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "chinese-grand-prix-2026-03-14",
-      "name": "Chinese Grand Prix",
-      "venue": "Chinese  Qualifying",
-      "startDate": "2026-03-14",
-      "endDate": "2026-03-14",
-      "series": [
-        {
-          "id": "f1",
-          "name": "Formula 1",
-          "sessions": [
-            "Qualifying"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "java-house-grand-prix-of-arlington-2-2026-03-14",
-      "name": "Java House Grand Prix of Arlington 2",
-      "venue": "Java House  of Arlington Practice 2",
-      "startDate": "2026-03-14",
-      "endDate": "2026-03-14",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Practice 2",
-            "Practice"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "java-house-grand-prix-of-arlington-2026-03-14",
-      "name": "Java House Grand Prix of Arlington",
-      "venue": "Java House  of Arlington Qualifying",
-      "startDate": "2026-03-14",
-      "endDate": "2026-03-14",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Qualifying"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "java-house-grand-prix-of-arlington-2026-03-15",
-      "name": "Java House Grand Prix of Arlington",
-      "venue": "Java House  of Arlington",
-      "startDate": "2026-03-15",
-      "endDate": "2026-03-15",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "childrens-of-alabama-indy-grand-prix-1-2026-03-27",
-      "name": "Childrens of Alabama Indy Grand Prix 1",
-      "venue": "Barber Motorsports Park",
-      "startDate": "2026-03-27",
-      "endDate": "2026-03-28",
-      "series": [
-        {
-          "id": "indycar",
-          "name": "IndyCar",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Practice 2",
-            "Qualifying"
           ]
         }
       ]
@@ -425,54 +237,14 @@
       "name": "Miami International Autodrome Weekend",
       "venue": "Miami International Autodrome",
       "startDate": "2026-05-02",
-      "endDate": "2026-05-03",
+      "endDate": "2026-05-02",
       "series": [
         {
           "id": "f2",
           "name": "Formula 2",
           "sessions": [
             "Sprint",
-            "Race",
-            "Feature Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6-hours-of-spa-francorchamps-hyperpole-hypercar-2026-05-07",
-      "name": "6 Hours of Spa Francorchamps Hyperpole - Hypercar",
-      "venue": "Circuit de Spa-Francorchamps",
-      "startDate": "2026-05-07",
-      "endDate": "2026-05-09",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Practice 2",
-            "Practice 3",
-            "Qualifying",
             "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "montreal-2026-05-23",
-      "name": "Montréal",
-      "venue": "Circuit Gilles Villeneuve",
-      "startDate": "2026-05-23",
-      "endDate": "2026-05-24",
-      "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race",
-            "Feature Race"
           ]
         }
       ]
@@ -485,15 +257,6 @@
       "endDate": "2026-06-07",
       "series": [
         {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race",
-            "Feature Race"
-          ]
-        },
-        {
           "id": "f3",
           "name": "Formula 3",
           "sessions": [
@@ -505,39 +268,12 @@
       ]
     },
     {
-      "id": "24-hours-of-le-mans-hyperpole-lmp2-lmgt3-2026-06-10",
-      "name": "24 Hours of Le Mans Hyperpole – LMP2 & LMGT3",
-      "venue": "Circuit de la Sarthe",
-      "startDate": "2026-06-10",
-      "endDate": "2026-06-10",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Qualifying"
-          ]
-        }
-      ]
-    },
-    {
       "id": "barcelona-2026-06-13",
-      "name": "Circuit de Barcelona-Catalunya Weekend",
+      "name": "Barcelona",
       "venue": "Circuit de Barcelona-Catalunya",
       "startDate": "2026-06-13",
       "endDate": "2026-06-14",
       "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race",
-            "Feature Race"
-          ]
-        },
         {
           "id": "f3",
           "name": "Formula 3",
@@ -551,20 +287,11 @@
     },
     {
       "id": "austrian-2026-06-27",
-      "name": "Red Bull Ring Weekend",
+      "name": "Austrian",
       "venue": "Red Bull Ring",
       "startDate": "2026-06-27",
       "endDate": "2026-06-28",
       "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race",
-            "Feature Race"
-          ]
-        },
         {
           "id": "f3",
           "name": "Formula 3",
@@ -583,14 +310,6 @@
       "startDate": "2026-07-04",
       "endDate": "2026-07-05",
       "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race"
-          ]
-        },
         {
           "id": "f3",
           "name": "Formula 3",
