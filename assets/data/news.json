@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:00:32.764Z",
+  "generatedAt": "2026-09-07T20:58:43.119Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,10 +42,10 @@
   ],
   "featured": [
     {
-      "id": "lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp-0",
-      "title": "Lando Norris: Oscar Piastri move complaint made \"in the heat of the moment\" in Italian GP",
+      "id": "isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns-0",
+      "title": "Isack Hadjar to sit out third F1 race in Madrid as Yuki Tsunoda returns",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp/10853505/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -88,7 +88,18 @@
   ],
   "articles": [
     {
-      "id": "lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp-0",
+      "id": "isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns-0",
+      "title": "Isack Hadjar to sit out third F1 race in Madrid as Yuki Tsunoda returns",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 7, 2026"
+    },
+    {
+      "id": "lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp-1",
       "title": "Lando Norris: Oscar Piastri move complaint made \"in the heat of the moment\" in Italian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp/10853505/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,7 +110,7 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "ex-f1-boss-bernie-ecclestone-reportedly-arrested-for-travelling-with-shotgun-in-portugal-1",
+      "id": "ex-f1-boss-bernie-ecclestone-reportedly-arrested-for-travelling-with-shotgun-in-portugal-2",
       "title": "Ex-F1 boss Bernie Ecclestone reportedly arrested for travelling with shotgun in Portugal",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/ex-f1-boss-bernie-ecclestone-reportedly-arrested-for-travelling-with-shotgun-in-portugal/10853499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -110,21 +121,10 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "kimi-antonelli-sends-emotional-message-to-fans-after-indescribable-italian-gp-victory-2",
+      "id": "kimi-antonelli-sends-emotional-message-to-fans-after-indescribable-italian-gp-victory-3",
       "title": "Kimi Antonelli sends emotional message to fans after \"indescribable\" Italian GP victory",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-sends-emotional-message-to-fans-after-indescribable-italian-gp-victory/10853461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 7, 2026"
-    },
-    {
-      "id": "ferrari-bosses-must-step-in-after-lewis-hamilton-charles-leclerc-monza-clash-says-former-driver-3",
-      "title": "Ferrari bosses must step in after Lewis Hamilton-Charles Leclerc Monza clash, says former driver",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ferrari-bosses-must-step-in-after-lewis-hamilton-charles-leclerc-monza-clash-says-former-driver/10853441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -264,7 +264,18 @@
       "publishedLabel": "Sep 5, 2026"
     },
     {
-      "id": "scott-mclaughlin-delivers-on-promise-to-daughter-with-laguna-seca-win-first-as-a-father-0",
+      "id": "dennis-hauger-caps-rookie-title-run-with-hopes-on-2027-indycar-return-0",
+      "title": "Dennis Hauger caps rookie title run with hopes on 2027 IndyCar return",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/indycar/news/dennis-hauger-caps-rookie-title-run-with-hopes-on-2027-indycar-return/10853543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabel": "IndyCar",
+      "publishedLabel": "Sep 7, 2026"
+    },
+    {
+      "id": "scott-mclaughlin-delivers-on-promise-to-daughter-with-laguna-seca-win-first-as-a-father-1",
       "title": "Scott McLaughlin delivers on ‘promise’ to daughter, with Laguna Seca win first as a father",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/scott-mclaughlin-delivers-on-promise-to-daughter-with-laguna-seca-win-first-as-a-father/10853501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -275,7 +286,7 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "alexander-rossi-ends-terrible-year-with-laguna-seca-indycar-podium-1",
+      "id": "alexander-rossi-ends-terrible-year-with-laguna-seca-indycar-podium-2",
       "title": "Alexander Rossi ends “terrible year” with Laguna Seca IndyCar podium",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/alexander-rossi-ends-terrible-year-with-laguna-seca-indycar-podium/10853239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
@@ -286,21 +297,10 @@
       "publishedLabel": "Sep 6, 2026"
     },
     {
-      "id": "kyle-kirkwood-seals-career-best-indycar-season-with-laguna-seca-runner-up-2",
+      "id": "kyle-kirkwood-seals-career-best-indycar-season-with-laguna-seca-runner-up-3",
       "title": "Kyle Kirkwood seals career-best IndyCar season with Laguna Seca runner-up",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/indycar/news/kyle-kirkwood-seals-career-best-indycar-season-with-laguna-seca-runner-up/10853234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabel": "IndyCar",
-      "publishedLabel": "Sep 6, 2026"
-    },
-    {
-      "id": "final-2026-indycar-championship-standings-after-laguna-seca-3",
-      "title": "Final 2026 IndyCar championship standings after Laguna Seca",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/indycar/news/final-2026-indycar-championship-standings-after-laguna-seca/10853189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-INDYCAR&utm_term=News&utm_content=www",
       "series": [
         "indycar"
       ],
