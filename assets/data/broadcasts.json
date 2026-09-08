@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:27:19.706Z",
+  "generatedAt": "2026-09-08T19:09:54.441Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -94,10 +94,10 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "Red Bull Drift Masters Poland Grande Finale - Round 7 - Top16",
+      "title": "Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 2",
       "channel": "Red Bull Motorsports",
-      "videoId": "iKmZNLDU7c4",
-      "url": "https://www.youtube.com/watch?v=iKmZNLDU7c4",
+      "videoId": "g1K1RFQ3lb8",
+      "url": "https://www.youtube.com/watch?v=g1K1RFQ3lb8",
       "series": [
         "other"
       ],
@@ -109,10 +109,40 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "Red Bull Drift Masters Poland - Round 7 - Top32",
+      "title": "Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 1",
       "channel": "Red Bull Motorsports",
-      "videoId": "4zgRboUKXdE",
-      "url": "https://www.youtube.com/watch?v=4zgRboUKXdE",
+      "videoId": "eVJxpGXw_5Y",
+      "url": "https://www.youtube.com/watch?v=eVJxpGXw_5Y",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🇮🇳 Max vs 100 Hindi Stream",
+      "channel": "Red Bull Motorsports",
+      "videoId": "npaRYhDX3Eo",
+      "url": "https://www.youtube.com/watch?v=npaRYhDX3Eo",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Red Bull Drift Masters Poland Grande Finale - Round 7 - Top16",
+      "channel": "Red Bull Motorsports",
+      "videoId": "iKmZNLDU7c4",
+      "url": "https://www.youtube.com/watch?v=iKmZNLDU7c4",
       "series": [
         "other"
       ],
