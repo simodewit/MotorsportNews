@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T19:30:28.053Z",
+  "generatedAt": "2026-09-08T12:27:19.706Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,15 +49,15 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "2026 NTT INDYCAR SERIES Full Race | Mission Foods Grand Prix of Monterey",
-      "channel": "NTT INDYCAR SERIES",
-      "videoId": "vbmNvRGLZFs",
-      "url": "https://www.youtube.com/watch?v=vbmNvRGLZFs",
+      "title": "2007 San Marino GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "tF9Cw_J5OZ0",
+      "url": "https://www.youtube.com/watch?v=tF9Cw_J5OZ0",
       "series": [
-        "indycar"
+        "motogp"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "MotoGP"
       ]
     },
     {
