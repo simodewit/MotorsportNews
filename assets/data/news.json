@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T02:30:13.716Z",
+  "generatedAt": "2026-09-08T10:24:14.080Z",
   "sources": [
     {
       "name": "Motorsport.com RSS",
@@ -42,15 +42,15 @@
   ],
   "featured": [
     {
-      "id": "isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns-0",
-      "title": "Isack Hadjar to sit out third F1 race in Madrid as Yuki Tsunoda returns",
+      "id": "ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either-0",
+      "title": "Ferrari’s ADUO 2 upgrade is no “game changer” for Haas either",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
       "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 7, 2026"
+      "publishedLabel": "Sep 8, 2026"
     },
     {
       "id": "colton-hertas-2026-season-goes-from-bad-to-worse-two-offs-one-breakdown-at-monza-0",
@@ -75,20 +75,42 @@
       "publishedLabel": "Aug 25, 2026"
     },
     {
-      "id": "ai-ogura-to-undergo-radiological-check-to-assess-misano-motogp-return-0",
-      "title": "Ai Ogura to undergo radiological check to assess Misano MotoGP return",
+      "id": "motogp-explains-why-racing-at-madring-is-not-in-its-plans-0",
+      "title": "MotoGP explains why racing at Madring is not in its plans",
       "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/ai-ogura-set-for-scan-to-assess-misano-motogp-return/10853512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "url": "https://www.motorsport.com/motogp/news/motogp-explains-why-racing-at-madring-is-not-in-its-plans/10853522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
       "series": [
         "motogp"
       ],
       "seriesLabel": "MotoGP",
-      "publishedLabel": "Sep 7, 2026"
+      "publishedLabel": "Sep 8, 2026"
     }
   ],
   "articles": [
     {
-      "id": "isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns-0",
+      "id": "ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either-0",
+      "title": "Ferrari’s ADUO 2 upgrade is no “game changer” for Haas either",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 8, 2026"
+    },
+    {
+      "id": "juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza-1",
+      "title": "Juan Pablo Montoya: Mercedes should have double-stacked George Russell and Kimi Antonelli at Monza",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza/10853452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "series": [
+        "f1"
+      ],
+      "seriesLabel": "Formula 1",
+      "publishedLabel": "Sep 8, 2026"
+    },
+    {
+      "id": "isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns-2",
       "title": "Isack Hadjar to sit out third F1 race in Madrid as Yuki Tsunoda returns",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -99,32 +121,10 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp-1",
+      "id": "lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp-3",
       "title": "Lando Norris: Oscar Piastri move complaint made \"in the heat of the moment\" in Italian GP",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/f1/news/lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp/10853505/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 7, 2026"
-    },
-    {
-      "id": "ex-f1-boss-bernie-ecclestone-reportedly-arrested-for-travelling-with-shotgun-in-portugal-2",
-      "title": "Ex-F1 boss Bernie Ecclestone reportedly arrested for travelling with shotgun in Portugal",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/ex-f1-boss-bernie-ecclestone-reportedly-arrested-for-travelling-with-shotgun-in-portugal/10853499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "series": [
-        "f1"
-      ],
-      "seriesLabel": "Formula 1",
-      "publishedLabel": "Sep 7, 2026"
-    },
-    {
-      "id": "kimi-antonelli-sends-emotional-message-to-fans-after-indescribable-italian-gp-victory-3",
-      "title": "Kimi Antonelli sends emotional message to fans after \"indescribable\" Italian GP victory",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-sends-emotional-message-to-fans-after-indescribable-italian-gp-victory/10853461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "series": [
         "f1"
       ],
@@ -220,7 +220,18 @@
       "publishedLabel": "Dec 15, 2024"
     },
     {
-      "id": "ai-ogura-to-undergo-radiological-check-to-assess-misano-motogp-return-0",
+      "id": "motogp-explains-why-racing-at-madring-is-not-in-its-plans-0",
+      "title": "MotoGP explains why racing at Madring is not in its plans",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/motogp/news/motogp-explains-why-racing-at-madring-is-not-in-its-plans/10853522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabel": "MotoGP",
+      "publishedLabel": "Sep 8, 2026"
+    },
+    {
+      "id": "ai-ogura-to-undergo-radiological-check-to-assess-misano-motogp-return-1",
       "title": "Ai Ogura to undergo radiological check to assess Misano MotoGP return",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ai-ogura-set-for-scan-to-assess-misano-motogp-return/10853512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -231,7 +242,7 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "if-he-were-carlos-alcaraz-he-would-have-retired-from-tennis-says-marc-marquezs-doctor-1",
+      "id": "if-he-were-carlos-alcaraz-he-would-have-retired-from-tennis-says-marc-marquezs-doctor-2",
       "title": "'If he were Carlos Alcaraz, he would have retired from tennis,' says Marc Marquez's doctor",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/if-marquez-were-carlos-alcaraz-he-would-already-be-retired-from-tennis-his-doctor-admits/10853383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -242,7 +253,7 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "adelaide-will-be-one-of-the-safest-circuits-on-the-calendar-says-motogps-deputy-ceo-2",
+      "id": "adelaide-will-be-one-of-the-safest-circuits-on-the-calendar-says-motogps-deputy-ceo-3",
       "title": "Adelaide will be “one of the safest circuits on the calendar”, says MotoGP's deputy CEO",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/motogp/news/ezpeleta-says-adelaide-will-be-one-of-the-safest-circuits-on-the-motogp-calendar/10852859/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
@@ -251,17 +262,6 @@
       ],
       "seriesLabel": "MotoGP",
       "publishedLabel": "Sep 6, 2026"
-    },
-    {
-      "id": "fabio-di-giannantonio-has-major-chances-of-solving-recent-motogp-issues-in-misano-3",
-      "title": "Fabio di Giannantonio has “major chances” of solving recent MotoGP issues in Misano",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/motogp/news/fabio-di-giannantonio-has-major-chances-of-solving-recent-motogp-issues-in-misano/10852468/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-MOTOGP&utm_term=News&utm_content=www",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabel": "MotoGP",
-      "publishedLabel": "Sep 5, 2026"
     },
     {
       "id": "dennis-hauger-caps-rookie-title-run-with-hopes-on-2027-indycar-return-0",
@@ -308,7 +308,18 @@
       "publishedLabel": "Sep 6, 2026"
     },
     {
-      "id": "ferrari-didnt-expect-50-to-win-austin-wec-as-51-pitstop-issue-revealed-0",
+      "id": "how-toyota-and-bmws-austin-miseries-have-blown-2026-wec-title-fight-wide-open-0",
+      "title": "How Toyota and BMW’s Austin miseries have blown 2026 WEC title fight wide open",
+      "source": "Motorsport.com RSS",
+      "url": "https://www.motorsport.com/wec/news/how-toyota-and-bmw-austin-miseries-have-blown-2026-wec-title-fight-wide-open/10853484/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
+      "series": [
+        "wec"
+      ],
+      "seriesLabel": "WEC",
+      "publishedLabel": "Sep 8, 2026"
+    },
+    {
+      "id": "ferrari-didnt-expect-50-to-win-austin-wec-as-51-pitstop-issue-revealed-1",
       "title": "Ferrari “didn’t expect” #50 to win Austin WEC as #51 pitstop issue revealed",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-ferrari-makes-its-luck-at-cota-proof-we-never-give-up/10853495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -319,7 +330,7 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "toyota-admits-late-wec-austin-heartbreak-tough-to-take-as-victory-slips-away-1",
+      "id": "toyota-admits-late-wec-austin-heartbreak-tough-to-take-as-victory-slips-away-2",
       "title": "Toyota admits late WEC Austin heartbreak “tough to take” as victory slips away",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/toyota-admits-late-wec-austin-heartbreak-tough-to-take-as-victory-slips-away/10853426/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -330,7 +341,7 @@
       "publishedLabel": "Sep 7, 2026"
     },
     {
-      "id": "ferrari-wins-wec-austin-after-late-toyota-hydraulic-failure-2",
+      "id": "ferrari-wins-wec-austin-after-late-toyota-hydraulic-failure-3",
       "title": "Ferrari wins WEC Austin after late Toyota hydraulic failure",
       "source": "Motorsport.com RSS",
       "url": "https://www.motorsport.com/wec/news/wec-austin-ferrari-takes-surprise-win-after-late-heartbreak-for-toyota/10853245/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
@@ -339,17 +350,6 @@
       ],
       "seriesLabel": "WEC",
       "publishedLabel": "Sep 7, 2026"
-    },
-    {
-      "id": "ferrari-thinking-race-by-race-about-wec-title-fight-after-scoring-equal-pole-in-austin-3",
-      "title": "Ferrari “thinking race by race\" about WEC title fight after scoring ‘equal’ pole in Austin",
-      "source": "Motorsport.com RSS",
-      "url": "https://www.motorsport.com/wec/news/wec-ferrari-on-level-terms-in-hyperpole-comeback-and-overtaking-will-be-race-by-race/10852871/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-WEC&utm_term=News&utm_content=www",
-      "series": [
-        "wec"
-      ],
-      "seriesLabel": "WEC",
-      "publishedLabel": "Sep 6, 2026"
     }
   ]
 }
