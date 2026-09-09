@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T19:13:00.773Z",
+  "generatedAt": "2026-09-09T12:40:10.304Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -65,7 +65,7 @@
     },
     {
       "videoId": "NibmkuSoanI",
-      "title": "Antonelli's Heroic Home Win & The Biggest Monza Moments | Palmer's Analysis",
+      "title": "Antonelli's Heroic Home Win & The Biggest Monza Moments | F1 TV's Palmer's Analysis",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -108,17 +108,6 @@
       ]
     },
     {
-      "videoId": "R5SZbVMhqwE",
-      "title": "Misano's most ICONIC MotoGP moments 🌶️",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
       "videoId": "tF9Cw_J5OZ0",
       "title": "2007 San Marino GP | MotoGP™ Full Race",
       "channel": "MotoGP",
@@ -130,8 +119,8 @@
       ]
     },
     {
-      "videoId": "mP40JTSbr5I",
-      "title": "Di Giannantonio: “That’s When I Decided I Wanted To Be A Rider” 🐺 | Helmets Off",
+      "videoId": "ouJLREtWxi4",
+      "title": "Luca Marini: “Rossi Gave Me A Lot Of Inspiration” 💡 | Helmets Off",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,8 +130,19 @@
       ]
     },
     {
-      "videoId": "tFlqjUSQnGk",
-      "title": "Rossi & Lorenzo's heated 2016 press confence 🗣️🔥",
+      "videoId": "A9VXCjz_kn0",
+      "title": "Explained: How riders use 'apnoea' to unlock performance 😮‍💨 | MotoGP™ Workshop",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "R5SZbVMhqwE",
+      "title": "Misano's most ICONIC MotoGP moments 🌶️",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,28 @@
       ]
     },
     {
+      "videoId": "VWlPimomkhQ",
+      "title": "Every Race of the 2026 NTT INDYCAR SERIES Season",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "1ReZ8fql3M0",
+      "title": "Best Onboard Moments | 2026 INDYCAR at Laguna Seca",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "vbmNvRGLZFs",
       "title": "2026 NTT INDYCAR SERIES Full Race | Mission Foods Grand Prix of Monterey",
       "channel": "NTT INDYCAR SERIES",
@@ -209,28 +231,6 @@
     {
       "videoId": "Bcgmw8mDiqk",
       "title": "Fast Laps | A Look Back at the 2026 INDYCAR Season",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "jqBmS71fwVQ",
-      "title": "Chip Ganassi could see it in Alex Palou's eyes 🔥 #indycar #alexpalou #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "f6_ye8I6ro0",
-      "title": "A magical year culminated in a championship 👊 #indycar #alexpalou #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "Lg8LUmmm5ck",
+      "title": "how drifting is judged: your briefing before the red bull drift masters 2026 grand finale 👀",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "g1K1RFQ3lb8",
       "title": "Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 2",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "npaRYhDX3Eo",
       "title": "🇮🇳 Max vs 100 Hindi Stream",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "LWwBQtD9SLQ",
-      "title": "the stop that drops you at the grid 😏",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
