@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:39:02.356Z",
+  "generatedAt": "2026-09-10T18:54:09.454Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "UkpPYktKo54",
+      "title": "Drivers Look Ahead to a Weekend at a New Circuit! | 2026 Spanish Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "ctBeuuoBSPc",
+      "title": "Weekend Warm-Up | 2026 Spanish Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "X6Ck7g7qi4Y",
       "title": "The Pure JOY Of A Home Race Win! 🥹",
       "channel": "FORMULA 1",
@@ -86,30 +108,8 @@
       ]
     },
     {
-      "videoId": "t5QJOAtIldk",
-      "title": "La Monumental 🤩",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "jRoV3U2LwRo",
-      "title": "Breaking Down Our Newest Circuit, The MADRING 😍",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "hF1UzoGqXF8",
-      "title": "Bezzecchi expands about his F1 weekend in Monza and his friendship with Kimi!",
+      "videoId": "PYEI5fSNDZo",
+      "title": "Gresini pays tribute to the much missed Marco Simoncelli with a special livery ❤️",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "mijqQWjH4G0",
-      "title": "Admin owed you a part 2 👆🏀",
+      "videoId": "jqXvdo_S-0U",
+      "title": "When the Imposter game goes utterly wrong 🎥😂",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "kJ-wnZJGYqU",
-      "title": "The 3x3 basketball show continues at Misano!",
+      "videoId": "KptEG7GtswU",
+      "title": "Riders react on Bulega's MotoGP move ♟️",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,14 +141,25 @@
       ]
     },
     {
-      "videoId": "XY3IeEh-Ohw",
-      "title": "MotoGP riders mix it up with FIBA 3x3 players in a unique showcase! ⛹️",
+      "videoId": "rv4iwSN_O6A",
+      "title": "Pecco's Fantasy Gold rider picks 🔮",
       "channel": "MotoGP",
       "series": [
         "motogp"
       ],
       "seriesLabels": [
         "MotoGP"
+      ]
+    },
+    {
+      "videoId": "_aEIZu4CceY",
+      "title": "INTENSE Race Start at COTA 🙌",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
       ]
     },
     {
@@ -185,14 +196,25 @@
       ]
     },
     {
-      "videoId": "6YSzXfzhUvQ",
-      "title": "Extended Highlights | 6 Hours of COTA 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "zUkWb0WFiVM",
+      "title": "Music to our ears 😌 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "oq8x0F_X5C8",
+      "title": "How INDYCAR Is Testing the IR-28 | Java with James Hinchcliffe",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -218,30 +240,8 @@
       ]
     },
     {
-      "videoId": "lVOTQ4ntpmQ",
-      "title": "One step closer to the next era. #indycar #IR28 #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "1ReZ8fql3M0",
-      "title": "Best Onboard Moments | 2026 INDYCAR at Laguna Seca",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "MueWgAOH1dw",
-      "title": "SS11 Stage Highlights | WRC Rally Chile Biobío 2024",
+      "videoId": "r1i6xhFXPcc",
+      "title": "🔴 Opening LIVE | WRC Rally Chile Biobío 2026 🇨🇱",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -251,8 +251,8 @@
       ]
     },
     {
-      "videoId": "RVD81nVXurM",
-      "title": "FULL ONBOARD - SS4 Suninen/Markkula | WRC Rally Chile Biobío 2023",
+      "videoId": "54LqwIGuNJg",
+      "title": "EP just checking where the limits are 👀",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
@@ -262,8 +262,8 @@
       ]
     },
     {
-      "videoId": "H50VmbfhG5E",
-      "title": "Everything You Need To Know For WRC Rally Chile Biobío 2026",
+      "videoId": "VNtwxWRT09E",
+      "title": "🔴 Shakedown LIVE |  WRC Rally Chile Biobío 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
