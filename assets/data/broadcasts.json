@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:33:14.681Z",
+  "generatedAt": "2026-09-10T18:51:17.319Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,25 +49,10 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！WRC Rally Chile Biobío 2026",
+      "title": "🔴 Opening LIVE | WRC Rally Chile Biobío 2026 🇨🇱",
       "channel": "FIA World Rally Championship",
-      "videoId": "aP9zXmQCrbA",
-      "url": "https://www.youtube.com/watch?v=aP9zXmQCrbA",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 Shakedown LIVE |  WRC Rally Chile Biobío 2026",
-      "channel": "FIA World Rally Championship",
-      "videoId": "VNtwxWRT09E",
-      "url": "https://www.youtube.com/watch?v=VNtwxWRT09E",
+      "videoId": "r1i6xhFXPcc",
+      "url": "https://www.youtube.com/watch?v=r1i6xhFXPcc",
       "series": [
         "rally"
       ],
