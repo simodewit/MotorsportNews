@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:51:17.319Z",
+  "generatedAt": "2026-09-11T12:28:36.415Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -49,22 +49,7 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "🔴 Opening LIVE | WRC Rally Chile Biobío 2026 🇨🇱",
-      "channel": "FIA World Rally Championship",
-      "videoId": "r1i6xhFXPcc",
-      "url": "https://www.youtube.com/watch?v=r1i6xhFXPcc",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 2",
+      "title": "🇪🇸 Spanish Language - Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 2",
       "channel": "Red Bull Motorsports",
       "videoId": "g1K1RFQ3lb8",
       "url": "https://www.youtube.com/watch?v=g1K1RFQ3lb8",
@@ -79,7 +64,7 @@
       "platform": "youtube",
       "platformLabel": "YouTube",
       "statusLabel": "Live now",
-      "title": "Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 1",
+      "title": "🇪🇸 Spanish Language - Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 1",
       "channel": "Red Bull Motorsports",
       "videoId": "eVJxpGXw_5Y",
       "url": "https://www.youtube.com/watch?v=eVJxpGXw_5Y",
