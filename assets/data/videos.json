@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:31:45.370Z",
+  "generatedAt": "2026-09-11T18:56:42.841Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "JajIEHuMmxU",
-      "title": "Who can get the closest to the MADRING track outline? 🖌️ Not Alex 😅  #F1 #Formula1 #SpanishGP",
+      "videoId": "fRgxO2rewBQ",
+      "title": "The Lap Records Fall On The First Day In Madrid! 😮‍💨",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "7YTDIoUIHBg",
-      "title": "Just a little tribute to Ollie Bearman at MADRING 🐻😅 #F1 #Formula1 #SpanishGP",
+      "videoId": "DyKH1qMZEpY",
+      "title": "FP2 Highlights | 2026 Spanish Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "UkpPYktKo54",
-      "title": "Drivers Look Ahead to a Weekend at a New Circuit! | 2026 Spanish Grand Prix",
+      "videoId": "94kWNaHd56Q",
+      "title": "La Monumental In All Its Glory 😍",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "ctBeuuoBSPc",
-      "title": "Weekend Warm-Up | 2026 Spanish Grand Prix",
+      "videoId": "aiAr7EPPl4U",
+      "title": "FP1 Highlights | 2026 Spanish Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "videoId": "as_ceVbW5CQ",
-      "title": "Sparks from Luca Marini 💥",
+      "videoId": "a2G0BmSL2pk",
+      "title": "What We Learned on Friday ⚔️ | 2026 San Marino GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "C03e66nZuXg",
-      "title": "Pure MotoGP bike acceleration from 0 to over 200km/h ⚡",
+      "videoId": "rijpaxwwMhU",
+      "title": "Bez vs Marc: who's the favourite? 🔥😏",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "VHVLxfJmNzY",
-      "title": "Marc Marquez steals the show with his appearance in Inside The Paddock 🤩| 2026 San Marino GP",
+      "videoId": "yawlJ2eY0Zs",
+      "title": "Pecco struggles on Friday at home! 😞",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,14 +141,25 @@
       ]
     },
     {
-      "videoId": "bV7GvSZpnww",
-      "title": "Top 3 comparison out of Turn 6 👀",
+      "videoId": "6QXbvjR7cLU",
+      "title": "Bezzecchi pushes through the pain to top Practice at Misano 💪",
       "channel": "MotoGP",
       "series": [
         "motogp"
       ],
       "seriesLabels": [
         "MotoGP"
+      ]
+    },
+    {
+      "videoId": "m9moiAbns_Y",
+      "title": "10 Most Dramatic Moments | 6 Hours of COTA 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
       ]
     },
     {
@@ -185,14 +196,14 @@
       ]
     },
     {
-      "videoId": "WxZo8KzXyXs",
-      "title": "Race Highlights | 6 Hours of COTA 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "e-NfH612zf4",
+      "title": "We're cooking up an unforgettable 2028 😮‍💨 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
@@ -229,14 +240,14 @@
       ]
     },
     {
-      "videoId": "oq8x0F_X5C8",
-      "title": "The Car That Will Change INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "RFGxL90L_vM",
+      "title": "No room for error 😫",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -273,14 +284,14 @@
       ]
     },
     {
-      "videoId": "aP9zXmQCrbA",
-      "title": "🔴 シェイクダウン ライブ！WRC Rally Chile Biobío 2026",
-      "channel": "FIA World Rally Championship",
+      "videoId": "vPqT5xl9dIo",
+      "title": "the season that refused to calm down. now it peaks. warsaw grand finale, this weekend 😮‍💨",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "5cvbVWUSAqU",
       "title": "going for 1000% completion 😅 what should we do next?",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "Lg8LUmmm5ck",
-      "title": "how drifting is judged: your briefing before the red bull drift masters 2026 grand finale 👀",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
