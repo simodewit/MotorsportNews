@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:56:42.841Z",
+  "generatedAt": "2026-09-12T11:55:49.342Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "fRgxO2rewBQ",
-      "title": "The Lap Records Fall On The First Day In Madrid! 😮‍💨",
+      "videoId": "4leOaoVxrsg",
+      "title": "Lewis Crashes In Final Practice! 😱",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "DyKH1qMZEpY",
-      "title": "FP2 Highlights | 2026 Spanish Grand Prix",
+      "videoId": "SR46ccf2aZE",
+      "title": "F3 Sprint Race Highlights | 2026 Spanish Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "94kWNaHd56Q",
-      "title": "La Monumental In All Its Glory 😍",
+      "videoId": "fX5TCiyVlUs",
+      "title": "David Beckham Is Here! 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "aiAr7EPPl4U",
-      "title": "FP1 Highlights | 2026 Spanish Grand Prix",
+      "videoId": "ER7QfhcF5Gg",
+      "title": "All the Madrid Updates! | F1TV Tech Talk",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "videoId": "a2G0BmSL2pk",
-      "title": "What We Learned on Friday ⚔️ | 2026 San Marino GP",
+      "videoId": "t41roXz_vRQ",
+      "title": "Johann Zarco rides slow on the line, disturbing Marco Bezzecchi in Q2 ⚠️",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "rijpaxwwMhU",
-      "title": "Bez vs Marc: who's the favourite? 🔥😏",
+      "videoId": "KnO8BluLYmE",
+      "title": "Pecco vents frustration after taking his career-worst qualifying position at Misano, P14! 😡",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "yawlJ2eY0Zs",
-      "title": "Pecco struggles on Friday at home! 😞",
+      "videoId": "WjFNWZFRTlw",
+      "title": "MotoGP Legend Induction: Loris Capirossi",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,8 +141,8 @@
       ]
     },
     {
-      "videoId": "6QXbvjR7cLU",
-      "title": "Bezzecchi pushes through the pain to top Practice at Misano 💪",
+      "videoId": "qQG3bB6wKj4",
+      "title": "“Bye, pole!” 👋 Marc Marquez congratulates Marco Bezzecchi!",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,28 @@
       ]
     },
     {
+      "videoId": "jhUzeZfM6UE",
+      "title": "The Tortoise and the Hare is the perfect way to describe tire compounds 🐢🐇 #indycar #eli5 #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "NLGiQCoguw0",
+      "title": "2026 NTT INDYCAR SERIES | Full Season Review",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "e-NfH612zf4",
       "title": "We're cooking up an unforgettable 2028 😮‍💨 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
@@ -208,7 +230,7 @@
     },
     {
       "videoId": "g0wTda5icC0",
-      "title": "Inside the FIRST Speedway Test of INDYCAR’s 2028 Race Car",
+      "title": "First Look at INDYCAR’s 2028 Race Car on the Indy Oval",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -218,25 +240,25 @@
       ]
     },
     {
-      "videoId": "wLM3V29ZdUo",
-      "title": "The future looks pretty good from here 👀 #indycar",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "M0MGo1ELclI",
+      "title": "WRC2 Day 1 Highlights | WRC Rally Chile Biobío 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
-      "videoId": "zUkWb0WFiVM",
-      "title": "Music to our ears 😌 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "fqCMdSDMGGY",
+      "title": "Day 1 Highlights | WRC Rally Chile Rally Chile Biobío 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -253,28 +275,6 @@
     {
       "videoId": "r1i6xhFXPcc",
       "title": "🔴 Opening LIVE | WRC Rally Chile Biobío 2026 🇨🇱",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "54LqwIGuNJg",
-      "title": "EP just checking where the limits are 👀",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "VNtwxWRT09E",
-      "title": "🔴 Shakedown LIVE |  WRC Rally Chile Biobío 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
