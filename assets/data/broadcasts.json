@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T11:50:41.630Z",
+  "generatedAt": "2026-09-12T18:00:06.882Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,51 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🇪🇸 Spanish Language - Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 2",
-      "channel": "Red Bull Motorsports",
-      "videoId": "g1K1RFQ3lb8",
-      "url": "https://www.youtube.com/watch?v=g1K1RFQ3lb8",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🇪🇸 Spanish Language - Red Bull MotoGP Rookies Cup – Ronda 6, Misano, SMR – Carrera 1",
-      "channel": "Red Bull Motorsports",
-      "videoId": "eVJxpGXw_5Y",
-      "url": "https://www.youtube.com/watch?v=eVJxpGXw_5Y",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🇮🇳 Max vs 100 Hindi Stream",
-      "channel": "Red Bull Motorsports",
-      "videoId": "npaRYhDX3Eo",
-      "url": "https://www.youtube.com/watch?v=npaRYhDX3Eo",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
