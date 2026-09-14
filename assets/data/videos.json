@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T14:40:21.508Z",
+  "generatedAt": "2026-09-14T20:07:11.685Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "f_jW13zdBH0",
+      "title": "Kimi wins, Lando loses out, but could Max have won? | Spanish GP Review | F1 Nation Podcast",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "-pVhaRZrgnc",
       "title": "Radio Rewind | 2026 Spanish Grand Prix | Lenovo",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "ptkSrUliEh0",
       "title": "Drivers React After The Race | 2026 Spanish Grand Prix",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "nfFhpfTkLKM",
-      "title": "LIVE: Spanish Grand Prix Post-Race Show",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "HTIVamdB7C4",
+      "title": "5 Dramatic Cota 2026 Moments 🇺🇸",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "m9moiAbns_Y",
       "title": "10 Most Dramatic Moments | 6 Hours of COTA 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
@@ -185,19 +196,19 @@
       ]
     },
     {
-      "videoId": "o56VkRPay_c",
-      "title": "LMGT3 Pack Unleashed at COTA Race Start | 6 Hours of COTA 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "BrO-ig23jiI",
+      "title": "Every Race of the 2026 NTT INDYCAR SERIES Season",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
-      "videoId": "BrO-ig23jiI",
-      "title": "Every Race of the 2026 NTT INDYCAR SERIES Season",
+      "videoId": "kjPhKPMw9xw",
+      "title": "Alex Palou Was UNSTOPPABLE in 2026 | INDYCAR",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -220,17 +231,6 @@
     {
       "videoId": "D1cq2VApD-k",
       "title": "No days off for the 5x champ 😮‍💨 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "jhUzeZfM6UE",
-      "title": "The Tortoise and the Hare is the perfect way to describe tire compounds 🐢🐇 #indycar #eli5 #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "BwSutFpsEvs",
+      "title": "Max Verstappen vs 100 Amateur GoKarters LIVE",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "x9S7Me55UIY",
       "title": "Red Bull MotoGP Rookies Cup - Misano: Race 12",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "4zgRboUKXdE",
       "title": "Red Bull Drift Masters Poland - Round 7 - Top32",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "iKmZNLDU7c4",
-      "title": "Red Bull Drift Masters Poland Grande Finale - Round 7 - Top16",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
