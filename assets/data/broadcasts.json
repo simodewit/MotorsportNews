@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T02:42:11.531Z",
+  "generatedAt": "2026-09-14T14:36:13.711Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Every Race of the 2026 NTT INDYCAR SERIES Season",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "BrO-ig23jiI",
+      "url": "https://www.youtube.com/watch?v=BrO-ig23jiI",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
