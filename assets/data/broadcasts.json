@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:01:09.624Z",
+  "generatedAt": "2026-09-15T19:23:18.459Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "2018 Austrian GP | MotoGP™ Full Race",
+      "channel": "MotoGP",
+      "videoId": "l8XFSAZVi_c",
+      "url": "https://www.youtube.com/watch?v=l8XFSAZVi_c",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
