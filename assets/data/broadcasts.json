@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T20:05:23.944Z",
+  "generatedAt": "2026-09-15T13:01:09.624Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🇪🇸 Red Bull MotoGP Rookies Cup – Ronda 7, Spielberg, AUT – Carrera 2 (ESP)",
+      "channel": "Red Bull Motorsports",
+      "videoId": "9GDz0J6D77g",
+      "url": "https://www.youtube.com/watch?v=9GDz0J6D77g",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🇪🇸 Red Bull MotoGP Rookies Cup – Ronda 7, Spielberg, AUT – Carrera 1 (ESP)",
+      "channel": "Red Bull Motorsports",
+      "videoId": "ZfmmUx7j7sU",
+      "url": "https://www.youtube.com/watch?v=ZfmmUx7j7sU",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "youtube",
       "platformLabel": "YouTube",
