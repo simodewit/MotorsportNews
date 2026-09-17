@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:54:54.348Z",
+  "generatedAt": "2026-09-17T19:26:29.541Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,51 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Upcoming",
+      "title": "2026 NTT INDYCAR SERIES Championship Celebration | Full Show",
+      "channel": "NTT INDYCAR SERIES",
+      "videoId": "24OMNUjb8G0",
+      "url": "https://www.youtube.com/watch?v=24OMNUjb8G0",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "Max Verstappen vs 100 Amateur GoKarters LIVE",
+      "channel": "Red Bull Motorsports",
+      "videoId": "BwSutFpsEvs",
+      "url": "https://www.youtube.com/watch?v=BwSutFpsEvs",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🇮🇳 Max Verstappen vs 100 Amateurs: Go - Kart Race Hindi Stream",
+      "channel": "Red Bull Motorsports",
+      "videoId": "npaRYhDX3Eo",
+      "url": "https://www.youtube.com/watch?v=npaRYhDX3Eo",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
