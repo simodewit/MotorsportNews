@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:38:53.115Z",
+  "generatedAt": "2026-09-18T18:50:08.099Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "HIo5j91yNFA",
+      "title": "Noah Schnapp's Epic Pirelli Hot Lap 🔥",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "GH1CGNYPlC4",
+      "title": "Kimi Antonelli Mic'd Up On Monza Podium 🎤🇮🇹",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "Dn3Z-JEZcVw",
       "title": "FIVE Different Grand Prix Winners In Europe This Season! 🏆",
       "channel": "FORMULA 1",
@@ -86,30 +108,8 @@
       ]
     },
     {
-      "videoId": "iraZ3tk9KY8",
-      "title": "Chasing The Dream | 2026 Spanish Grand Prix | F2 Behind The Scenes",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "oB49cRv5mI0",
-      "title": "Yuki Tsunoda: Racing For F1 Return | F1 Beyond The Grid Podcast",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "4h_OtNCoQ3w",
-      "title": "Drone crashes out! 💥",
+      "videoId": "QLhmyeRno7I",
+      "title": "Pedro is in the title fight according to Marc 🍿",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "_9JFgmpeF5I",
-      "title": "Moreira and Tardozzi short and sweet FP1 analysis at Inside The Paddock 🎤 | 2026 Austrian GP",
+      "videoId": "WUL5QN0WpzM",
+      "title": "What We Learned on Friday 🦈 | 2026 Austrian GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "aKE-DzGN7Yk",
-      "title": "A jaw-dropping T9 powerslide from Marc Marquez 🤩",
+      "videoId": "8i0HhZKneVs",
+      "title": "One year apart, two seriously impressive saves from Valentín Perrone and Eddie O’Shea 👏",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,14 +141,25 @@
       ]
     },
     {
-      "videoId": "tGbS6tqOQVI",
-      "title": "Aero trouble for Alex Marquez as a piece comes loose on the Ducati 😱",
+      "videoId": "lhZeY6iIqU4",
+      "title": "Tardozzi's reaction at Marc's sparks while leaning at 63º 😲 ✨",
       "channel": "MotoGP",
       "series": [
         "motogp"
       ],
       "seriesLabels": [
         "MotoGP"
+      ]
+    },
+    {
+      "videoId": "gZKh7GRY3dI",
+      "title": "Best Battles & Overtakes | 6 Hours of COTA 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
       ]
     },
     {
@@ -176,17 +187,6 @@
     {
       "videoId": "FGRaK2hlkgY",
       "title": "Best Team Radio Moments | 6 Hours of COTA 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "HTIVamdB7C4",
-      "title": "5 Dramatic Cota 2026 Moments 🇺🇸",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "Y46Wrbl5Zv8",
+      "title": "max vs 100, reviewed by the 1 😏",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "D06z8eUKvxM",
       "title": "third contact patch: the elbow 😮‍💨",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "BwSutFpsEvs",
       "title": "Max Verstappen vs 100 Amateur GoKarters LIVE",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "tZeDzchCp2A",
-      "title": "debriefing a not so normal day at the office apparently 😅",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
