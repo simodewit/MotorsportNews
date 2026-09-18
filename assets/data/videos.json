@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:29:28.796Z",
+  "generatedAt": "2026-09-18T12:38:53.115Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "videoId": "7JS-FDU96DI",
-      "title": "Which rider said this? 🗣️",
+      "videoId": "4h_OtNCoQ3w",
+      "title": "Drone crashes out! 💥",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "3FwgLHll714",
-      "title": "Moreira's Golden Rider picks 🔮 🇦🇹",
+      "videoId": "_9JFgmpeF5I",
+      "title": "Moreira and Tardozzi short and sweet FP1 analysis at Inside The Paddock 🎤 | 2026 Austrian GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "SsyAgVkU18A",
-      "title": "The Preview of the 2026 Austrian GP",
+      "videoId": "aKE-DzGN7Yk",
+      "title": "A jaw-dropping T9 powerslide from Marc Marquez 🤩",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,8 +141,8 @@
       ]
     },
     {
-      "videoId": "85_yATtBI0E",
-      "title": "Senna Agius on his MotoGP move ahead of 2027 🇦🇺",
+      "videoId": "tGbS6tqOQVI",
+      "title": "Aero trouble for Alex Marquez as a piece comes loose on the Ducati 😱",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "lRPKimLafSw",
+      "title": "Explaining downforce requires using hand gestures 😂 #indycar #eli5 #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "24OMNUjb8G0",
       "title": "2026 NTT INDYCAR SERIES Championship Celebration | Full Show",
       "channel": "NTT INDYCAR SERIES",
@@ -220,17 +231,6 @@
     {
       "videoId": "E0S79zJf9qI",
       "title": "CRAZIEST Moments from the 2026 Season 🤯 | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "y0Tfc1MtEx8",
-      "title": "We will never get tired of this 🔥 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "D06z8eUKvxM",
+      "title": "third contact patch: the elbow 😮‍💨",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "cPzKx1eFFOs",
       "title": "max vs 100: open mic night at silverstone 😅 #Shorts #silverstone",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "tZeDzchCp2A",
       "title": "debriefing a not so normal day at the office apparently 😅",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "sqc6zw-6ja4",
-      "title": "Away they go to get chased by Max Verstappen 😮‍💨",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
