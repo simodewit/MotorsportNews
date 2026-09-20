@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T12:46:41.735Z",
+  "generatedAt": "2026-09-20T18:24:17.751Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "Max Verstappen vs 100 Amateur GoKarters LIVE",
-      "channel": "Red Bull Motorsports",
-      "videoId": "BwSutFpsEvs",
-      "url": "https://www.youtube.com/watch?v=BwSutFpsEvs",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
