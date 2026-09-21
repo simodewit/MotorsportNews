@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:34:53.670Z",
+  "generatedAt": "2026-09-21T09:36:50.837Z",
   "window": {
     "startDate": "2025-11-18"
   },
@@ -421,16 +421,18 @@
       ]
     },
     {
-      "id": "miami-international-autodrome-weekend-2026-05-02",
+      "id": "miami-international-autodrome-weekend-2026-05-01",
       "name": "Miami International Autodrome Weekend",
       "venue": "Miami International Autodrome",
-      "startDate": "2026-05-02",
+      "startDate": "2026-05-01",
       "endDate": "2026-05-03",
       "series": [
         {
           "id": "f2",
           "name": "Formula 2",
           "sessions": [
+            "Practice",
+            "Qualifying",
             "Sprint",
             "Race",
             "Feature Race"
@@ -439,37 +441,18 @@
       ]
     },
     {
-      "id": "6-hours-of-spa-francorchamps-hyperpole-hypercar-2026-05-07",
-      "name": "6 Hours of Spa Francorchamps Hyperpole - Hypercar",
-      "venue": "Circuit de Spa-Francorchamps",
-      "startDate": "2026-05-07",
-      "endDate": "2026-05-09",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Practice 2",
-            "Practice 3",
-            "Qualifying",
-            "Race"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "montreal-2026-05-23",
-      "name": "Montréal",
+      "id": "montreal-2026-05-22",
+      "name": "Montreal",
       "venue": "Circuit Gilles Villeneuve",
-      "startDate": "2026-05-23",
+      "startDate": "2026-05-22",
       "endDate": "2026-05-24",
       "series": [
         {
           "id": "f2",
           "name": "Formula 2",
           "sessions": [
+            "Practice",
+            "Qualifying",
             "Sprint",
             "Race",
             "Feature Race"
@@ -478,19 +461,20 @@
       ]
     },
     {
-      "id": "circuit-de-monaco-weekend-2026-06-06",
+      "id": "circuit-de-monaco-weekend-2026-06-04",
       "name": "Circuit de Monaco Weekend",
       "venue": "Circuit de Monaco",
-      "startDate": "2026-06-06",
+      "startDate": "2026-06-04",
       "endDate": "2026-06-07",
       "series": [
         {
           "id": "f2",
           "name": "Formula 2",
           "sessions": [
+            "Practice",
+            "Qualifying",
             "Sprint",
-            "Race",
-            "Feature Race"
+            "Race"
           ]
         },
         {
@@ -505,39 +489,12 @@
       ]
     },
     {
-      "id": "24-hours-of-le-mans-hyperpole-lmp2-lmgt3-2026-06-10",
-      "name": "24 Hours of Le Mans Hyperpole – LMP2 & LMGT3",
-      "venue": "Circuit de la Sarthe",
-      "startDate": "2026-06-10",
-      "endDate": "2026-06-10",
-      "series": [
-        {
-          "id": "wec",
-          "name": "WEC",
-          "sessions": [
-            "Practice 1",
-            "Practice",
-            "Qualifying"
-          ]
-        }
-      ]
-    },
-    {
       "id": "barcelona-2026-06-13",
-      "name": "Circuit de Barcelona-Catalunya Weekend",
+      "name": "Barcelona",
       "venue": "Circuit de Barcelona-Catalunya",
       "startDate": "2026-06-13",
       "endDate": "2026-06-14",
       "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race",
-            "Feature Race"
-          ]
-        },
         {
           "id": "f3",
           "name": "Formula 3",
@@ -551,20 +508,11 @@
     },
     {
       "id": "austrian-2026-06-27",
-      "name": "Red Bull Ring Weekend",
+      "name": "Austrian",
       "venue": "Red Bull Ring",
       "startDate": "2026-06-27",
       "endDate": "2026-06-28",
       "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race",
-            "Feature Race"
-          ]
-        },
         {
           "id": "f3",
           "name": "Formula 3",
@@ -583,14 +531,6 @@
       "startDate": "2026-07-04",
       "endDate": "2026-07-05",
       "series": [
-        {
-          "id": "f2",
-          "name": "Formula 2",
-          "sessions": [
-            "Sprint",
-            "Race"
-          ]
-        },
         {
           "id": "f3",
           "name": "Formula 3",
