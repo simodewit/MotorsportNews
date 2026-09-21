@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T14:47:25.197Z",
+  "generatedAt": "2026-09-21T20:13:59.335Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "gdCHVEdXxZc",
+      "title": "We're Back With A Triple Header! 😮‍💨",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "lOfWJB_3AhE",
       "title": "When Ricciardo and Verstappen Collided In Baku! 😱",
       "channel": "FORMULA 1",
@@ -88,17 +99,6 @@
     {
       "videoId": "FLGtgptuwqo",
       "title": "Unexpected Item in the Cockpit 🥴",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "y86ObeLPl34",
-      "title": "\"Nico, MOVE!\" 🤣",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "MM4E-T9PgQo",
+      "title": "Lotus Catches FIRE at Fuji 🔥",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "gZKh7GRY3dI",
       "title": "Best Battles & Overtakes | 6 Hours of COTA 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
@@ -185,14 +196,25 @@
       ]
     },
     {
-      "videoId": "FGRaK2hlkgY",
-      "title": "Best Team Radio Moments | 6 Hours of COTA 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "FT3lS0eEsew",
+      "title": "INDYCAR Drivers Reveal Their 2026 Season Superlatives",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "ulRFswVarEQ",
+      "title": "A crossover we love and needed 🏈🏎️  #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -218,25 +240,14 @@
       ]
     },
     {
-      "videoId": "dmHseZrKj8I",
-      "title": "Put Conor in, Rangers ⚾️ #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "Lu8L0X7KzSQ",
+      "title": "Maximum Attack 🫨",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "24OMNUjb8G0",
-      "title": "2026 NTT INDYCAR SERIES Championship Celebration | Full Show",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -273,14 +284,14 @@
       ]
     },
     {
-      "videoId": "HrDK4VeHPmA",
-      "title": "WRC2 Event Highlighs | WRC Rally Chile Biobío 2026",
-      "channel": "FIA World Rally Championship",
+      "videoId": "qEGOV5sz7zM",
+      "title": "Brad Binder 0 to 200 at misano. before you finish reading 😅 #Shorts #MotoGP #SanMarinoGP",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "9GDz0J6D77g",
       "title": "🇪🇸 Red Bull MotoGP Rookies Cup – Ronda 7, Spielberg, AUT – Carrera 2 (ESP)",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "vJQb8iWzTbI",
-      "title": "launch control, manual edition 😤",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
