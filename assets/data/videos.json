@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:13:59.335Z",
+  "generatedAt": "2026-09-22T13:01:51.640Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "BN7rBK4wXRs",
+      "title": "Threading The Needle 🪡",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "0bgEHZOG6Sk",
+      "title": "Kimi’s Transformation, Redemption for Oscar in Baku? | Azerbaijan GP Preview | F1 Nation Podcast",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "gdCHVEdXxZc",
       "title": "We're Back With A Triple Header! 😮‍💨",
       "channel": "FORMULA 1",
@@ -86,25 +108,14 @@
       ]
     },
     {
-      "videoId": "3YRVKNe_3_o",
-      "title": "Extended Highlights | 2018 Azerbaijan Grand Prix",
-      "channel": "FORMULA 1",
+      "videoId": "aGGfd_8h1X4",
+      "title": "Acosta wins the best overtake from the Austrian GP! ⚔️",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "FLGtgptuwqo",
-      "title": "Unexpected Item in the Cockpit 🥴",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
@@ -132,17 +143,6 @@
     {
       "videoId": "nmMAYsVK0_o",
       "title": "UNHEARD: \"F***, you really recovered!\" 👀",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "Zsh7ibDCGRM",
-      "title": "What a difference 24 hours makes 😎🏆",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -197,7 +197,7 @@
     },
     {
       "videoId": "FT3lS0eEsew",
-      "title": "INDYCAR Drivers Reveal Their 2026 Season Superlatives",
+      "title": "INDYCAR Drivers Get VERY Honest About Each Other",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "Q20lNA6H_yc",
+      "title": "pedro acosta's first MotoGP win. every step of it earned 😤 #Shorts #MotoGP #AustrianGP",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "qEGOV5sz7zM",
       "title": "Brad Binder 0 to 200 at misano. before you finish reading 😅 #Shorts #MotoGP #SanMarinoGP",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "jRxw570zrzI",
       "title": "Red Bull MotoGP Rookies Cup - Spielberg: Race 14",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "9GDz0J6D77g",
-      "title": "🇪🇸 Red Bull MotoGP Rookies Cup – Ronda 7, Spielberg, AUT – Carrera 2 (ESP)",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
