@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T13:01:51.640Z",
+  "generatedAt": "2026-09-22T19:31:00.872Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "IMOAB7kHFq4",
+      "title": "To The Wall! 😩",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "BN7rBK4wXRs",
       "title": "Threading The Needle 🪡",
       "channel": "FORMULA 1",
@@ -97,14 +108,25 @@
       ]
     },
     {
-      "videoId": "lOfWJB_3AhE",
-      "title": "When Ricciardo and Verstappen Collided In Baku! 😱",
-      "channel": "FORMULA 1",
+      "videoId": "X-ZM-smi8Mw",
+      "title": "In Indonesia, it's all about the fans! Don't miss the GP in Mandalika! 🇮🇩",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "ZGaptfkyLus",
+      "title": "Pedro Acosta's Shark Sunday 🦈🏆 | 2026 Austrian GP",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -130,25 +152,25 @@
       ]
     },
     {
-      "videoId": "Zi6RdLbngjk",
-      "title": "Find someone who talks about you like Trevathan about Pedro Acosta",
-      "channel": "MotoGP",
+      "videoId": "YEU4MC8JTQw",
+      "title": "Toyota vs Porsche vs Audi in Epic Fuji Battle | 6 Hours of Fuji 2014 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
-      "videoId": "nmMAYsVK0_o",
-      "title": "UNHEARD: \"F***, you really recovered!\" 👀",
-      "channel": "MotoGP",
+      "videoId": "9TtjhysLau0",
+      "title": "The fast and the... car which won Le Mans 🔥 | 6 Hours of Fuji | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -174,25 +196,36 @@
       ]
     },
     {
-      "videoId": "uq2Sfm-Boxs",
-      "title": "5 Insane Cota 2026 Overtakes 🇺🇸",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "AMH9A9dzTQg",
+      "title": "Every Race of the 2026 NTT INDYCAR SERIES Season",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
-      "videoId": "OJ-XfdSoFAE",
-      "title": "HEARTBREAK for Toyota with 10 Minutes Left 💔",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "hEh9LCCoJUw",
+      "title": "They've got it all figured out 🤣 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "f4kVEk7RlZw",
+      "title": "All fan applications for 2027 are officially accepted ✍️ #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -207,36 +240,14 @@
       ]
     },
     {
-      "videoId": "ulRFswVarEQ",
-      "title": "A crossover we love and needed 🏈🏎️  #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "Pi8eNzO7Q-U",
+      "title": "Get Excited for WRC Rally Italia Sardegna 2026, 1 - 4 October 🤩",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "e2fYECtYOD4",
-      "title": "A little offseason fun in Texas with @conordaly22 ⚾️🏎️  #indycar  #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "6Ux4o7CYKpo",
-      "title": "Professional race car drivers, btw 😅 #racing #indycar",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -264,17 +275,6 @@
     {
       "videoId": "F79xb7HXgmU",
       "title": "Best of RAW Action | WRC Rally Chile Biobío 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "K7B0hCkLIz0",
-      "title": "Junior WRC Event Highlights | WRC Rally Chile Biobío 2026",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
