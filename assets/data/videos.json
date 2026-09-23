@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T13:17:15.909Z",
+  "generatedAt": "2026-09-23T19:24:41.282Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "IMOAB7kHFq4",
-      "title": "To The Wall! 😩",
+      "videoId": "6pmktZsxPGs",
+      "title": "Wait For It... 😱",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "BN7rBK4wXRs",
-      "title": "Threading The Needle 🪡",
+      "videoId": "PyDLMiit9gU",
+      "title": "Not Again, Alex! 😆",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "0bgEHZOG6Sk",
-      "title": "Kimi’s Transformation, Redemption for Oscar in Baku? | Azerbaijan GP Preview | F1 Nation Podcast",
+      "videoId": "np8AJFUH14I",
+      "title": "Drivers Look Ahead To Race Weekend | 2026 Azerbaijan Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,14 +97,25 @@
       ]
     },
     {
-      "videoId": "gdCHVEdXxZc",
-      "title": "We're Back With A Triple Header! 😮‍💨",
+      "videoId": "L3Pmyj6jQ0E",
+      "title": "Weekend Warm-Up | 2026 Azerbaijan Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
       ],
       "seriesLabels": [
         "Formula 1"
+      ]
+    },
+    {
+      "videoId": "5H9_YO_iJx8",
+      "title": "Behind the UNSEEN celebrations at Aprilia's box 🍾 | 2026 Austrian GP",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -141,14 +152,14 @@
       ]
     },
     {
-      "videoId": "aGGfd_8h1X4",
-      "title": "Acosta wins the best overtake from the Austrian GP! ⚔️",
-      "channel": "MotoGP",
+      "videoId": "cLP3uZtnztg",
+      "title": "“THAT IS A DISGRACE!” Commentators ERUPT After Huge Clash 🤬",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -176,17 +187,6 @@
     {
       "videoId": "MM4E-T9PgQo",
       "title": "Lotus Catches FIRE at Fuji 🔥",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "gZKh7GRY3dI",
-      "title": "Best Battles & Overtakes | 6 Hours of COTA 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "tBPwfJNoAM4",
+      "title": "shifting gears was a two man job on this one 😅",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "Q20lNA6H_yc",
       "title": "pedro acosta's first MotoGP win. every step of it earned 😤 #Shorts #MotoGP #AustrianGP",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "EaKy8z1F-dk",
       "title": "Pedro Acosta, you are a MotoGP race winner! 🥇",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "jRxw570zrzI",
-      "title": "Red Bull MotoGP Rookies Cup - Spielberg: Race 14",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
