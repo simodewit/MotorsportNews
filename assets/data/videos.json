@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:12:27.097Z",
+  "generatedAt": "2026-09-25T19:46:46.820Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "9yvV1QqvlZc",
-      "title": "Antonelli Is OUT Of Qualifying! 😱",
+      "videoId": "oiaiDK2UsMk",
+      "title": "F1 Drivers Build Their Dream Circuit 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "tEotawWhuWg",
-      "title": "FP3 Highlights | 2026 Azerbaijan Grand Prix",
+      "videoId": "AVN8cKPpC4U",
+      "title": "Drivers React After Qualifying | 2026 Azerbaijan Grand Prix",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "oLmQhzVM4js",
-      "title": "F2 Sprint Race Highlights | 2026 Azerbaijan Grand Prix",
+      "videoId": "pNXovI_x10I",
+      "title": "Lando Keeping It Cryptic On Team Radio 📻🧐",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,14 +97,25 @@
       ]
     },
     {
-      "videoId": "PMY_oGJZL0M",
-      "title": "BIG Upgrades Arrive In Baku! | F1 TV Tech Talk",
+      "videoId": "kKtLMLD30MM",
+      "title": "Fastest F1 Marshal EVER? 🏃‍♂️💨",
       "channel": "FORMULA 1",
       "series": [
         "f1"
       ],
       "seriesLabels": [
         "Formula 1"
+      ]
+    },
+    {
+      "videoId": "X0iL05R0p6Q",
+      "title": "Pedro Acosta: The Road to Victory 🏆",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -141,14 +152,14 @@
       ]
     },
     {
-      "videoId": "5H9_YO_iJx8",
-      "title": "Behind the UNSEEN celebrations at Aprilia's box 🍾 | 2026 Austrian GP",
-      "channel": "MotoGP",
+      "videoId": "0MIgXGZMcjk",
+      "title": "10 Most Dramatic Fuji Moments EVER | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -185,14 +196,14 @@
       ]
     },
     {
-      "videoId": "YEU4MC8JTQw",
-      "title": "Toyota vs Porsche vs Audi in Epic Fuji Battle | 6 Hours of Fuji 2014 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "WzK2O_BmRjQ",
+      "title": "INDYCAR Meets the Dallas Cowboys & Texas Rangers",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
       ]
     },
     {
@@ -220,17 +231,6 @@
     {
       "videoId": "hEh9LCCoJUw",
       "title": "They've got it all figured out 🤣 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "f4kVEk7RlZw",
-      "title": "All fan applications for 2027 are officially accepted ✍️ #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
