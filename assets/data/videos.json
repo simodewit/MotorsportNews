@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:46:46.820Z",
+  "generatedAt": "2026-09-26T12:37:49.017Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "NwUJCi3vCJs",
+      "title": "F2 Feature Race 2 Highlights | 2026 Azerbaijan Grand Prix",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "IvlRXACozGs",
+      "title": "LIVE: Azerbaijan Grand Prix Build-Up & Drivers' Presentation",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "oiaiDK2UsMk",
       "title": "F1 Drivers Build Their Dream Circuit 🤩",
       "channel": "FORMULA 1",
@@ -86,25 +108,14 @@
       ]
     },
     {
-      "videoId": "pNXovI_x10I",
-      "title": "Lando Keeping It Cryptic On Team Radio 📻🧐",
-      "channel": "FORMULA 1",
+      "videoId": "lJrxmjQNJdU",
+      "title": "The A to Z Challenge, but make it multilingual, Aprilia edition 🌍🔥",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "kKtLMLD30MM",
-      "title": "Fastest F1 Marshal EVER? 🏃‍♂️💨",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
@@ -141,19 +152,8 @@
       ]
     },
     {
-      "videoId": "qXcxPkituPc",
-      "title": "POV: The chequered flag drops at the San Marino GP and suddenly everyone’s on track 😂🥳",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "0MIgXGZMcjk",
-      "title": "10 Most Dramatic Fuji Moments EVER | FIA WEC",
+      "videoId": "kIuKRBe_4Lc",
+      "title": "Onboard Pole Lap Ford LMGT3 | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "videoId": "qTa52zahAiA",
-      "title": "All to play for on Toyota's home soil 🇯🇵 | Race Preview | 6 Hours of Fuji 2026 | FIA WEC",
+      "videoId": "T1XdVJk9wkA",
+      "title": "Onboard Lap Nick Cassidy Peugeot Hypercar | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -174,8 +174,8 @@
       ]
     },
     {
-      "videoId": "79aNZnG9P8c",
-      "title": "Ferrari Tyre Failure Sparks CHAOS at Fuji 💥",
+      "videoId": "7plXsEPiRjo",
+      "title": "Onboard Lap Alex Riberas Aston Martin Hypercar | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -185,8 +185,8 @@
       ]
     },
     {
-      "videoId": "cLP3uZtnztg",
-      "title": "“THAT IS A DISGRACE!” Commentators ERUPT After Huge Clash 🤬",
+      "videoId": "yK-1Sw49ZXY",
+      "title": "Onboard Lap Matteo Cressoni Mercedes-AMG LMGT3 | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -218,8 +218,8 @@
       ]
     },
     {
-      "videoId": "AMH9A9dzTQg",
-      "title": "Every Race of the 2026 NTT INDYCAR SERIES Season",
+      "videoId": "hEh9LCCoJUw",
+      "title": "They've got it all figured out 🤣 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -229,8 +229,8 @@
       ]
     },
     {
-      "videoId": "hEh9LCCoJUw",
-      "title": "They've got it all figured out 🤣 #indycar #racing",
+      "videoId": "f4kVEk7RlZw",
+      "title": "All fan applications for 2027 are officially accepted ✍️ #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "pt_ZoTYjPCw",
+      "title": "warsaw from the footwell 🔥",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "htmUo_RPF5o",
       "title": "pinned from lights out 😤",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "tBPwfJNoAM4",
       "title": "shifting gears was a two man job on this one 😅",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "Q20lNA6H_yc",
-      "title": "pedro acosta's first MotoGP win. every step of it earned 😤 #Shorts #MotoGP #AustrianGP",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
