@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T19:25:40.996Z",
+  "generatedAt": "2026-09-28T16:18:29.184Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,36 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 シェイクダウン ライブ！WRC Rally Italia Sardegna 2026 🇮🇹",
+      "channel": "FIA World Rally Championship",
+      "videoId": "lZ4KcMUF4yQ",
+      "url": "https://www.youtube.com/watch?v=lZ4KcMUF4yQ",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 Shakedown LIVE | WRC Rally Italia Sardegna 2026 🇮🇹",
+      "channel": "FIA World Rally Championship",
+      "videoId": "Cx1At9AYZ-4",
+      "url": "https://www.youtube.com/watch?v=Cx1At9AYZ-4",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
