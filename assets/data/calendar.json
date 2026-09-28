@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T09:36:50.837Z",
+  "generatedAt": "2026-09-28T10:35:57.942Z",
   "window": {
     "startDate": "2025-11-18"
   },
@@ -441,6 +441,27 @@
       ]
     },
     {
+      "id": "6-hours-of-spa-francorchamps-hyperpole-hypercar-2026-05-07",
+      "name": "6 Hours of Spa Francorchamps Hyperpole - Hypercar",
+      "venue": "Circuit de Spa-Francorchamps",
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-09",
+      "series": [
+        {
+          "id": "wec",
+          "name": "WEC",
+          "sessions": [
+            "Practice 1",
+            "Practice",
+            "Practice 2",
+            "Practice 3",
+            "Qualifying",
+            "Race"
+          ]
+        }
+      ]
+    },
+    {
       "id": "montreal-2026-05-22",
       "name": "Montreal",
       "venue": "Circuit Gilles Villeneuve",
@@ -484,6 +505,24 @@
             "Sprint",
             "Race",
             "Feature Race"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24-hours-of-le-mans-hyperpole-lmp2-lmgt3-2026-06-10",
+      "name": "24 Hours of Le Mans Hyperpole – LMP2 & LMGT3",
+      "venue": "Circuit de la Sarthe",
+      "startDate": "2026-06-10",
+      "endDate": "2026-06-10",
+      "series": [
+        {
+          "id": "wec",
+          "name": "WEC",
+          "sessions": [
+            "Practice 1",
+            "Practice",
+            "Qualifying"
           ]
         }
       ]
