@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T19:28:38.338Z",
+  "generatedAt": "2026-09-28T16:23:29.087Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,28 @@
       ]
     },
     {
+      "videoId": "i2wjxnR6ZJA",
+      "title": "Top 10 Onboards | 2026 Azerbaijan Grand Prix | Qatar Airways",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "PSbnH7aMMAo",
+      "title": "Has George Cracked The Code? | Azerbaijan GP Review | F1 Nation Podcast",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "XWXdA-vxp6s",
       "title": "Kimi Remembers His Roots 🥰",
       "channel": "FORMULA 1",
@@ -86,25 +108,36 @@
       ]
     },
     {
-      "videoId": "QsAq3PygsKI",
-      "title": "Radio Rewind | 2026 Azerbaijan Grand Prix | Lenovo",
-      "channel": "FORMULA 1",
+      "videoId": "t7k9SRRPrs0",
+      "title": "Trying to keep a low profile, but that disguise isn’t fooling anyone 😉",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
-      "videoId": "B2mzNmnpvas",
-      "title": "INSANE Shot Of Baku Race Finish 🤩🏁",
-      "channel": "FORMULA 1",
+      "videoId": "xnKUxHQqtRs",
+      "title": "The most VIRAL moments of the Japanese GP🔥🇯🇵",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
+      ]
+    },
+    {
+      "videoId": "4VaXxlwT_Hg",
+      "title": "It's time for the 2026 Japanese GP 🇯🇵",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -119,41 +152,8 @@
       ]
     },
     {
-      "videoId": "rCkRuGQyEUs",
-      "title": "A weekend made for fans ❤️🎉",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "y04a9_XOH2Y",
-      "title": "Bezzecchi 🆚 Martin: LIGHT REACTION CHALLENGE! ⚔️",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "UbN7yNQIlGQ",
-      "title": "A to Z… can the LCR teammates make it through the whole alphabet? 👀🔤🔥",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "WZI85_WcIJI",
-      "title": "The Final Laps of a DRAMATIC Race | 6 Hours of Fuji 2026 | FIA WEC",
+      "videoId": "G2RGuS107XE",
+      "title": "McLaren Driver Walks Away After Heavy Crash 🙏",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "videoId": "TiNpHBjp8aw",
-      "title": "McLaren Takes LMGT3 Lead With One Hour to Go ⏳",
+      "videoId": "xgcEnCOPwOg",
+      "title": "Extended Highlights | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -174,8 +174,8 @@
       ]
     },
     {
-      "videoId": "6lisHe1YGpc",
-      "title": "McLaren Driver Walks Away After Heavy Crash | 6 Hours of Fuji 2026 | FIA WEC",
+      "videoId": "7UQZagV0TVk",
+      "title": "Race Highlights | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -185,14 +185,25 @@
       ]
     },
     {
-      "videoId": "C99sW_o0a1A",
-      "title": "Ferrari’s Nightmare Gets WORSE After Aston Martin Contact | 6 Hours of Fuji 2026 | FIA WEC",
+      "videoId": "VH5xH-rJEBM",
+      "title": "Qualifying & Hyperpole Highlights | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
       ],
       "seriesLabels": [
         "WEC"
+      ]
+    },
+    {
+      "videoId": "8jQ8SfDaPOk",
+      "title": "Sorry, we made the rules 🤷 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -229,14 +240,36 @@
       ]
     },
     {
-      "videoId": "f4kVEk7RlZw",
-      "title": "All fan applications for 2027 are officially accepted ✍️ #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "b6HJDzjJ32w",
+      "title": "Everything You Need To Know for WRC Rally Italia Sardegna 2026!",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "lZ4KcMUF4yQ",
+      "title": "🔴 シェイクダウン ライブ！WRC Rally Italia Sardegna 2026 🇮🇹",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "Cx1At9AYZ-4",
+      "title": "🔴 Shakedown LIVE | WRC Rally Italia Sardegna 2026 🇮🇹",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
       ]
     },
     {
@@ -251,36 +284,14 @@
       ]
     },
     {
-      "videoId": "Pi8eNzO7Q-U",
-      "title": "Get Excited for WRC Rally Italia Sardegna 2026, 1 - 4 October 🤩",
-      "channel": "FIA World Rally Championship",
+      "videoId": "8oVwKfOl0jA",
+      "title": "elbows out, nobody backing down 😤",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "Lu8L0X7KzSQ",
-      "title": "Maximum Attack 🫨",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "3eu9GQu3jY0",
-      "title": "FULL ONBOARD - SS16 Solberg/Edmondson | WRC Rally Chile Biobío 2026",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -308,17 +319,6 @@
     {
       "videoId": "htmUo_RPF5o",
       "title": "pinned from lights out 😤",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "jUJwwtXULxw",
-      "title": "set in stone by Colin McRae since 1998 😏 full story on Red Bull Rally Youtube 📺",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
