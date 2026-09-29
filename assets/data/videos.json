@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:33:35.325Z",
+  "generatedAt": "2026-09-29T20:24:29.903Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "KS6D_z5fcSU",
-      "title": "Extended Highlights | 2012 Malaysian Grand Prix",
+      "videoId": "xTSr8DckjgM",
+      "title": "How Do F1 Drivers Keep Comfortable In Brutal Conditions?",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "thtVP0QtBYA",
-      "title": "The Best Seat In Baku For A Race Restart 🤳",
+      "videoId": "6nSN5hFOJFE",
+      "title": "How Do F1 Drivers Keep Comfortable In Brutal Conditions? | F1 Car vs Road Car | Aramco",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "i2wjxnR6ZJA",
-      "title": "Top 10 Onboards | 2026 Azerbaijan Grand Prix | Qatar Airways",
+      "videoId": "It5uPi7ObGA",
+      "title": "Full Analysis Of The Thrilling Finale In Baku! | Jolyon Palmer's F1 TV Analysis",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,14 +97,25 @@
       ]
     },
     {
-      "videoId": "PSbnH7aMMAo",
-      "title": "Has George Cracked The Code? | Azerbaijan GP Review | F1 Nation Podcast",
+      "videoId": "UsHsAkbRwcY",
+      "title": "The Multi-21 Drama 😬",
       "channel": "FORMULA 1",
       "series": [
         "f1"
       ],
       "seriesLabels": [
         "Formula 1"
+      ]
+    },
+    {
+      "videoId": "fk-oYctj3Es",
+      "title": "ICONIC MotoGP moments at the Japanese GP 🇯🇵✨",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
       ]
     },
     {
@@ -141,14 +152,14 @@
       ]
     },
     {
-      "videoId": "t7k9SRRPrs0",
-      "title": "Trying to keep a low profile, but that disguise isn’t fooling anyone 😉",
-      "channel": "MotoGP",
+      "videoId": "xWitr-_f4X8",
+      "title": "American-Style Racing! LMGT3 Goes Bump Drafting 🇺🇸 | 6 Hours of Fuji 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -185,14 +196,25 @@
       ]
     },
     {
-      "videoId": "VH5xH-rJEBM",
-      "title": "Qualifying & Hyperpole Highlights | 6 Hours of Fuji 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
+      "videoId": "1s-2ECmDE_g",
+      "title": "Gordon Johncock, Two-Time Indianapolis 500 Winner, Dies at 90",
+      "channel": "NTT INDYCAR SERIES",
       "series": [
-        "wec"
+        "indycar"
       ],
       "seriesLabels": [
-        "WEC"
+        "IndyCar"
+      ]
+    },
+    {
+      "videoId": "gu5VG_r7TSc",
+      "title": "A dynamic addition to Chip Ganassi Racing 😤 #indycar #racing @chipganassiracing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
       ]
     },
     {
@@ -209,28 +231,6 @@
     {
       "videoId": "WzK2O_BmRjQ",
       "title": "INDYCAR Meets the Dallas Cowboys & Texas Rangers",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "KFMlvVgmXvs",
-      "title": "Arrow McLaren's REMARKABLE 2026 Season | INDYCAR",
-      "channel": "NTT INDYCAR SERIES",
-      "series": [
-        "indycar"
-      ],
-      "seriesLabels": [
-        "IndyCar"
-      ]
-    },
-    {
-      "videoId": "hEh9LCCoJUw",
-      "title": "They've got it all figured out 🤣 #indycar #racing",
       "channel": "NTT INDYCAR SERIES",
       "series": [
         "indycar"
@@ -284,6 +284,17 @@
       ]
     },
     {
+      "videoId": "uGGqGIWYQwY",
+      "title": "someone had to get the tape measure out 😅",
+      "channel": "Red Bull Motorsports",
+      "series": [
+        "other"
+      ],
+      "seriesLabels": [
+        "Other"
+      ]
+    },
+    {
       "videoId": "8oVwKfOl0jA",
       "title": "elbows out, nobody backing down 😤",
       "channel": "Red Bull Motorsports",
@@ -308,17 +319,6 @@
     {
       "videoId": "pt_ZoTYjPCw",
       "title": "warsaw from the footwell 🔥",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "htmUo_RPF5o",
-      "title": "pinned from lights out 😤",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
