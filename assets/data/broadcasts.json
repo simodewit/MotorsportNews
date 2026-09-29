@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:18:29.184Z",
+  "generatedAt": "2026-09-29T14:29:11.468Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -68,6 +68,21 @@
       "channel": "FIA World Rally Championship",
       "videoId": "Cx1At9AYZ-4",
       "url": "https://www.youtube.com/watch?v=Cx1At9AYZ-4",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "🔴 LIVE: Press Conference | Official Announcement",
+      "channel": "FIA World Rally Championship",
+      "videoId": "DWdmkfEcGKc",
+      "url": "https://www.youtube.com/watch?v=DWdmkfEcGKc",
       "series": [
         "rally"
       ],
