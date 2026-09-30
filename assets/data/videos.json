@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T20:24:29.903Z",
+  "generatedAt": "2026-09-30T14:32:02.235Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "videoId": "1PeGlTMz3hg",
+      "title": "Isack Hadjar & Laurent Mekies: Trust, Teamwork & Targets | F1 Beyond The Grid Podcast",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "xTSr8DckjgM",
       "title": "How Do F1 Drivers Keep Comfortable In Brutal Conditions?",
       "channel": "FORMULA 1",
@@ -97,19 +108,8 @@
       ]
     },
     {
-      "videoId": "UsHsAkbRwcY",
-      "title": "The Multi-21 Drama 😬",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "fk-oYctj3Es",
-      "title": "ICONIC MotoGP moments at the Japanese GP 🇯🇵✨",
+      "videoId": "KfskASOCM1c",
+      "title": "MotoGP in Tokyo! 🇯🇵✨",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "NTo3STAdo0o",
-      "title": "Safer starts: what do the riders think? 🔎 | MotoGP™ Workshop",
+      "videoId": "OOGhD-ETtVk",
+      "title": "POV: You meet your idol and he gives you the MotoGP26 videogame signed! 🤝 🎮",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "fJ6kxFCaUC0",
-      "title": "The best of Somkiat Chantra 🇹🇭",
+      "videoId": "cQ1O8FhFgAM",
+      "title": "2016 Japanese GP | MotoGP™ Full Race",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,8 +141,8 @@
       ]
     },
     {
-      "videoId": "Ez6EwnKJENw",
-      "title": "Bulega: “99.9% don’t come back. I’m in the 0.1%” | Helmets Off 👊",
+      "videoId": "MI8OwAA-GZw",
+      "title": "How does MotoGP aero actually work? 🪽",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "d-rof4Kbijg",
+      "title": "FULL ONBOARD - SS13 Neuville/Gilsoul | WRC Rally Italia Sardegna 2016",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "JYLxGuNzqz8",
       "title": "SS19 STAGE HIGHLIGHTS | WRC Rally Italia Sardegna 2019",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "lZ4KcMUF4yQ",
       "title": "🔴 シェイクダウン ライブ！WRC Rally Italia Sardegna 2026 🇮🇹",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "Cx1At9AYZ-4",
-      "title": "🔴 Shakedown LIVE | WRC Rally Italia Sardegna 2026 🇮🇹",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
