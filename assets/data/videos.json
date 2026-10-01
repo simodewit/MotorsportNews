@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:01:58.793Z",
+  "generatedAt": "2026-10-01T20:45:12.869Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "videoId": "gx6xGlMBDsI",
+      "title": "Toyota WINS on Home Soil at Fuji 🏆🇯🇵",
+      "channel": "FIA World Endurance Championship",
+      "series": [
+        "wec"
+      ],
+      "seriesLabels": [
+        "WEC"
+      ]
+    },
+    {
       "videoId": "n0-pavPdQgU",
       "title": "5 Dramatic Fuji 2026 Moments 🇯🇵",
       "channel": "FIA World Endurance Championship",
@@ -176,17 +187,6 @@
     {
       "videoId": "G2RGuS107XE",
       "title": "McLaren Driver Walks Away After Heavy Crash 🙏",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "xgcEnCOPwOg",
-      "title": "Extended Highlights | 6 Hours of Fuji 2026 | FIA WEC",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "Ur8GdO3WNaM",
+      "title": "Day 1 Highlights | WRC Rally Italia Sardegna 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "LSXWit4vu90",
       "title": "🔴 Opening LIVE | WRC Rally Italia Sardegna 2026 🇮🇹",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "AynRjD_xKWE",
       "title": "POV: You're a WRC driver 😮‍💨",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "lZ4KcMUF4yQ",
-      "title": "🔴 シェイクダウン ライブ！WRC Rally Italia Sardegna 2026 🇮🇹",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
