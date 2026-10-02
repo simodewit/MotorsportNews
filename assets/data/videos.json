@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:45:12.869Z",
+  "generatedAt": "2026-10-02T14:23:59.628Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "rPlD4KjlXJk",
-      "title": "Drivers Look Ahead To Race Weekend | 2026 Bahrain Grand Prix In Malaysia",
+      "videoId": "YjmxXVxsapI",
+      "title": "Will the Silver Arrows surge ahead? | F1 TV Tech Talk",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "Er0j_aL7ig0",
-      "title": "Ice Man 🤝 Ice Cream",
+      "videoId": "yrYMoOt_J20",
+      "title": "Racing on a Friday 🤩",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "F1VkPiAvuWY",
-      "title": "Weekend Warm-Up | 2026 Bahrain Grand Prix In Malaysia",
+      "videoId": "ucdF6zUyCBk",
+      "title": "FP2 Highlights | Bahrain Grand Prix in Malaysia",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "ghnQ2WK6PsA",
-      "title": "Checking In On The Boys Trip! 👀",
+      "videoId": "DQ_76Wx-lfo",
+      "title": "Friday's Fastest Lap in Sepang | 2026 Bahrain Grand Prix in Malaysia",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "videoId": "4Sht2H8OyOM",
-      "title": "Playing “Guess who” anime edition with Acosta, Martin and Ogura! 👀",
+      "videoId": "ks3KU_akhM4",
+      "title": "Jack Miller's ULTIMATE taxi ride + stoppie! 🤪 🚕 | 2026 Japanese GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "73tx9CVnqko",
-      "title": "Maverick Viñales takes us through his recovery and the challenge ahead at Motegi 👊",
+      "videoId": "iY4OEwUwW5w",
+      "title": "What We Learned on Friday 🔥 | 2026 Japanese GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "f9xTcdt6KEE",
-      "title": "The Preview of the 2026 Japanese GP",
+      "videoId": "8IxYeZs0rdc",
+      "title": "Jack Miller’s taxi service got a little too exciting 😂🏍️",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,8 +141,8 @@
       ]
     },
     {
-      "videoId": "AR5VaqtRR0g",
-      "title": "The battle for the title is still very open and Marc knows it! ⚔️👑",
+      "videoId": "QoDC8EmFZuE",
+      "title": "The ultimate déjà vu! 😱",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "vVrcz97Q2Jk",
+      "title": "INDYCAR Drivers Answer Anything 👀",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "MyAAOc-QIoI",
       "title": "We Let Kids Interview INDYCAR Drivers",
       "channel": "NTT INDYCAR SERIES",
@@ -229,14 +240,14 @@
       ]
     },
     {
-      "videoId": "8jQ8SfDaPOk",
-      "title": "Sorry, we made the rules 🤷 #indycar #racing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "_X1evaUIwTI",
+      "title": "HEAVY Landing 🫨",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
       ]
     },
     {
@@ -263,18 +274,7 @@
     },
     {
       "videoId": "DWdmkfEcGKc",
-      "title": "🔴 LIVE: Press Conference | Official Announcement",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "AynRjD_xKWE",
-      "title": "POV: You're a WRC driver 😮‍💨",
+      "title": "Ford Are Back For 2028!",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
