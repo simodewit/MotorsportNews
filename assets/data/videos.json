@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:23:59.628Z",
+  "generatedAt": "2026-10-02T20:17:14.962Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -108,6 +108,17 @@
       ]
     },
     {
+      "videoId": "WsPqw17-Sd8",
+      "title": "The record-breaking last 5 minutes of MotoGP Practice 🚀  | 2026 Japanese GP",
+      "channel": "MotoGP",
+      "series": [
+        "motogp"
+      ],
+      "seriesLabels": [
+        "MotoGP"
+      ]
+    },
+    {
       "videoId": "ks3KU_akhM4",
       "title": "Jack Miller's ULTIMATE taxi ride + stoppie! 🤪 🚕 | 2026 Japanese GP",
       "channel": "MotoGP",
@@ -141,14 +152,14 @@
       ]
     },
     {
-      "videoId": "QoDC8EmFZuE",
-      "title": "The ultimate déjà vu! 😱",
-      "channel": "MotoGP",
+      "videoId": "f_qvYmLQROc",
+      "title": "10 Dramatic Fuji 2026 Moments | 6 Hours of Fuji 2026 | FIA WEC",
+      "channel": "FIA World Endurance Championship",
       "series": [
-        "motogp"
+        "wec"
       ],
       "seriesLabels": [
-        "MotoGP"
+        "WEC"
       ]
     },
     {
@@ -176,17 +187,6 @@
     {
       "videoId": "xWitr-_f4X8",
       "title": "American-Style Racing! LMGT3 Goes Bump Drafting 🇺🇸 | 6 Hours of Fuji 2026 | FIA WEC",
-      "channel": "FIA World Endurance Championship",
-      "series": [
-        "wec"
-      ],
-      "seriesLabels": [
-        "WEC"
-      ]
-    },
-    {
-      "videoId": "G2RGuS107XE",
-      "title": "McLaren Driver Walks Away After Heavy Crash 🙏",
       "channel": "FIA World Endurance Championship",
       "series": [
         "wec"
@@ -240,6 +240,17 @@
       ]
     },
     {
+      "videoId": "RGW76nKJxl4",
+      "title": "Just testing the limits 👀",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
+      ]
+    },
+    {
       "videoId": "_X1evaUIwTI",
       "title": "HEAVY Landing 🫨",
       "channel": "FIA World Rally Championship",
@@ -264,17 +275,6 @@
     {
       "videoId": "LSXWit4vu90",
       "title": "🔴 Opening LIVE | WRC Rally Italia Sardegna 2026 🇮🇹",
-      "channel": "FIA World Rally Championship",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
-    {
-      "videoId": "DWdmkfEcGKc",
-      "title": "Ford Are Back For 2028!",
       "channel": "FIA World Rally Championship",
       "series": [
         "rally"
