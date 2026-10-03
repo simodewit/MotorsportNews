@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T20:17:14.962Z",
+  "generatedAt": "2026-10-03T12:59:19.212Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "videoId": "YjmxXVxsapI",
-      "title": "Will the Silver Arrows surge ahead? | F1 TV Tech Talk",
+      "videoId": "9QjVBhd-aF8",
+      "title": "Kimi is the Ice Man 🧊",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -75,8 +75,8 @@
       ]
     },
     {
-      "videoId": "yrYMoOt_J20",
-      "title": "Racing on a Friday 🤩",
+      "videoId": "q7iVFMM0XQA",
+      "title": "Max Verstappen's Pole Lap | 2026 Bahrain Grand Prix in Malaysia | Pirelli",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "videoId": "ucdF6zUyCBk",
-      "title": "FP2 Highlights | Bahrain Grand Prix in Malaysia",
+      "videoId": "I6NAAhPNpFg",
+      "title": "Max Verstappen is BACK on Pole 😤",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "videoId": "DQ_76Wx-lfo",
-      "title": "Friday's Fastest Lap in Sepang | 2026 Bahrain Grand Prix in Malaysia",
+      "videoId": "XoC8pcPo7A4",
+      "title": "Qualifying Highlights | 2026 Bahrain Grand Prix in Malaysia",
       "channel": "FORMULA 1",
       "series": [
         "f1"
@@ -108,8 +108,8 @@
       ]
     },
     {
-      "videoId": "WsPqw17-Sd8",
-      "title": "The record-breaking last 5 minutes of MotoGP Practice 🚀  | 2026 Japanese GP",
+      "videoId": "rPmwTXkGsn4",
+      "title": "POV: Pecco finds his doppleganger in Japan! 👀",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -119,8 +119,8 @@
       ]
     },
     {
-      "videoId": "ks3KU_akhM4",
-      "title": "Jack Miller's ULTIMATE taxi ride + stoppie! 🤪 🚕 | 2026 Japanese GP",
+      "videoId": "EmD2c3fqaxw",
+      "title": "UNHEARD: \"In Honda's house... go get your money!\" 😂",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "videoId": "iY4OEwUwW5w",
-      "title": "What We Learned on Friday 🔥 | 2026 Japanese GP",
+      "videoId": "1WWGbXsNnhw",
+      "title": "Trust the process 💪",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -141,8 +141,8 @@
       ]
     },
     {
-      "videoId": "8IxYeZs0rdc",
-      "title": "Jack Miller’s taxi service got a little too exciting 😂🏍️",
+      "videoId": "X1r8wCTAFzs",
+      "title": "Top 3 Tissot Sprint moments 🔥 | 2026 Japanese GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
@@ -196,6 +196,17 @@
       ]
     },
     {
+      "videoId": "i1DVfOe1W-8",
+      "title": "Kids are asking the (important?) questions 🤣 #indycar #racing",
+      "channel": "NTT INDYCAR SERIES",
+      "series": [
+        "indycar"
+      ],
+      "seriesLabels": [
+        "IndyCar"
+      ]
+    },
+    {
       "videoId": "vVrcz97Q2Jk",
       "title": "INDYCAR Drivers Answer Anything 👀",
       "channel": "NTT INDYCAR SERIES",
@@ -229,14 +240,25 @@
       ]
     },
     {
-      "videoId": "gu5VG_r7TSc",
-      "title": "A dynamic addition to Chip Ganassi Racing 😤 #indycar #racing @chipganassiracing",
-      "channel": "NTT INDYCAR SERIES",
+      "videoId": "WAdVRQkV_oU",
+      "title": "WRC2 Day 2 Highlights | WRC Rally Italia Sardegna 2026",
+      "channel": "FIA World Rally Championship",
       "series": [
-        "indycar"
+        "rally"
       ],
       "seriesLabels": [
-        "IndyCar"
+        "Rally"
+      ]
+    },
+    {
+      "videoId": "XqR7-u5IsXM",
+      "title": "Day 2 Highlights | WRC Rally Italia Sardegna 2026",
+      "channel": "FIA World Rally Championship",
+      "series": [
+        "rally"
+      ],
+      "seriesLabels": [
+        "Rally"
       ]
     },
     {
@@ -262,25 +284,25 @@
       ]
     },
     {
-      "videoId": "Ur8GdO3WNaM",
-      "title": "Day 1 Highlights | WRC Rally Italia Sardegna 2026",
-      "channel": "FIA World Rally Championship",
+      "videoId": "oT8hyG9mUSQ",
+      "title": "Max Verstappen coaches his race engineer on the sim 😅",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
-      "videoId": "LSXWit4vu90",
-      "title": "🔴 Opening LIVE | WRC Rally Italia Sardegna 2026 🇮🇹",
-      "channel": "FIA World Rally Championship",
+      "videoId": "7LhaHlmF14o",
+      "title": "how to fly a motorcycle with Andrea Bonacorsi. flight school is open, licence not included 😏  #MXGP",
+      "channel": "Red Bull Motorsports",
       "series": [
-        "rally"
+        "other"
       ],
       "seriesLabels": [
-        "Rally"
+        "Other"
       ]
     },
     {
@@ -297,28 +319,6 @@
     {
       "videoId": "uGGqGIWYQwY",
       "title": "someone had to get the tape measure out 😅",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "8oVwKfOl0jA",
-      "title": "elbows out, nobody backing down 😤",
-      "channel": "Red Bull Motorsports",
-      "series": [
-        "other"
-      ],
-      "seriesLabels": [
-        "Other"
-      ]
-    },
-    {
-      "videoId": "rXzIr5xLJZE",
-      "title": "flatout is a two person job 😤",
       "channel": "Red Bull Motorsports",
       "series": [
         "other"
