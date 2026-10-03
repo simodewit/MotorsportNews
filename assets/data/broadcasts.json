@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T20:15:53.750Z",
+  "generatedAt": "2026-10-03T12:55:01.734Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,21 +45,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "platform": "youtube",
-      "platformLabel": "YouTube",
-      "statusLabel": "Live now",
-      "title": "🔴 シェイクダウン ライブ！WRC Rally Italia Sardegna 2026 🇮🇹",
-      "channel": "FIA World Rally Championship",
-      "videoId": "lZ4KcMUF4yQ",
-      "url": "https://www.youtube.com/watch?v=lZ4KcMUF4yQ",
-      "series": [
-        "rally"
-      ],
-      "seriesLabels": [
-        "Rally"
-      ]
-    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
