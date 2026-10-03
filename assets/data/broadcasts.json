@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:55:01.734Z",
+  "generatedAt": "2026-10-03T18:55:11.004Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -45,6 +45,21 @@
     }
   ],
   "broadcasts": [
+    {
+      "platform": "youtube",
+      "platformLabel": "YouTube",
+      "statusLabel": "Live now",
+      "title": "LIVE: Bahrain Grand Prix in Malaysia Build-Up & Drivers' Parade",
+      "channel": "FORMULA 1",
+      "videoId": "ZCGJwo62D68",
+      "url": "https://www.youtube.com/watch?v=ZCGJwo62D68",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
     {
       "platform": "twitch",
       "platformLabel": "Twitch",
