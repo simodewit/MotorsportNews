@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:59:19.212Z",
+  "generatedAt": "2026-10-03T18:57:12.910Z",
   "sources": [
     {
       "name": "YouTube channel feeds",
@@ -64,6 +64,39 @@
       ]
     },
     {
+      "videoId": "W-nQpaXqqRg",
+      "title": "GHOST CAR: Lewis Hamilton vs Max Verstappen | 2026 Bahrain Grand Prix in Malaysia",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "ZCGJwo62D68",
+      "title": "LIVE: Bahrain Grand Prix in Malaysia Build-Up & Drivers' Parade",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
+      "videoId": "SQYus-yb4xE",
+      "title": "Drivers React After Qualifying | 2026 Bahrain Grand Prix in Malaysia",
+      "channel": "FORMULA 1",
+      "series": [
+        "f1"
+      ],
+      "seriesLabels": [
+        "Formula 1"
+      ]
+    },
+    {
       "videoId": "9QjVBhd-aF8",
       "title": "Kimi is the Ice Man 🧊",
       "channel": "FORMULA 1",
@@ -75,36 +108,14 @@
       ]
     },
     {
-      "videoId": "q7iVFMM0XQA",
-      "title": "Max Verstappen's Pole Lap | 2026 Bahrain Grand Prix in Malaysia | Pirelli",
-      "channel": "FORMULA 1",
+      "videoId": "dFHbaKv0qlQ",
+      "title": "Lap record DESTROYED in the last 5 minutes of MotoGP Q2 🤯 | 2026 Japanese GP",
+      "channel": "MotoGP",
       "series": [
-        "f1"
+        "motogp"
       ],
       "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "I6NAAhPNpFg",
-      "title": "Max Verstappen is BACK on Pole 😤",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
-      ]
-    },
-    {
-      "videoId": "XoC8pcPo7A4",
-      "title": "Qualifying Highlights | 2026 Bahrain Grand Prix in Malaysia",
-      "channel": "FORMULA 1",
-      "series": [
-        "f1"
-      ],
-      "seriesLabels": [
-        "Formula 1"
+        "MotoGP"
       ]
     },
     {
@@ -132,17 +143,6 @@
     {
       "videoId": "1WWGbXsNnhw",
       "title": "Trust the process 💪",
-      "channel": "MotoGP",
-      "series": [
-        "motogp"
-      ],
-      "seriesLabels": [
-        "MotoGP"
-      ]
-    },
-    {
-      "videoId": "X1r8wCTAFzs",
-      "title": "Top 3 Tissot Sprint moments 🔥 | 2026 Japanese GP",
       "channel": "MotoGP",
       "series": [
         "motogp"
